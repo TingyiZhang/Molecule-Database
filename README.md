@@ -1,4 +1,6 @@
 # Molecule-Database
+This is the final project of Boston University EC504 Advanced Data Structure.
+
 ## Description
 The goal of our group is to build a molecule database that can be used to add molecules and find molecules with at least a command-line user interface. Moreover, the database should be able to efficiently handle at least 10,000 molecules and be able to efficiently search for a given molecule up to graph isomorphism.
 
@@ -51,7 +53,7 @@ So generally a molecule is stored in the form of edge list. But in computing gra
 Converts a text file into a graph represented by edge list and stores it into the database.
 
 ### Find Molecule:
-Implemented the algorithm in [4]. Used org.jgrapht library to build the molecule graph from text file and from database. In [4], it mentioned an optimized backtracking for isomorphism that achieved linear performance. This algorithm is about finding the mapping for each node in the subgraph in the main graph using recursive comparison of neighboring nodes. The recursion goes on until it find correct mapping for all the nodes in the subgraph. This algorithm is very useful for both graph isomorphism and subgraph search, which is perfect for our task. But we only realized graph isomorphism for duplicate node labels, which means in our algorithm, we ignored the name of vertices. But we also implemented a getFormula() function to make sure of finding accuracy. 
+Implemented the algorithm in [4]. Used org.jgrapht library to build the molecule graph from text file and from database. In [4], it mentioned an optimized backtracking for isomorphism that achieved linear performance, but for general graph, it's exponential(NPC problem). This algorithm is about finding the mapping for each node in the subgraph in the main graph using recursive comparison of neighboring nodes. The recursion goes on until it find correct mapping for all the nodes in the subgraph. This algorithm is very useful for both graph isomorphism and subgraph search, which is perfect for our task. But we only realized graph isomorphism for duplicate node labels, which means in our algorithm, we ignored the name of vertices. But we also implemented a getFormula() function to make sure of finding accuracy. 
 
 Here is the explaination of our searching algorithm:
 - 1. Search the name of the input molecule in the database. If name is matched, then molecule found.
@@ -133,8 +135,6 @@ Another method of subgraph search is to check if they have the same DFS iteratio
 1. Used GUI rather than web interface for user interface <br/>
 2. Since the algorithm we used for graph isomorphism is subgraph-search-friendly, we also implemented subgraph search.
 
-## Code
-All codes and data needed are included in the group's BitbucketRepos.
 - - -
 ## Work Breakdown
 ### Qing Han:
