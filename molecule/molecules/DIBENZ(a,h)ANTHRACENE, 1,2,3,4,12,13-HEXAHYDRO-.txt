@@ -1,0 +1,98 @@
+DIBENZ(a,h)ANTHRACENE, 1,2,3,4,12,13-HEXAHYDRO-
+42
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 2
+0 3
+1 4
+1 22
+1 23
+2 5
+2 15
+3 8
+3 11
+3 11
+4 6
+4 24
+4 25
+5 6
+5 26
+5 27
+6 28
+6 29
+7 9
+7 9
+7 10
+7 11
+8 13
+8 13
+8 17
+9 13
+9 14
+10 12
+10 30
+10 31
+11 32
+12 16
+12 33
+12 34
+13 35
+14 16
+14 18
+14 18
+15 17
+15 17
+15 36
+16 19
+16 19
+17 37
+18 20
+18 38
+19 21
+19 39
+20 21
+20 21
+20 40
+21 41

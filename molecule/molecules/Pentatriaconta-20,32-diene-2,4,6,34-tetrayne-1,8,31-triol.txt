@@ -1,0 +1,191 @@
+Pentatriaconta-20,32-diene-2,4,6,34-tetrayne-1,8,31-triol
+90
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 25
+0 83
+1 26
+1 84
+2 37
+2 89
+3 4
+3 5
+3 38
+3 39
+4 6
+4 40
+4 41
+5 7
+5 42
+5 43
+6 9
+6 44
+6 45
+7 12
+7 46
+7 47
+8 10
+8 11
+8 48
+8 49
+9 15
+9 50
+9 51
+10 13
+10 52
+10 53
+11 14
+11 54
+11 55
+12 17
+12 56
+12 57
+13 16
+13 58
+13 59
+14 18
+14 60
+14 61
+15 19
+15 62
+15 63
+16 21
+16 64
+16 65
+17 22
+17 66
+17 67
+18 20
+18 68
+18 69
+19 23
+19 70
+19 71
+20 24
+20 74
+20 75
+21 25
+21 72
+21 73
+22 26
+22 76
+22 77
+23 24
+23 24
+23 78
+24 79
+25 27
+25 80
+26 28
+26 81
+27 29
+27 29
+27 82
+28 30
+28 30
+28 30
+29 31
+29 85
+30 32
+31 33
+31 33
+31 33
+32 34
+32 34
+32 34
+33 86
+34 35
+35 36
+35 36
+35 36
+36 37
+37 87
+37 88

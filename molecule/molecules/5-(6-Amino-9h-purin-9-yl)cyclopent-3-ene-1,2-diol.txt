@@ -1,0 +1,65 @@
+5-(6-Amino-9h-purin-9-yl)cyclopent-3-ene-1,2-diol
+28
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 23
+1 9
+1 24
+2 7
+2 12
+2 13
+3 13
+3 13
+3 14
+4 12
+4 12
+4 16
+5 15
+5 16
+5 16
+6 15
+6 26
+6 27
+7 8
+7 10
+7 17
+8 9
+8 18
+9 11
+9 19
+10 11
+10 11
+10 20
+11 21
+12 14
+13 22
+14 15
+14 15
+16 25

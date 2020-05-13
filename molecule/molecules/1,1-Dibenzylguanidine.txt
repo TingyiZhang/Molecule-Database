@@ -1,0 +1,80 @@
+1,1-Dibenzylguanidine
+35
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+0 7
+1 7
+1 32
+1 33
+2 7
+2 7
+2 34
+3 5
+3 18
+3 19
+4 6
+4 20
+4 21
+5 8
+5 8
+5 10
+6 9
+6 9
+6 11
+8 12
+8 22
+9 13
+9 23
+10 14
+10 14
+10 24
+11 15
+11 15
+11 25
+12 16
+12 16
+12 26
+13 17
+13 17
+13 27
+14 16
+14 28
+15 17
+15 29
+16 30
+17 31

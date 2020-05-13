@@ -1,0 +1,89 @@
+N-{4-[(3-Bromophenyl)amino]quinazolin-6-Yl}propanamide
+38
+"Bromine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+1 14
+1 14
+2 10
+2 13
+2 26
+3 8
+3 14
+3 27
+4 7
+4 16
+4 16
+5 10
+5 10
+5 16
+6 7
+6 7
+6 9
+6 10
+7 11
+8 9
+8 9
+8 12
+9 23
+11 12
+11 12
+11 24
+12 25
+13 17
+13 17
+13 18
+14 15
+15 19
+15 28
+15 29
+16 30
+17 20
+17 31
+18 21
+18 21
+18 32
+19 33
+19 34
+19 35
+20 22
+20 22
+21 22
+21 36
+22 37

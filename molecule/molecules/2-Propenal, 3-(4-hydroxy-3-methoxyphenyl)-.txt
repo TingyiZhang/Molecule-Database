@@ -1,0 +1,53 @@
+2-Propenal, 3-(4-hydroxy-3-methoxyphenyl)-
+23
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 11
+1 6
+1 21
+2 12
+2 12
+3 5
+3 5
+3 7
+3 9
+4 5
+4 6
+4 6
+5 13
+6 8
+7 8
+7 8
+7 14
+8 15
+9 10
+9 10
+9 16
+10 12
+10 17
+11 18
+11 19
+11 20
+12 22

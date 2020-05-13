@@ -1,0 +1,193 @@
+Olean-12-en-29-oic acid, 3-(3-carboxy-1-oxopropoxy)-11-oxo-, (3beta,20beta)-
+91
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 23
+0 37
+1 21
+1 21
+2 36
+2 85
+3 36
+3 36
+4 37
+4 37
+5 40
+5 90
+6 40
+6 40
+7 9
+7 10
+7 12
+7 22
+8 9
+8 11
+8 19
+8 24
+9 21
+9 41
+10 15
+10 18
+10 26
+11 13
+11 14
+11 42
+12 13
+12 43
+12 44
+13 45
+13 46
+14 23
+14 32
+14 33
+15 16
+15 27
+15 27
+16 17
+16 28
+16 47
+17 20
+17 29
+17 34
+18 20
+18 48
+18 49
+19 25
+19 50
+19 51
+20 52
+20 53
+21 27
+22 54
+22 55
+22 56
+23 25
+23 57
+24 58
+24 59
+24 60
+25 61
+25 62
+26 63
+26 64
+26 65
+27 66
+28 30
+28 67
+28 68
+29 31
+29 69
+29 70
+30 31
+30 35
+30 36
+31 71
+31 72
+32 73
+32 74
+32 75
+33 76
+33 77
+33 78
+34 79
+34 80
+34 81
+35 82
+35 83
+35 84
+37 38
+38 39
+38 86
+38 87
+39 40
+39 88
+39 89

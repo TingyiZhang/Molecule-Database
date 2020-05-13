@@ -1,0 +1,86 @@
+4-Anilinoazobenzene
+36
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+0 21
+1 2
+1 2
+1 7
+2 15
+3 5
+3 5
+3 6
+4 10
+4 10
+4 11
+5 8
+5 22
+6 9
+6 9
+6 23
+7 8
+7 8
+7 9
+8 24
+9 25
+10 12
+10 26
+11 13
+11 13
+11 27
+12 14
+12 14
+12 28
+13 14
+13 29
+14 30
+15 16
+15 16
+15 17
+16 18
+16 31
+17 19
+17 19
+17 32
+18 20
+18 20
+18 33
+19 20
+19 34
+20 35

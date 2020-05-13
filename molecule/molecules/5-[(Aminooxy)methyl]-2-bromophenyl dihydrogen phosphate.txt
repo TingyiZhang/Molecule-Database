@@ -1,0 +1,54 @@
+5-[(Aminooxy)methyl]-2-bromophenyl dihydrogen phosphate
+24
+"Bromine"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 2
+1 4
+1 5
+1 6
+1 6
+2 10
+3 7
+3 12
+4 20
+5 21
+7 22
+7 23
+8 9
+8 9
+8 11
+8 12
+9 10
+9 15
+10 13
+10 13
+11 14
+11 14
+11 16
+12 17
+12 18
+13 14
+14 19

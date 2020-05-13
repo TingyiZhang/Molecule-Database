@@ -1,0 +1,135 @@
+2-(4-{[1-(1-Aminoethyl)-1h-pyrrol-3-yl]oxy}phenyl)-3-(7-carbamimidoylnaphthalen-2-yl)propanoic acid
+59
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 26
+1 15
+1 53
+2 15
+2 15
+3 24
+3 28
+3 29
+4 24
+4 54
+4 55
+5 32
+5 56
+5 57
+6 32
+6 32
+6 58
+7 8
+7 10
+7 15
+7 33
+8 9
+8 34
+8 35
+9 11
+9 11
+9 14
+10 16
+10 16
+10 17
+11 12
+11 36
+12 13
+12 13
+12 19
+13 18
+13 23
+14 18
+14 18
+14 37
+16 21
+16 38
+17 22
+17 22
+17 39
+18 40
+19 25
+19 25
+19 41
+20 21
+20 21
+20 22
+21 42
+22 43
+23 27
+23 27
+23 44
+24 31
+24 45
+25 27
+25 32
+26 28
+26 28
+26 30
+27 46
+28 47
+29 30
+29 30
+29 48
+30 49
+31 50
+31 51
+31 52

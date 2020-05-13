@@ -1,0 +1,181 @@
+Hexafluorenium bromide
+82
+"Bromine"
+"Bromine"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+2 4
+2 6
+2 16
+2 17
+3 5
+3 7
+3 18
+3 19
+4 10
+4 11
+4 40
+5 12
+5 13
+5 41
+6 8
+6 42
+6 43
+7 9
+7 44
+7 45
+8 14
+8 46
+8 47
+9 15
+9 48
+9 49
+10 20
+10 24
+10 24
+11 21
+11 25
+11 25
+12 22
+12 26
+12 26
+13 23
+13 27
+13 27
+14 15
+14 50
+14 51
+15 52
+15 53
+16 54
+16 55
+16 56
+17 57
+17 58
+17 59
+18 60
+18 61
+18 62
+19 63
+19 64
+19 65
+20 21
+20 28
+20 28
+21 29
+21 29
+22 23
+22 30
+22 30
+23 31
+23 31
+24 32
+24 66
+25 33
+25 67
+26 34
+26 68
+27 35
+27 69
+28 36
+28 70
+29 37
+29 71
+30 38
+30 72
+31 39
+31 73
+32 36
+32 36
+32 74
+33 37
+33 37
+33 75
+34 38
+34 38
+34 76
+35 39
+35 39
+35 77
+36 78
+37 79
+38 80
+39 81

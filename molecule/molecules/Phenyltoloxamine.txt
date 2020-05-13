@@ -1,0 +1,89 @@
+Phenyltoloxamine
+40
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+1 4
+1 14
+1 15
+2 3
+2 5
+2 8
+2 8
+3 7
+3 19
+3 20
+4 6
+4 21
+4 22
+5 9
+5 9
+6 23
+6 24
+7 11
+7 11
+7 12
+8 10
+8 25
+9 13
+9 26
+10 13
+10 13
+10 27
+11 16
+11 28
+12 17
+12 17
+12 29
+13 30
+14 31
+14 32
+14 33
+15 34
+15 35
+15 36
+16 18
+16 18
+16 37
+17 18
+17 38
+18 39

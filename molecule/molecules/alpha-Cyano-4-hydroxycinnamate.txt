@@ -1,0 +1,51 @@
+alpha-Cyano-4-hydroxycinnamate
+21
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 19
+1 12
+1 20
+2 12
+2 12
+3 13
+3 13
+3 13
+4 5
+4 5
+4 6
+4 7
+5 8
+5 14
+6 9
+6 9
+6 15
+7 11
+7 11
+7 16
+8 10
+8 10
+8 17
+9 10
+9 18
+11 12
+11 13

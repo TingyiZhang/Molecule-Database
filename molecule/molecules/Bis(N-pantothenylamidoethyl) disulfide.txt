@@ -1,0 +1,161 @@
+Bis(N-pantothenylamidoethyl) disulfide
+78
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 34
+1 35
+2 16
+2 54
+3 17
+3 55
+4 18
+4 58
+5 19
+5 59
+6 24
+6 24
+7 25
+7 25
+8 30
+8 30
+9 31
+9 31
+10 24
+10 26
+10 56
+11 25
+11 27
+11 57
+12 30
+12 32
+12 68
+13 31
+13 33
+13 69
+14 16
+14 18
+14 20
+14 21
+15 17
+15 19
+15 22
+15 23
+16 24
+16 36
+17 25
+17 37
+18 38
+18 39
+19 40
+19 41
+20 42
+20 43
+20 44
+21 45
+21 46
+21 47
+22 48
+22 49
+22 50
+23 51
+23 52
+23 53
+26 28
+26 60
+26 61
+27 29
+27 62
+27 63
+28 30
+28 64
+28 65
+29 31
+29 66
+29 67
+32 34
+32 70
+32 71
+33 35
+33 72
+33 73
+34 74
+34 75
+35 76
+35 77

@@ -1,0 +1,51 @@
+4-[(1S)-2-Amino-1-hydroxyethyl]benzene-1,2-diol
+23
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 18
+1 9
+1 21
+2 11
+2 22
+3 6
+3 19
+3 20
+4 5
+4 6
+4 12
+5 7
+5 7
+5 8
+6 13
+6 14
+7 9
+7 15
+8 10
+8 10
+8 16
+9 11
+9 11
+10 11
+10 17

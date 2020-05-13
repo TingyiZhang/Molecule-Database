@@ -1,0 +1,101 @@
+9-(4-Hydroxy-2,6-dimethylphenyl)-3,7-dimethylnona-4,6,8-trienoic acid
+46
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 44
+1 20
+1 45
+2 20
+2 20
+3 4
+3 6
+3 7
+3 22
+4 20
+4 23
+4 24
+5 8
+5 8
+5 9
+5 10
+6 25
+6 26
+6 27
+7 13
+7 13
+7 28
+8 11
+8 17
+9 12
+9 12
+9 18
+10 16
+10 16
+10 29
+11 15
+11 15
+11 30
+12 15
+12 31
+13 19
+13 32
+14 16
+14 19
+14 19
+14 21
+16 33
+17 34
+17 35
+17 36
+18 37
+18 38
+18 39
+19 40
+21 41
+21 42
+21 43

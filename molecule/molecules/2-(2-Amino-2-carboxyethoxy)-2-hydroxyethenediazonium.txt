@@ -1,0 +1,45 @@
+2-(2-Amino-2-carboxyethoxy)-2-hydroxyethenediazonium
+20
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 10
+1 9
+1 17
+2 9
+2 9
+3 10
+3 19
+4 7
+4 15
+4 16
+5 6
+5 6
+5 6
+5 11
+7 8
+7 9
+7 12
+8 13
+8 14
+10 11
+10 11
+11 18

@@ -1,0 +1,40 @@
+5-Bromoisatin
+16
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 6
+1 6
+2 9
+2 9
+3 5
+3 9
+3 12
+4 5
+4 5
+4 6
+4 7
+5 8
+6 9
+7 10
+7 10
+7 13
+8 11
+8 11
+8 14
+10 11
+11 15

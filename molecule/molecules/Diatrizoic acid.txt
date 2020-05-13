@@ -1,0 +1,66 @@
+Diatrizoic acid
+29
+"Iodine"
+"Iodine"
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+1 13
+2 14
+3 15
+3 28
+4 15
+4 15
+5 16
+5 16
+6 17
+6 17
+7 9
+7 16
+7 20
+8 10
+8 17
+8 21
+9 11
+9 11
+9 14
+10 11
+10 13
+10 13
+12 13
+12 14
+12 14
+12 15
+16 18
+17 19
+18 22
+18 23
+18 24
+19 25
+19 26
+19 27

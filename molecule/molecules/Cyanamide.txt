@@ -1,0 +1,13 @@
+Cyanamide
+5
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 4
+1 2
+1 2
+1 2

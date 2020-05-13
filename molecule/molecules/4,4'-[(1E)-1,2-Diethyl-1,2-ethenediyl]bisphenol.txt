@@ -1,0 +1,124 @@
+4,4'-[(1E)-1,2-Diethyl-1,2-ethenediyl]bisphenol
+56
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 22
+1 21
+1 23
+2 22
+2 22
+3 23
+3 23
+4 5
+4 5
+4 6
+4 8
+5 7
+5 9
+6 10
+6 28
+6 29
+7 11
+7 30
+7 31
+8 12
+8 12
+8 14
+9 13
+9 13
+9 15
+10 32
+10 33
+10 34
+11 35
+11 36
+11 37
+12 16
+12 38
+13 17
+13 39
+14 18
+14 18
+14 40
+15 19
+15 19
+15 41
+16 20
+16 20
+16 42
+17 21
+17 21
+17 43
+18 20
+18 44
+19 21
+19 45
+22 24
+23 25
+24 26
+24 46
+24 47
+25 27
+25 48
+25 49
+26 50
+26 51
+26 52
+27 53
+27 54
+27 55

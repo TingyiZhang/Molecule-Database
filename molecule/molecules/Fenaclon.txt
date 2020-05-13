@@ -1,0 +1,62 @@
+Fenaclon
+28
+"Chlorine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 6
+1 6
+2 4
+2 6
+2 18
+3 4
+3 5
+3 14
+3 15
+4 16
+4 17
+5 7
+5 7
+5 8
+6 9
+7 10
+7 21
+8 11
+8 11
+8 22
+9 12
+9 19
+9 20
+10 13
+10 13
+10 23
+11 13
+11 24
+12 25
+12 26
+13 27

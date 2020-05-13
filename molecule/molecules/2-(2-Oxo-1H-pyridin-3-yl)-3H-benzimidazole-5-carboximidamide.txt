@@ -1,0 +1,72 @@
+2-(2-Oxo-1H-pyridin-3-yl)-3H-benzimidazole-5-carboximidamide
+30
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 14
+1 6
+1 8
+1 19
+2 7
+2 8
+2 8
+3 14
+3 18
+3 24
+4 16
+4 27
+4 28
+5 16
+5 16
+5 29
+6 7
+6 7
+6 10
+7 12
+8 9
+9 14
+9 15
+9 15
+10 11
+10 11
+10 20
+11 13
+11 16
+12 13
+12 13
+12 21
+13 22
+15 17
+15 23
+17 18
+17 18
+17 25
+18 26

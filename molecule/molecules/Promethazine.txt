@@ -1,0 +1,90 @@
+Promethazine
+40
+"Sulfur"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 9
+1 4
+1 5
+1 6
+2 3
+2 10
+2 11
+3 4
+3 7
+3 20
+4 21
+4 22
+5 8
+5 12
+5 12
+6 9
+6 13
+6 13
+7 23
+7 24
+7 25
+8 14
+8 14
+9 15
+9 15
+10 26
+10 27
+10 28
+11 29
+11 30
+11 31
+12 16
+12 32
+13 17
+13 33
+14 18
+14 34
+15 19
+15 35
+16 18
+16 18
+16 36
+17 19
+17 19
+17 37
+18 38
+19 39

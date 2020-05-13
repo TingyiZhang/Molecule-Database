@@ -1,0 +1,70 @@
+Bromazepam
+29
+"Bromine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 12
+1 12
+2 6
+2 12
+2 19
+3 7
+3 7
+3 9
+4 10
+4 17
+4 17
+5 6
+5 6
+5 7
+5 8
+6 11
+7 10
+8 13
+8 13
+8 20
+9 12
+9 21
+9 22
+10 15
+10 15
+11 14
+11 14
+11 23
+13 14
+14 24
+15 16
+15 25
+16 18
+16 18
+16 26
+17 18
+17 27
+18 28

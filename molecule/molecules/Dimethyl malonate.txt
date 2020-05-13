@@ -1,0 +1,37 @@
+Dimethyl malonate
+17
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 7
+1 6
+1 8
+2 5
+2 5
+3 6
+3 6
+4 5
+4 6
+4 9
+4 10
+7 11
+7 12
+7 13
+8 14
+8 15
+8 16

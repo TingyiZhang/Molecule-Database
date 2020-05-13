@@ -1,0 +1,62 @@
+Phenyl salicylate
+26
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 7
+1 4
+1 25
+2 7
+2 7
+3 4
+3 5
+3 5
+3 7
+4 8
+4 8
+5 9
+5 16
+6 11
+6 11
+6 12
+8 10
+8 17
+9 10
+9 10
+9 18
+10 19
+11 13
+11 20
+12 14
+12 14
+12 21
+13 15
+13 15
+13 22
+14 15
+14 23
+15 24

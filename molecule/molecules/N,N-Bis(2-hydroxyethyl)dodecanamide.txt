@@ -1,0 +1,108 @@
+N,N-Bis(2-hydroxyethyl)dodecanamide
+53
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 14
+1 18
+1 51
+2 19
+2 52
+3 14
+3 15
+3 16
+4 5
+4 6
+4 20
+4 21
+5 7
+5 22
+5 23
+6 8
+6 24
+6 25
+7 9
+7 26
+7 27
+8 10
+8 28
+8 29
+9 11
+9 30
+9 31
+10 12
+10 32
+10 33
+11 14
+11 34
+11 35
+12 13
+12 36
+12 37
+13 17
+13 38
+13 39
+15 18
+15 40
+15 41
+16 19
+16 42
+16 43
+17 44
+17 45
+17 46
+18 47
+18 48
+19 49
+19 50

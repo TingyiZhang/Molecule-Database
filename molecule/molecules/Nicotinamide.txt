@@ -1,0 +1,36 @@
+Nicotinamide
+15
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 5
+1 8
+1 8
+2 7
+2 13
+2 14
+3 4
+3 5
+3 5
+3 7
+4 6
+4 6
+4 9
+5 10
+6 8
+6 11
+8 12

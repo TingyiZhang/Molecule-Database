@@ -1,0 +1,49 @@
+Quinoline-2-carboxylic acid
+20
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 19
+1 12
+1 12
+2 4
+2 8
+2 8
+3 4
+3 5
+3 6
+3 6
+4 7
+4 7
+5 9
+5 9
+5 13
+6 10
+6 14
+7 11
+7 15
+8 9
+8 12
+9 16
+10 11
+10 11
+10 17
+11 18

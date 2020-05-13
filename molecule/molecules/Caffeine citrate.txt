@@ -1,0 +1,99 @@
+Caffeine citrate
+45
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 41
+1 18
+1 18
+2 21
+2 42
+3 19
+3 19
+4 21
+4 21
+5 25
+5 43
+6 26
+6 44
+7 25
+7 25
+8 26
+8 26
+9 15
+9 19
+9 22
+10 14
+10 20
+10 23
+11 18
+11 19
+11 24
+12 15
+12 20
+12 20
+13 16
+13 17
+13 21
+14 15
+14 15
+14 18
+16 25
+16 27
+16 28
+17 26
+17 29
+17 30
+20 31
+22 32
+22 33
+22 34
+23 35
+23 36
+23 37
+24 38
+24 39
+24 40

@@ -1,0 +1,244 @@
+10,18,20-Trihydroxy-21-[5-[5-(1-hydroxyethyl)-5-methyloxolan-2-yl]-5-methyloxolan-2-yl]-3,5,7,11,13,17,19-heptamethylhenicosa-9,15-dien-8-one
+119
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 10
+1 7
+1 12
+2 17
+2 72
+3 19
+3 76
+4 22
+4 78
+5 40
+5 118
+6 43
+6 43
+7 8
+7 9
+7 15
+8 11
+8 47
+9 14
+9 48
+9 49
+10 13
+10 17
+10 18
+11 13
+11 50
+11 51
+12 14
+12 16
+12 52
+13 53
+13 54
+14 55
+14 56
+15 57
+15 58
+15 59
+16 19
+16 60
+16 61
+17 21
+17 62
+18 63
+18 64
+18 65
+19 20
+19 66
+20 22
+20 23
+20 67
+21 68
+21 69
+21 70
+22 24
+22 71
+23 73
+23 74
+23 75
+24 25
+24 26
+24 77
+25 79
+25 80
+25 81
+26 27
+26 27
+26 82
+27 28
+27 83
+28 29
+28 84
+28 85
+29 30
+29 36
+29 86
+30 32
+30 87
+30 88
+31 33
+31 34
+31 38
+31 89
+32 40
+32 41
+32 92
+33 35
+33 90
+33 91
+34 37
+34 93
+34 94
+35 39
+35 42
+35 95
+36 96
+36 97
+36 98
+37 43
+37 44
+37 99
+38 100
+38 101
+38 102
+39 46
+39 103
+39 104
+40 45
+40 45
+41 105
+41 106
+41 107
+42 108
+42 109
+42 110
+43 45
+44 111
+44 112
+44 113
+45 114
+46 115
+46 116
+46 117

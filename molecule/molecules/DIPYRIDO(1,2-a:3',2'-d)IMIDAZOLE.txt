@@ -1,0 +1,50 @@
+DIPYRIDO(1,2-a:3',2'-d)IMIDAZOLE
+20
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+0 6
+1 4
+1 4
+1 5
+2 3
+2 12
+2 12
+3 5
+3 5
+4 7
+5 8
+6 9
+6 9
+6 13
+7 10
+7 10
+7 14
+8 11
+8 11
+8 15
+9 10
+9 16
+10 17
+11 12
+11 18
+12 19

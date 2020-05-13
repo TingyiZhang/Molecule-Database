@@ -1,0 +1,114 @@
+4,5,6-Trihydroxy-7-(hydroxymethyl)-3,11,11,14-tetramethyltetracyclo[7.5.1.01,5.010,12]pentadeca-2,7-dien-15-one
+53
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 44
+1 13
+1 13
+2 18
+2 50
+3 19
+3 51
+4 23
+4 52
+5 6
+5 7
+5 8
+5 25
+6 7
+6 9
+6 26
+7 14
+7 15
+8 13
+8 16
+8 27
+9 11
+9 28
+9 29
+10 11
+10 12
+10 13
+10 17
+11 20
+11 30
+12 18
+12 19
+14 31
+14 32
+14 33
+15 34
+15 35
+15 36
+16 21
+16 21
+16 37
+17 22
+17 22
+17 38
+18 21
+18 39
+19 22
+19 40
+20 41
+20 42
+20 43
+21 23
+22 24
+23 45
+23 46
+24 47
+24 48
+24 49

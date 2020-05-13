@@ -1,0 +1,62 @@
+Phenmetrazine
+28
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 5
+1 2
+1 4
+1 15
+2 3
+2 7
+2 13
+3 6
+3 14
+4 5
+4 16
+4 17
+5 18
+5 19
+6 8
+6 8
+6 9
+7 20
+7 21
+7 22
+8 10
+8 23
+9 11
+9 11
+9 24
+10 12
+10 12
+10 25
+11 12
+11 26
+12 27

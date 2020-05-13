@@ -1,0 +1,125 @@
+[1-[[4-Methyl-1-(4-nitroanilino)-1-oxopentan-2-yl]amino]-1-oxohexan-2-yl] dihydrogen phosphate
+58
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 4
+0 5
+0 6
+0 6
+1 15
+2 17
+2 17
+3 21
+3 21
+4 56
+5 57
+7 11
+8 11
+8 11
+9 13
+9 17
+9 37
+10 21
+10 24
+10 48
+11 29
+12 13
+12 14
+12 30
+12 31
+13 21
+13 32
+14 19
+14 20
+14 33
+15 16
+15 17
+15 34
+16 18
+16 35
+16 36
+18 22
+18 38
+18 39
+19 40
+19 41
+19 42
+20 43
+20 44
+20 45
+22 23
+22 46
+22 47
+23 49
+23 50
+23 51
+24 25
+24 25
+24 26
+25 27
+25 52
+26 28
+26 28
+26 53
+27 29
+27 29
+27 54
+28 29
+28 55

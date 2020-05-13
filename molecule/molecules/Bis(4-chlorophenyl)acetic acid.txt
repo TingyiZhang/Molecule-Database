@@ -1,0 +1,66 @@
+Bis(4-chlorophenyl)acetic acid
+28
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+1 17
+2 11
+2 27
+3 11
+3 11
+4 5
+4 6
+4 11
+4 18
+5 7
+5 7
+5 9
+6 8
+6 8
+6 10
+7 12
+7 19
+8 13
+8 20
+9 14
+9 14
+9 21
+10 15
+10 15
+10 22
+12 16
+12 16
+12 23
+13 17
+13 17
+13 24
+14 16
+14 25
+15 17
+15 26

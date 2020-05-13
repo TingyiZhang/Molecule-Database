@@ -1,0 +1,128 @@
+Doxapram
+58
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 8
+1 20
+1 21
+2 6
+2 8
+2 12
+3 11
+3 17
+3 18
+4 5
+4 6
+4 7
+4 28
+5 8
+5 9
+5 10
+6 29
+6 30
+7 11
+7 31
+7 32
+9 13
+9 13
+9 15
+10 14
+10 14
+10 16
+11 33
+11 34
+12 19
+12 35
+12 36
+13 22
+13 37
+14 23
+14 38
+15 24
+15 24
+15 39
+16 25
+16 25
+16 40
+17 20
+17 41
+17 42
+18 21
+18 43
+18 44
+19 45
+19 46
+19 47
+20 48
+20 49
+21 50
+21 51
+22 26
+22 26
+22 52
+23 27
+23 27
+23 53
+24 26
+24 54
+25 27
+25 55
+26 56
+27 57

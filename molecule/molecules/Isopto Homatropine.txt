@@ -1,0 +1,93 @@
+Isopto Homatropine
+43
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 42
+1 11
+1 13
+2 13
+2 13
+3 14
+3 36
+4 5
+4 6
+4 12
+5 7
+5 9
+5 21
+6 8
+6 10
+6 22
+7 8
+7 23
+7 24
+8 25
+8 26
+9 11
+9 27
+9 28
+10 11
+10 29
+10 30
+11 31
+12 32
+12 33
+12 34
+13 14
+14 15
+14 35
+15 16
+15 16
+15 17
+16 18
+16 37
+17 19
+17 19
+17 38
+18 20
+18 20
+18 39
+19 20
+19 40
+20 41

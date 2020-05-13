@@ -1,0 +1,110 @@
+4-Methoxy-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthrene-3,17-dione
+51
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 14
+1 20
+1 22
+2 21
+2 21
+3 4
+3 5
+3 10
+3 23
+4 7
+4 8
+4 24
+5 6
+5 11
+5 25
+6 9
+6 14
+6 17
+7 12
+7 16
+7 18
+8 9
+8 26
+8 27
+9 28
+9 29
+10 13
+10 30
+10 31
+11 15
+11 32
+11 33
+12 13
+12 20
+12 20
+13 34
+13 35
+14 15
+15 36
+15 37
+16 19
+16 38
+16 39
+17 40
+17 41
+17 42
+18 43
+18 44
+18 45
+19 21
+19 46
+19 47
+20 21
+22 48
+22 49
+22 50

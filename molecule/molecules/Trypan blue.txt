@@ -1,0 +1,201 @@
+Trypan blue
+86
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sodium"
+"Sodium"
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 12
+0 12
+0 13
+0 13
+0 34
+1 11
+1 14
+1 14
+1 15
+1 15
+1 35
+2 16
+2 18
+2 18
+2 19
+2 19
+2 44
+3 17
+3 20
+3 20
+3 21
+3 21
+3 45
+8 32
+8 78
+9 33
+9 79
+22 36
+22 70
+22 71
+23 37
+23 72
+23 73
+24 26
+24 26
+24 40
+25 27
+25 27
+25 41
+26 52
+27 53
+28 30
+28 32
+28 36
+28 36
+29 31
+29 33
+29 37
+29 37
+30 38
+30 42
+30 42
+31 39
+31 43
+31 43
+32 40
+32 40
+33 41
+33 41
+34 38
+34 38
+34 40
+35 39
+35 39
+35 41
+36 46
+37 47
+38 62
+39 63
+42 44
+42 64
+43 45
+43 65
+44 46
+44 46
+45 47
+45 47
+46 66
+47 67
+48 49
+48 54
+48 54
+48 56
+49 55
+49 55
+49 57
+50 52
+50 52
+50 54
+50 60
+51 53
+51 53
+51 55
+51 61
+52 58
+53 59
+54 68
+55 69
+56 58
+56 58
+56 74
+57 59
+57 59
+57 75
+58 76
+59 77
+60 80
+60 81
+60 82
+61 83
+61 84
+61 85

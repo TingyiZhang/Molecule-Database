@@ -1,0 +1,20 @@
+Peracetic acid
+9
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 4
+1 4
+1 4
+2 8
+3 4
+3 5
+3 6
+3 7

@@ -1,0 +1,93 @@
+Sucrose
+45
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 14
+1 11
+1 15
+2 15
+2 19
+3 12
+3 37
+4 13
+4 38
+5 16
+5 39
+6 17
+6 40
+7 18
+7 41
+8 20
+8 42
+9 21
+9 43
+10 22
+10 44
+11 12
+11 20
+12 13
+12 23
+13 14
+13 24
+14 21
+14 25
+15 16
+15 26
+16 17
+16 27
+17 18
+17 28
+18 19
+18 29
+19 22
+19 30
+20 31
+20 32
+21 33
+21 34
+22 35
+22 36

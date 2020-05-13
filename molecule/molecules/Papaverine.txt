@@ -1,0 +1,104 @@
+Papaverine
+46
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 21
+1 14
+1 22
+2 18
+2 23
+3 19
+3 24
+4 7
+4 7
+4 17
+5 7
+5 8
+5 10
+5 10
+6 7
+6 9
+6 25
+6 26
+8 11
+8 11
+8 13
+9 15
+9 15
+9 16
+10 12
+10 27
+11 14
+11 28
+12 14
+12 14
+13 17
+13 17
+13 29
+15 18
+15 30
+16 20
+16 20
+16 31
+17 32
+18 19
+18 19
+19 20
+20 33
+21 34
+21 35
+21 36
+22 37
+22 38
+22 39
+23 40
+23 41
+23 42
+24 43
+24 44
+24 45

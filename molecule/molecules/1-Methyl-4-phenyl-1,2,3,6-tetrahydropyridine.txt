@@ -1,0 +1,63 @@
+1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine
+28
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 4
+0 7
+1 2
+1 13
+1 14
+2 3
+2 15
+2 16
+3 5
+3 5
+3 6
+4 5
+4 17
+4 18
+5 19
+6 8
+6 8
+6 9
+7 20
+7 21
+7 22
+8 10
+8 23
+9 11
+9 11
+9 24
+10 12
+10 12
+10 25
+11 12
+11 26
+12 27

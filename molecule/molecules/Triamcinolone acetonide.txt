@@ -1,0 +1,134 @@
+Triamcinolone acetonide
+62
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+1 10
+1 20
+2 12
+2 20
+3 15
+3 50
+4 21
+4 21
+5 25
+5 61
+6 30
+6 30
+7 8
+7 10
+7 14
+7 18
+8 9
+8 13
+8 31
+9 11
+9 17
+9 32
+10 12
+10 21
+11 15
+11 16
+12 13
+12 33
+13 34
+13 35
+14 15
+14 36
+14 37
+15 38
+16 22
+16 23
+16 24
+17 19
+17 39
+17 40
+18 41
+18 42
+18 43
+19 22
+19 44
+19 45
+20 26
+20 27
+21 25
+22 28
+22 28
+23 46
+23 47
+23 48
+24 29
+24 29
+24 49
+25 51
+25 52
+26 53
+26 54
+26 55
+27 56
+27 57
+27 58
+28 30
+28 59
+29 30
+29 60

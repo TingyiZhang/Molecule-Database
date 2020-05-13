@@ -1,0 +1,104 @@
+4-(2-Aminoethoxy)-2-[[3-hydroxy-2-methyl-5-(phosphonooxymethyl)pyridin-4-yl]methylamino]but-3-enoic acid
+48
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 6
+0 7
+0 8
+0 8
+1 17
+2 16
+2 37
+3 23
+3 24
+4 22
+4 41
+5 22
+5 22
+6 44
+7 45
+9 13
+9 15
+9 28
+10 18
+10 18
+10 19
+11 25
+11 46
+11 47
+12 13
+12 14
+12 16
+12 16
+13 26
+13 27
+14 17
+14 19
+14 19
+15 20
+15 22
+15 29
+16 18
+17 30
+17 31
+18 21
+19 32
+20 23
+20 23
+20 33
+21 34
+21 35
+21 36
+23 38
+24 25
+24 39
+24 40
+25 42
+25 43

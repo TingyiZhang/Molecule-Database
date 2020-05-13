@@ -1,0 +1,132 @@
+11-Hydroxy-3,20-dioxopregna-1,4-dien-17-yl propanoate
+61
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 26
+1 12
+1 50
+2 19
+2 19
+3 25
+3 25
+4 26
+4 26
+5 6
+5 9
+5 10
+5 16
+6 7
+6 11
+6 29
+7 8
+7 15
+7 30
+8 12
+8 13
+8 31
+9 14
+9 19
+10 12
+10 32
+10 33
+11 14
+11 34
+11 35
+12 36
+13 18
+13 20
+13 21
+14 37
+14 38
+15 17
+15 39
+15 40
+16 41
+16 42
+16 43
+17 18
+17 44
+17 45
+18 22
+18 22
+19 23
+20 46
+20 47
+20 48
+21 24
+21 24
+21 49
+22 25
+22 51
+23 52
+23 53
+23 54
+24 25
+24 55
+26 27
+27 28
+27 56
+27 57
+28 58
+28 59
+28 60

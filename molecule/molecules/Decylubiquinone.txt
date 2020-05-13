@@ -1,0 +1,112 @@
+Decylubiquinone
+53
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+0 21
+1 15
+1 15
+2 19
+2 22
+3 17
+3 17
+4 5
+4 6
+4 23
+4 24
+5 7
+5 25
+5 26
+6 8
+6 27
+6 28
+7 9
+7 29
+7 30
+8 10
+8 31
+8 32
+9 11
+9 33
+9 34
+10 12
+10 35
+10 36
+11 13
+11 37
+11 38
+12 14
+12 14
+12 15
+13 16
+13 39
+13 40
+14 17
+14 20
+15 18
+16 41
+16 42
+16 43
+17 19
+18 19
+18 19
+20 44
+20 45
+20 46
+21 47
+21 48
+21 49
+22 50
+22 51
+22 52

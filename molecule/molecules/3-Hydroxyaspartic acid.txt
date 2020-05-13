@@ -1,0 +1,37 @@
+3-Hydroxyaspartic acid
+17
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 14
+1 8
+1 15
+2 9
+2 16
+3 8
+3 8
+4 9
+4 9
+5 6
+5 12
+5 13
+6 7
+6 8
+6 10
+7 9
+7 11

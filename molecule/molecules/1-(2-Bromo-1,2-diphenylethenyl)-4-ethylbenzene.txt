@@ -1,0 +1,98 @@
+1-(2-Bromo-1,2-diphenylethenyl)-4-ethylbenzene
+42
+"Bromine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 2
+1 5
+1 5
+1 6
+2 4
+2 10
+2 10
+3 7
+3 8
+3 8
+3 9
+4 12
+4 12
+4 13
+5 8
+5 23
+6 9
+6 9
+6 24
+7 14
+7 25
+7 26
+8 27
+9 28
+10 11
+11 15
+11 15
+11 16
+12 17
+12 29
+13 18
+13 18
+13 30
+14 31
+14 32
+14 33
+15 20
+15 34
+16 21
+16 21
+16 35
+17 19
+17 19
+17 36
+18 19
+18 37
+19 38
+20 22
+20 22
+20 39
+21 22
+21 40
+22 41

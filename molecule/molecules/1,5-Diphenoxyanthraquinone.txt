@@ -1,0 +1,112 @@
+1,5-Diphenoxyanthraquinone
+46
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 18
+1 11
+1 19
+2 8
+2 8
+3 9
+3 9
+4 6
+4 6
+4 8
+4 10
+5 7
+5 7
+5 9
+5 11
+6 9
+6 12
+7 8
+7 13
+10 14
+10 14
+11 15
+11 15
+12 16
+12 16
+12 30
+13 17
+13 17
+13 31
+14 16
+14 32
+15 17
+15 33
+16 34
+17 35
+18 20
+18 20
+18 22
+19 21
+19 21
+19 23
+20 24
+20 36
+21 25
+21 37
+22 26
+22 26
+22 38
+23 27
+23 27
+23 39
+24 28
+24 28
+24 40
+25 29
+25 29
+25 41
+26 28
+26 42
+27 29
+27 43
+28 44
+29 45

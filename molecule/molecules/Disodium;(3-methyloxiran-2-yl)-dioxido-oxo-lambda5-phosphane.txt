@@ -1,0 +1,45 @@
+Disodium;(3-methyloxiran-2-yl)-dioxido-oxo-lambda5-phosphane
+15
+"Phosphorus"
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 5
+0 6
+0 6
+0 7
+1 4
+1 4
+1 4
+1 4
+1 4
+1 4
+1 4
+2 5
+2 5
+2 5
+2 5
+2 5
+2 5
+2 5
+3 7
+3 8
+7 8
+7 10
+8 9
+8 11
+9 12
+9 13
+9 14

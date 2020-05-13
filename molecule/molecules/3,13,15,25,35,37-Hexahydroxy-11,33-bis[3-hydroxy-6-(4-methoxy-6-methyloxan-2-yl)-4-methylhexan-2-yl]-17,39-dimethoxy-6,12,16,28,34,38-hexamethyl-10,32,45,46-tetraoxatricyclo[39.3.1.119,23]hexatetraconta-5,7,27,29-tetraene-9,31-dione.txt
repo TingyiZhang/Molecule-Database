@@ -1,0 +1,480 @@
+3,13,15,25,35,37-Hexahydroxy-11,33-bis[3-hydroxy-6-(4-methoxy-6-methyloxan-2-yl)-4-methylhexan-2-yl]-17,39-dimethoxy-6,12,16,28,34,38-hexamethyl-10,32,45,46-tetraoxatricyclo[39.3.1.119,23]hexatetraconta-5,7,27,29-tetraene-9,31-dione
+234
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 42
+0 56
+1 43
+1 57
+2 22
+2 81
+3 23
+3 80
+4 48
+4 72
+5 49
+5 73
+6 26
+6 190
+7 27
+7 191
+8 30
+8 192
+9 31
+9 193
+10 38
+10 84
+11 39
+11 85
+12 36
+12 194
+13 37
+13 195
+14 66
+14 88
+15 67
+15 89
+16 76
+16 222
+17 77
+17 223
+18 80
+18 80
+19 81
+19 81
+20 22
+20 26
+20 50
+20 98
+21 23
+21 27
+21 51
+21 99
+22 24
+22 100
+23 25
+23 101
+24 30
+24 54
+24 102
+25 31
+25 55
+25 103
+26 28
+26 104
+27 29
+27 105
+28 40
+28 64
+28 106
+29 41
+29 65
+29 107
+30 34
+30 108
+31 35
+31 109
+32 36
+32 38
+32 68
+32 110
+33 37
+33 39
+33 69
+33 111
+34 36
+34 112
+34 113
+35 37
+35 114
+35 115
+36 116
+37 117
+38 44
+38 118
+39 45
+39 119
+40 46
+40 120
+40 121
+41 47
+41 122
+41 123
+42 44
+42 52
+42 124
+43 45
+43 53
+43 125
+44 126
+44 127
+45 128
+45 129
+46 48
+46 130
+46 131
+47 49
+47 132
+47 133
+48 58
+48 134
+49 59
+49 135
+50 136
+50 137
+50 138
+51 139
+51 140
+51 141
+52 60
+52 142
+52 143
+53 61
+53 144
+53 145
+54 146
+54 147
+54 148
+55 149
+55 150
+55 151
+56 62
+56 74
+56 152
+57 63
+57 75
+57 153
+58 66
+58 154
+58 155
+59 67
+59 156
+59 157
+60 62
+60 158
+60 159
+61 63
+61 160
+61 161
+62 162
+62 163
+63 164
+63 165
+64 166
+64 167
+64 168
+65 169
+65 170
+65 171
+66 70
+66 172
+67 71
+67 173
+68 174
+68 175
+68 176
+69 177
+69 178
+69 179
+70 72
+70 180
+70 181
+71 73
+71 182
+71 183
+72 78
+72 184
+73 79
+73 185
+74 76
+74 186
+74 187
+75 77
+75 188
+75 189
+76 82
+76 196
+77 83
+77 197
+78 198
+78 199
+78 200
+79 201
+79 202
+79 203
+80 86
+81 87
+82 90
+82 204
+82 205
+83 91
+83 206
+83 207
+84 208
+84 209
+84 210
+85 211
+85 212
+85 213
+86 94
+86 94
+86 214
+87 95
+87 95
+87 215
+88 216
+88 217
+88 218
+89 219
+89 220
+89 221
+90 92
+90 92
+90 224
+91 93
+91 93
+91 225
+92 94
+92 96
+93 95
+93 97
+94 226
+95 227
+96 228
+96 229
+96 230
+97 231
+97 232
+97 233

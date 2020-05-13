@@ -1,0 +1,50 @@
+2-Acetamido-5-oxovaleric acid
+23
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 22
+1 8
+1 8
+2 9
+2 9
+3 10
+3 10
+4 5
+4 9
+4 17
+5 6
+5 8
+5 12
+6 7
+6 13
+6 14
+7 10
+7 15
+7 16
+9 11
+10 18
+11 19
+11 20
+11 21

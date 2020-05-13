@@ -1,0 +1,140 @@
+Oxatomide
+62
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 20
+1 5
+1 6
+1 9
+2 7
+2 8
+2 10
+3 14
+3 19
+3 20
+4 20
+4 21
+4 51
+5 7
+5 32
+5 33
+6 8
+6 34
+6 35
+7 36
+7 37
+8 38
+8 39
+9 12
+9 13
+9 40
+10 11
+10 41
+10 42
+11 14
+11 43
+11 44
+12 15
+12 15
+12 17
+13 16
+13 16
+13 18
+14 45
+14 46
+15 22
+15 47
+16 23
+16 48
+17 24
+17 24
+17 49
+18 25
+18 25
+18 50
+19 21
+19 26
+19 26
+21 29
+21 29
+22 27
+22 27
+22 52
+23 28
+23 28
+23 53
+24 27
+24 54
+25 28
+25 55
+26 30
+26 56
+27 57
+28 58
+29 31
+29 59
+30 31
+30 31
+30 60
+31 61

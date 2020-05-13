@@ -1,0 +1,105 @@
+[[[5-(6-Aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-hydroxyphosphoryl]oxy-sulfanylphosphinic acid
+47
+"Sulfur"
+"Phosphorus"
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 45
+1 7
+1 8
+1 9
+1 10
+1 10
+2 8
+2 11
+2 12
+2 13
+2 13
+3 11
+3 14
+3 15
+3 15
+4 23
+4 24
+5 21
+5 37
+6 22
+6 38
+7 25
+9 43
+12 44
+14 46
+16 23
+16 26
+16 27
+17 27
+17 27
+17 28
+18 26
+18 26
+18 30
+19 29
+19 30
+19 30
+20 29
+20 41
+20 42
+21 22
+21 23
+21 31
+22 24
+22 32
+23 33
+24 25
+24 34
+25 35
+25 36
+26 28
+27 39
+28 29
+28 29
+30 40

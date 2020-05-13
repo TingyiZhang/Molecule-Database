@@ -1,0 +1,50 @@
+Ethyl vanillin
+22
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 7
+1 5
+1 21
+2 11
+2 11
+3 4
+3 5
+3 5
+4 6
+4 6
+4 12
+5 8
+6 9
+6 11
+7 10
+7 13
+7 14
+8 9
+8 9
+8 15
+9 16
+10 17
+10 18
+10 19
+11 20

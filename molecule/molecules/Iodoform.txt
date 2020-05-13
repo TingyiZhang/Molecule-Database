@@ -1,0 +1,11 @@
+Iodoform
+5
+"Iodine"
+"Iodine"
+"Iodine"
+"Carbon"
+"Hydrogen"
+0 3
+1 3
+2 3
+3 4

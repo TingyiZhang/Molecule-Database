@@ -1,0 +1,63 @@
+Hexachlorophene
+27
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 14
+2 15
+3 16
+4 17
+5 18
+6 11
+6 25
+7 12
+7 26
+8 9
+8 10
+8 21
+8 22
+9 11
+9 11
+9 13
+10 12
+10 12
+10 14
+11 15
+12 16
+13 17
+13 17
+14 18
+14 18
+15 19
+15 19
+16 20
+16 20
+17 19
+18 20
+19 23
+20 24

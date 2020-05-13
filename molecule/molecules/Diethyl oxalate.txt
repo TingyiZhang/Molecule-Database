@@ -1,0 +1,43 @@
+Diethyl oxalate
+20
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 8
+1 5
+1 9
+2 8
+2 8
+3 9
+3 9
+4 6
+4 10
+4 11
+5 7
+5 12
+5 13
+6 14
+6 15
+6 16
+7 17
+7 18
+7 19
+8 9

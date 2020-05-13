@@ -1,0 +1,118 @@
+Mazaticol
+54
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+0 25
+1 20
+1 26
+2 13
+2 17
+3 17
+3 17
+4 18
+4 47
+5 6
+5 8
+5 16
+6 7
+6 10
+6 27
+7 9
+7 14
+7 15
+8 11
+8 12
+8 28
+9 11
+9 29
+9 30
+10 13
+10 31
+10 32
+11 33
+11 34
+12 13
+12 35
+12 36
+13 37
+14 38
+14 39
+14 40
+15 41
+15 42
+15 43
+16 44
+16 45
+16 46
+17 18
+18 19
+18 20
+19 21
+19 21
+20 22
+20 22
+21 23
+21 48
+22 24
+22 49
+23 25
+23 25
+23 50
+24 26
+24 26
+24 51
+25 52
+26 53

@@ -1,0 +1,172 @@
+Convallaton
+81
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 64
+1 15
+1 66
+2 27
+2 32
+3 28
+3 28
+4 30
+4 33
+5 32
+5 36
+6 33
+6 33
+7 34
+7 75
+8 35
+8 79
+9 37
+9 80
+10 11
+10 12
+10 19
+11 13
+11 20
+11 39
+12 16
+12 17
+12 25
+13 14
+13 18
+13 40
+14 15
+14 23
+14 28
+15 21
+15 24
+16 22
+16 29
+16 41
+17 18
+17 42
+17 43
+18 44
+18 45
+19 22
+19 46
+19 47
+20 21
+20 48
+20 49
+21 50
+21 51
+22 52
+22 53
+23 26
+23 54
+23 55
+24 27
+24 56
+24 57
+25 58
+25 59
+25 60
+26 27
+26 61
+26 62
+27 63
+28 65
+29 30
+29 31
+29 31
+30 67
+30 68
+31 33
+31 69
+32 34
+32 70
+34 35
+34 71
+35 37
+35 72
+36 37
+36 38
+36 73
+37 74
+38 76
+38 77
+38 78

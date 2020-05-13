@@ -1,0 +1,139 @@
+4-[(4,4-Dimethyl-1,2,3,4-tetrahydro-[1,2']binapthalenyl-7-carbonyl)-amino]-benzoic acid
+60
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 21
+0 21
+1 33
+1 59
+2 33
+2 33
+3 19
+3 19
+3 22
+4 21
+4 27
+4 51
+5 6
+5 9
+5 11
+5 12
+6 8
+6 34
+6 35
+7 8
+7 10
+7 13
+7 36
+8 37
+8 38
+9 10
+9 10
+9 14
+10 15
+11 39
+11 40
+11 41
+12 42
+12 43
+12 44
+13 18
+13 18
+13 19
+14 17
+14 17
+14 45
+15 16
+15 16
+15 46
+16 17
+16 21
+17 47
+18 20
+18 48
+19 49
+20 22
+20 23
+20 23
+22 24
+22 24
+23 25
+23 50
+24 26
+24 52
+25 26
+25 26
+25 53
+26 54
+27 28
+27 28
+27 29
+28 30
+28 55
+29 31
+29 31
+29 56
+30 32
+30 32
+30 57
+31 32
+31 58
+32 33

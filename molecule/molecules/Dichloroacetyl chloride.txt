@@ -1,0 +1,16 @@
+Dichloroacetyl chloride
+7
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+0 4
+1 4
+2 5
+3 5
+3 5
+4 5
+4 6

@@ -1,0 +1,54 @@
+Methyl 2-octynoate
+25
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 10
+1 9
+1 9
+2 3
+2 4
+2 11
+2 12
+3 5
+3 13
+3 14
+4 6
+4 15
+4 16
+5 7
+5 17
+5 18
+6 19
+6 20
+6 21
+7 8
+7 8
+7 8
+8 9
+10 22
+10 23
+10 24

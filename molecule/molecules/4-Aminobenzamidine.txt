@@ -1,0 +1,44 @@
+4-Aminobenzamidine
+19
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 14
+0 15
+1 9
+1 16
+1 17
+2 9
+2 9
+2 18
+3 5
+3 5
+3 6
+3 9
+4 7
+4 7
+4 8
+5 7
+5 10
+6 8
+6 8
+6 11
+7 12
+8 13

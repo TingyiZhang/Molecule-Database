@@ -1,0 +1,29 @@
+Guanylurea
+13
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+1 5
+1 5
+1 6
+2 5
+2 7
+2 8
+3 5
+3 9
+3 10
+4 6
+4 11
+4 12

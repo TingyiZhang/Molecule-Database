@@ -1,0 +1,90 @@
+Morphinan-3,6-diol, 7,8-didehydro-4,5-epoxy-17-methyl-(5alpha,6alpha)-
+40
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 15
+1 13
+1 38
+2 19
+2 39
+3 6
+3 11
+3 17
+4 5
+4 7
+4 8
+4 9
+5 6
+5 14
+5 21
+6 10
+6 22
+7 13
+7 23
+8 11
+8 24
+8 25
+9 12
+9 12
+9 15
+10 12
+10 26
+10 27
+11 28
+11 29
+12 18
+13 16
+13 30
+14 16
+14 16
+14 31
+15 19
+15 19
+16 32
+17 33
+17 34
+17 35
+18 20
+18 20
+18 36
+19 20
+20 37

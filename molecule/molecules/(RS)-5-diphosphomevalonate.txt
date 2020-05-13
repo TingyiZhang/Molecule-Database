@@ -1,0 +1,68 @@
+(RS)-5-diphosphomevalonate
+32
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+0 7
+0 8
+0 8
+1 4
+1 9
+1 10
+1 11
+1 11
+2 12
+2 27
+3 16
+5 17
+5 28
+6 17
+6 17
+7 29
+9 30
+10 31
+12 13
+12 14
+12 15
+13 16
+13 18
+13 19
+14 17
+14 20
+14 21
+15 24
+15 25
+15 26
+16 22
+16 23

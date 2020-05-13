@@ -1,0 +1,60 @@
+Kinetin
+25
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 15
+1 6
+1 8
+1 18
+2 7
+2 12
+2 19
+3 8
+3 8
+3 14
+4 10
+4 12
+4 12
+5 10
+5 14
+5 14
+6 9
+6 16
+6 17
+7 8
+7 10
+7 10
+9 11
+9 11
+11 13
+11 20
+12 21
+13 15
+13 15
+13 22
+14 23
+15 24

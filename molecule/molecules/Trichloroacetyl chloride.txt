@@ -1,0 +1,16 @@
+Trichloroacetyl chloride
+7
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+0 5
+1 5
+2 5
+3 6
+4 6
+4 6
+5 6

@@ -1,0 +1,73 @@
+N-(4-Chlorophenyl)-N'-(isopropyl)-imidodicarbonimidic diamide
+33
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+1 6
+1 10
+1 10
+2 9
+2 13
+2 24
+3 10
+3 13
+3 13
+4 10
+4 29
+4 30
+5 13
+5 31
+5 32
+6 7
+6 8
+6 17
+7 18
+7 19
+7 20
+8 21
+8 22
+8 23
+9 11
+9 11
+9 12
+11 14
+11 25
+12 15
+12 15
+12 26
+14 16
+14 16
+14 27
+15 16
+15 28

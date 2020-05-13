@@ -1,0 +1,27 @@
+4H-Pyran-4-one
+11
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+1 2
+1 2
+2 3
+2 4
+3 5
+3 5
+3 7
+4 6
+4 6
+4 8
+5 9
+6 10

@@ -1,0 +1,37 @@
+2,2,3,3,4,4,5,5-Octafluoro-1-pentanol
+18
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+1 9
+2 10
+3 10
+4 11
+5 11
+6 13
+7 13
+8 12
+8 17
+9 10
+9 11
+10 13
+11 12
+12 14
+12 15
+13 16

@@ -1,0 +1,156 @@
+(3,3-Dimethyl-4,4,7-trioxo-4lambda6-thia-1-azabicyclo[3.2.0]heptane-2-carbonyl)oxymethyl 6-[(2-amino-2-phenylacetyl)amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate
+70
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+0 3
+0 3
+0 15
+0 16
+1 22
+1 25
+4 19
+4 19
+5 23
+5 31
+6 23
+6 23
+7 30
+7 31
+8 27
+8 27
+9 30
+9 30
+10 32
+10 32
+11 16
+11 17
+11 19
+12 22
+12 24
+12 27
+13 26
+13 32
+13 59
+14 33
+14 63
+14 64
+15 17
+15 20
+15 21
+16 18
+16 40
+17 23
+17 41
+18 19
+18 42
+18 43
+20 44
+20 45
+20 46
+21 47
+21 48
+21 49
+22 26
+22 50
+24 25
+24 30
+24 51
+25 28
+25 29
+26 27
+26 52
+28 53
+28 54
+28 55
+29 56
+29 57
+29 58
+31 60
+31 61
+32 33
+33 34
+33 62
+34 35
+34 35
+34 36
+35 37
+35 65
+36 38
+36 38
+36 66
+37 39
+37 39
+37 67
+38 39
+38 68
+39 69

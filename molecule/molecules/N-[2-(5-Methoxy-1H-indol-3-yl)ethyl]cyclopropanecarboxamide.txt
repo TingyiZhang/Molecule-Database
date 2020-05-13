@@ -1,0 +1,83 @@
+N-[2-(5-Methoxy-1H-indol-3-yl)ethyl]cyclopropanecarboxamide
+37
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 16
+1 18
+2 7
+2 8
+2 24
+3 12
+3 13
+3 30
+4 5
+4 6
+4 7
+4 19
+5 6
+5 20
+5 21
+6 22
+6 23
+8 9
+8 25
+8 26
+9 10
+9 27
+9 28
+10 11
+10 13
+10 13
+11 12
+11 12
+11 14
+12 15
+13 29
+14 16
+14 16
+14 31
+15 17
+15 17
+15 32
+16 17
+17 33
+18 34
+18 35
+18 36

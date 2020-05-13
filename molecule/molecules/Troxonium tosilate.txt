@@ -1,0 +1,155 @@
+Troxonium tosilate
+72
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 7
+0 7
+0 8
+0 8
+0 28
+1 14
+1 18
+2 18
+2 18
+3 20
+3 25
+4 22
+4 26
+5 24
+5 27
+9 10
+9 11
+9 12
+9 13
+10 14
+10 35
+10 36
+11 15
+11 37
+11 38
+12 16
+12 39
+12 40
+13 17
+13 41
+13 42
+14 43
+14 44
+15 45
+15 46
+15 47
+16 48
+16 49
+16 50
+17 51
+17 52
+17 53
+18 19
+19 20
+19 20
+19 21
+20 22
+21 23
+21 23
+21 54
+22 24
+22 24
+23 24
+23 55
+25 56
+25 57
+25 58
+26 59
+26 60
+26 61
+27 62
+27 63
+27 64
+28 30
+28 30
+28 31
+29 32
+29 32
+29 33
+29 34
+30 32
+30 65
+31 33
+31 33
+31 66
+32 67
+33 68
+34 69
+34 70
+34 71

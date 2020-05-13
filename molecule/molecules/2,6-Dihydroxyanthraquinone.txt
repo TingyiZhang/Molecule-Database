@@ -1,0 +1,64 @@
+2,6-Dihydroxyanthraquinone
+26
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 8
+1 9
+1 9
+2 14
+2 24
+3 15
+3 25
+4 6
+4 6
+4 8
+4 10
+5 7
+5 7
+5 9
+5 11
+6 9
+6 12
+7 8
+7 13
+10 14
+10 14
+10 18
+11 15
+11 15
+11 19
+12 16
+12 16
+12 20
+13 17
+13 17
+13 21
+14 16
+15 17
+16 22
+17 23

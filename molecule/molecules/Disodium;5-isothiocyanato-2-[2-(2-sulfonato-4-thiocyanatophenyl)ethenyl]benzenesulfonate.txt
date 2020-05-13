@@ -1,0 +1,104 @@
+Disodium;5-isothiocyanato-2-[2-(2-sulfonato-4-thiocyanatophenyl)ethenyl]benzenesulfonate
+38
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 8
+0 8
+0 9
+0 9
+0 16
+1 7
+1 10
+1 10
+1 11
+1 11
+1 17
+2 24
+2 28
+3 29
+3 29
+4 6
+4 6
+4 6
+4 6
+4 6
+4 6
+5 7
+5 7
+5 7
+5 7
+5 7
+5 7
+12 25
+12 29
+12 29
+13 28
+13 28
+13 28
+14 16
+14 16
+14 18
+14 20
+15 17
+15 17
+15 19
+15 21
+16 22
+17 23
+18 19
+18 19
+18 30
+19 31
+20 26
+20 26
+20 32
+21 27
+21 27
+21 33
+22 24
+22 24
+22 34
+23 25
+23 25
+23 35
+24 26
+25 27
+26 36
+27 37

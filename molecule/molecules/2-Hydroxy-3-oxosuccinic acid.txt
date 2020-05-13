@@ -1,0 +1,32 @@
+2-Hydroxy-3-oxosuccinic acid
+14
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 11
+1 8
+1 12
+2 7
+2 7
+3 8
+3 8
+4 9
+4 13
+5 9
+5 9
+6 7
+6 8
+6 10
+7 9

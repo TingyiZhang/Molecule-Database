@@ -1,0 +1,119 @@
+2,4-Quinazolinediamine, N2,N4-bis(phenylmethyl)-
+54
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 26
+0 50
+1 27
+1 51
+2 28
+2 52
+3 26
+3 26
+4 27
+4 27
+5 28
+5 28
+6 29
+6 53
+7 29
+7 29
+8 10
+8 18
+8 18
+9 13
+9 13
+9 19
+10 11
+10 12
+10 30
+11 14
+11 14
+11 16
+12 13
+12 31
+12 32
+13 15
+14 18
+14 20
+15 17
+15 17
+15 22
+16 23
+16 33
+16 34
+17 19
+17 21
+18 24
+19 35
+19 36
+20 26
+20 37
+20 38
+21 25
+21 39
+21 40
+22 27
+22 41
+22 42
+23 28
+23 43
+23 44
+24 45
+24 46
+24 47
+25 29
+25 48
+25 49

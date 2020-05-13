@@ -1,0 +1,40 @@
+3,4-Dihydroxybenzoic acid
+17
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 14
+1 8
+1 15
+2 10
+2 16
+3 10
+3 10
+4 5
+4 5
+4 7
+4 10
+5 6
+5 11
+6 8
+6 8
+7 9
+7 9
+7 12
+8 9
+9 13

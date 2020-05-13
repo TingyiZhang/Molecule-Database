@@ -1,0 +1,91 @@
+Nialamide
+40
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 9
+1 15
+1 15
+2 8
+2 9
+2 28
+3 4
+3 7
+3 29
+4 15
+4 32
+5 20
+5 20
+5 21
+6 7
+6 9
+6 22
+6 23
+7 24
+7 25
+8 10
+8 26
+8 27
+10 11
+10 11
+10 12
+11 13
+11 30
+12 14
+12 14
+12 31
+13 16
+13 16
+13 33
+14 16
+14 34
+15 17
+16 35
+17 18
+17 18
+17 19
+18 20
+18 36
+19 21
+19 21
+19 37
+20 38
+21 39

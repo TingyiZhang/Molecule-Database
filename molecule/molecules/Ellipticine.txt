@@ -1,0 +1,79 @@
+Ellipticine
+33
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 9
+0 19
+1 15
+1 15
+1 18
+2 3
+2 3
+2 4
+2 5
+3 6
+4 8
+4 8
+4 10
+5 9
+5 11
+5 11
+6 7
+6 7
+6 12
+7 8
+7 14
+8 15
+9 13
+9 13
+10 20
+10 21
+10 22
+11 16
+11 23
+12 24
+12 25
+12 26
+13 17
+13 27
+14 18
+14 18
+14 28
+15 29
+16 17
+16 17
+16 30
+17 31
+18 32

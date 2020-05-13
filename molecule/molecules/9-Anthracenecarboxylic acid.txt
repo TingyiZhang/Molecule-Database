@@ -1,0 +1,66 @@
+9-Anthracenecarboxylic acid
+27
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 26
+1 16
+1 16
+2 4
+2 4
+2 5
+2 8
+3 4
+3 6
+3 9
+3 9
+4 16
+5 7
+5 7
+5 10
+6 7
+6 11
+6 11
+7 17
+8 12
+8 12
+8 18
+9 13
+9 19
+10 14
+10 14
+10 20
+11 15
+11 21
+12 14
+12 22
+13 15
+13 15
+13 23
+14 24
+15 25

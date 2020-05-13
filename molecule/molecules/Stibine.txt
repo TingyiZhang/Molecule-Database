@@ -1,0 +1,9 @@
+Stibine
+4
+"Antimony"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3

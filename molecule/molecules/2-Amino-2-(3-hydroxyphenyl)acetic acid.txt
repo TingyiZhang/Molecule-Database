@@ -1,0 +1,48 @@
+2-Amino-2-(3-hydroxyphenyl)acetic acid
+21
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 19
+1 10
+1 20
+2 10
+2 10
+3 4
+3 17
+3 18
+4 5
+4 10
+4 12
+5 6
+5 6
+5 7
+6 8
+6 13
+7 9
+7 9
+7 14
+8 11
+8 11
+9 11
+9 15
+11 16

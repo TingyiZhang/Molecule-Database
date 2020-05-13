@@ -1,0 +1,96 @@
+2-(1H-Indol-3-yl)-N-[2-(1H-indol-3-yl)ethenyl]-2-oxoacetamide
+40
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 17
+1 23
+1 23
+2 7
+2 11
+2 25
+3 9
+3 12
+3 27
+4 23
+4 24
+4 39
+5 7
+5 8
+5 13
+5 13
+6 9
+6 10
+6 15
+6 15
+7 14
+7 14
+8 11
+8 11
+8 17
+9 16
+9 16
+10 12
+10 12
+10 18
+11 26
+12 28
+13 19
+13 29
+14 20
+14 30
+15 21
+15 31
+16 22
+16 32
+17 23
+18 24
+18 24
+18 33
+19 20
+19 20
+19 34
+20 35
+21 22
+21 22
+21 36
+22 37
+24 38

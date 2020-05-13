@@ -1,0 +1,118 @@
+Palmitoylethanolamide
+58
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+0 18
+1 20
+1 57
+2 18
+2 19
+2 52
+3 4
+3 5
+3 21
+3 22
+4 6
+4 23
+4 24
+5 7
+5 25
+5 26
+6 8
+6 27
+6 28
+7 9
+7 29
+7 30
+8 10
+8 31
+8 32
+9 11
+9 33
+9 34
+10 12
+10 35
+10 36
+11 13
+11 37
+11 38
+12 14
+12 39
+12 40
+13 16
+13 41
+13 42
+14 15
+14 43
+14 44
+15 17
+15 45
+15 46
+16 18
+16 47
+16 48
+17 49
+17 50
+17 51
+19 20
+19 53
+19 54
+20 55
+20 56

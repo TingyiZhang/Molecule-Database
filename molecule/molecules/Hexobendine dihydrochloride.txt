@@ -1,0 +1,189 @@
+Hexobendine dihydrochloride
+90
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 88
+1 89
+2 22
+2 24
+3 23
+3 25
+4 24
+4 24
+5 25
+5 25
+6 32
+6 38
+7 33
+7 39
+8 34
+8 40
+9 35
+9 41
+10 36
+10 42
+11 37
+11 43
+12 14
+12 16
+12 20
+13 15
+13 17
+13 21
+14 15
+14 44
+14 45
+15 46
+15 47
+16 18
+16 48
+16 49
+17 19
+17 50
+17 51
+18 22
+18 52
+18 53
+19 23
+19 54
+19 55
+20 56
+20 57
+20 58
+21 59
+21 60
+21 61
+22 62
+22 63
+23 64
+23 65
+24 26
+25 27
+26 28
+26 28
+26 30
+27 29
+27 29
+27 31
+28 34
+28 66
+29 35
+29 67
+30 32
+30 32
+30 68
+31 33
+31 33
+31 69
+32 36
+33 37
+34 36
+34 36
+35 37
+35 37
+38 70
+38 71
+38 72
+39 73
+39 74
+39 75
+40 76
+40 77
+40 78
+41 79
+41 80
+41 81
+42 82
+42 83
+42 84
+43 85
+43 86
+43 87

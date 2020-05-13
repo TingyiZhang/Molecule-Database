@@ -1,0 +1,13 @@
+Lithium hydroxide
+3
+"Oxygen"
+"Lithium"
+"Hydrogen"
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 2

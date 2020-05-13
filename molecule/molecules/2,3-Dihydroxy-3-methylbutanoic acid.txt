@@ -1,0 +1,40 @@
+2,3-Dihydroxy-3-methylbutanoic acid
+19
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 16
+1 5
+1 17
+2 8
+2 18
+3 8
+3 8
+4 5
+4 6
+4 7
+5 8
+5 9
+6 10
+6 11
+6 12
+7 13
+7 14
+7 15

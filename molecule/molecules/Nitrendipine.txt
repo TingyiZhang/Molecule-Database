@@ -1,0 +1,103 @@
+Nitrendipine
+46
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 23
+1 19
+1 24
+2 15
+2 15
+3 19
+3 19
+4 7
+5 7
+5 7
+6 12
+6 13
+6 27
+7 20
+8 9
+8 10
+8 11
+8 26
+9 12
+9 12
+9 15
+10 13
+10 13
+10 19
+11 14
+11 14
+11 16
+12 17
+13 18
+14 20
+14 28
+16 21
+16 21
+16 29
+17 30
+17 31
+17 32
+18 33
+18 34
+18 35
+20 22
+20 22
+21 22
+21 36
+22 37
+23 25
+23 38
+23 39
+24 40
+24 41
+24 42
+25 43
+25 44
+25 45

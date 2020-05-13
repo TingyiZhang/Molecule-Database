@@ -1,0 +1,102 @@
+Denbufylline
+47
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 11
+1 12
+1 12
+2 21
+2 21
+3 8
+3 9
+3 11
+4 10
+4 11
+4 12
+5 7
+5 16
+5 17
+6 8
+6 17
+6 17
+7 8
+7 8
+7 12
+9 13
+9 23
+9 24
+10 14
+10 25
+10 26
+13 15
+13 27
+13 28
+14 18
+14 29
+14 30
+15 19
+15 31
+15 32
+16 21
+16 33
+16 34
+17 35
+18 20
+18 36
+18 37
+19 38
+19 39
+19 40
+20 41
+20 42
+20 43
+21 22
+22 44
+22 45
+22 46

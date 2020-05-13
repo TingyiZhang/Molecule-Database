@@ -1,0 +1,43 @@
+2-Hydroxy-3-(1H-imidazol-5-yl)propanoic acid
+19
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 17
+1 9
+1 18
+2 9
+2 9
+3 7
+3 10
+3 14
+4 8
+4 10
+4 10
+5 6
+5 7
+5 11
+5 12
+6 9
+6 13
+7 8
+7 8
+8 15
+10 16

@@ -1,0 +1,65 @@
+Ethyl methylphenylglycidate
+29
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+1 7
+1 13
+2 7
+2 7
+3 4
+3 5
+3 6
+4 7
+4 15
+5 8
+5 8
+5 9
+6 16
+6 17
+6 18
+8 10
+8 19
+9 11
+9 11
+9 20
+10 12
+10 12
+10 21
+11 12
+11 22
+12 23
+13 14
+13 24
+13 25
+14 26
+14 27
+14 28

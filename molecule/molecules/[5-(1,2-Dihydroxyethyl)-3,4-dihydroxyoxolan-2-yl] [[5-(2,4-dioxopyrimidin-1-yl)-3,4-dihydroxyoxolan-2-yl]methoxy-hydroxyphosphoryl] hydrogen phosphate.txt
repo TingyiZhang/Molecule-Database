@@ -1,0 +1,129 @@
+[5-(1,2-Dihydroxyethyl)-3,4-dihydroxyoxolan-2-yl] [[5-(2,4-dioxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] hydrogen phosphate
+60
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 11
+0 13
+0 14
+0 14
+1 9
+1 11
+1 16
+1 17
+1 17
+2 25
+2 27
+3 21
+3 28
+4 28
+5 22
+5 49
+6 23
+6 50
+7 24
+7 51
+8 26
+8 52
+9 30
+10 29
+10 54
+12 31
+12 57
+13 58
+15 32
+15 32
+16 59
+18 35
+18 35
+19 27
+19 32
+19 33
+20 32
+20 35
+20 55
+21 22
+21 29
+21 36
+22 26
+22 37
+23 24
+23 25
+23 38
+24 27
+24 39
+25 30
+25 40
+26 28
+26 41
+27 42
+28 43
+29 31
+29 44
+30 45
+30 46
+31 47
+31 48
+33 34
+33 34
+33 53
+34 35
+34 56

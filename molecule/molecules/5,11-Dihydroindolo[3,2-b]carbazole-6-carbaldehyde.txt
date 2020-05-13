@@ -1,0 +1,84 @@
+5,11-Dihydroindolo[3,2-b]carbazole-6-carbaldehyde
+34
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 17
+1 5
+1 12
+1 23
+2 6
+2 11
+2 24
+3 6
+3 6
+3 7
+3 8
+4 5
+4 9
+4 10
+4 10
+5 7
+5 7
+6 10
+7 17
+8 11
+8 13
+8 13
+9 12
+9 14
+9 14
+10 22
+11 15
+11 15
+12 16
+12 16
+13 18
+13 25
+14 19
+14 26
+15 20
+15 27
+16 21
+16 28
+17 29
+18 20
+18 20
+18 30
+19 21
+19 21
+19 31
+20 32
+21 33

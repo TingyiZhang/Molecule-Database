@@ -1,0 +1,142 @@
+Tobracin
+69
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 20
+1 15
+1 21
+2 16
+2 54
+3 20
+3 26
+4 21
+4 29
+5 22
+5 63
+6 25
+6 64
+7 28
+7 65
+8 30
+8 68
+9 17
+9 48
+9 49
+10 18
+10 50
+10 51
+11 23
+11 59
+11 60
+12 24
+12 61
+12 62
+13 31
+13 66
+13 67
+14 16
+14 17
+14 32
+15 16
+15 18
+15 33
+16 34
+17 19
+17 35
+18 19
+18 36
+19 37
+19 38
+20 22
+20 39
+21 23
+21 40
+22 24
+22 41
+23 27
+23 42
+24 25
+24 43
+25 26
+25 44
+26 30
+26 45
+27 28
+27 46
+27 47
+28 29
+28 52
+29 31
+29 53
+30 55
+30 56
+31 57
+31 58

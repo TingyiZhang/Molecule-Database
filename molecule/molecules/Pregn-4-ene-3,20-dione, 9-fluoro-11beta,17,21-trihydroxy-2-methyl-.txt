@@ -1,0 +1,126 @@
+Pregn-4-ene-3,20-dione, 9-fluoro-11beta,17,21-trihydroxy-2-methyl-
+59
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+1 11
+1 50
+2 13
+2 52
+3 22
+3 22
+4 25
+4 25
+5 26
+5 58
+6 7
+6 11
+6 12
+6 18
+7 8
+7 14
+7 28
+8 9
+8 16
+8 29
+9 10
+9 13
+10 17
+10 20
+10 21
+11 15
+11 22
+12 13
+12 30
+12 31
+13 32
+14 15
+14 33
+14 34
+15 35
+15 36
+16 19
+16 37
+16 38
+17 19
+17 24
+17 24
+18 39
+18 40
+18 41
+19 42
+19 43
+20 23
+20 44
+20 45
+21 46
+21 47
+21 48
+22 26
+23 25
+23 27
+23 49
+24 25
+24 51
+26 53
+26 54
+27 55
+27 56
+27 57

@@ -1,0 +1,97 @@
+Kebuzone
+42
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 8
+1 8
+2 12
+2 12
+3 4
+3 7
+3 10
+4 8
+4 11
+5 6
+5 7
+5 8
+5 24
+6 9
+6 25
+6 26
+9 12
+9 27
+9 28
+10 13
+10 13
+10 15
+11 14
+11 14
+11 16
+12 17
+13 18
+13 29
+14 19
+14 30
+15 20
+15 20
+15 31
+16 21
+16 21
+16 32
+17 33
+17 34
+17 35
+18 22
+18 22
+18 36
+19 23
+19 23
+19 37
+20 22
+20 38
+21 23
+21 39
+22 40
+23 41

@@ -1,0 +1,36 @@
+2,3,6-Trichlorobenzoic acid
+15
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+1 7
+2 8
+3 11
+3 14
+4 11
+4 11
+5 6
+5 7
+5 7
+5 11
+6 8
+6 8
+7 9
+8 10
+9 10
+9 10
+9 12
+10 13

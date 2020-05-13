@@ -1,0 +1,54 @@
+Indole-3-acetamide
+23
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 12
+1 5
+1 7
+1 16
+2 12
+2 21
+2 22
+3 4
+3 5
+3 8
+3 8
+4 6
+4 7
+4 7
+5 9
+5 9
+6 12
+6 13
+6 14
+7 15
+8 10
+8 17
+9 11
+9 18
+10 11
+10 11
+10 19
+11 20

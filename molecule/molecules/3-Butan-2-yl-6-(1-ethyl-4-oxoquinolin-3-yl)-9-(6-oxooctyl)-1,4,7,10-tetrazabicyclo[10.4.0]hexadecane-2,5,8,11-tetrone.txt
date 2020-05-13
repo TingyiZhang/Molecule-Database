@@ -1,0 +1,205 @@
+3-Butan-2-yl-6-(1-ethyl-4-oxoquinolin-3-yl)-9-(6-oxooctyl)-1,4,7,10-tetrazabicyclo[10.4.0]hexadecane-2,5,8,11-tetrone
+95
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 17
+1 19
+1 19
+2 25
+2 25
+3 26
+3 26
+4 33
+4 33
+5 40
+5 40
+6 11
+6 13
+6 17
+7 16
+7 25
+7 60
+8 19
+8 20
+8 61
+9 24
+9 26
+9 70
+10 32
+10 35
+10 37
+11 12
+11 19
+11 46
+12 14
+12 47
+12 48
+13 15
+13 49
+13 50
+14 15
+14 51
+14 52
+15 53
+15 54
+16 17
+16 18
+16 55
+18 21
+18 22
+18 56
+20 23
+20 26
+20 57
+21 28
+21 58
+21 59
+22 62
+22 63
+22 64
+23 27
+23 65
+23 66
+24 25
+24 29
+24 67
+27 30
+27 68
+27 69
+28 71
+28 72
+28 73
+29 32
+29 32
+29 33
+30 31
+30 74
+30 75
+31 36
+31 76
+31 77
+32 78
+33 34
+34 35
+34 38
+34 38
+35 39
+35 39
+36 40
+36 79
+36 80
+37 41
+37 81
+37 82
+38 42
+38 83
+39 43
+39 84
+40 44
+41 85
+41 86
+41 87
+42 43
+42 43
+42 88
+43 89
+44 45
+44 90
+44 91
+45 92
+45 93
+45 94

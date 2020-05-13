@@ -1,0 +1,129 @@
+Adenosine diphosphate ribose
+59
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 11
+0 12
+0 13
+0 13
+1 9
+1 11
+1 14
+1 15
+1 15
+2 23
+2 24
+3 21
+3 48
+4 22
+4 49
+5 27
+5 29
+6 25
+7 26
+7 51
+8 28
+8 52
+9 30
+10 29
+10 53
+12 55
+14 58
+16 24
+16 31
+16 32
+17 32
+17 32
+17 33
+18 31
+18 31
+18 35
+19 34
+19 35
+19 35
+20 34
+20 56
+20 57
+21 22
+21 23
+21 36
+22 24
+22 37
+23 25
+23 38
+24 39
+25 40
+25 41
+26 27
+26 28
+26 42
+27 30
+27 43
+28 29
+28 44
+29 45
+30 46
+30 47
+31 33
+32 50
+33 34
+33 34
+35 54

@@ -1,0 +1,74 @@
+Albendazole
+33
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 12
+1 16
+1 17
+2 16
+2 16
+3 6
+3 11
+3 19
+4 7
+4 11
+4 11
+5 11
+5 16
+5 29
+6 7
+6 7
+6 9
+7 10
+8 9
+8 9
+8 13
+9 18
+10 13
+10 13
+10 20
+12 14
+12 21
+12 22
+13 23
+14 15
+14 24
+14 25
+15 26
+15 27
+15 28
+17 30
+17 31
+17 32

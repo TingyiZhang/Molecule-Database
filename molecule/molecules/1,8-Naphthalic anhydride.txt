@@ -1,0 +1,53 @@
+1,8-Naphthalic anhydride
+21
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 12
+1 11
+1 11
+2 12
+2 12
+3 4
+3 4
+3 5
+3 6
+4 7
+4 8
+5 9
+5 9
+5 11
+6 10
+6 10
+6 12
+7 13
+7 13
+7 15
+8 14
+8 14
+8 16
+9 13
+9 17
+10 14
+10 18
+13 19
+14 20

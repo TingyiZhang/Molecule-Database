@@ -1,0 +1,53 @@
+7-(Methylamino)isoquinoline-5,8-dione
+22
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 8
+1 8
+2 6
+2 13
+2 17
+3 11
+3 11
+3 12
+4 5
+4 5
+4 7
+4 11
+5 8
+5 10
+6 7
+6 9
+6 9
+8 9
+9 14
+10 12
+10 12
+10 15
+11 16
+12 18
+13 19
+13 20
+13 21

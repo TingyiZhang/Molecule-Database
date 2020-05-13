@@ -1,0 +1,44 @@
+4-Aminobutylphosphonic acid
+21
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 3
+0 6
+1 19
+2 20
+4 8
+4 17
+4 18
+5 6
+5 7
+5 9
+5 10
+6 11
+6 12
+7 8
+7 13
+7 14
+8 15
+8 16

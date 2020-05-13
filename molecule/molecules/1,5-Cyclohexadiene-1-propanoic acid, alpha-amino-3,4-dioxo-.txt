@@ -1,0 +1,53 @@
+1,5-Cyclohexadiene-1-propanoic acid, alpha-amino-3,4-dioxo-
+23
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 22
+1 10
+1 10
+2 11
+2 11
+3 13
+3 13
+4 6
+4 19
+4 20
+5 6
+5 7
+5 14
+5 15
+6 10
+6 16
+7 8
+7 8
+7 9
+8 11
+8 17
+9 12
+9 12
+9 18
+11 13
+12 13
+12 21

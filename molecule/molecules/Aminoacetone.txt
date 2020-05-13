@@ -1,0 +1,26 @@
+Aminoacetone
+12
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 3
+1 2
+1 10
+1 11
+2 3
+2 5
+2 6
+3 4
+4 7
+4 8
+4 9

@@ -1,0 +1,74 @@
+Benz[a]anthracene
+30
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 6
+0 6
+1 7
+1 7
+1 8
+2 5
+2 10
+2 10
+3 4
+3 6
+3 12
+3 12
+4 7
+4 13
+4 13
+5 9
+5 11
+5 11
+6 18
+7 19
+8 9
+8 9
+8 20
+9 21
+10 14
+10 22
+11 15
+11 23
+12 16
+12 24
+13 17
+13 25
+14 15
+14 15
+14 26
+15 27
+16 17
+16 17
+16 28
+17 29

@@ -1,0 +1,169 @@
+3-[4-(2-Pyrrolidin-1-yl-ethoxy)-benzyl]-2-4-(2-pyrrolidin-1-yl-ethoxy)-phenyl]-benzo[b]thiophene
+76
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 25
+1 15
+1 19
+2 16
+2 21
+3 5
+3 6
+3 13
+4 7
+4 8
+4 14
+5 9
+5 38
+5 39
+6 10
+6 40
+6 41
+7 11
+7 42
+7 43
+8 12
+8 44
+8 45
+9 10
+9 46
+9 47
+10 48
+10 49
+11 12
+11 50
+11 51
+12 52
+12 53
+13 15
+13 54
+13 55
+14 16
+14 56
+14 57
+15 58
+15 59
+16 60
+16 61
+17 18
+17 20
+17 20
+17 22
+18 23
+18 62
+18 63
+19 26
+19 26
+19 27
+20 24
+21 28
+21 28
+21 29
+22 25
+22 34
+22 34
+23 30
+23 30
+23 31
+24 32
+24 32
+24 33
+25 35
+25 35
+26 30
+26 64
+27 31
+27 31
+27 65
+28 32
+28 66
+29 33
+29 33
+29 67
+30 68
+31 69
+32 70
+33 71
+34 36
+34 72
+35 37
+35 73
+36 37
+36 37
+36 74
+37 75

@@ -1,0 +1,200 @@
+Gallamine triethiodide
+99
+"Iodine"
+"Iodine"
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+3 21
+3 33
+4 22
+4 34
+5 23
+5 35
+6 9
+6 12
+6 13
+6 14
+7 10
+7 15
+7 16
+7 17
+8 11
+8 18
+8 19
+8 20
+9 21
+9 39
+9 40
+10 22
+10 41
+10 42
+11 23
+11 43
+11 44
+12 24
+12 45
+12 46
+13 25
+13 47
+13 48
+14 26
+14 49
+14 50
+15 27
+15 51
+15 52
+16 28
+16 53
+16 54
+17 29
+17 55
+17 56
+18 30
+18 57
+18 58
+19 31
+19 59
+19 60
+20 32
+20 61
+20 62
+21 63
+21 64
+22 65
+22 66
+23 67
+23 68
+24 69
+24 70
+24 71
+25 72
+25 73
+25 74
+26 75
+26 76
+26 77
+27 78
+27 79
+27 80
+28 81
+28 82
+28 83
+29 84
+29 85
+29 86
+30 87
+30 88
+30 89
+31 90
+31 91
+31 92
+32 93
+32 94
+32 95
+33 34
+33 34
+33 35
+34 36
+35 37
+35 37
+36 38
+36 38
+36 96
+37 38
+37 97
+38 98

@@ -1,0 +1,55 @@
+Tolazoline
+24
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 18
+1 2
+1 2
+1 5
+2 4
+3 5
+3 12
+3 13
+4 6
+4 14
+4 15
+5 16
+5 17
+6 7
+6 7
+6 8
+7 9
+7 19
+8 10
+8 10
+8 20
+9 11
+9 11
+9 21
+10 11
+10 22
+11 23

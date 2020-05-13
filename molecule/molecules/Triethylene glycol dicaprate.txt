@@ -1,0 +1,167 @@
+Triethylene glycol dicaprate
+82
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 24
+0 26
+1 25
+1 27
+2 24
+2 24
+3 25
+3 25
+4 28
+4 30
+5 29
+5 31
+6 8
+6 10
+6 32
+6 33
+7 9
+7 11
+7 34
+7 35
+8 12
+8 36
+8 37
+9 13
+9 38
+9 39
+10 14
+10 40
+10 41
+11 15
+11 42
+11 43
+12 16
+12 44
+12 45
+13 17
+13 46
+13 47
+14 18
+14 48
+14 49
+15 19
+15 50
+15 51
+16 20
+16 52
+16 53
+17 21
+17 54
+17 55
+18 22
+18 56
+18 57
+19 23
+19 58
+19 59
+20 24
+20 60
+20 61
+21 25
+21 62
+21 63
+22 64
+22 65
+22 66
+23 67
+23 68
+23 69
+26 28
+26 70
+26 71
+27 29
+27 72
+27 73
+28 74
+28 75
+29 76
+29 77
+30 31
+30 78
+30 79
+31 80
+31 81

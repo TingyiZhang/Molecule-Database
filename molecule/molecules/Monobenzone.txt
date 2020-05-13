@@ -1,0 +1,63 @@
+Monobenzone
+27
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+1 14
+1 26
+2 3
+2 5
+2 5
+2 6
+3 15
+3 16
+4 7
+4 7
+4 8
+5 9
+5 17
+6 10
+6 10
+6 18
+7 12
+7 19
+8 13
+8 13
+8 20
+9 11
+9 11
+9 21
+10 11
+10 22
+11 25
+12 14
+12 14
+12 23
+13 14
+13 24

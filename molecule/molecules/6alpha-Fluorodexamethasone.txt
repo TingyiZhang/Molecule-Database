@@ -1,0 +1,123 @@
+6alpha-Fluorodexamethasone
+57
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 19
+2 11
+2 49
+3 15
+3 51
+4 21
+4 21
+5 26
+5 56
+6 28
+6 28
+7 8
+7 11
+7 13
+7 18
+8 9
+8 12
+8 29
+9 10
+9 17
+9 30
+10 15
+10 16
+11 14
+11 21
+12 14
+12 31
+12 32
+13 15
+13 33
+13 34
+14 22
+14 35
+15 36
+16 20
+16 23
+16 24
+17 19
+17 37
+17 38
+18 39
+18 40
+18 41
+19 20
+19 42
+20 25
+20 25
+21 26
+22 43
+22 44
+22 45
+23 46
+23 47
+23 48
+24 27
+24 27
+24 50
+25 28
+25 52
+26 53
+26 54
+27 28
+27 55

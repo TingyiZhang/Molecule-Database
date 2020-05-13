@@ -1,0 +1,131 @@
+2-(2-Cyclohexyl-2-hydroxy-2-phenylacetyl)oxyethyl-triethylazanium
+62
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 47
+1 16
+1 17
+2 16
+2 16
+3 11
+3 12
+3 13
+3 14
+4 5
+4 6
+4 7
+4 26
+5 8
+5 27
+5 28
+6 9
+6 29
+6 30
+7 15
+7 16
+8 10
+8 31
+8 32
+9 10
+9 33
+9 34
+10 35
+10 36
+11 17
+11 37
+11 38
+12 18
+12 39
+12 40
+13 19
+13 41
+13 42
+14 20
+14 43
+14 44
+15 21
+15 21
+15 22
+17 45
+17 46
+18 48
+18 49
+18 50
+19 51
+19 52
+19 53
+20 54
+20 55
+20 56
+21 23
+21 57
+22 24
+22 24
+22 58
+23 25
+23 25
+23 59
+24 25
+24 60
+25 61

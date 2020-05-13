@@ -1,0 +1,54 @@
+Mimosine
+24
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 22
+1 11
+1 23
+2 10
+2 10
+3 13
+3 13
+4 6
+4 8
+4 9
+5 7
+5 19
+5 20
+6 7
+6 14
+6 15
+7 10
+7 16
+8 11
+8 11
+8 17
+9 12
+9 12
+9 18
+11 13
+12 13
+12 21

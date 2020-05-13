@@ -1,0 +1,35 @@
+2,4-Dichlorobenzyl chloride
+15
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+1 6
+2 9
+3 4
+3 4
+3 5
+3 6
+4 7
+5 8
+5 8
+5 10
+6 11
+6 12
+7 9
+7 9
+7 13
+8 9
+8 14

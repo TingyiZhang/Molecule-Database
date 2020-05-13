@@ -1,0 +1,123 @@
+Docosa-7,10,13,16,19-pentaenoic acid
+58
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 42
+1 9
+1 9
+2 3
+2 4
+2 24
+2 25
+3 5
+3 26
+3 27
+4 6
+4 28
+4 29
+5 7
+5 30
+5 31
+6 9
+6 32
+6 33
+7 8
+7 8
+7 34
+8 10
+8 35
+10 11
+10 36
+10 37
+11 12
+11 12
+11 38
+12 13
+12 39
+13 14
+13 40
+13 41
+14 16
+14 16
+14 43
+15 16
+15 18
+15 44
+15 45
+16 46
+17 19
+17 20
+17 47
+17 48
+18 19
+18 19
+18 49
+19 50
+20 22
+20 22
+20 51
+21 22
+21 23
+21 52
+21 53
+22 54
+23 55
+23 56
+23 57

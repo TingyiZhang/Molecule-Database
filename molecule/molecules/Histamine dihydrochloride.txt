@@ -1,0 +1,44 @@
+Histamine dihydrochloride
+21
+"Chlorine"
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+1 20
+2 6
+2 9
+2 14
+3 7
+3 17
+3 18
+4 8
+4 9
+4 9
+5 6
+5 7
+5 10
+5 11
+6 8
+6 8
+7 12
+7 13
+8 15
+9 16

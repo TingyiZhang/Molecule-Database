@@ -1,0 +1,75 @@
+Metiazinic acid
+32
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 7
+1 18
+1 31
+2 18
+2 18
+3 4
+3 5
+3 11
+4 6
+4 6
+4 8
+5 7
+5 13
+5 13
+6 10
+7 15
+7 15
+8 9
+8 9
+8 19
+9 12
+9 14
+10 12
+10 12
+10 20
+11 21
+11 22
+11 23
+12 24
+13 16
+13 25
+14 18
+14 26
+14 27
+15 17
+15 28
+16 17
+16 17
+16 29
+17 30

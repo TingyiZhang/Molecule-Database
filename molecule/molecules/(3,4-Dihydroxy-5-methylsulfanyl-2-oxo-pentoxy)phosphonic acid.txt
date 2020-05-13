@@ -1,0 +1,59 @@
+(3,4-Dihydroxy-5-methylsulfanyl-2-oxo-pentoxy)phosphonic acid
+28
+"Sulfur"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 14
+1 4
+1 6
+1 7
+1 8
+1 8
+2 9
+2 21
+3 10
+3 22
+4 13
+5 12
+5 12
+6 26
+7 27
+9 10
+9 11
+9 15
+10 12
+10 16
+11 17
+11 18
+12 13
+13 19
+13 20
+14 23
+14 24
+14 25

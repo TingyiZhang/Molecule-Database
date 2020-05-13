@@ -1,0 +1,76 @@
+Nocodazole
+32
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 18
+1 14
+1 14
+2 19
+2 20
+3 19
+3 19
+4 7
+4 12
+4 22
+5 8
+5 12
+5 12
+6 12
+6 19
+6 25
+7 8
+7 8
+7 10
+8 11
+9 10
+9 10
+9 13
+9 14
+10 21
+11 13
+11 13
+11 23
+13 24
+14 15
+15 16
+15 16
+16 17
+16 26
+17 18
+17 18
+17 27
+18 28
+20 29
+20 30
+20 31

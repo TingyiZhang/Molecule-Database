@@ -1,0 +1,46 @@
+Dephostatin
+20
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 18
+1 8
+1 19
+2 4
+2 4
+3 4
+3 5
+3 11
+5 6
+5 6
+5 7
+6 9
+7 8
+7 8
+7 12
+8 10
+9 10
+9 10
+9 13
+10 14
+11 15
+11 16
+11 17

@@ -1,0 +1,119 @@
+Triethylene glycol bis(2-ethylbutyrate)
+58
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 18
+1 13
+1 19
+2 20
+2 22
+3 21
+3 23
+4 12
+4 12
+5 13
+5 13
+6 8
+6 9
+6 12
+6 24
+7 10
+7 11
+7 13
+7 25
+8 14
+8 26
+8 27
+9 15
+9 28
+9 29
+10 16
+10 30
+10 31
+11 17
+11 32
+11 33
+14 34
+14 35
+14 36
+15 37
+15 38
+15 39
+16 40
+16 41
+16 42
+17 43
+17 44
+17 45
+18 20
+18 46
+18 47
+19 21
+19 48
+19 49
+20 50
+20 51
+21 52
+21 53
+22 23
+22 54
+22 55
+23 56
+23 57

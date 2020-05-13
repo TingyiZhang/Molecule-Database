@@ -1,0 +1,56 @@
+2-Benzoylpyridine
+23
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 3
+1 4
+1 13
+1 13
+2 3
+2 5
+2 5
+2 6
+3 4
+4 7
+4 7
+5 8
+5 14
+6 9
+6 9
+6 15
+7 11
+7 16
+8 10
+8 10
+8 17
+9 10
+9 18
+10 19
+11 12
+11 12
+11 20
+12 13
+12 21
+13 22

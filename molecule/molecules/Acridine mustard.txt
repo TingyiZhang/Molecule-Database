@@ -1,0 +1,121 @@
+Acridine mustard
+56
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+1 27
+2 54
+3 55
+4 24
+4 28
+5 8
+5 12
+5 13
+6 10
+6 11
+6 35
+7 16
+7 16
+7 17
+8 9
+8 29
+8 30
+9 10
+9 31
+9 32
+10 33
+10 34
+11 14
+11 14
+11 15
+12 18
+12 36
+12 37
+13 19
+13 38
+13 39
+14 16
+14 20
+15 17
+15 17
+15 21
+16 22
+17 23
+18 40
+18 41
+19 42
+19 43
+19 44
+20 24
+20 24
+20 45
+21 26
+21 26
+21 46
+22 25
+22 25
+22 47
+23 27
+23 27
+23 48
+24 25
+25 49
+26 27
+26 50
+28 51
+28 52
+28 53

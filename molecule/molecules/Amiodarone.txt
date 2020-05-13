@@ -1,0 +1,132 @@
+Amiodarone
+60
+"Iodine"
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 29
+1 30
+2 7
+2 11
+3 17
+3 24
+4 14
+4 14
+5 12
+5 15
+5 16
+6 7
+6 9
+6 31
+6 32
+7 8
+7 8
+8 10
+8 14
+9 13
+9 33
+9 34
+10 11
+10 18
+10 18
+11 20
+11 20
+12 17
+12 35
+12 36
+13 21
+13 37
+13 38
+14 19
+15 22
+15 39
+15 40
+16 23
+16 41
+16 42
+17 43
+17 44
+18 25
+18 45
+19 27
+19 27
+19 28
+20 26
+20 46
+21 47
+21 48
+21 49
+22 50
+22 51
+22 52
+23 53
+23 54
+23 55
+24 29
+24 29
+24 30
+25 26
+25 26
+25 56
+26 57
+27 29
+27 58
+28 30
+28 30
+28 59

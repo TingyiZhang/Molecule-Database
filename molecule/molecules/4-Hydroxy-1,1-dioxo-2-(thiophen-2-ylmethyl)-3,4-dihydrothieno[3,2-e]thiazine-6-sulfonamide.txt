@@ -1,0 +1,80 @@
+4-Hydroxy-1,1-dioxo-2-(thiophen-2-ylmethyl)-3,4-dihydrothieno[3,2-e]thiazine-6-sulfonamide
+34
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 5
+0 6
+0 6
+0 9
+0 14
+1 14
+1 17
+2 7
+2 7
+2 8
+2 8
+2 10
+2 17
+3 18
+3 21
+4 11
+4 28
+9 12
+9 15
+10 30
+10 31
+11 12
+11 13
+11 22
+12 23
+12 24
+13 14
+13 14
+13 16
+15 18
+15 25
+15 26
+16 17
+16 17
+16 27
+18 19
+18 19
+19 20
+19 29
+20 21
+20 21
+20 32
+21 33

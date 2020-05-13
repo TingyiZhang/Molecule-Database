@@ -1,0 +1,37 @@
+4-(Methylsulfanyl)-2-oxobutanoic acid
+17
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 7
+1 6
+1 6
+2 8
+2 16
+3 8
+3 8
+4 5
+4 6
+4 9
+4 10
+5 11
+5 12
+6 8
+7 13
+7 14
+7 15

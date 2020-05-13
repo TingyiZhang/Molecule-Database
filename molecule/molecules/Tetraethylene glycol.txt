@@ -1,0 +1,63 @@
+Tetraethylene glycol
+31
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+1 7
+1 9
+2 8
+2 10
+3 11
+3 29
+4 12
+4 30
+5 7
+5 13
+5 14
+6 8
+6 15
+6 16
+7 17
+7 18
+8 19
+8 20
+9 11
+9 21
+9 22
+10 12
+10 23
+10 24
+11 25
+11 26
+12 27
+12 28

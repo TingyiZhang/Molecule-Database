@@ -1,0 +1,14 @@
+2-Chloro-1,1-difluoroethylene
+6
+"Chlorine"
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Hydrogen"
+0 4
+1 3
+2 3
+3 4
+3 4
+4 5

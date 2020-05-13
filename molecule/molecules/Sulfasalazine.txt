@@ -1,0 +1,101 @@
+Sulfasalazine
+42
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 6
+0 10
+3 21
+3 40
+4 27
+4 41
+5 27
+5 27
+6 16
+6 30
+7 9
+7 9
+7 13
+8 16
+8 25
+8 25
+9 17
+10 11
+10 11
+10 12
+11 14
+11 28
+12 15
+12 15
+12 29
+13 14
+13 14
+13 15
+14 31
+15 32
+16 18
+16 18
+17 20
+17 20
+17 22
+18 24
+18 33
+19 20
+19 21
+19 21
+19 27
+20 34
+21 23
+22 23
+22 23
+22 35
+23 36
+24 26
+24 26
+24 37
+25 26
+25 38
+26 39

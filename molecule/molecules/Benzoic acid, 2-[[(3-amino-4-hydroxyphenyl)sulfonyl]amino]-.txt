@@ -1,0 +1,78 @@
+Benzoic acid, 2-[[(3-amino-4-hydroxyphenyl)sulfonyl]amino]-
+33
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 6
+0 8
+3 16
+3 31
+4 20
+4 32
+5 20
+5 20
+6 9
+6 21
+7 13
+7 29
+7 30
+8 10
+8 10
+8 11
+9 12
+9 14
+9 14
+10 13
+10 22
+11 15
+11 15
+11 23
+12 17
+12 17
+12 20
+13 16
+13 16
+14 18
+14 24
+15 16
+15 25
+17 19
+17 26
+18 19
+18 19
+18 27
+19 28

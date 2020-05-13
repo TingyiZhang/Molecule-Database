@@ -1,0 +1,26 @@
+(Methylseleno)acetic acid
+12
+"Selenium"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 5
+1 4
+1 11
+2 4
+2 4
+3 4
+3 6
+3 7
+5 8
+5 9
+5 10

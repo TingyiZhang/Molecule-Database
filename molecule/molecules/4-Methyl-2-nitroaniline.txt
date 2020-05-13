@@ -1,0 +1,44 @@
+4-Methyl-2-nitroaniline
+19
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+1 2
+1 2
+2 5
+3 6
+3 17
+3 18
+4 7
+4 7
+4 8
+4 10
+5 6
+5 6
+5 7
+6 9
+7 11
+8 9
+8 9
+8 12
+9 13
+10 14
+10 15
+10 16

@@ -1,0 +1,127 @@
+Benexate
+57
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 16
+1 14
+1 14
+2 21
+2 23
+3 21
+3 21
+4 13
+4 15
+4 15
+5 15
+5 43
+5 44
+6 15
+6 45
+6 46
+7 9
+7 10
+7 13
+7 30
+8 11
+8 12
+8 14
+8 31
+9 11
+9 32
+9 33
+10 12
+10 34
+10 35
+11 36
+11 37
+12 38
+12 39
+13 40
+13 41
+16 17
+16 18
+16 18
+17 19
+17 19
+17 21
+18 20
+18 42
+19 22
+19 47
+20 22
+20 22
+20 48
+22 49
+23 24
+23 50
+23 51
+24 25
+24 25
+24 26
+25 27
+25 52
+26 28
+26 28
+26 53
+27 29
+27 29
+27 54
+28 29
+28 55
+29 56

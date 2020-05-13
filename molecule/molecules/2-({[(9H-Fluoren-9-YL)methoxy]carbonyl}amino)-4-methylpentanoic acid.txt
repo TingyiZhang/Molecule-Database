@@ -1,0 +1,110 @@
+2-({[(9H-Fluoren-9-YL)methoxy]carbonyl}amino)-4-methylpentanoic acid
+49
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 24
+1 25
+1 48
+2 24
+2 24
+3 25
+3 25
+4 15
+4 24
+4 41
+5 6
+5 7
+5 10
+5 26
+6 8
+6 13
+6 13
+7 9
+7 14
+7 14
+8 9
+8 16
+8 16
+9 17
+9 17
+10 27
+10 28
+11 12
+11 15
+11 29
+11 30
+12 22
+12 23
+12 31
+13 18
+13 32
+14 19
+14 33
+15 25
+15 34
+16 20
+16 35
+17 21
+17 36
+18 20
+18 20
+18 37
+19 21
+19 21
+19 38
+20 39
+21 40
+22 42
+22 43
+22 44
+23 45
+23 46
+23 47

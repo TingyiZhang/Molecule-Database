@@ -1,0 +1,107 @@
+Strychnin
+47
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 21
+1 18
+1 18
+2 6
+2 12
+2 15
+3 5
+3 16
+3 18
+4 5
+4 6
+4 10
+4 11
+5 7
+5 25
+6 9
+6 26
+7 8
+7 13
+7 27
+8 9
+8 14
+8 28
+9 29
+9 30
+10 12
+10 31
+10 32
+11 16
+11 20
+11 20
+12 33
+12 34
+13 17
+13 35
+14 15
+14 19
+14 19
+15 36
+15 37
+16 22
+16 22
+17 18
+17 38
+17 39
+19 21
+19 40
+20 23
+20 41
+21 42
+21 43
+22 24
+22 44
+23 24
+23 24
+23 45
+24 46

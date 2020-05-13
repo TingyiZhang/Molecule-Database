@@ -1,0 +1,52 @@
+2-Amino-6-(hydroxyamino)hexanoic acid
+25
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 23
+1 10
+1 10
+2 4
+2 24
+3 8
+3 20
+3 21
+4 9
+4 22
+5 6
+5 7
+5 11
+5 12
+6 8
+6 13
+6 14
+7 9
+7 15
+7 16
+8 10
+8 17
+9 18
+9 19

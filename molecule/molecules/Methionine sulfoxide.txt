@@ -1,0 +1,45 @@
+Methionine sulfoxide
+21
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+0 7
+0 9
+1 8
+1 20
+3 8
+3 8
+4 6
+4 15
+4 16
+5 6
+5 7
+5 10
+5 11
+6 8
+6 12
+7 13
+7 14
+9 17
+9 18
+9 19

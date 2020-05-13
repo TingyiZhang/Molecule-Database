@@ -1,0 +1,350 @@
+Valinomycin
+168
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 24
+0 45
+1 25
+1 46
+2 26
+2 47
+3 48
+3 69
+4 49
+4 70
+5 50
+5 71
+6 42
+6 42
+7 43
+7 43
+8 44
+8 44
+9 45
+9 45
+10 46
+10 46
+11 47
+11 47
+12 48
+12 48
+13 49
+13 49
+14 50
+14 50
+15 72
+15 72
+16 73
+16 73
+17 74
+17 74
+18 27
+18 42
+18 96
+19 28
+19 43
+19 97
+20 29
+20 44
+20 98
+21 30
+21 72
+21 99
+22 31
+22 73
+22 100
+23 32
+23 74
+23 101
+24 33
+24 42
+24 78
+25 34
+25 44
+25 79
+26 35
+26 43
+26 80
+27 36
+27 48
+27 81
+28 37
+28 49
+28 82
+29 38
+29 50
+29 83
+30 39
+30 45
+30 84
+31 40
+31 46
+31 85
+32 41
+32 47
+32 86
+33 51
+33 52
+33 87
+34 53
+34 54
+34 88
+35 55
+35 56
+35 89
+36 57
+36 58
+36 90
+37 59
+37 60
+37 91
+38 61
+38 62
+38 92
+39 63
+39 64
+39 93
+40 65
+40 66
+40 94
+41 67
+41 68
+41 95
+51 102
+51 103
+51 104
+52 105
+52 106
+52 107
+53 108
+53 109
+53 110
+54 111
+54 112
+54 113
+55 114
+55 115
+55 116
+56 117
+56 118
+56 119
+57 120
+57 121
+57 122
+58 123
+58 124
+58 125
+59 126
+59 127
+59 128
+60 129
+60 130
+60 131
+61 132
+61 133
+61 134
+62 135
+62 136
+62 137
+63 138
+63 139
+63 140
+64 141
+64 142
+64 143
+65 144
+65 145
+65 146
+66 147
+66 148
+66 149
+67 150
+67 151
+67 152
+68 153
+68 154
+68 155
+69 73
+69 75
+69 156
+70 72
+70 76
+70 157
+71 74
+71 77
+71 158
+75 159
+75 160
+75 161
+76 162
+76 163
+76 164
+77 165
+77 166
+77 167

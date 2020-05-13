@@ -1,0 +1,12 @@
+Nitric acid
+5
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Hydrogen"
+0 3
+0 4
+1 3
+2 3
+2 3

@@ -1,0 +1,71 @@
+7H-Benzo[c]fluorene
+29
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 3
+0 5
+1 2
+1 7
+2 4
+2 17
+2 18
+3 4
+3 8
+3 8
+4 10
+4 10
+5 6
+5 11
+5 11
+6 9
+6 12
+6 12
+7 9
+7 9
+7 19
+8 13
+8 20
+9 21
+10 14
+10 22
+11 15
+11 23
+12 16
+12 24
+13 14
+13 14
+13 25
+14 26
+15 16
+15 16
+15 27
+16 28

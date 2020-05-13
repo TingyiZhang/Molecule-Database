@@ -1,0 +1,29 @@
+5-Fluorouracil
+12
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 5
+1 5
+2 6
+2 6
+3 5
+3 6
+3 9
+4 6
+4 8
+4 10
+5 7
+7 8
+7 8
+8 11

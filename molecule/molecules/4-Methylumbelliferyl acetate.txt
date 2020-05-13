@@ -1,0 +1,61 @@
+4-Methylumbelliferyl acetate
+26
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 13
+1 9
+1 14
+2 13
+2 13
+3 14
+3 14
+4 5
+4 6
+4 6
+4 7
+5 11
+5 11
+5 12
+6 8
+7 10
+7 10
+7 16
+8 9
+8 9
+8 17
+9 10
+10 18
+11 13
+11 19
+12 20
+12 21
+12 22
+14 15
+15 23
+15 24
+15 25

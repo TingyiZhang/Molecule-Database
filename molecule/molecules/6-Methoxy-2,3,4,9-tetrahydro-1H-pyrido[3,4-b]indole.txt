@@ -1,0 +1,66 @@
+6-Methoxy-2,3,4,9-tetrahydro-1H-pyrido[3,4-b]indole
+29
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 14
+1 4
+1 9
+1 21
+2 7
+2 8
+2 22
+3 4
+3 4
+3 5
+3 6
+4 7
+5 8
+5 15
+5 16
+6 9
+6 9
+6 10
+7 17
+7 18
+8 19
+8 20
+9 11
+10 12
+10 12
+10 23
+11 13
+11 13
+11 24
+12 13
+13 25
+14 26
+14 27
+14 28

@@ -1,0 +1,89 @@
+3,4-Dihydro-3-hydroxy-2,2-dimethyl-4-(3-oxo-cyclopent-1-enyloxy)-2H-1-benzopyran-6-carbonitrile
+39
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 11
+1 7
+1 13
+2 6
+2 31
+3 20
+3 20
+4 21
+4 21
+4 21
+5 6
+5 9
+5 10
+6 7
+6 22
+7 8
+7 23
+8 11
+8 11
+8 12
+9 24
+9 25
+9 26
+10 27
+10 28
+10 29
+11 14
+12 17
+12 17
+12 30
+13 15
+13 18
+13 18
+14 19
+14 19
+14 34
+15 16
+15 32
+15 33
+16 20
+16 35
+16 36
+17 19
+17 21
+18 20
+18 37
+19 38

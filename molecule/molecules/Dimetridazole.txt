@@ -1,0 +1,39 @@
+Dimetridazole
+17
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+1 4
+1 4
+2 5
+2 6
+2 7
+3 5
+3 5
+3 8
+4 6
+5 9
+6 8
+6 8
+7 10
+7 11
+7 12
+8 13
+9 14
+9 15
+9 16

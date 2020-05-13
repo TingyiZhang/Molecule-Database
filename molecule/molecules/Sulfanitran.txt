@@ -1,0 +1,85 @@
+Sulfanitran
+36
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 6
+0 9
+3 21
+3 21
+4 8
+5 8
+5 8
+6 10
+6 23
+7 13
+7 21
+7 32
+8 18
+9 11
+9 11
+9 12
+10 16
+10 16
+10 17
+11 14
+11 24
+12 15
+12 15
+12 25
+13 14
+13 14
+13 15
+14 26
+15 27
+16 19
+16 28
+17 20
+17 20
+17 29
+18 19
+18 19
+18 20
+19 30
+20 31
+21 22
+22 33
+22 34
+22 35

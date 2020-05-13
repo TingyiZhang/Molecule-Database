@@ -1,0 +1,102 @@
+2-Fluoropalmitic acid
+50
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+1 18
+1 49
+2 18
+2 18
+3 4
+3 5
+3 19
+3 20
+4 6
+4 21
+4 22
+5 7
+5 23
+5 24
+6 8
+6 25
+6 26
+7 9
+7 27
+7 28
+8 10
+8 29
+8 30
+9 11
+9 31
+9 32
+10 12
+10 33
+10 34
+11 13
+11 35
+11 36
+12 14
+12 37
+12 38
+13 15
+13 39
+13 40
+14 16
+14 41
+14 42
+15 17
+15 43
+15 44
+16 18
+16 45
+17 46
+17 47
+17 48

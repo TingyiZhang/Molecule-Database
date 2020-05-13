@@ -1,0 +1,150 @@
+Sodium 2-hydroxy-3-(octadec-9-enoyloxy)propyl hydrogen phosphate
+70
+"Phosphorus"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+0 7
+0 8
+0 8
+1 6
+1 6
+1 6
+1 6
+1 6
+1 6
+1 6
+2 26
+2 27
+3 26
+3 26
+4 28
+4 68
+5 29
+7 69
+9 10
+9 13
+9 30
+9 31
+10 15
+10 32
+10 33
+11 12
+11 14
+11 34
+11 35
+12 16
+12 36
+12 37
+13 18
+13 38
+13 39
+14 17
+14 40
+14 41
+15 19
+15 42
+15 43
+16 20
+16 44
+16 45
+17 21
+17 46
+17 47
+18 22
+18 48
+18 49
+19 23
+19 50
+19 51
+20 24
+20 52
+20 53
+21 25
+21 54
+21 55
+22 26
+22 56
+22 57
+23 24
+23 24
+23 58
+24 59
+25 60
+25 61
+25 62
+27 28
+27 63
+27 64
+28 29
+28 65
+29 66
+29 67

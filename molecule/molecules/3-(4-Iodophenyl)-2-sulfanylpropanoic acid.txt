@@ -1,0 +1,50 @@
+3-(4-Iodophenyl)-2-sulfanylpropanoic acid
+22
+"Iodine"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 6
+1 20
+2 9
+2 21
+3 9
+3 9
+4 5
+4 6
+4 13
+4 14
+5 7
+5 7
+5 8
+6 9
+6 15
+7 10
+7 16
+8 11
+8 11
+8 17
+10 12
+10 12
+10 18
+11 12
+11 19

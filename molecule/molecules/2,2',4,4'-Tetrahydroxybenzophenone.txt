@@ -1,0 +1,66 @@
+2,2',4,4'-Tetrahydroxybenzophenone
+28
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 24
+1 9
+1 25
+2 7
+2 7
+3 16
+3 26
+4 17
+4 27
+5 7
+5 8
+5 8
+5 10
+6 7
+6 9
+6 9
+6 11
+8 12
+9 13
+10 14
+10 14
+10 18
+11 15
+11 15
+11 19
+12 16
+12 16
+12 20
+13 17
+13 17
+13 21
+14 16
+14 22
+15 17
+15 23

@@ -1,0 +1,128 @@
+(R)-Methyl 2-acetamido-3-(((2E,6E)-3,7,11-trimethyldodeca-2,6,10-trien-1-yl)thio)propanoate
+61
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 16
+1 20
+1 25
+2 20
+2 20
+3 23
+3 23
+4 13
+4 23
+4 48
+5 6
+5 9
+5 28
+5 29
+6 10
+6 26
+6 27
+7 8
+7 11
+7 30
+7 31
+8 9
+8 9
+8 14
+9 32
+10 12
+10 12
+10 17
+11 18
+11 33
+11 34
+12 15
+12 35
+13 16
+13 20
+13 36
+14 37
+14 38
+14 39
+15 40
+15 41
+16 42
+16 43
+17 44
+17 45
+17 46
+18 19
+18 19
+18 47
+19 21
+19 22
+21 49
+21 50
+21 51
+22 52
+22 53
+22 54
+23 24
+24 55
+24 56
+24 57
+25 58
+25 59
+25 60

@@ -1,0 +1,100 @@
+Proparacaine
+47
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 12
+1 13
+1 17
+2 12
+2 12
+3 5
+3 6
+3 7
+4 14
+4 45
+4 46
+5 8
+5 21
+5 22
+6 9
+6 23
+6 24
+7 10
+7 25
+7 26
+8 27
+8 28
+9 29
+9 30
+9 31
+10 32
+10 33
+10 34
+11 12
+11 15
+11 15
+11 16
+13 14
+13 14
+13 18
+14 15
+15 35
+16 18
+16 18
+16 36
+17 19
+17 37
+17 38
+18 39
+19 20
+19 40
+19 41
+20 42
+20 43
+20 44

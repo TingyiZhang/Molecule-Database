@@ -1,0 +1,31 @@
+Barbituric acid
+13
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+1 7
+1 7
+2 8
+2 8
+3 6
+3 8
+3 11
+4 7
+4 8
+4 12
+5 6
+5 7
+5 9
+5 10

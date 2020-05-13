@@ -1,0 +1,40 @@
+Glycerophosphoric acid
+19
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 4
+0 5
+0 6
+0 6
+1 8
+2 7
+2 15
+3 9
+3 16
+4 17
+5 18
+7 8
+7 9
+7 10
+8 11
+8 12
+9 13
+9 14

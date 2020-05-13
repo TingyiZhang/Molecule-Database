@@ -1,0 +1,110 @@
+Oxiraneoctanoic acid, 3-(2-octenyl)-
+53
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+1 19
+1 52
+2 19
+2 19
+3 4
+3 5
+3 21
+4 6
+4 22
+5 7
+5 23
+5 24
+6 10
+6 25
+6 26
+7 8
+7 27
+7 28
+8 9
+8 29
+8 30
+9 11
+9 31
+9 32
+10 12
+10 12
+10 33
+11 13
+11 34
+11 35
+12 14
+12 36
+13 16
+13 37
+13 38
+14 15
+14 39
+14 40
+15 17
+15 41
+15 42
+16 19
+16 43
+16 44
+17 18
+17 45
+17 46
+18 20
+18 47
+18 48
+20 49
+20 50
+20 51

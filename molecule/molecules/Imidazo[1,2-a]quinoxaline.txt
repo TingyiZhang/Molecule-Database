@@ -1,0 +1,50 @@
+Imidazo[1,2-a]quinoxaline
+20
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+0 6
+1 5
+1 8
+1 8
+2 4
+2 4
+2 10
+3 5
+3 7
+3 7
+4 8
+5 9
+5 9
+6 10
+6 10
+6 13
+7 11
+7 14
+8 15
+9 12
+9 16
+10 17
+11 12
+11 12
+11 18
+12 19

@@ -1,0 +1,18 @@
+Bromoacetic acid
+8
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+1 4
+1 7
+2 4
+2 4
+3 4
+3 5
+3 6

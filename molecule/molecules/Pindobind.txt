@@ -1,0 +1,137 @@
+Pindobind
+64
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+1 19
+1 57
+2 18
+2 18
+3 21
+3 22
+4 9
+4 17
+4 48
+5 8
+5 18
+5 49
+6 25
+6 29
+6 62
+7 9
+7 10
+7 11
+7 30
+8 12
+8 13
+8 14
+9 15
+9 16
+10 12
+10 31
+10 32
+11 13
+11 33
+11 34
+12 35
+12 36
+13 37
+13 38
+14 39
+14 40
+14 41
+15 42
+15 43
+15 44
+16 45
+16 46
+16 47
+17 19
+17 50
+17 51
+18 20
+19 21
+19 52
+20 53
+20 54
+21 55
+21 56
+22 23
+22 24
+22 24
+23 25
+23 25
+23 26
+24 27
+24 58
+25 28
+26 29
+26 29
+26 59
+27 28
+27 28
+27 60
+28 61
+29 63

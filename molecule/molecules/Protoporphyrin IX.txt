@@ -1,0 +1,173 @@
+Protoporphyrin IX
+76
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 38
+0 74
+1 39
+1 75
+2 38
+2 38
+3 39
+3 39
+4 16
+4 19
+4 49
+5 17
+5 18
+5 50
+6 10
+6 10
+6 14
+7 12
+7 15
+7 15
+8 10
+8 11
+8 11
+8 20
+9 12
+9 13
+9 13
+9 21
+10 22
+11 14
+11 30
+12 22
+12 22
+13 15
+13 33
+14 27
+14 27
+15 28
+16 23
+16 23
+16 27
+17 24
+17 29
+17 29
+18 26
+18 28
+18 28
+19 25
+19 25
+19 29
+20 31
+20 42
+20 43
+21 32
+21 44
+21 45
+22 46
+23 25
+23 34
+24 26
+24 26
+24 35
+25 36
+26 37
+27 47
+28 48
+29 51
+30 52
+30 53
+30 54
+31 38
+31 55
+31 56
+32 39
+32 57
+32 58
+33 59
+33 60
+33 61
+34 62
+34 63
+34 64
+35 65
+35 66
+35 67
+36 40
+36 40
+36 68
+37 41
+37 41
+37 69
+40 70
+40 71
+41 72
+41 73

@@ -1,0 +1,50 @@
+o-Acetotoluidide
+22
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 9
+1 2
+1 9
+1 13
+2 3
+2 4
+2 4
+3 5
+3 5
+3 6
+4 7
+4 11
+5 8
+5 12
+6 14
+6 15
+6 16
+7 8
+7 8
+7 17
+8 18
+9 10
+10 19
+10 20
+10 21

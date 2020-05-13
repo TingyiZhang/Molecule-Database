@@ -1,0 +1,79 @@
+Sulfacytine
+34
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 5
+0 8
+3 15
+3 15
+4 10
+4 11
+4 15
+5 9
+5 20
+6 9
+6 9
+6 15
+7 18
+7 32
+7 33
+8 13
+8 13
+8 14
+9 12
+10 19
+10 21
+10 22
+11 12
+11 12
+11 23
+12 24
+13 16
+13 25
+14 17
+14 17
+14 26
+16 18
+16 18
+16 27
+17 18
+17 28
+19 29
+19 30
+19 31

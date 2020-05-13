@@ -1,0 +1,94 @@
+5-Isothiocyanato-2-[2-(2-sulfo-4-thiocyanatophenyl)ethenyl]benzenesulfonic acid
+38
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 6
+0 6
+0 7
+0 7
+0 14
+1 5
+1 8
+1 8
+1 9
+1 9
+1 15
+2 22
+2 26
+3 27
+3 27
+4 36
+5 37
+10 23
+10 27
+10 27
+11 26
+11 26
+11 26
+12 14
+12 14
+12 16
+12 18
+13 15
+13 15
+13 17
+13 19
+14 20
+15 21
+16 17
+16 17
+16 28
+17 29
+18 24
+18 24
+18 30
+19 25
+19 25
+19 31
+20 22
+20 22
+20 32
+21 23
+21 23
+21 33
+22 24
+23 25
+24 34
+25 35

@@ -1,0 +1,28 @@
+2,2,2-Trichloroethyl carbamate
+13
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 7
+2 7
+3 6
+3 8
+4 8
+4 8
+5 8
+5 11
+5 12
+6 7
+6 9
+6 10

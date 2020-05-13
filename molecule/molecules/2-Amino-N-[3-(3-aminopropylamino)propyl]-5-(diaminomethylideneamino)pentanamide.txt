@@ -1,0 +1,101 @@
+2-Amino-N-[3-(3-aminopropylamino)propyl]-5-(diaminomethylideneamino)pentanamide
+49
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 14
+1 11
+1 14
+1 31
+2 13
+2 15
+2 34
+3 8
+3 39
+3 40
+4 17
+4 19
+4 19
+5 18
+5 43
+5 44
+6 19
+6 45
+6 46
+7 19
+7 47
+7 48
+8 9
+8 14
+8 20
+9 12
+9 21
+9 22
+10 11
+10 13
+10 23
+10 24
+11 25
+11 26
+12 17
+12 27
+12 28
+13 29
+13 30
+15 16
+15 32
+15 33
+16 18
+16 35
+16 36
+17 37
+17 38
+18 41
+18 42

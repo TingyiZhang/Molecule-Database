@@ -1,0 +1,93 @@
+Oxymetazoline
+43
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 42
+1 14
+1 17
+1 39
+2 14
+2 14
+2 18
+3 4
+3 10
+3 11
+3 12
+4 6
+4 6
+4 9
+5 7
+5 7
+5 8
+5 13
+6 7
+7 15
+8 9
+8 9
+8 16
+9 19
+10 20
+10 21
+10 22
+11 23
+11 24
+11 25
+12 26
+12 27
+12 28
+13 14
+13 29
+13 30
+15 31
+15 32
+15 33
+16 34
+16 35
+16 36
+17 18
+17 37
+17 38
+18 40
+18 41

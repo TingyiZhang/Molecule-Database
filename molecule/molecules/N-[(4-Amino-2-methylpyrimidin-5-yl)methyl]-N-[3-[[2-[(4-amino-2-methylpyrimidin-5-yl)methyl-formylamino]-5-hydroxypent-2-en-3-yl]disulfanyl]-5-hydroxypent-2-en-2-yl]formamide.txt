@@ -1,0 +1,157 @@
+N-[(4-Amino-2-methylpyrimidin-5-yl)methyl]-N-[3-[[2-[(4-amino-2-methylpyrimidin-5-yl)methyl-formylamino]-5-hydroxypent-2-en-3-yl]disulfanyl]-5-hydroxypent-2-en-2-yl]formamide
+72
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 16
+1 17
+2 26
+2 64
+3 27
+3 65
+4 30
+4 30
+5 31
+5 31
+6 14
+6 18
+6 30
+7 15
+7 19
+7 31
+8 28
+8 28
+8 34
+9 29
+9 29
+9 35
+10 32
+10 34
+10 34
+11 33
+11 35
+11 35
+12 28
+12 60
+12 61
+13 29
+13 62
+13 63
+14 16
+14 16
+14 24
+15 17
+15 17
+15 25
+16 20
+17 21
+18 22
+18 38
+18 39
+19 23
+19 40
+19 41
+20 26
+20 42
+20 43
+21 27
+21 44
+21 45
+22 28
+22 32
+22 32
+23 29
+23 33
+23 33
+24 46
+24 47
+24 48
+25 49
+25 50
+25 51
+26 52
+26 53
+27 54
+27 55
+30 56
+31 57
+32 58
+33 59
+34 36
+35 37
+36 66
+36 67
+36 68
+37 69
+37 70
+37 71

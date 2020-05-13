@@ -1,0 +1,131 @@
+2-[1-(4-Chlorobenzoyl)-5-methoxy-2-methylindol-3-yl]-N-(2-pyridin-3-ylethyl)acetamide
+57
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 28
+1 16
+1 27
+2 15
+2 15
+3 17
+3 17
+4 9
+4 10
+4 15
+5 17
+5 20
+5 41
+6 30
+6 32
+6 32
+7 8
+7 9
+7 9
+7 11
+8 10
+8 10
+8 12
+9 14
+10 13
+11 17
+11 33
+11 34
+12 16
+12 16
+12 35
+13 18
+13 18
+13 36
+14 37
+14 38
+14 39
+15 19
+16 18
+18 40
+19 22
+19 22
+19 23
+20 21
+20 42
+20 43
+21 24
+21 44
+21 45
+22 25
+22 46
+23 26
+23 26
+23 47
+24 29
+24 30
+24 30
+25 28
+25 28
+25 48
+26 28
+26 49
+27 50
+27 51
+27 52
+29 31
+29 31
+29 53
+30 54
+31 32
+31 55
+32 56

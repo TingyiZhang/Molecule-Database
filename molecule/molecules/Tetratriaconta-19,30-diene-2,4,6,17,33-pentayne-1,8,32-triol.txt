@@ -1,0 +1,179 @@
+Tetratriaconta-19,30-diene-2,4,6,17,33-pentayne-1,8,32-triol
+83
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+0 76
+1 28
+1 78
+2 36
+2 82
+3 4
+3 5
+3 37
+3 38
+4 7
+4 41
+4 42
+5 8
+5 39
+5 40
+6 9
+6 10
+6 43
+6 44
+7 13
+7 45
+7 46
+8 14
+8 47
+8 48
+9 11
+9 49
+9 50
+10 12
+10 51
+10 52
+11 15
+11 53
+11 54
+12 16
+12 55
+12 56
+13 17
+13 57
+13 58
+14 18
+14 59
+14 60
+15 19
+15 61
+15 62
+16 20
+16 63
+16 64
+17 21
+17 65
+17 66
+18 22
+18 67
+18 68
+19 26
+19 69
+20 23
+20 70
+20 71
+21 24
+21 24
+21 72
+22 25
+22 25
+22 73
+23 27
+23 27
+23 27
+24 27
+24 74
+25 28
+25 75
+26 29
+26 29
+26 29
+28 30
+28 77
+29 31
+30 32
+30 32
+30 32
+31 33
+31 33
+31 33
+32 79
+33 34
+34 35
+34 35
+34 35
+35 36
+36 80
+36 81

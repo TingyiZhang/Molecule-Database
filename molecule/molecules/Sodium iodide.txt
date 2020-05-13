@@ -1,0 +1,11 @@
+Sodium iodide
+2
+"Iodine"
+"Sodium"
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1

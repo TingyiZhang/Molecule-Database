@@ -1,0 +1,46 @@
+2-Amino-4-oxo-4-phosphonooxybutanoic acid
+21
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 5
+0 6
+0 7
+0 7
+1 11
+2 12
+2 18
+3 11
+3 11
+4 12
+4 12
+5 19
+6 20
+8 9
+8 16
+8 17
+9 10
+9 12
+9 13
+10 11
+10 14
+10 15

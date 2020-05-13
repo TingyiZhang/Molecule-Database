@@ -1,0 +1,103 @@
+4-(3-Iodophenyl)-2-(4-methylsulfinylphenyl)-5-(4-pyridyl)1H-imidazole
+43
+"Iodine"
+"Sulfur"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 21
+1 2
+1 2
+1 16
+1 26
+3 6
+3 8
+3 27
+4 7
+4 8
+4 8
+5 24
+5 24
+5 25
+6 7
+6 7
+6 11
+7 10
+8 9
+9 12
+9 12
+9 13
+10 14
+10 14
+10 15
+11 19
+11 19
+11 20
+12 17
+12 28
+13 18
+13 18
+13 29
+14 21
+14 30
+15 22
+15 22
+15 31
+16 17
+16 17
+16 18
+17 32
+18 33
+19 24
+19 34
+20 25
+20 25
+20 35
+21 23
+21 23
+22 23
+22 36
+23 37
+24 38
+25 39
+26 40
+26 41
+26 42

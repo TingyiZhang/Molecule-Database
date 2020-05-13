@@ -1,0 +1,70 @@
+2,4,7-Trinitrofluoren-9-one
+28
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 14
+1 7
+2 7
+2 7
+3 8
+4 8
+4 8
+5 9
+6 9
+6 9
+7 15
+8 19
+9 21
+10 11
+10 12
+10 12
+10 15
+11 13
+11 13
+11 17
+12 14
+12 16
+13 14
+13 18
+15 20
+15 20
+16 19
+16 19
+16 23
+17 22
+17 22
+17 24
+18 21
+18 21
+18 25
+19 20
+20 26
+21 22
+22 27

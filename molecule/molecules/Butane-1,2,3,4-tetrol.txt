@@ -1,0 +1,37 @@
+Butane-1,2,3,4-tetrol
+18
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 14
+1 5
+1 15
+2 6
+2 16
+3 7
+3 17
+4 5
+4 6
+4 8
+5 7
+5 9
+6 10
+6 11
+7 12
+7 13

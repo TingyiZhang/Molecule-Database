@@ -1,0 +1,67 @@
+4-Iodo-2,5-dimethoxyphenylisopropylamine
+31
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 7
+1 13
+2 10
+2 14
+3 5
+3 22
+3 23
+4 5
+4 6
+4 15
+4 16
+5 8
+5 17
+6 7
+6 9
+6 9
+7 11
+7 11
+8 18
+8 19
+8 20
+9 10
+9 21
+10 12
+10 12
+11 12
+11 24
+13 25
+13 26
+13 27
+14 28
+14 29
+14 30

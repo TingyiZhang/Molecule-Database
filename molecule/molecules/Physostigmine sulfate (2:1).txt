@@ -1,0 +1,193 @@
+Physostigmine sulfate (2:1)
+89
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+0 7
+0 7
+0 8
+0 8
+1 37
+1 41
+2 38
+2 42
+3 41
+3 41
+4 42
+4 42
+9 17
+9 21
+9 29
+9 47
+10 18
+10 22
+10 30
+10 48
+11 17
+11 25
+11 31
+12 18
+12 26
+12 32
+13 41
+13 43
+13 81
+14 42
+14 44
+14 82
+15 17
+15 19
+15 23
+15 27
+16 18
+16 20
+16 24
+16 28
+17 45
+18 46
+19 21
+19 49
+19 50
+20 22
+20 51
+20 52
+21 53
+21 54
+22 55
+22 56
+23 25
+23 25
+23 33
+24 26
+24 26
+24 34
+25 35
+26 36
+27 57
+27 58
+27 59
+28 60
+28 61
+28 62
+29 63
+29 64
+29 65
+30 66
+30 67
+30 68
+31 69
+31 70
+31 71
+32 72
+32 73
+32 74
+33 37
+33 37
+33 75
+34 38
+34 38
+34 76
+35 39
+35 39
+35 77
+36 40
+36 40
+36 78
+37 39
+38 40
+39 79
+40 80
+43 83
+43 84
+43 85
+44 86
+44 87
+44 88

@@ -1,0 +1,122 @@
+Picrasa-2,12-diene-1,11,16-trione, 2,12-dimethoxy-
+56
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 22
+1 15
+1 15
+2 17
+2 17
+3 20
+3 26
+4 23
+4 27
+5 22
+5 22
+6 7
+6 10
+6 11
+6 14
+7 8
+7 15
+7 28
+8 9
+8 16
+8 17
+9 12
+9 13
+9 29
+10 12
+10 30
+11 18
+11 19
+11 31
+12 32
+12 33
+13 21
+13 24
+13 34
+14 35
+14 36
+14 37
+15 20
+16 38
+16 39
+16 40
+17 23
+18 22
+18 41
+18 42
+19 20
+19 20
+19 25
+21 23
+21 23
+21 43
+24 44
+24 45
+24 46
+25 47
+25 48
+25 49
+26 50
+26 51
+26 52
+27 53
+27 54
+27 55

@@ -1,0 +1,44 @@
+Acetanilide, 5'-chloro-2'-fluoro-
+19
+"Chlorine"
+"Fluorine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 6
+2 10
+2 10
+3 4
+3 10
+3 13
+4 5
+4 6
+4 6
+5 7
+5 7
+5 12
+6 8
+7 9
+8 9
+8 9
+8 14
+9 15
+10 11
+11 16
+11 17
+11 18

@@ -1,0 +1,146 @@
+N-(1-Phenylethyl)octadeca-9,12-dienamide
+69
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 9
+1 9
+1 10
+1 43
+2 3
+2 4
+2 28
+2 29
+3 5
+3 30
+3 31
+4 6
+4 32
+4 33
+5 7
+5 34
+5 35
+6 8
+6 36
+6 37
+7 9
+7 38
+7 39
+8 11
+8 40
+8 41
+10 13
+10 16
+10 42
+11 17
+11 17
+11 44
+12 14
+12 15
+12 45
+12 46
+13 22
+13 22
+13 23
+14 18
+14 47
+14 48
+15 20
+15 49
+15 50
+16 51
+16 52
+16 53
+17 19
+17 54
+18 24
+18 55
+18 56
+19 21
+19 57
+19 58
+20 21
+20 21
+20 59
+21 60
+22 25
+22 61
+23 26
+23 26
+23 62
+24 63
+24 64
+24 65
+25 27
+25 27
+25 66
+26 27
+26 67
+27 68

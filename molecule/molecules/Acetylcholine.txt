@@ -1,0 +1,54 @@
+Acetylcholine
+26
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 8
+1 8
+1 8
+2 3
+2 4
+2 5
+2 6
+3 7
+3 10
+3 11
+4 12
+4 13
+4 14
+5 15
+5 16
+5 17
+6 18
+6 19
+6 20
+7 21
+7 22
+8 9
+9 23
+9 24
+9 25

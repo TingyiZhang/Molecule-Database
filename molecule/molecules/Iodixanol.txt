@@ -1,0 +1,227 @@
+Iodixanol
+106
+"Iodine"
+"Iodine"
+"Iodine"
+"Iodine"
+"Iodine"
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 34
+1 35
+2 36
+3 37
+4 42
+5 43
+6 27
+6 67
+7 32
+7 32
+8 33
+8 33
+9 46
+9 46
+10 47
+10 47
+11 48
+11 48
+12 49
+12 49
+13 54
+13 98
+14 55
+14 99
+15 56
+15 100
+16 57
+16 101
+17 58
+17 102
+18 59
+18 103
+19 60
+19 104
+20 61
+20 105
+21 28
+21 30
+21 32
+22 29
+22 31
+22 33
+23 46
+23 50
+23 74
+24 47
+24 51
+24 75
+25 48
+25 52
+25 76
+26 49
+26 53
+26 77
+27 28
+27 29
+27 62
+28 63
+28 64
+29 65
+29 66
+30 34
+30 34
+30 36
+31 35
+31 35
+31 37
+32 44
+33 45
+34 38
+35 39
+36 40
+36 40
+37 41
+37 41
+38 42
+38 42
+38 48
+39 43
+39 43
+39 49
+40 42
+40 46
+41 43
+41 47
+44 68
+44 69
+44 70
+45 71
+45 72
+45 73
+50 54
+50 78
+50 79
+51 55
+51 80
+51 81
+52 56
+52 82
+52 83
+53 57
+53 84
+53 85
+54 58
+54 86
+55 59
+55 87
+56 60
+56 88
+57 61
+57 89
+58 90
+58 91
+59 92
+59 93
+60 94
+60 95
+61 96
+61 97

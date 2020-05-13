@@ -1,0 +1,74 @@
+2-(7-Aminoimidazo[4,5-b]pyridin-3-yl)-5-(hydroxymethyl)oxolane-3,4-diol
+33
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 11
+1 8
+1 25
+2 10
+2 26
+3 12
+3 28
+4 9
+4 13
+4 14
+5 14
+5 14
+5 15
+6 13
+6 13
+6 18
+7 16
+7 31
+7 32
+8 9
+8 10
+8 19
+9 20
+10 11
+10 21
+11 12
+11 22
+12 23
+12 24
+13 15
+14 27
+15 16
+15 16
+16 17
+17 18
+17 18
+17 29
+18 30

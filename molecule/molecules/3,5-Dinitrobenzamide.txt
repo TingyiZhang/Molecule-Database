@@ -1,0 +1,48 @@
+3,5-Dinitrobenzamide
+20
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 14
+1 5
+2 6
+3 5
+3 5
+4 6
+4 6
+5 9
+6 10
+7 14
+7 18
+7 19
+8 11
+8 11
+8 12
+8 14
+9 12
+9 12
+9 13
+10 11
+10 13
+10 13
+11 15
+12 16
+13 17

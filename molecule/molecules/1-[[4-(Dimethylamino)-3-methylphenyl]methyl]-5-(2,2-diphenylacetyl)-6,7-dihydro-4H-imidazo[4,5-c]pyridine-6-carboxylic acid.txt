@@ -1,0 +1,159 @@
+1-[[4-(Dimethylamino)-3-methylphenyl]methyl]-5-(2,2-diphenylacetyl)-6,7-dihydro-4H-imidazo[4,5-c]pyridine-6-carboxylic acid
+70
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 12
+1 15
+1 53
+2 15
+2 15
+3 7
+3 10
+3 12
+4 9
+4 14
+4 16
+5 11
+5 16
+5 16
+6 27
+6 36
+6 37
+7 8
+7 15
+7 38
+8 9
+8 39
+8 40
+9 11
+9 11
+10 11
+10 41
+10 42
+12 13
+13 18
+13 19
+13 43
+14 17
+14 44
+14 45
+16 46
+17 20
+17 20
+17 21
+18 22
+18 22
+18 24
+19 23
+19 23
+19 25
+20 26
+20 47
+21 28
+21 28
+21 48
+22 29
+22 49
+23 30
+23 50
+24 31
+24 31
+24 51
+25 32
+25 32
+25 52
+26 27
+26 27
+26 33
+27 28
+28 54
+29 34
+29 34
+29 55
+30 35
+30 35
+30 56
+31 34
+31 57
+32 35
+32 58
+33 59
+33 60
+33 61
+34 62
+35 63
+36 64
+36 65
+36 66
+37 67
+37 68
+37 69

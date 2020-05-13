@@ -1,0 +1,77 @@
+3-(1-Aminoethyl)nonanedioic acid
+37
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 35
+1 13
+1 13
+2 15
+2 36
+3 15
+3 15
+4 7
+4 31
+4 32
+5 6
+5 7
+5 9
+5 16
+6 8
+6 17
+6 18
+7 11
+7 19
+8 10
+8 20
+8 21
+9 13
+9 22
+9 23
+10 12
+10 24
+10 25
+11 26
+11 27
+11 28
+12 14
+12 29
+12 30
+14 15
+14 33
+14 34

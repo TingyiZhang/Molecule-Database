@@ -1,0 +1,128 @@
+22-(Cyclopropylmethyl)-11,14-dioxa-22-azaheptacyclo[13.9.1.01,13.02,21.04,12.05,10.019,25]pentacosa-4(12),5,7,9,15,17,19(25)-heptaene-2,16-diol
+56
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 19
+1 6
+1 44
+2 16
+2 25
+3 24
+3 53
+4 7
+4 13
+4 15
+5 6
+5 8
+5 9
+5 10
+6 7
+6 11
+7 12
+7 31
+8 16
+8 32
+9 13
+9 33
+9 34
+10 14
+10 14
+10 19
+11 17
+11 35
+11 36
+12 14
+12 37
+12 38
+13 39
+13 40
+14 22
+15 18
+15 41
+15 42
+16 17
+16 17
+17 23
+18 20
+18 21
+18 43
+19 24
+19 24
+20 21
+20 45
+20 46
+21 47
+21 48
+22 26
+22 26
+22 49
+23 25
+23 27
+23 27
+24 26
+25 28
+25 28
+26 50
+27 29
+27 51
+28 30
+28 52
+29 30
+29 30
+29 54
+30 55

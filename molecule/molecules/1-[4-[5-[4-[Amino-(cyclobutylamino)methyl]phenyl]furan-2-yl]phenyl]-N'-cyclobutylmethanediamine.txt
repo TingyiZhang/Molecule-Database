@@ -1,0 +1,140 @@
+1-[4-[5-[4-[Amino-(cyclobutylamino)methyl]phenyl]furan-2-yl]phenyl]-N'-cyclobutylmethanediamine
+63
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 27
+0 28
+1 5
+1 13
+1 45
+2 6
+2 14
+2 46
+3 13
+3 49
+3 50
+4 14
+4 51
+4 52
+5 7
+5 8
+5 31
+6 9
+6 10
+6 32
+7 11
+7 33
+7 34
+8 11
+8 35
+8 36
+9 12
+9 37
+9 38
+10 12
+10 39
+10 40
+11 41
+11 42
+12 43
+12 44
+13 15
+13 47
+14 16
+14 48
+15 17
+15 17
+15 19
+16 18
+16 18
+16 20
+17 23
+17 53
+18 24
+18 54
+19 25
+19 25
+19 55
+20 26
+20 26
+20 56
+21 23
+21 23
+21 25
+21 27
+22 24
+22 24
+22 26
+22 28
+23 57
+24 58
+25 59
+26 60
+27 29
+27 29
+28 30
+28 30
+29 30
+29 61
+30 62

@@ -1,0 +1,43 @@
+4-Amino-5-hydroxymethyl-2-methylpyrimidine
+19
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 18
+1 5
+1 5
+1 8
+2 7
+2 8
+2 8
+3 5
+3 16
+3 17
+4 5
+4 6
+4 7
+4 7
+6 10
+6 11
+7 12
+8 9
+9 13
+9 14
+9 15

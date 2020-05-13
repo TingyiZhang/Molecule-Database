@@ -1,0 +1,35 @@
+4-Aminophenol
+15
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 14
+1 2
+1 12
+1 13
+2 3
+2 3
+2 4
+3 6
+3 8
+4 7
+4 7
+4 9
+5 6
+5 6
+5 7
+6 10
+7 11

@@ -1,0 +1,13 @@
+Thiosulfate ion
+5
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+0 1
+0 1
+0 2
+0 3
+0 4
+0 4

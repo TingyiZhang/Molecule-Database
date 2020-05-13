@@ -1,0 +1,406 @@
+30-Ethyl-33-(1-hydroxy-2-methylhex-4-enyl)-1,4,7,10,12,15,19,25,28-nonamethyl-6,9,18,24-tetrakis(2-methylpropyl)-3,21-di(propan-2-yl)-1,4,7,10,13,16,19,22,25,28,31-undecazacyclotritriacontane-2,5,8,11,14,17,20,23,26,29,32-undecone
+196
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 27
+0 126
+1 30
+1 30
+2 31
+2 31
+3 34
+3 34
+4 36
+4 36
+5 49
+5 49
+6 61
+6 61
+7 63
+7 63
+8 65
+8 65
+9 66
+9 66
+10 70
+10 70
+11 78
+11 78
+12 23
+12 31
+12 41
+13 25
+13 30
+13 42
+14 24
+14 34
+14 44
+15 32
+15 49
+15 55
+16 36
+16 47
+16 124
+17 50
+17 61
+17 74
+18 48
+18 65
+18 150
+19 53
+19 70
+19 81
+20 63
+20 67
+20 82
+21 58
+21 78
+21 153
+22 66
+22 71
+22 171
+23 26
+23 30
+23 85
+24 28
+24 31
+24 86
+25 27
+25 36
+25 87
+26 38
+26 39
+26 88
+27 29
+27 89
+28 33
+28 90
+28 91
+29 37
+29 43
+29 92
+32 34
+32 35
+32 93
+33 45
+33 46
+33 94
+35 40
+35 95
+35 96
+37 54
+37 97
+37 98
+38 99
+38 100
+38 101
+39 102
+39 103
+39 104
+40 51
+40 52
+40 105
+41 106
+41 107
+41 108
+42 112
+42 113
+42 114
+43 109
+43 110
+43 111
+44 115
+44 116
+44 117
+45 118
+45 119
+45 120
+46 121
+46 122
+46 123
+47 60
+47 63
+47 125
+48 56
+48 61
+48 127
+49 58
+50 57
+50 66
+50 128
+51 130
+51 131
+51 132
+52 133
+52 134
+52 135
+53 59
+53 65
+53 129
+54 73
+54 73
+54 136
+55 137
+55 138
+55 139
+56 68
+56 69
+56 140
+57 62
+57 141
+57 142
+58 72
+58 143
+59 64
+59 144
+59 145
+60 75
+60 146
+60 147
+62 76
+62 77
+62 148
+64 79
+64 80
+64 149
+67 70
+67 151
+67 152
+68 154
+68 155
+68 156
+69 157
+69 158
+69 159
+71 78
+71 83
+71 160
+72 161
+72 162
+72 163
+73 84
+73 164
+74 165
+74 166
+74 167
+75 168
+75 169
+75 170
+76 172
+76 173
+76 174
+77 175
+77 176
+77 177
+79 178
+79 179
+79 180
+80 181
+80 182
+80 183
+81 184
+81 185
+81 186
+82 187
+82 188
+82 189
+83 190
+83 191
+83 192
+84 193
+84 194
+84 195

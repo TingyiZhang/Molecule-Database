@@ -1,0 +1,113 @@
+Propyl isome
+52
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 20
+1 14
+1 21
+2 17
+2 19
+3 18
+3 19
+4 13
+4 13
+5 14
+5 14
+6 7
+6 8
+6 13
+6 26
+7 9
+7 12
+7 27
+8 10
+8 14
+8 28
+9 11
+9 29
+9 30
+10 11
+10 15
+10 15
+11 16
+11 16
+12 31
+12 32
+12 33
+15 17
+15 34
+16 18
+16 35
+17 18
+17 18
+19 36
+19 37
+20 22
+20 38
+20 39
+21 23
+21 40
+21 41
+22 24
+22 42
+22 43
+23 25
+23 44
+23 45
+24 46
+24 47
+24 48
+25 49
+25 50
+25 51

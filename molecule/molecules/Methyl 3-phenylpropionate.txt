@@ -1,0 +1,54 @@
+Methyl 3-phenylpropionate
+24
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 11
+1 7
+1 7
+2 3
+2 4
+2 12
+2 13
+3 5
+3 5
+3 6
+4 7
+4 14
+4 15
+5 8
+5 16
+6 9
+6 9
+6 17
+8 10
+8 10
+8 18
+9 10
+9 19
+10 20
+11 21
+11 22
+11 23

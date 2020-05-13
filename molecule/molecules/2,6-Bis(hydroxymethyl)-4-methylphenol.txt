@@ -1,0 +1,53 @@
+2,6-Bis(hydroxymethyl)-4-methylphenol
+24
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 21
+1 9
+1 22
+2 10
+2 23
+3 6
+3 6
+3 7
+3 9
+4 6
+4 8
+4 8
+4 10
+5 7
+5 7
+5 8
+5 11
+7 12
+8 13
+9 14
+9 15
+10 16
+10 17
+11 18
+11 19
+11 20

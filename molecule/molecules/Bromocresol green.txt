@@ -1,0 +1,106 @@
+Bromocresol green
+45
+"Bromine"
+"Bromine"
+"Bromine"
+"Bromine"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 23
+1 24
+2 27
+3 28
+4 5
+4 6
+4 6
+4 7
+4 7
+4 14
+5 10
+8 29
+8 43
+9 30
+9 44
+10 11
+10 12
+10 13
+11 14
+11 17
+11 17
+12 15
+12 19
+12 19
+13 16
+13 20
+13 20
+14 18
+14 18
+15 23
+15 23
+15 25
+16 24
+16 24
+16 26
+17 21
+17 31
+18 22
+18 32
+19 27
+19 33
+20 28
+20 34
+21 22
+21 22
+21 35
+22 36
+23 29
+24 30
+25 37
+25 38
+25 39
+26 40
+26 41
+26 42
+27 29
+27 29
+28 30
+28 30

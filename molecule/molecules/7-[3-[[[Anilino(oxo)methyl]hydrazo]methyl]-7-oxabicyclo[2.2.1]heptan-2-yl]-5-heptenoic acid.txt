@@ -1,0 +1,124 @@
+7-[3-[[[Anilino(oxo)methyl]hydrazo]methyl]-7-oxabicyclo[2.2.1]heptan-2-yl]-5-heptenoic acid
+57
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 10
+1 18
+1 18
+2 22
+2 53
+3 22
+3 22
+4 5
+4 14
+4 41
+5 18
+5 43
+6 18
+6 21
+6 50
+7 8
+7 9
+7 13
+7 28
+8 10
+8 14
+8 29
+9 11
+9 30
+10 12
+10 31
+11 12
+11 32
+11 33
+12 34
+12 35
+13 15
+13 36
+13 37
+14 38
+14 39
+15 16
+15 16
+15 40
+16 17
+16 42
+17 19
+17 44
+17 45
+19 20
+19 46
+19 47
+20 22
+20 48
+20 49
+21 23
+21 23
+21 24
+23 25
+23 51
+24 26
+24 26
+24 52
+25 27
+25 27
+25 54
+26 27
+26 55
+27 56

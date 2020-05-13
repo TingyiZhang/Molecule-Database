@@ -1,0 +1,85 @@
+Pheniramine
+38
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 10
+0 11
+1 6
+1 16
+1 16
+2 3
+2 5
+2 6
+2 18
+3 4
+3 19
+3 20
+4 21
+4 22
+5 7
+5 7
+5 8
+6 9
+6 9
+7 12
+7 23
+8 13
+8 13
+8 24
+9 14
+9 25
+10 26
+10 27
+10 28
+11 29
+11 30
+11 31
+12 15
+12 15
+12 32
+13 15
+13 33
+14 17
+14 17
+14 34
+15 35
+16 17
+16 36
+17 37

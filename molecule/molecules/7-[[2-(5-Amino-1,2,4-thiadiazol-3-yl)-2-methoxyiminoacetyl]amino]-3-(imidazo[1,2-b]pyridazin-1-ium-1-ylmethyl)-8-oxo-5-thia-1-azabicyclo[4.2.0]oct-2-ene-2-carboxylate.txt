@@ -1,0 +1,121 @@
+7-[[2-(5-Amino-1,2,4-thiadiazol-3-yl)-2-methoxyiminoacetyl]amino]-3-(imidazo[1,2-b]pyridazin-1-ium-1-ylmethyl)-8-oxo-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate
+52
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 21
+1 14
+1 33
+2 18
+2 18
+3 23
+4 23
+4 23
+5 24
+5 24
+6 12
+6 34
+7 16
+7 18
+7 19
+8 17
+8 24
+8 39
+9 22
+9 25
+9 25
+9 26
+10 11
+10 25
+10 27
+11 32
+11 32
+12 28
+12 28
+13 31
+13 33
+13 33
+14 31
+14 31
+15 33
+15 50
+15 51
+16 17
+16 35
+17 18
+17 36
+19 20
+19 20
+19 23
+20 21
+20 22
+21 37
+21 38
+22 40
+22 41
+24 28
+25 29
+26 27
+26 27
+26 42
+27 43
+28 31
+29 30
+29 30
+29 44
+30 32
+30 45
+32 46
+34 47
+34 48
+34 49

@@ -1,0 +1,41 @@
+2-Oxo-2H-pyran-4,6-dicarboxylic acid
+17
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 10
+1 11
+1 15
+2 10
+2 10
+3 12
+3 16
+4 11
+4 11
+5 12
+5 12
+6 7
+6 9
+6 9
+6 11
+7 8
+7 8
+7 13
+8 12
+9 10
+9 14

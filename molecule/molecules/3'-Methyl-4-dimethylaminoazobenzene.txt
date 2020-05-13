@@ -1,0 +1,80 @@
+3'-Methyl-4-dimethylaminoazobenzene
+35
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 9
+0 10
+1 2
+1 2
+1 6
+2 12
+3 4
+3 4
+3 5
+4 7
+4 18
+5 8
+5 8
+5 19
+6 7
+6 7
+6 8
+7 20
+8 21
+9 22
+9 23
+9 24
+10 25
+10 26
+10 27
+11 13
+11 13
+11 14
+11 17
+12 13
+12 15
+12 15
+13 28
+14 16
+14 16
+14 29
+15 16
+15 30
+16 31
+17 32
+17 33
+17 34

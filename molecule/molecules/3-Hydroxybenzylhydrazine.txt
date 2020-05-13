@@ -1,0 +1,45 @@
+3-Hydroxybenzylhydrazine
+20
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 19
+1 2
+1 4
+1 16
+2 17
+2 18
+3 4
+3 5
+3 5
+3 6
+4 10
+4 11
+5 7
+5 12
+6 8
+6 8
+6 13
+7 9
+7 9
+8 9
+8 14
+9 15

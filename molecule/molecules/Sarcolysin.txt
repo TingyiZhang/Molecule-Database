@@ -1,0 +1,80 @@
+Sarcolysin
+37
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+1 17
+2 18
+2 36
+3 18
+3 18
+4 6
+4 9
+4 10
+5 11
+5 34
+5 35
+6 12
+6 12
+6 13
+7 8
+7 11
+7 19
+7 20
+8 14
+8 14
+8 15
+9 16
+9 21
+9 22
+10 17
+10 23
+10 24
+11 18
+11 25
+12 14
+12 26
+13 15
+13 15
+13 27
+14 28
+15 29
+16 30
+16 31
+17 32
+17 33

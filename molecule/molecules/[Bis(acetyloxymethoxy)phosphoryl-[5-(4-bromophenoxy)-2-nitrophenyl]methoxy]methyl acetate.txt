@@ -1,0 +1,136 @@
+[Bis(acetyloxymethoxy)phosphoryl-[5-(4-bromophenoxy)-2-nitrophenyl]methoxy]methyl acetate
+61
+"Bromine"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 34
+1 3
+1 4
+1 5
+1 5
+1 16
+2 16
+2 23
+3 24
+4 25
+6 20
+6 26
+7 23
+7 29
+8 24
+8 32
+9 25
+9 33
+10 15
+11 15
+11 15
+12 29
+12 29
+13 32
+13 32
+14 33
+14 33
+15 18
+16 17
+16 38
+17 18
+17 18
+17 19
+18 21
+19 20
+19 20
+19 39
+20 22
+21 22
+21 22
+21 40
+22 41
+23 42
+23 43
+24 44
+24 45
+25 46
+25 47
+26 27
+26 27
+26 28
+27 30
+27 48
+28 31
+28 31
+28 49
+29 35
+30 34
+30 34
+30 50
+31 34
+31 51
+32 36
+33 37
+35 52
+35 53
+35 54
+36 55
+36 56
+36 57
+37 58
+37 59
+37 60

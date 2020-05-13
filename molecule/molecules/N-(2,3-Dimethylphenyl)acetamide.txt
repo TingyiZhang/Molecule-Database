@@ -1,0 +1,56 @@
+N-(2,3-Dimethylphenyl)acetamide
+25
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 10
+1 4
+1 10
+1 21
+2 3
+2 3
+2 4
+2 7
+3 6
+3 9
+4 5
+4 5
+5 8
+5 12
+6 8
+6 8
+6 13
+7 14
+7 15
+7 16
+8 17
+9 18
+9 19
+9 20
+10 11
+11 22
+11 23
+11 24

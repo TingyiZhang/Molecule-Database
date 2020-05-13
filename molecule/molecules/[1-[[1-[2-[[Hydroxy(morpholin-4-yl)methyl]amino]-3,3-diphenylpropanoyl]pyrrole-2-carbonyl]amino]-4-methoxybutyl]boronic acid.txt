@@ -1,0 +1,177 @@
+[1-[[1-[2-[[Hydroxy(morpholin-4-yl)methyl]amino]-3,3-diphenylpropanoyl]pyrrole-2-carbonyl]amino]-4-methoxybutyl]boronic acid
+81
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Boron"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+0 20
+1 13
+1 58
+2 16
+2 16
+3 32
+3 32
+4 39
+4 40
+5 41
+5 76
+6 41
+6 77
+7 13
+7 14
+7 15
+8 11
+8 13
+8 45
+9 16
+9 25
+9 26
+10 32
+10 34
+10 69
+11 12
+11 16
+11 42
+12 17
+12 18
+12 43
+13 44
+14 19
+14 46
+14 47
+15 20
+15 48
+15 49
+17 21
+17 21
+17 23
+18 22
+18 22
+18 24
+19 50
+19 51
+20 52
+20 53
+21 28
+21 54
+22 29
+22 55
+23 30
+23 30
+23 56
+24 31
+24 31
+24 57
+25 27
+25 27
+25 32
+26 33
+26 33
+26 59
+27 33
+27 60
+28 36
+28 36
+28 61
+29 37
+29 37
+29 62
+30 36
+30 63
+31 37
+31 64
+33 66
+34 35
+34 41
+34 65
+35 38
+35 67
+35 68
+36 70
+37 71
+38 39
+38 72
+38 73
+39 74
+39 75
+40 78
+40 79
+40 80

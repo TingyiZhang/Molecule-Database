@@ -1,0 +1,112 @@
+4-[(7-Oxo-7h-thiazolo[5,4-e]indol-8-ylmethyl)-amino]-n-pyridin-2-yl-benzenesulfonamide
+46
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 3
+0 4
+0 4
+0 8
+0 19
+1 14
+1 25
+2 15
+2 15
+5 12
+5 17
+5 33
+6 13
+6 13
+6 15
+7 16
+7 25
+7 25
+8 26
+8 41
+9 26
+9 29
+9 29
+10 11
+10 11
+10 13
+10 14
+11 12
+11 15
+12 31
+12 32
+13 18
+14 16
+14 16
+16 20
+17 21
+17 21
+17 22
+18 20
+18 20
+18 34
+19 23
+19 23
+19 24
+20 35
+21 23
+21 36
+22 24
+22 24
+22 37
+23 38
+24 39
+25 40
+26 27
+26 27
+27 28
+27 42
+28 30
+28 30
+28 43
+29 30
+29 44
+30 45

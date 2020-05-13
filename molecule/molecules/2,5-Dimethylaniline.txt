@@ -1,0 +1,45 @@
+2,5-Dimethylaniline
+20
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 18
+0 19
+1 2
+1 2
+1 5
+1 7
+2 4
+3 4
+3 4
+3 6
+3 8
+4 9
+5 6
+5 6
+5 10
+6 11
+7 12
+7 13
+7 14
+8 15
+8 16
+8 17

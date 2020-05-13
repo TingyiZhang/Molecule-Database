@@ -1,0 +1,23 @@
+Difluorodimethylsilane
+11
+"Silicon"
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 4
+3 5
+3 6
+3 7
+4 8
+4 9
+4 10

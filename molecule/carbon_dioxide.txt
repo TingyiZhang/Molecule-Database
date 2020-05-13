@@ -1,0 +1,9 @@
+carbon dioxide
+3
+C
+O
+O
+0 1
+0 1
+0 2
+0 2

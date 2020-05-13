@@ -1,0 +1,71 @@
+7-Hydroxyflavanone
+30
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 8
+1 7
+1 7
+2 13
+2 29
+3 4
+3 5
+3 18
+4 7
+4 19
+4 20
+5 11
+5 11
+5 12
+6 7
+6 8
+6 8
+6 9
+8 10
+9 14
+9 14
+9 21
+10 13
+10 13
+10 22
+11 15
+11 23
+12 16
+12 16
+12 24
+13 14
+14 25
+15 17
+15 17
+15 26
+16 17
+16 27
+17 28

@@ -1,0 +1,63 @@
+Copper bis(dimethyldithiocarbamate)
+25
+"Copper"
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 2
+0 2
+0 2
+0 2
+0 2
+0 2
+1 11
+2 12
+3 11
+3 11
+4 12
+4 12
+5 7
+5 8
+5 11
+6 9
+6 10
+6 12
+7 13
+7 14
+7 15
+8 16
+8 17
+8 18
+9 19
+9 20
+9 21
+10 22
+10 23
+10 24

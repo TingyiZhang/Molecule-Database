@@ -1,0 +1,42 @@
+Trimethyl glycine
+20
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 19
+1 7
+1 7
+2 3
+2 4
+2 5
+2 6
+3 7
+3 8
+3 9
+4 10
+4 11
+4 12
+5 13
+5 14
+5 15
+6 16
+6 17
+6 18

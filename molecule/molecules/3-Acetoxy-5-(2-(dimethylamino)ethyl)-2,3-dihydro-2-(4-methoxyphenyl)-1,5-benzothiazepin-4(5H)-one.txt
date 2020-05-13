@@ -1,0 +1,122 @@
+3-Acetoxy-5-(2-(dimethylamino)ethyl)-2,3-dihydro-2-(4-methoxyphenyl)-1,5-benzothiazepin-4(5H)-one
+55
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 13
+1 8
+1 26
+2 9
+2 9
+3 25
+3 28
+4 26
+4 26
+5 9
+5 10
+5 11
+6 14
+6 23
+6 24
+7 8
+7 12
+7 29
+8 9
+8 30
+10 14
+10 31
+10 32
+11 13
+11 15
+11 15
+12 17
+12 17
+12 18
+13 16
+13 16
+14 33
+14 34
+15 19
+15 35
+16 20
+16 36
+17 21
+17 37
+18 22
+18 22
+18 38
+19 20
+19 20
+19 39
+20 40
+21 25
+21 25
+21 41
+22 25
+22 42
+23 43
+23 44
+23 45
+24 46
+24 47
+24 48
+26 27
+27 49
+27 50
+27 51
+28 52
+28 53
+28 54

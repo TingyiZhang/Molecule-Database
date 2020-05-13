@@ -1,0 +1,89 @@
+Mukoenine A
+39
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 32
+1 2
+1 6
+1 20
+2 3
+2 3
+2 4
+3 5
+3 7
+4 8
+4 8
+4 9
+5 6
+5 11
+5 11
+6 12
+6 12
+7 10
+7 10
+7 21
+8 10
+9 13
+9 22
+9 23
+10 14
+11 15
+11 24
+12 16
+12 25
+13 17
+13 17
+13 26
+14 27
+14 28
+14 29
+15 16
+15 16
+15 30
+16 31
+17 18
+17 19
+18 33
+18 34
+18 35
+19 36
+19 37
+19 38

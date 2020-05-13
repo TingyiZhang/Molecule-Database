@@ -1,0 +1,119 @@
+Hexahydrosiladifenidol
+56
+"Silicon"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 3
+0 6
+0 11
+1 40
+2 12
+2 13
+2 14
+3 4
+3 5
+3 23
+4 7
+4 24
+4 25
+5 8
+5 26
+5 27
+6 10
+6 28
+6 29
+7 9
+7 30
+7 31
+8 9
+8 32
+8 33
+9 34
+9 35
+10 12
+10 36
+10 37
+11 18
+11 18
+11 19
+12 38
+12 39
+13 15
+13 41
+13 42
+14 16
+14 43
+14 44
+15 17
+15 45
+15 46
+16 17
+16 47
+16 48
+17 49
+17 50
+18 20
+18 51
+19 21
+19 21
+19 52
+20 22
+20 22
+20 53
+21 22
+21 54
+22 55

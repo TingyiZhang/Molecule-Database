@@ -1,0 +1,72 @@
+2-Ethylanthraquinone
+30
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 9
+1 9
+2 3
+2 3
+2 7
+2 8
+3 9
+3 10
+4 5
+4 7
+4 13
+4 13
+5 9
+5 14
+5 14
+6 8
+6 8
+6 11
+6 12
+8 18
+10 12
+10 12
+10 19
+11 15
+11 20
+11 21
+12 22
+13 16
+13 23
+14 17
+14 24
+15 25
+15 26
+15 27
+16 17
+16 17
+16 28
+17 29

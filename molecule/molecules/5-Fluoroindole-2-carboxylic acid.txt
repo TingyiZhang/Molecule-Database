@@ -1,0 +1,46 @@
+5-Fluoroindole-2-carboxylic acid
+19
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 12
+1 18
+2 12
+2 12
+3 5
+3 6
+3 14
+4 5
+4 5
+4 7
+4 8
+5 9
+6 7
+6 7
+6 12
+7 13
+8 10
+8 10
+8 15
+9 11
+9 11
+9 16
+10 11
+11 17

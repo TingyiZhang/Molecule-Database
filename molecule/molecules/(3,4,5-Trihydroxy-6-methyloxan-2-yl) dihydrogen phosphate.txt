@@ -1,0 +1,59 @@
+(3,4,5-Trihydroxy-6-methyloxan-2-yl) dihydrogen phosphate
+28
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 6
+0 7
+0 8
+0 8
+1 12
+1 13
+2 13
+3 9
+3 23
+4 10
+4 24
+5 11
+5 25
+6 26
+7 27
+9 10
+9 11
+9 15
+10 12
+10 16
+11 13
+11 17
+12 14
+12 18
+13 19
+14 20
+14 21
+14 22

@@ -1,0 +1,120 @@
+N'-Hydroxy-N-[3-(4-methoxyphenyl)-1-(methylamino)-1-oxopropan-2-yl]-2-(2-methylpropyl)butanediamide
+56
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 12
+1 17
+1 17
+2 18
+2 18
+3 7
+3 52
+4 24
+4 26
+5 12
+5 13
+5 40
+6 18
+6 25
+6 45
+7 17
+7 46
+8 9
+8 11
+8 12
+8 27
+9 10
+9 28
+9 29
+10 14
+10 15
+10 30
+11 17
+11 31
+11 32
+13 16
+13 18
+13 33
+14 34
+14 35
+14 36
+15 37
+15 38
+15 39
+16 19
+16 41
+16 42
+19 20
+19 20
+19 21
+20 22
+20 43
+21 23
+21 23
+21 44
+22 24
+22 24
+22 47
+23 24
+23 48
+25 49
+25 50
+25 51
+26 53
+26 54
+26 55

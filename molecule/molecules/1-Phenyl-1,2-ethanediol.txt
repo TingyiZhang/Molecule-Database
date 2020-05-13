@@ -1,0 +1,45 @@
+1-Phenyl-1,2-ethanediol
+20
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 18
+1 4
+1 19
+2 3
+2 4
+2 10
+3 5
+3 5
+3 6
+4 11
+4 12
+5 7
+5 13
+6 8
+6 8
+6 14
+7 9
+7 9
+7 15
+8 9
+8 16
+9 17

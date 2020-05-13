@@ -1,0 +1,11 @@
+Potassium iodide
+2
+"Iodine"
+"Potassium"
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1

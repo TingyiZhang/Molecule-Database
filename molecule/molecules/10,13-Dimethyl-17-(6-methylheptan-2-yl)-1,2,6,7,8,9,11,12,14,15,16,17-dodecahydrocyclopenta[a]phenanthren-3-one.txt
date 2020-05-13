@@ -1,0 +1,151 @@
+10,13-Dimethyl-17-(6-methylheptan-2-yl)-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one
+72
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 22
+0 22
+1 2
+1 5
+1 6
+1 13
+2 3
+2 7
+2 28
+3 4
+3 11
+3 29
+4 8
+4 9
+4 30
+5 10
+5 12
+5 31
+6 9
+6 32
+6 33
+7 10
+7 34
+7 35
+8 14
+8 16
+8 17
+9 36
+9 37
+10 38
+10 39
+11 15
+11 40
+11 41
+12 18
+12 19
+12 42
+13 43
+13 44
+13 45
+14 15
+14 21
+14 21
+15 46
+15 47
+16 20
+16 48
+16 49
+17 50
+17 51
+17 52
+18 23
+18 53
+18 54
+19 55
+19 56
+19 57
+20 22
+20 58
+20 59
+21 22
+21 60
+23 24
+23 61
+23 62
+24 25
+24 63
+24 64
+25 26
+25 27
+25 65
+26 66
+26 67
+26 68
+27 69
+27 70
+27 71

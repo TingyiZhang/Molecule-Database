@@ -1,0 +1,68 @@
+(2R,3R,4S,5R,6R)-2-(Hydroxymethyl)-6-propan-2-ylsulfanyloxane-3,4,5-triol
+33
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 12
+1 9
+1 10
+2 6
+2 23
+3 7
+3 24
+4 8
+4 25
+5 11
+5 32
+6 7
+6 8
+6 15
+7 9
+7 16
+8 10
+8 17
+9 11
+9 18
+10 19
+11 20
+11 21
+12 13
+12 14
+12 22
+13 26
+13 27
+13 28
+14 29
+14 30
+14 31

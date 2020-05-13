@@ -1,0 +1,54 @@
+2-Amino-3-(4-hydroxy-3,5-diiodophenyl)propanoic acid
+24
+"Iodine"
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 13
+2 11
+2 22
+3 14
+3 23
+4 11
+4 11
+5 7
+5 20
+5 21
+6 7
+6 8
+6 15
+6 16
+7 11
+7 17
+8 9
+8 9
+8 10
+9 13
+9 18
+10 12
+10 12
+10 19
+12 14
+13 14
+13 14

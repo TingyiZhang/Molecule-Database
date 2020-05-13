@@ -1,0 +1,121 @@
+Scopolamine-N-butyl
+56
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 8
+1 11
+1 16
+2 16
+2 16
+3 19
+3 52
+4 5
+4 6
+4 12
+4 13
+5 7
+5 9
+5 26
+6 8
+6 10
+6 27
+7 8
+7 28
+8 29
+9 11
+9 30
+9 31
+10 11
+10 32
+10 33
+11 34
+12 14
+12 35
+12 36
+13 37
+13 38
+13 39
+14 15
+14 40
+14 41
+15 17
+15 42
+15 43
+16 18
+17 44
+17 45
+17 46
+18 19
+18 20
+18 47
+19 48
+19 49
+20 21
+20 21
+20 22
+21 23
+21 50
+22 24
+22 24
+22 51
+23 25
+23 25
+23 53
+24 25
+24 54
+25 55

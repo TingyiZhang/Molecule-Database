@@ -1,0 +1,122 @@
+3-[2-[(1-Ethoxy-1-oxo-4-phenylbutan-2-yl)amino]propanoyl]-1-methyl-2-oxoimidazolidine-4-carboxylic acid
+56
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 13
+1 14
+1 14
+2 17
+2 45
+3 20
+3 24
+4 17
+4 17
+5 20
+5 20
+6 9
+6 13
+6 14
+7 10
+7 14
+7 19
+8 11
+8 12
+8 34
+9 10
+9 17
+9 29
+10 30
+10 31
+11 13
+11 16
+11 32
+12 15
+12 20
+12 33
+15 18
+15 35
+15 36
+16 37
+16 38
+16 39
+18 21
+18 40
+18 41
+19 42
+19 43
+19 44
+21 22
+21 22
+21 23
+22 25
+22 46
+23 26
+23 26
+23 47
+24 28
+24 48
+24 49
+25 27
+25 27
+25 50
+26 27
+26 51
+27 52
+28 53
+28 54
+28 55

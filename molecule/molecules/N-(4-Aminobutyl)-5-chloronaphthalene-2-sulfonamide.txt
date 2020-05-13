@@ -1,0 +1,84 @@
+N-(4-Aminobutyl)-5-chloronaphthalene-2-sulfonamide
+37
+"Chlorine"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+1 2
+1 2
+1 3
+1 3
+1 4
+1 9
+4 7
+4 26
+5 12
+5 35
+5 36
+6 7
+6 8
+6 20
+6 21
+7 22
+7 23
+8 12
+8 24
+8 25
+9 11
+9 11
+9 14
+10 11
+10 13
+10 13
+10 16
+11 27
+12 28
+12 29
+13 15
+13 17
+14 15
+14 15
+14 30
+15 31
+16 18
+16 18
+16 32
+17 19
+17 19
+18 19
+18 33
+19 34

@@ -1,0 +1,192 @@
+[5-Methyl-2,3,5-tris[(3,4,5-trihydroxybenzoyl)oxy]cyclohexyl] 3,4,5-trihydroxybenzoate
+85
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 27
+1 23
+1 28
+2 24
+2 29
+3 25
+3 30
+4 27
+4 27
+5 28
+5 28
+6 29
+6 29
+7 30
+7 30
+8 43
+8 73
+9 44
+9 74
+10 45
+10 75
+11 46
+11 76
+12 47
+12 77
+13 48
+13 78
+14 49
+14 79
+15 50
+15 80
+16 51
+16 81
+17 52
+17 82
+18 53
+18 83
+19 54
+19 84
+20 21
+20 22
+20 26
+21 23
+21 55
+21 56
+22 24
+22 57
+22 58
+23 25
+23 59
+24 25
+24 60
+25 61
+26 62
+26 63
+26 64
+27 31
+28 32
+29 33
+30 34
+31 35
+31 35
+31 36
+32 37
+32 37
+32 39
+33 38
+33 38
+33 40
+34 41
+34 41
+34 42
+35 44
+35 65
+36 43
+36 43
+36 66
+37 47
+37 67
+38 48
+38 68
+39 45
+39 45
+39 69
+40 46
+40 46
+40 70
+41 50
+41 71
+42 49
+42 49
+42 72
+43 51
+44 51
+44 51
+45 52
+46 53
+47 52
+47 52
+48 53
+48 53
+49 54
+50 54
+50 54

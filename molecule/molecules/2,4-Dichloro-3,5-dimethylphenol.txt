@@ -1,0 +1,43 @@
+2,4-Dichloro-3,5-dimethylphenol
+19
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+1 6
+2 8
+2 18
+3 5
+3 5
+3 6
+3 9
+4 5
+4 7
+4 7
+4 10
+6 8
+6 8
+7 8
+7 11
+9 12
+9 13
+9 14
+10 15
+10 16
+10 17

@@ -1,0 +1,143 @@
+19-Ethenyl-18-[3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-17-oxa-3,13-diazapentacyclo[11.8.0.02,11.04,9.015,20]henicosa-2,4,6,8,10,15-hexaen-14-one
+64
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 20
+1 15
+1 21
+2 21
+2 26
+3 18
+3 18
+4 23
+4 56
+5 24
+5 57
+6 25
+6 58
+7 30
+7 63
+8 11
+8 17
+8 18
+9 16
+9 16
+9 29
+10 12
+10 13
+10 14
+10 36
+11 12
+11 16
+11 37
+12 38
+12 39
+13 15
+13 22
+13 40
+14 18
+14 20
+14 20
+15 41
+16 19
+17 19
+17 42
+17 43
+19 27
+19 27
+20 44
+21 23
+21 45
+22 31
+22 31
+22 46
+23 24
+23 47
+24 25
+24 48
+25 26
+25 49
+26 30
+26 50
+27 28
+27 51
+28 29
+28 32
+28 32
+29 33
+29 33
+30 52
+30 53
+31 54
+31 55
+32 34
+32 59
+33 35
+33 60
+34 35
+34 35
+34 61
+35 62

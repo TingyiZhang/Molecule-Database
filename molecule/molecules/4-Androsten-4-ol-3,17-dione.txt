@@ -1,0 +1,104 @@
+4-Androsten-4-ol-3,17-dione
+48
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 14
+1 20
+1 47
+2 21
+2 21
+3 4
+3 5
+3 10
+3 22
+4 7
+4 8
+4 23
+5 6
+5 11
+5 24
+6 9
+6 14
+6 17
+7 12
+7 16
+7 18
+8 9
+8 25
+8 26
+9 27
+9 28
+10 13
+10 29
+10 30
+11 15
+11 31
+11 32
+12 13
+12 20
+12 20
+13 33
+13 34
+14 15
+15 35
+15 36
+16 19
+16 37
+16 38
+17 39
+17 40
+17 41
+18 42
+18 43
+18 44
+19 21
+19 45
+19 46
+20 21

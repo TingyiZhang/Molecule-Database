@@ -1,0 +1,77 @@
+Acetaminosalol
+33
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 13
+1 12
+1 32
+2 13
+2 13
+3 18
+3 18
+4 5
+4 18
+4 25
+5 8
+5 8
+5 9
+6 10
+6 10
+6 11
+7 12
+7 13
+7 14
+7 14
+8 10
+8 20
+9 11
+9 11
+9 21
+10 22
+11 23
+12 15
+12 15
+14 16
+14 24
+15 17
+15 26
+16 17
+16 17
+16 27
+17 28
+18 19
+19 29
+19 30
+19 31

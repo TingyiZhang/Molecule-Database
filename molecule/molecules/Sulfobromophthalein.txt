@@ -1,0 +1,111 @@
+Sulfobromophthalein
+46
+"Bromine"
+"Bromine"
+"Bromine"
+"Bromine"
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 22
+1 27
+2 30
+3 31
+4 10
+4 12
+4 12
+4 13
+4 13
+4 28
+5 11
+5 14
+5 14
+5 15
+5 15
+5 29
+6 16
+6 21
+7 21
+7 21
+8 34
+8 42
+9 35
+9 43
+10 44
+11 45
+16 17
+16 18
+16 19
+17 20
+17 20
+17 22
+18 23
+18 23
+18 25
+19 24
+19 24
+19 26
+20 21
+20 27
+22 30
+22 30
+23 28
+23 36
+24 29
+24 37
+25 32
+25 32
+25 38
+26 33
+26 33
+26 39
+27 31
+27 31
+28 34
+28 34
+29 35
+29 35
+30 31
+32 34
+32 40
+33 35
+33 41

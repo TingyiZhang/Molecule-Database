@@ -1,0 +1,27 @@
+1-Chloro-1,2,2-trifluoro-1,2-dinitroethane
+12
+"Chlorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+0 10
+1 10
+2 11
+3 11
+4 8
+5 8
+5 8
+6 9
+7 9
+7 9
+8 10
+9 11
+10 11

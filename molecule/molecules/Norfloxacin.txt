@@ -1,0 +1,92 @@
+Norfloxacin
+41
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+1 18
+1 18
+2 22
+2 40
+3 22
+3 22
+4 7
+4 8
+4 11
+5 9
+5 10
+5 31
+6 12
+6 17
+6 19
+7 9
+7 23
+7 24
+8 10
+8 25
+8 26
+9 27
+9 28
+10 29
+10 30
+11 13
+11 15
+11 15
+12 13
+12 13
+12 14
+13 32
+14 16
+14 16
+14 18
+15 16
+16 33
+17 21
+17 34
+17 35
+18 20
+19 20
+19 20
+19 36
+20 22
+21 37
+21 38
+21 39

@@ -1,0 +1,120 @@
+Iopromide
+56
+"Iodine"
+"Iodine"
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+1 20
+2 25
+3 15
+3 47
+4 17
+4 17
+5 22
+5 48
+6 26
+6 49
+7 27
+7 27
+8 28
+8 52
+9 30
+9 31
+10 29
+10 29
+11 14
+11 17
+11 24
+12 23
+12 27
+12 43
+13 21
+13 29
+13 46
+14 15
+14 32
+14 33
+15 22
+15 34
+16 17
+16 19
+16 20
+16 20
+18 19
+18 19
+18 25
+18 27
+20 21
+21 25
+21 25
+22 35
+22 36
+23 26
+23 37
+23 38
+24 40
+24 41
+24 42
+26 28
+26 39
+28 44
+28 45
+29 30
+30 50
+30 51
+31 53
+31 54
+31 55

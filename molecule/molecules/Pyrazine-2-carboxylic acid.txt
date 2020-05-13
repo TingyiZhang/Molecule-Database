@@ -1,0 +1,32 @@
+Pyrazine-2-carboxylic acid
+13
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 12
+1 7
+1 7
+2 4
+2 4
+2 6
+3 5
+3 5
+3 8
+4 5
+4 7
+5 9
+6 8
+6 8
+6 10
+8 11

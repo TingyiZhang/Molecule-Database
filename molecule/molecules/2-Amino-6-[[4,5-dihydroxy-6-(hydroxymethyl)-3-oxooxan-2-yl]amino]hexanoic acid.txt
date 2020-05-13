@@ -1,0 +1,90 @@
+2-Amino-6-[[4,5-dihydroxy-6-(hydroxymethyl)-3-oxooxan-2-yl]amino]hexanoic acid
+43
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 12
+1 9
+1 36
+2 11
+2 37
+3 13
+3 13
+4 15
+4 39
+5 20
+5 42
+6 20
+6 20
+7 12
+7 14
+7 25
+8 19
+8 40
+8 41
+9 10
+9 11
+9 21
+10 15
+10 22
+11 13
+11 23
+12 13
+12 24
+14 16
+14 26
+14 27
+15 28
+15 29
+16 17
+16 30
+16 31
+17 18
+17 32
+17 33
+18 19
+18 34
+18 35
+19 20
+19 38

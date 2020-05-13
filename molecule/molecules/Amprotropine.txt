@@ -1,0 +1,108 @@
+Amprotropine
+51
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 14
+1 14
+1 14
+2 16
+2 49
+3 5
+3 9
+3 10
+4 5
+4 6
+4 7
+4 8
+5 22
+5 23
+6 24
+6 25
+7 26
+7 27
+7 28
+8 29
+8 30
+8 31
+9 11
+9 32
+9 33
+10 12
+10 34
+10 35
+11 36
+11 37
+11 38
+12 39
+12 40
+12 41
+13 14
+13 15
+13 16
+13 42
+15 17
+15 17
+15 18
+16 43
+16 44
+17 19
+17 45
+18 20
+18 20
+18 46
+19 21
+19 21
+19 47
+20 21
+20 48
+21 50

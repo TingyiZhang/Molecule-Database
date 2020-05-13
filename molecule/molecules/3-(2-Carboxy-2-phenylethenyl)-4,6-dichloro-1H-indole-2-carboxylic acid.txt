@@ -1,0 +1,86 @@
+3-(2-Carboxy-2-phenylethenyl)-4,6-dichloro-1H-indole-2-carboxylic acid
+36
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 16
+2 18
+2 34
+3 18
+3 18
+4 21
+4 35
+5 21
+5 21
+6 9
+6 10
+6 25
+7 8
+7 9
+7 9
+7 12
+8 10
+8 10
+8 11
+9 13
+10 18
+11 14
+11 14
+11 26
+12 15
+12 15
+13 16
+13 16
+13 27
+14 17
+14 21
+15 16
+15 28
+17 19
+17 19
+17 20
+19 22
+19 29
+20 23
+20 23
+20 30
+22 24
+22 24
+22 31
+23 24
+23 32
+24 33

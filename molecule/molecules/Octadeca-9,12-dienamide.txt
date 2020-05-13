@@ -1,0 +1,110 @@
+Octadeca-9,12-dienamide
+53
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 16
+1 16
+1 51
+1 52
+2 3
+2 4
+2 20
+2 21
+3 5
+3 22
+3 23
+4 6
+4 24
+4 25
+5 7
+5 26
+5 27
+6 8
+6 28
+6 29
+7 11
+7 30
+7 31
+8 16
+8 32
+8 33
+9 10
+9 12
+9 34
+9 35
+10 13
+10 36
+10 37
+11 14
+11 14
+11 38
+12 17
+12 39
+12 40
+13 19
+13 41
+13 42
+14 15
+14 43
+15 18
+15 44
+15 45
+17 18
+17 18
+17 46
+18 47
+19 48
+19 49
+19 50

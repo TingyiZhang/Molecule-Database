@@ -1,0 +1,153 @@
+Gossypol
+68
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 60
+1 21
+1 61
+2 26
+2 64
+3 27
+3 65
+4 28
+4 66
+5 29
+5 67
+6 36
+6 36
+7 37
+7 37
+8 9
+8 16
+8 20
+8 20
+9 17
+9 21
+9 21
+10 12
+10 12
+10 14
+10 22
+11 13
+11 13
+11 15
+11 23
+12 20
+12 24
+13 21
+13 25
+14 18
+14 26
+14 26
+15 19
+15 27
+15 27
+16 22
+16 22
+16 30
+17 23
+17 23
+17 31
+18 32
+18 33
+18 38
+19 34
+19 35
+19 39
+22 40
+23 41
+24 28
+24 28
+24 36
+25 29
+25 29
+25 37
+26 28
+27 29
+30 54
+30 55
+30 56
+31 57
+31 58
+31 59
+32 42
+32 43
+32 44
+33 45
+33 46
+33 47
+34 48
+34 49
+34 50
+35 51
+35 52
+35 53
+36 62
+37 63

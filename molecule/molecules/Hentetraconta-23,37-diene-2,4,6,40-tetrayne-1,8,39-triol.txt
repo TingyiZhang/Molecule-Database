@@ -1,0 +1,227 @@
+Hentetraconta-23,37-diene-2,4,6,40-tetrayne-1,8,39-triol
+108
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 31
+0 100
+1 35
+1 103
+2 43
+2 107
+3 4
+3 5
+3 44
+3 45
+4 6
+4 46
+4 47
+5 7
+5 48
+5 49
+6 8
+6 50
+6 51
+7 9
+7 52
+7 53
+8 10
+8 54
+8 55
+9 14
+9 56
+9 57
+10 17
+10 58
+10 59
+11 12
+11 13
+11 60
+11 61
+12 15
+12 62
+12 63
+13 16
+13 64
+13 65
+14 20
+14 66
+14 67
+15 18
+15 68
+15 69
+16 19
+16 70
+16 71
+17 21
+17 72
+17 73
+18 22
+18 74
+18 75
+19 23
+19 76
+19 77
+20 24
+20 78
+20 79
+21 26
+21 80
+21 81
+22 25
+22 82
+22 83
+23 27
+23 84
+23 85
+24 28
+24 86
+24 87
+25 29
+25 88
+25 89
+26 31
+26 92
+26 93
+27 30
+27 90
+27 91
+28 29
+28 29
+28 94
+29 95
+30 32
+30 96
+30 97
+31 33
+31 98
+32 34
+32 34
+32 99
+33 36
+33 36
+33 36
+34 35
+34 101
+35 37
+35 102
+36 38
+37 39
+37 39
+37 39
+38 40
+38 40
+38 40
+39 104
+40 41
+41 42
+41 42
+41 42
+42 43
+43 105
+43 106

@@ -1,0 +1,47 @@
+Pyromellitic dianhydride
+18
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 13
+1 14
+1 15
+2 12
+2 12
+3 13
+3 13
+4 14
+4 14
+5 15
+5 15
+6 7
+6 7
+6 10
+6 12
+7 11
+7 13
+8 9
+8 10
+8 10
+8 14
+9 11
+9 11
+9 15
+10 16
+11 17

@@ -1,0 +1,40 @@
+Guvacine
+18
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 17
+1 8
+1 8
+2 3
+2 5
+2 15
+3 4
+3 9
+3 10
+4 7
+4 11
+4 12
+5 6
+5 13
+5 14
+6 7
+6 7
+6 8
+7 16

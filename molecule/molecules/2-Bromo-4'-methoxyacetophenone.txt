@@ -1,0 +1,48 @@
+2-Bromo-4'-methoxyacetophenone
+21
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 6
+1 11
+2 9
+2 9
+3 4
+3 4
+3 5
+3 9
+4 7
+4 12
+5 8
+5 8
+5 13
+6 7
+6 7
+6 8
+7 14
+8 15
+9 10
+10 16
+10 17
+11 18
+11 19
+11 20

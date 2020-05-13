@@ -1,0 +1,41 @@
+DL-Glutamic acid
+19
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 17
+1 9
+1 18
+2 8
+2 8
+3 9
+3 9
+4 6
+4 15
+4 16
+5 6
+5 7
+5 10
+5 11
+6 8
+6 12
+7 9
+7 13
+7 14

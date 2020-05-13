@@ -1,0 +1,108 @@
+Cannabinol
+49
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 6
+1 13
+1 45
+2 3
+2 7
+2 8
+3 4
+3 4
+3 12
+4 5
+4 14
+5 6
+5 13
+5 13
+6 11
+6 11
+7 23
+7 24
+7 25
+8 26
+8 27
+8 28
+9 10
+9 11
+9 16
+9 16
+10 15
+10 29
+10 30
+11 31
+12 19
+12 19
+12 32
+13 16
+14 17
+14 17
+14 33
+15 18
+15 34
+15 35
+16 36
+17 19
+17 21
+18 20
+18 37
+18 38
+19 39
+20 22
+20 40
+20 41
+21 42
+21 43
+21 44
+22 46
+22 47
+22 48

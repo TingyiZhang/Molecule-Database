@@ -1,0 +1,83 @@
+Bicyclo[7.2.0]undec-4-ene, 4,11,11-trimethyl-8-methylene-, (1R,4E,9S)-
+39
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 3
+0 5
+0 6
+1 2
+1 4
+1 15
+2 3
+2 7
+2 16
+3 17
+3 18
+4 8
+4 19
+4 20
+5 21
+5 22
+5 23
+6 24
+6 25
+6 26
+7 9
+7 12
+7 12
+8 10
+8 27
+8 28
+9 11
+9 29
+9 30
+10 13
+10 13
+10 14
+11 13
+11 31
+11 32
+12 33
+12 34
+13 35
+14 36
+14 37
+14 38

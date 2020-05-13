@@ -1,0 +1,85 @@
+2-Penten-1-ol, 5-[(1R,3R,6S)-2,3-dimethyltricyclo[2.2.1.02,6]hept-3-yl]-2-methyl-, (2Z)-
+40
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 39
+1 2
+1 3
+1 4
+1 8
+2 3
+2 6
+2 16
+3 7
+3 17
+4 5
+4 9
+4 10
+5 6
+5 7
+5 18
+6 19
+6 20
+7 21
+7 22
+8 23
+8 24
+8 25
+9 11
+9 26
+9 27
+10 28
+10 29
+10 30
+11 12
+11 31
+11 32
+12 13
+12 13
+12 33
+13 14
+13 15
+14 34
+14 35
+15 36
+15 37
+15 38

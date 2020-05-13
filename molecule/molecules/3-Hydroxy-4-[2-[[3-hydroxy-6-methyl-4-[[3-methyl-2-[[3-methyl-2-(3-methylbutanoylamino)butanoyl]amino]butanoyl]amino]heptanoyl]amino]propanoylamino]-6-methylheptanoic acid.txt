@@ -1,0 +1,229 @@
+3-Hydroxy-4-[2-[[3-hydroxy-6-methyl-4-[[3-methyl-2-[[3-methyl-2-(3-methylbutanoylamino)butanoyl]amino]butanoyl]amino]heptanoyl]amino]propanoylamino]-6-methylheptanoic acid
+111
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 80
+1 25
+1 100
+2 22
+2 22
+3 29
+3 29
+4 31
+4 31
+5 36
+5 36
+6 44
+6 110
+7 42
+7 42
+8 44
+8 44
+9 14
+9 22
+9 54
+10 18
+10 31
+10 69
+11 19
+11 36
+11 71
+12 29
+12 32
+12 83
+13 28
+13 42
+13 90
+14 15
+14 16
+14 48
+15 17
+15 49
+15 50
+16 20
+16 51
+17 26
+17 27
+17 52
+18 21
+18 22
+18 53
+19 23
+19 25
+19 55
+20 29
+20 56
+20 57
+21 33
+21 34
+21 58
+23 24
+23 59
+23 60
+24 37
+24 38
+24 61
+25 35
+25 62
+26 63
+26 64
+26 65
+27 66
+27 67
+27 68
+28 30
+28 31
+28 70
+30 39
+30 40
+30 72
+32 36
+32 41
+32 73
+33 74
+33 75
+33 76
+34 77
+34 78
+34 79
+35 44
+35 81
+35 82
+37 84
+37 85
+37 86
+38 87
+38 88
+38 89
+39 91
+39 92
+39 93
+40 94
+40 95
+40 96
+41 97
+41 98
+41 99
+42 43
+43 45
+43 101
+43 102
+45 46
+45 47
+45 103
+46 104
+46 105
+46 106
+47 107
+47 108
+47 109

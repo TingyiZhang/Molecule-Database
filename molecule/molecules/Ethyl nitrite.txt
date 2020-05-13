@@ -1,0 +1,22 @@
+Ethyl nitrite
+10
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+1 2
+1 2
+3 4
+3 5
+3 6
+4 7
+4 8
+4 9

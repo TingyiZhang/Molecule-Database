@@ -1,0 +1,152 @@
+4-Benzyloxy-5-[1,2-bis(benzyloxy)ethyl]-2-ethoxyoxolan-3-ol
+69
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 9
+1 7
+1 12
+2 9
+2 13
+3 10
+3 14
+4 8
+4 42
+5 11
+5 16
+6 7
+6 10
+6 35
+7 8
+7 36
+8 9
+8 37
+9 38
+10 11
+10 39
+11 40
+11 41
+12 15
+12 43
+12 44
+13 18
+13 45
+13 46
+14 17
+14 47
+14 48
+15 19
+15 19
+15 20
+16 21
+16 49
+16 50
+17 22
+17 22
+17 23
+18 51
+18 52
+18 53
+19 24
+19 54
+20 25
+20 25
+20 55
+21 27
+21 27
+21 28
+22 29
+22 56
+23 30
+23 30
+23 57
+24 26
+24 26
+24 58
+25 26
+25 59
+26 60
+27 32
+27 61
+28 33
+28 33
+28 62
+29 31
+29 31
+29 63
+30 31
+30 64
+31 65
+32 34
+32 34
+32 66
+33 34
+33 67
+34 68

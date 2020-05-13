@@ -1,0 +1,73 @@
+Pyricarbate
+33
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 14
+1 10
+1 15
+2 14
+2 14
+3 15
+3 15
+4 7
+4 7
+4 8
+5 14
+5 16
+5 25
+6 15
+6 17
+6 26
+7 9
+7 11
+8 10
+8 12
+8 12
+9 18
+9 19
+10 20
+10 21
+11 13
+11 13
+11 22
+12 13
+12 23
+13 24
+16 27
+16 28
+16 29
+17 30
+17 31
+17 32

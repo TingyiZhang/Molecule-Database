@@ -1,0 +1,85 @@
+Ponalrestat
+36
+"Bromine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 23
+1 18
+2 11
+2 11
+3 22
+3 35
+4 22
+4 22
+5 6
+5 9
+5 11
+6 10
+6 10
+7 8
+7 10
+7 14
+7 14
+8 11
+8 15
+8 15
+9 12
+9 24
+9 25
+10 13
+12 18
+12 18
+12 19
+13 22
+13 26
+13 27
+14 16
+14 28
+15 17
+15 29
+16 17
+16 17
+16 30
+17 31
+18 20
+19 21
+19 21
+19 32
+20 23
+20 23
+20 33
+21 23
+21 34

@@ -1,0 +1,25 @@
+3-Mercaptopyruvic acid
+11
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 9
+1 5
+1 5
+2 6
+2 10
+3 6
+3 6
+4 5
+4 7
+4 8
+5 6

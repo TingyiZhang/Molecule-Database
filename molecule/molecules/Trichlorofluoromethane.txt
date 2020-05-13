@@ -1,0 +1,11 @@
+Trichlorofluoromethane
+5
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Fluorine"
+"Carbon"
+0 4
+1 4
+2 4
+3 4

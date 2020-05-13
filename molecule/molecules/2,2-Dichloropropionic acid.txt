@@ -1,0 +1,24 @@
+2,2-Dichloropropionic acid
+11
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+1 4
+2 6
+2 10
+3 6
+3 6
+4 5
+4 6
+5 7
+5 8
+5 9

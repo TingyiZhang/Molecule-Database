@@ -1,0 +1,171 @@
+PD173074
+79
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 25
+0 25
+1 33
+1 36
+2 34
+2 37
+3 10
+3 13
+3 14
+4 15
+4 22
+4 65
+5 16
+5 25
+5 66
+6 24
+6 25
+6 67
+7 22
+7 22
+7 27
+8 24
+8 27
+8 27
+9 22
+9 30
+9 30
+10 11
+10 38
+10 39
+11 12
+11 40
+11 41
+12 15
+12 42
+12 43
+13 17
+13 44
+13 45
+14 18
+14 46
+14 47
+15 48
+15 49
+16 19
+16 20
+16 21
+17 50
+17 51
+17 52
+18 53
+18 54
+18 55
+19 56
+19 57
+19 58
+20 59
+20 60
+20 61
+21 62
+21 63
+21 64
+23 24
+23 24
+23 28
+23 29
+26 27
+26 28
+26 28
+26 30
+28 68
+29 31
+29 31
+29 32
+30 69
+31 34
+31 70
+32 33
+32 33
+32 71
+33 35
+34 35
+34 35
+35 72
+36 73
+36 74
+36 75
+37 76
+37 77
+37 78

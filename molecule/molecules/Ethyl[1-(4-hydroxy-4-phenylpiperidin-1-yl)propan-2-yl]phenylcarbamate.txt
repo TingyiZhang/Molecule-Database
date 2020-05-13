@@ -1,0 +1,127 @@
+Ethyl[1-(4-hydroxy-4-phenylpiperidin-1-yl)propan-2-yl]phenylcarbamate
+58
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 39
+1 19
+1 26
+2 19
+2 19
+3 8
+3 9
+3 10
+4 12
+4 16
+4 19
+5 6
+5 7
+5 11
+6 8
+6 28
+6 29
+7 9
+7 30
+7 31
+8 32
+8 33
+9 34
+9 35
+10 12
+10 36
+10 37
+11 14
+11 14
+11 15
+12 13
+12 38
+13 40
+13 41
+13 42
+14 17
+14 43
+15 18
+15 18
+15 44
+16 21
+16 21
+16 22
+17 20
+17 20
+17 45
+18 20
+18 46
+20 47
+21 23
+21 48
+22 24
+22 24
+22 49
+23 25
+23 25
+23 50
+24 25
+24 51
+25 52
+26 27
+26 53
+26 54
+27 55
+27 56
+27 57

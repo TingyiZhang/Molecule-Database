@@ -1,0 +1,126 @@
+Ethyl N-[4-[[2-(2,4-dichlorophenyl)-2-(imidazol-1-ylmethyl)-1,3-dioxolan-4-yl]methylsulfanyl]phenyl]carbamate
+56
+"Chlorine"
+"Chlorine"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+1 22
+2 15
+2 24
+3 10
+3 11
+4 10
+4 12
+5 30
+5 31
+6 30
+6 30
+7 13
+7 18
+7 19
+8 19
+8 19
+8 23
+9 29
+9 30
+9 50
+10 13
+10 14
+11 12
+11 15
+11 33
+12 34
+12 35
+13 36
+13 37
+14 16
+14 16
+14 17
+15 38
+15 39
+16 20
+17 21
+17 21
+17 40
+18 23
+18 23
+18 41
+19 42
+20 22
+20 22
+20 43
+21 22
+21 44
+23 45
+24 25
+24 25
+24 26
+25 27
+25 46
+26 28
+26 28
+26 47
+27 29
+27 29
+27 48
+28 29
+28 49
+31 32
+31 51
+31 52
+32 53
+32 54
+32 55

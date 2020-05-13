@@ -1,0 +1,293 @@
+2-[2-Hydroxy-6-[[2-[5-[5-(6-hydroxy-3,5,6-trimethyloxan-2-yl)oxolan-2-yl]-3-(5-methoxy-6-methyloxan-2-yl)oxyoxolan-2-yl]-7-methoxy-2,4,6-trimethyl-1,10-dioxaspiro[4.5]decan-9-yl]methyl]-4-methoxy-3,5-dimethyloxan-2-yl]propanoic acid
+142
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 16
+1 15
+1 24
+2 19
+2 23
+3 21
+3 42
+4 29
+4 34
+5 22
+5 49
+6 32
+6 40
+7 37
+7 46
+8 42
+8 53
+9 38
+9 59
+10 40
+10 121
+11 46
+11 131
+12 54
+12 61
+13 58
+13 138
+14 58
+14 58
+15 17
+15 20
+16 18
+16 19
+16 27
+17 18
+17 28
+17 62
+18 63
+18 64
+19 21
+19 65
+20 22
+20 31
+20 66
+21 25
+21 67
+22 26
+22 68
+23 25
+23 29
+23 69
+24 26
+24 30
+24 70
+25 71
+25 72
+26 73
+26 74
+27 75
+27 76
+27 77
+28 78
+28 79
+28 80
+29 33
+29 81
+30 32
+30 82
+30 83
+31 84
+31 85
+31 86
+32 36
+32 87
+33 35
+33 88
+33 89
+34 35
+34 37
+34 90
+35 91
+35 92
+36 38
+36 44
+36 93
+37 41
+37 94
+38 39
+38 95
+39 40
+39 50
+39 96
+40 47
+41 43
+41 51
+41 97
+42 48
+42 98
+43 45
+43 99
+43 100
+44 102
+44 103
+44 104
+45 46
+45 55
+45 101
+46 56
+47 57
+47 58
+47 105
+48 52
+48 106
+48 107
+49 108
+49 109
+49 110
+50 111
+50 112
+50 113
+51 114
+51 115
+51 116
+52 54
+52 117
+52 118
+53 54
+53 60
+53 119
+54 120
+55 122
+55 123
+55 124
+56 125
+56 126
+56 127
+57 128
+57 129
+57 130
+59 132
+59 133
+59 134
+60 135
+60 136
+60 137
+61 139
+61 140
+61 141

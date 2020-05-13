@@ -1,0 +1,63 @@
+3-(2-Aminopropyl)-1H-indol-5-ol
+28
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 27
+1 7
+1 8
+1 18
+2 5
+2 24
+2 25
+3 4
+3 5
+3 14
+3 15
+4 6
+4 8
+4 8
+5 10
+5 16
+6 7
+6 7
+6 9
+7 11
+8 17
+9 12
+9 12
+9 22
+10 19
+10 20
+10 21
+11 13
+11 13
+11 23
+12 13
+13 26

@@ -1,0 +1,102 @@
+Dodecyltrimethylammonium chloride
+51
+"Chlorine"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+1 2
+1 8
+1 9
+1 10
+2 3
+2 17
+2 18
+3 4
+3 19
+3 20
+4 5
+4 21
+4 22
+5 6
+5 23
+5 24
+6 7
+6 25
+6 26
+7 11
+7 27
+7 28
+8 29
+8 30
+8 31
+9 32
+9 33
+9 34
+10 35
+10 36
+10 37
+11 12
+11 38
+11 39
+12 13
+12 40
+12 41
+13 14
+13 42
+13 43
+14 15
+14 44
+14 45
+15 16
+15 46
+15 47
+16 48
+16 49
+16 50

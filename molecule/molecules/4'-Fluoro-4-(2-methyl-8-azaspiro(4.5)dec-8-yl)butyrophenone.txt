@@ -1,0 +1,110 @@
+4'-Fluoro-4-(2-methyl-8-azaspiro(4.5)dec-8-yl)butyrophenone
+51
+"Fluorine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 22
+1 16
+1 16
+2 10
+2 11
+2 13
+3 4
+3 5
+3 7
+3 8
+4 6
+4 23
+4 24
+5 9
+5 25
+5 26
+6 9
+6 12
+6 27
+7 10
+7 28
+7 29
+8 11
+8 30
+8 31
+9 32
+9 33
+10 34
+10 35
+11 36
+11 37
+12 38
+12 39
+12 40
+13 14
+13 41
+13 42
+14 15
+14 43
+14 44
+15 16
+15 45
+15 46
+16 17
+17 18
+17 18
+17 19
+18 20
+18 47
+19 21
+19 21
+19 48
+20 22
+20 22
+20 49
+21 22
+21 50

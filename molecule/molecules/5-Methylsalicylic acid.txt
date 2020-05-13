@@ -1,0 +1,44 @@
+5-Methylsalicylic acid
+19
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 17
+1 10
+1 18
+2 10
+2 10
+3 5
+3 5
+3 7
+3 9
+4 5
+4 6
+4 6
+4 10
+5 11
+6 8
+7 8
+7 8
+7 12
+8 13
+9 14
+9 15
+9 16

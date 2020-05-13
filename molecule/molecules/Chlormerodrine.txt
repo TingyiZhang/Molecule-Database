@@ -1,0 +1,45 @@
+Chlormerodrine
+22
+"Mercury"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+2 6
+2 9
+3 10
+3 10
+4 7
+4 10
+4 16
+5 10
+5 20
+5 21
+6 7
+6 8
+6 11
+7 12
+7 13
+8 14
+8 15
+9 17
+9 18
+9 19

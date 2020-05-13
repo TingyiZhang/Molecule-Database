@@ -1,0 +1,23 @@
+Ethylene carbonate
+10
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 5
+1 4
+1 5
+2 5
+2 5
+3 4
+3 6
+3 7
+4 8
+4 9

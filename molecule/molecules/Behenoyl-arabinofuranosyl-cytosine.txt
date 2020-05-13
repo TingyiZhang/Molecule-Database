@@ -1,0 +1,197 @@
+Behenoyl-arabinofuranosyl-cytosine
+95
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 12
+1 9
+1 47
+2 10
+2 46
+3 13
+3 79
+4 25
+4 25
+5 38
+5 38
+6 12
+6 23
+6 25
+7 25
+7 34
+7 34
+8 34
+8 38
+8 89
+9 10
+9 11
+9 40
+10 12
+10 41
+11 13
+11 42
+12 43
+13 44
+13 45
+14 15
+14 16
+14 48
+14 49
+15 17
+15 50
+15 51
+16 18
+16 52
+16 53
+17 19
+17 54
+17 55
+18 20
+18 56
+18 57
+19 21
+19 58
+19 59
+20 22
+20 60
+20 61
+21 24
+21 62
+21 63
+22 26
+22 64
+22 65
+23 32
+23 32
+23 68
+24 27
+24 66
+24 67
+26 28
+26 69
+26 70
+27 29
+27 71
+27 72
+28 30
+28 73
+28 74
+29 31
+29 75
+29 76
+30 33
+30 77
+30 78
+31 35
+31 80
+31 81
+32 34
+32 82
+33 36
+33 83
+33 84
+35 37
+35 85
+35 86
+36 38
+36 87
+36 88
+37 39
+37 90
+37 91
+39 92
+39 93
+39 94

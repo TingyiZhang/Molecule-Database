@@ -1,0 +1,36 @@
+2,3,5,6-Tetrachlorobenzoic acid
+15
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 8
+2 9
+3 10
+4 12
+4 14
+5 12
+5 12
+6 7
+6 7
+6 8
+6 12
+7 10
+8 9
+8 9
+9 11
+10 11
+10 11
+11 13

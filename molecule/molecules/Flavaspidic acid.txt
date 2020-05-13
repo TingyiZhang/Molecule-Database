@@ -1,0 +1,135 @@
+Flavaspidic acid
+62
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 42
+1 16
+1 45
+2 11
+2 11
+3 19
+3 56
+4 20
+4 57
+5 18
+5 18
+6 24
+6 58
+7 26
+7 26
+8 9
+8 11
+8 14
+8 15
+9 10
+9 10
+10 13
+10 16
+11 12
+12 16
+12 16
+12 18
+13 17
+13 32
+13 33
+14 34
+14 35
+14 36
+15 37
+15 38
+15 39
+17 19
+17 19
+17 20
+18 21
+19 22
+20 23
+20 23
+21 25
+21 40
+21 41
+22 24
+22 24
+22 26
+23 24
+23 28
+25 29
+25 43
+25 44
+26 27
+27 30
+27 46
+27 47
+28 48
+28 49
+28 50
+29 51
+29 52
+29 53
+30 31
+30 54
+30 55
+31 59
+31 60
+31 61

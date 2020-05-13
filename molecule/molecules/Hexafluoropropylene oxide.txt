@@ -1,0 +1,22 @@
+Hexafluoropropylene oxide
+10
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+0 7
+1 8
+2 8
+3 9
+4 9
+5 9
+6 7
+6 8
+7 8
+7 9

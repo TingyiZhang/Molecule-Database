@@ -1,0 +1,67 @@
+Sebacic acid
+32
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 30
+1 13
+1 31
+2 12
+2 12
+3 13
+3 13
+4 5
+4 6
+4 14
+4 15
+5 7
+5 16
+5 17
+6 8
+6 18
+6 19
+7 9
+7 20
+7 21
+8 10
+8 22
+8 23
+9 11
+9 24
+9 25
+10 12
+10 26
+10 27
+11 13
+11 28
+11 29

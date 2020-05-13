@@ -1,0 +1,80 @@
+1,8-Anthracenedisulfonic acid, 9,10-dihydro-9,10-dioxo-
+32
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 6
+0 6
+0 7
+0 7
+0 16
+1 5
+1 8
+1 8
+1 9
+1 9
+1 17
+2 14
+2 14
+3 15
+3 15
+4 30
+5 31
+10 12
+10 12
+10 14
+10 16
+11 13
+11 13
+11 14
+11 17
+12 15
+12 18
+13 15
+13 19
+16 20
+16 20
+17 21
+17 21
+18 22
+18 22
+18 24
+19 23
+19 23
+19 25
+20 22
+20 26
+21 23
+21 27
+22 28
+23 29

@@ -1,0 +1,61 @@
+Meglumine
+30
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 21
+1 7
+1 22
+2 8
+2 24
+3 9
+3 25
+4 11
+4 29
+5 10
+5 12
+5 23
+6 7
+6 8
+6 13
+7 9
+7 14
+8 10
+8 15
+9 11
+9 16
+10 17
+10 18
+11 19
+11 20
+12 26
+12 27
+12 28

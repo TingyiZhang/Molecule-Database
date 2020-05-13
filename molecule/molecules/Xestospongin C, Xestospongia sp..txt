@@ -1,0 +1,170 @@
+Xestospongin C, Xestospongia sp.
+82
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 10
+1 7
+1 11
+2 6
+2 12
+2 18
+3 7
+3 13
+3 19
+4 6
+4 8
+4 14
+4 32
+5 7
+5 9
+5 15
+5 33
+6 34
+7 35
+8 16
+8 36
+8 37
+9 17
+9 38
+9 39
+10 20
+10 22
+10 40
+11 21
+11 23
+11 41
+12 16
+12 42
+12 43
+13 17
+13 44
+13 45
+14 24
+14 46
+14 47
+15 25
+15 48
+15 49
+16 50
+16 51
+17 52
+17 53
+18 20
+18 54
+18 55
+19 21
+19 56
+19 57
+20 58
+20 59
+21 60
+21 61
+22 26
+22 62
+22 63
+23 27
+23 64
+23 65
+24 28
+24 66
+24 67
+25 29
+25 68
+25 69
+26 30
+26 70
+26 71
+27 31
+27 72
+27 73
+28 31
+28 74
+28 75
+29 30
+29 76
+29 77
+30 78
+30 79
+31 80
+31 81

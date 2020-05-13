@@ -1,0 +1,40 @@
+1,4-Dinitrosopiperazine
+18
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 4
+1 5
+1 5
+2 4
+2 7
+2 9
+3 5
+3 6
+3 8
+6 7
+6 10
+6 11
+7 14
+7 15
+8 9
+8 12
+8 13
+9 16
+9 17

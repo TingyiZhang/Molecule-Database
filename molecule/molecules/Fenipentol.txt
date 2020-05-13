@@ -1,0 +1,61 @@
+Fenipentol
+28
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 24
+1 2
+1 3
+1 12
+1 13
+2 5
+2 14
+3 4
+3 15
+3 16
+4 6
+4 17
+4 18
+5 7
+5 7
+5 8
+6 19
+6 20
+6 21
+7 9
+7 22
+8 10
+8 10
+8 23
+9 11
+9 11
+9 25
+10 11
+10 26
+11 27

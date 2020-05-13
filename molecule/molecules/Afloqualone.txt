@@ -1,0 +1,82 @@
+Afloqualone
+35
+"Fluorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+1 8
+1 8
+2 5
+2 7
+2 8
+3 7
+3 7
+3 9
+4 15
+4 33
+4 34
+5 10
+5 12
+5 12
+6 8
+6 9
+6 9
+6 11
+7 14
+9 13
+10 16
+10 16
+10 18
+11 15
+11 15
+11 21
+12 19
+12 22
+13 17
+13 17
+13 23
+14 24
+14 25
+15 17
+16 20
+16 26
+17 27
+18 28
+18 29
+18 30
+19 20
+19 20
+19 31
+20 32

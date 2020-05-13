@@ -1,0 +1,44 @@
+N-Isobutylfluoroacetamide
+21
+"Fluorine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 7
+1 7
+2 4
+2 7
+2 18
+3 4
+3 5
+3 6
+3 9
+4 10
+4 11
+5 12
+5 13
+5 14
+6 15
+6 16
+6 17
+7 8
+8 19
+8 20

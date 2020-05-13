@@ -1,0 +1,82 @@
+3-[3,4-Dihydroxy-5-(phosphonooxymethyl)oxolan-2-yl]-2,6-dioxopyrimidine-4-carboxylic acid
+37
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 7
+0 8
+0 11
+0 11
+1 16
+1 17
+2 14
+2 30
+3 15
+3 31
+4 18
+5 20
+5 20
+6 23
+6 34
+7 35
+8 36
+9 22
+9 22
+10 23
+10 23
+12 16
+12 19
+12 20
+13 20
+13 22
+13 33
+14 15
+14 16
+14 24
+15 17
+15 25
+16 26
+17 18
+17 27
+18 28
+18 29
+19 21
+19 21
+19 23
+21 22
+21 32

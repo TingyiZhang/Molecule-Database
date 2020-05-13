@@ -1,0 +1,99 @@
+Petrichloral
+49
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 29
+1 29
+2 29
+3 30
+4 30
+5 30
+6 31
+7 31
+8 31
+9 32
+10 32
+11 32
+12 21
+12 25
+13 22
+13 26
+14 23
+14 27
+15 24
+15 28
+16 25
+16 45
+17 26
+17 46
+18 27
+18 47
+19 28
+19 48
+20 21
+20 22
+20 23
+20 24
+21 33
+21 34
+22 35
+22 36
+23 37
+23 38
+24 39
+24 40
+25 29
+25 41
+26 30
+26 42
+27 31
+27 43
+28 32
+28 44

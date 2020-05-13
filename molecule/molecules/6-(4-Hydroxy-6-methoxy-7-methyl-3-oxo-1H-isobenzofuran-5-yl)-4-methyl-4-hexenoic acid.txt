@@ -1,0 +1,95 @@
+6-(4-Hydroxy-6-methoxy-7-methyl-3-oxo-1H-isobenzofuran-5-yl)-4-methyl-4-hexenoic acid
+43
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 14
+1 10
+1 21
+2 11
+2 38
+3 14
+3 14
+4 22
+4 42
+5 22
+5 22
+6 8
+6 9
+6 9
+6 13
+7 10
+7 10
+7 11
+7 12
+8 11
+8 11
+8 14
+9 10
+9 16
+12 15
+12 23
+12 24
+13 25
+13 26
+15 17
+15 17
+15 27
+16 28
+16 29
+16 30
+17 18
+17 20
+18 19
+18 31
+18 32
+19 22
+19 33
+19 34
+20 35
+20 36
+20 37
+21 39
+21 40
+21 41

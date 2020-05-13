@@ -1,0 +1,36 @@
+2-Bromobenzoic acid
+15
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+1 9
+1 14
+2 9
+2 9
+3 4
+3 5
+3 5
+3 9
+4 6
+4 6
+5 7
+5 10
+6 8
+6 11
+7 8
+7 8
+7 12
+8 13

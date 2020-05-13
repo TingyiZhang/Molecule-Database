@@ -1,0 +1,103 @@
+Heliotron
+49
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 33
+1 13
+1 17
+2 14
+2 45
+3 16
+3 21
+4 17
+4 17
+5 6
+5 8
+5 11
+6 7
+6 10
+6 22
+7 9
+7 23
+8 9
+8 24
+8 25
+9 26
+9 27
+10 12
+10 12
+10 13
+11 12
+11 28
+11 29
+12 30
+13 31
+13 32
+14 15
+14 16
+14 17
+15 18
+15 19
+15 34
+16 20
+16 35
+18 36
+18 37
+18 38
+19 39
+19 40
+19 41
+20 42
+20 43
+20 44
+21 46
+21 47
+21 48

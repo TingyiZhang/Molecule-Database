@@ -1,0 +1,65 @@
+Mephenoxalone
+29
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 8
+1 7
+1 9
+2 8
+2 8
+3 10
+3 15
+4 6
+4 8
+4 21
+5 6
+5 7
+5 16
+6 17
+6 18
+7 19
+7 20
+9 10
+9 11
+9 11
+10 12
+10 12
+11 13
+11 22
+12 14
+12 23
+13 14
+13 14
+13 24
+14 25
+15 26
+15 27
+15 28

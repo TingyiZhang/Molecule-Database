@@ -1,0 +1,201 @@
+Methacrylyl-CoA (not stereospecified)
+93
+"Sulfur"
+"Phosphorus"
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 48
+0 49
+1 5
+1 8
+1 9
+1 12
+1 12
+2 7
+2 10
+2 13
+2 15
+2 15
+3 10
+3 11
+3 16
+3 17
+3 17
+4 30
+4 31
+5 28
+6 29
+6 59
+7 32
+8 70
+9 71
+11 38
+13 73
+14 37
+14 74
+16 80
+18 43
+18 43
+19 46
+19 46
+20 49
+20 49
+21 31
+21 33
+21 34
+22 34
+22 34
+22 35
+23 33
+23 33
+23 42
+24 39
+24 42
+24 42
+25 39
+25 75
+25 76
+26 43
+26 44
+26 77
+27 46
+27 47
+27 83
+28 29
+28 30
+28 53
+29 31
+29 54
+30 32
+30 55
+31 56
+32 57
+32 58
+33 35
+34 60
+35 39
+35 39
+36 37
+36 38
+36 40
+36 41
+37 43
+37 61
+38 62
+38 63
+40 64
+40 65
+40 66
+41 67
+41 68
+41 69
+42 72
+44 45
+44 78
+44 79
+45 46
+45 81
+45 82
+47 48
+47 84
+47 85
+48 86
+48 87
+49 50
+50 51
+50 52
+50 52
+51 88
+51 89
+51 90
+52 91
+52 92

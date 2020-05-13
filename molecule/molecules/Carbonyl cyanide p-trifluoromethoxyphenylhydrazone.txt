@@ -1,0 +1,56 @@
+Carbonyl cyanide p-trifluoromethoxyphenylhydrazone
+23
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+1 14
+2 14
+3 9
+3 14
+4 5
+4 8
+4 22
+5 15
+5 15
+6 16
+6 16
+6 16
+7 17
+7 17
+7 17
+8 10
+8 10
+8 11
+9 12
+9 12
+9 13
+10 12
+10 18
+11 13
+11 13
+11 19
+12 20
+13 21
+15 16
+15 17

@@ -1,0 +1,99 @@
+1-[6-[3-(Dimethylamino)propoxy]-2,2-dimethyl-3a,5,6,6a-tetrahydrofuro[2,3-d][1,3]dioxol-5-yl]ethane-1,2-diol
+48
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 10
+1 7
+1 11
+2 10
+2 11
+3 8
+3 16
+4 12
+4 36
+5 15
+5 41
+6 18
+6 19
+6 20
+7 8
+7 10
+7 21
+8 9
+8 22
+9 12
+9 23
+10 24
+11 13
+11 14
+12 15
+12 25
+13 26
+13 27
+13 28
+14 29
+14 30
+14 31
+15 32
+15 33
+16 17
+16 34
+16 35
+17 18
+17 37
+17 38
+18 39
+18 40
+19 42
+19 43
+19 44
+20 45
+20 46
+20 47

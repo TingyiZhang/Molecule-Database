@@ -1,0 +1,101 @@
+(1R,9S,10R)-17-Prop-2-enyl-17-azatetracyclo[7.5.3.01,10.02,7]heptadeca-2(7),3,5-trien-4-ol
+46
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 43
+1 4
+1 10
+1 14
+2 3
+2 5
+2 6
+2 8
+3 4
+3 7
+3 21
+4 9
+4 22
+5 10
+5 23
+5 24
+6 11
+6 25
+6 26
+7 12
+7 27
+7 28
+8 13
+8 13
+8 15
+9 13
+9 29
+9 30
+10 31
+10 32
+11 12
+11 33
+11 34
+12 35
+12 36
+13 16
+14 19
+14 37
+14 38
+15 17
+15 17
+15 39
+16 18
+16 18
+16 40
+17 18
+18 41
+19 20
+19 20
+19 42
+20 44
+20 45

@@ -1,0 +1,19 @@
+Propargyl alcohol
+8
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 6
+1 2
+1 4
+1 5
+2 3
+2 3
+2 3
+3 7

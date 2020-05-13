@@ -1,0 +1,133 @@
+2-Benzhydryl-N-[(2-iodophenyl)methyl]-1-azabicyclo[2.2.2]octan-3-amine
+59
+"Iodine"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 23
+1 4
+1 8
+1 9
+2 5
+2 13
+2 42
+3 5
+3 6
+3 7
+3 30
+4 5
+4 10
+4 31
+5 32
+6 8
+6 33
+6 34
+7 9
+7 35
+7 36
+8 37
+8 38
+9 39
+9 40
+10 11
+10 12
+10 41
+11 14
+11 14
+11 16
+12 15
+12 15
+12 17
+13 18
+13 43
+13 44
+14 19
+14 45
+15 20
+15 46
+16 21
+16 21
+16 47
+17 22
+17 22
+17 48
+18 23
+18 24
+18 24
+19 25
+19 25
+19 49
+20 26
+20 26
+20 50
+21 25
+21 51
+22 26
+22 52
+23 27
+23 27
+24 28
+24 53
+25 54
+26 55
+27 29
+27 56
+28 29
+28 29
+28 57
+29 58

@@ -1,0 +1,38 @@
+1,4-Benzoquinone dioxime
+16
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 15
+1 3
+1 3
+2 4
+2 14
+3 7
+4 5
+4 5
+4 6
+5 8
+5 10
+6 9
+6 9
+6 11
+7 8
+7 8
+7 9
+8 12
+9 13

@@ -1,0 +1,111 @@
+Clebopride
+50
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 23
+1 13
+1 13
+2 17
+2 25
+3 9
+3 10
+3 11
+4 6
+4 13
+4 37
+5 24
+5 45
+5 46
+6 7
+6 8
+6 26
+7 9
+7 27
+7 28
+8 10
+8 29
+8 30
+9 31
+9 32
+10 33
+10 34
+11 12
+11 35
+11 36
+12 15
+12 15
+12 16
+13 14
+14 17
+14 20
+14 20
+15 18
+15 38
+16 19
+16 19
+16 39
+17 22
+17 22
+18 21
+18 21
+18 40
+19 21
+19 41
+20 23
+20 42
+21 43
+22 24
+22 44
+23 24
+23 24
+25 47
+25 48
+25 49

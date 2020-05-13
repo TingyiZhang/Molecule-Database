@@ -1,0 +1,35 @@
+2,4-Dichlorobenzotrifluoride
+15
+"Chlorine"
+"Chlorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+1 11
+2 8
+3 8
+4 8
+5 6
+5 6
+5 7
+5 8
+6 9
+7 10
+7 10
+7 12
+9 11
+9 11
+9 13
+10 11
+10 14

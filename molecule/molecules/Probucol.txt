@@ -1,0 +1,175 @@
+Probucol
+83
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+0 20
+1 19
+1 20
+2 12
+2 81
+3 13
+3 82
+4 8
+4 21
+4 22
+4 23
+5 9
+5 24
+5 25
+5 26
+6 10
+6 27
+6 28
+6 29
+7 11
+7 30
+7 31
+7 32
+8 12
+8 12
+8 14
+9 13
+9 13
+9 15
+10 12
+10 16
+10 16
+11 13
+11 17
+11 17
+14 18
+14 18
+14 35
+15 19
+15 19
+15 36
+16 18
+16 37
+17 19
+17 38
+20 33
+20 34
+21 39
+21 40
+21 41
+22 42
+22 43
+22 44
+23 45
+23 46
+23 47
+24 48
+24 49
+24 50
+25 51
+25 52
+25 53
+26 54
+26 55
+26 56
+27 57
+27 58
+27 59
+28 60
+28 61
+28 62
+29 63
+29 64
+29 65
+30 66
+30 67
+30 68
+31 69
+31 70
+31 71
+32 72
+32 73
+32 74
+33 75
+33 76
+33 77
+34 78
+34 79
+34 80

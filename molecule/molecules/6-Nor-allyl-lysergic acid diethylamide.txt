@@ -1,0 +1,118 @@
+6-Nor-allyl-lysergic acid diethylamide
+53
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 15
+1 4
+1 8
+1 13
+2 14
+2 16
+2 37
+3 15
+3 21
+3 22
+4 5
+4 6
+4 26
+5 10
+5 11
+5 11
+6 9
+6 27
+6 28
+7 8
+7 11
+7 15
+7 29
+8 30
+8 31
+9 12
+9 16
+9 16
+10 12
+10 12
+10 17
+11 32
+12 14
+13 20
+13 33
+13 34
+14 18
+14 18
+16 35
+17 19
+17 19
+17 36
+18 19
+18 38
+19 39
+20 23
+20 23
+20 40
+21 24
+21 41
+21 42
+22 25
+22 43
+22 44
+23 45
+23 46
+24 47
+24 48
+24 49
+25 50
+25 51
+25 52

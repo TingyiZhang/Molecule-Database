@@ -1,0 +1,124 @@
+15-Hydroperoxyicosa-11,13-dienoic acid
+60
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 16
+1 23
+1 58
+2 23
+2 23
+3 59
+4 5
+4 6
+4 24
+4 25
+5 7
+5 26
+5 27
+6 8
+6 28
+6 29
+7 9
+7 30
+7 31
+8 10
+8 32
+8 33
+9 11
+9 34
+9 35
+10 15
+10 36
+10 37
+11 18
+11 38
+11 39
+12 13
+12 14
+12 40
+12 41
+13 16
+13 42
+13 43
+14 17
+14 44
+14 45
+15 23
+15 46
+15 47
+16 19
+16 48
+17 21
+17 49
+17 50
+18 20
+18 20
+18 51
+19 22
+19 22
+19 52
+20 22
+20 53
+21 54
+21 55
+21 56
+22 57

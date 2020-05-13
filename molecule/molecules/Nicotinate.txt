@@ -1,0 +1,32 @@
+Nicotinate
+13
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 8
+1 8
+2 5
+2 7
+2 7
+3 4
+3 5
+3 5
+3 8
+4 6
+4 6
+4 9
+5 10
+6 7
+6 11
+7 12

@@ -1,0 +1,17 @@
+Phosphonatoformate
+7
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+0 1
+0 2
+0 3
+0 3
+0 6
+4 6
+5 6
+5 6

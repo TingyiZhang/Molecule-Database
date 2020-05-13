@@ -1,0 +1,53 @@
+Carbachol
+26
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+1 9
+1 10
+2 10
+2 10
+3 5
+3 6
+3 7
+3 8
+4 10
+4 24
+4 25
+5 9
+5 11
+5 12
+6 13
+6 14
+6 15
+7 16
+7 17
+7 18
+8 19
+8 20
+8 21
+9 22
+9 23

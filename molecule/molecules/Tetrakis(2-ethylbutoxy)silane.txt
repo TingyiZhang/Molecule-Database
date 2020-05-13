@@ -1,0 +1,163 @@
+Tetrakis(2-ethylbutoxy)silane
+81
+"Silicon"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 4
+1 9
+2 10
+3 11
+4 12
+5 9
+5 13
+5 14
+5 29
+6 10
+6 15
+6 16
+6 30
+7 11
+7 17
+7 18
+7 31
+8 12
+8 19
+8 20
+8 32
+9 33
+9 34
+10 35
+10 36
+11 37
+11 38
+12 39
+12 40
+13 21
+13 41
+13 42
+14 22
+14 43
+14 44
+15 23
+15 45
+15 46
+16 24
+16 47
+16 48
+17 25
+17 49
+17 50
+18 26
+18 51
+18 52
+19 27
+19 53
+19 54
+20 28
+20 55
+20 56
+21 57
+21 58
+21 59
+22 60
+22 61
+22 62
+23 63
+23 64
+23 65
+24 66
+24 67
+24 68
+25 69
+25 70
+25 71
+26 72
+26 73
+26 74
+27 75
+27 76
+27 77
+28 78
+28 79
+28 80

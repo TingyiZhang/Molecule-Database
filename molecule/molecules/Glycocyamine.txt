@@ -1,0 +1,33 @@
+Glycocyamine
+15
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 14
+1 7
+1 7
+2 5
+2 6
+2 6
+3 6
+3 10
+3 11
+4 6
+4 12
+4 13
+5 7
+5 8
+5 9

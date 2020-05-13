@@ -1,0 +1,72 @@
+Phenyramidol hydrochloride
+32
+"Chlorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 31
+1 4
+1 23
+2 5
+2 9
+2 20
+3 9
+3 15
+3 15
+4 5
+4 6
+4 17
+5 18
+5 19
+6 7
+6 7
+6 8
+7 10
+7 21
+8 11
+8 11
+8 22
+9 13
+9 13
+10 12
+10 12
+10 24
+11 12
+11 25
+12 26
+13 14
+13 27
+14 16
+14 16
+14 28
+15 16
+15 29
+16 30

@@ -1,0 +1,57 @@
+Triclosan
+24
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+1 15
+2 16
+3 5
+3 6
+4 7
+4 23
+5 7
+5 7
+5 8
+6 9
+6 9
+6 10
+7 11
+8 12
+8 12
+8 17
+9 13
+10 14
+10 14
+10 18
+11 15
+11 15
+11 19
+12 15
+12 20
+13 16
+13 16
+13 21
+14 16
+14 22

@@ -1,0 +1,284 @@
+Sandopart
+133
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 34
+1 57
+2 29
+2 29
+3 30
+3 30
+4 36
+4 36
+5 37
+5 37
+6 46
+6 46
+7 47
+7 47
+8 51
+8 51
+9 56
+9 56
+10 59
+10 59
+11 61
+11 61
+12 62
+12 62
+13 67
+13 132
+14 25
+14 28
+14 30
+15 29
+15 32
+15 76
+16 31
+16 37
+16 83
+17 36
+17 52
+17 96
+18 38
+18 47
+18 97
+19 43
+19 46
+19 101
+20 40
+20 51
+20 100
+21 50
+21 59
+21 119
+22 56
+22 122
+22 123
+23 61
+23 126
+23 127
+24 62
+24 128
+24 129
+25 26
+25 29
+25 68
+26 27
+26 69
+26 70
+27 28
+27 71
+27 72
+28 73
+28 74
+30 31
+31 34
+31 75
+32 33
+32 36
+32 77
+33 35
+33 78
+33 79
+34 80
+34 81
+35 41
+35 42
+35 82
+37 38
+38 45
+38 84
+39 40
+39 44
+39 48
+39 85
+40 46
+40 86
+41 87
+41 88
+41 89
+42 90
+42 91
+42 92
+43 47
+43 49
+43 93
+44 53
+44 94
+44 95
+45 56
+45 98
+45 99
+48 102
+48 103
+48 104
+49 54
+49 105
+49 106
+50 51
+50 55
+50 107
+52 61
+52 108
+52 109
+53 110
+53 111
+53 112
+54 62
+54 113
+54 114
+55 60
+55 115
+55 116
+57 58
+57 117
+57 118
+58 59
+58 120
+58 121
+60 63
+60 63
+60 64
+63 65
+63 124
+64 66
+64 66
+64 125
+65 67
+65 67
+65 130
+66 67
+66 131

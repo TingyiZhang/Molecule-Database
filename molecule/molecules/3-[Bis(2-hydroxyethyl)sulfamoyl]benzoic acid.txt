@@ -1,0 +1,76 @@
+3-[Bis(2-hydroxyethyl)sulfamoyl]benzoic acid
+34
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 7
+0 10
+3 11
+3 31
+4 12
+4 32
+5 18
+5 33
+6 18
+6 18
+7 8
+7 9
+8 11
+8 19
+8 20
+9 12
+9 21
+9 22
+10 13
+10 14
+10 14
+11 23
+11 24
+12 25
+12 26
+13 15
+13 15
+13 27
+14 16
+14 28
+15 17
+15 18
+16 17
+16 17
+16 29
+17 30

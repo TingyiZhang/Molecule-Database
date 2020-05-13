@@ -1,0 +1,52 @@
+3,5-Diaminophthalhydrazide
+22
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 10
+1 12
+1 12
+2 3
+2 10
+2 16
+3 12
+3 17
+4 8
+4 18
+4 19
+5 11
+5 20
+5 21
+6 7
+6 7
+6 8
+6 10
+7 9
+7 12
+8 13
+8 13
+9 11
+9 11
+9 14
+11 13
+13 15

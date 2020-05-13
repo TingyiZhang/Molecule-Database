@@ -1,0 +1,129 @@
+8-Benzyl-2-hydroperoxy-2-(4-hydroxy-benzyl)-6-(4-hydroxy-phenyl)-2H-imidazo[1,2-A]pyrazin-3-one
+55
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 8
+1 11
+1 11
+2 47
+3 27
+3 53
+4 32
+4 54
+5 10
+5 11
+5 14
+6 8
+6 10
+6 10
+7 12
+7 12
+7 16
+8 9
+8 11
+9 13
+9 34
+9 35
+10 12
+12 15
+13 19
+13 19
+13 20
+14 16
+14 16
+14 36
+15 17
+15 37
+15 38
+16 18
+17 23
+17 23
+17 24
+18 25
+18 25
+18 26
+19 21
+19 39
+20 22
+20 22
+20 40
+21 27
+21 27
+21 41
+22 27
+22 42
+23 28
+23 43
+24 29
+24 29
+24 44
+25 30
+25 45
+26 31
+26 31
+26 46
+28 33
+28 33
+28 48
+29 33
+29 49
+30 32
+30 32
+30 50
+31 32
+31 51
+33 52

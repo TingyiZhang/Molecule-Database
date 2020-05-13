@@ -1,0 +1,134 @@
+Racemoramide
+61
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 21
+1 22
+2 7
+2 10
+2 11
+3 6
+3 15
+3 16
+4 5
+4 7
+4 8
+4 9
+5 6
+5 12
+5 29
+6 30
+6 31
+8 17
+8 17
+8 19
+9 18
+9 18
+9 20
+10 13
+10 32
+10 33
+11 14
+11 34
+11 35
+12 36
+12 37
+12 38
+13 14
+13 39
+13 40
+14 41
+14 42
+15 21
+15 43
+15 44
+16 22
+16 45
+16 46
+17 23
+17 47
+18 24
+18 48
+19 25
+19 25
+19 49
+20 26
+20 26
+20 50
+21 51
+21 52
+22 53
+22 54
+23 27
+23 27
+23 55
+24 28
+24 28
+24 56
+25 27
+25 57
+26 28
+26 58
+27 59
+28 60

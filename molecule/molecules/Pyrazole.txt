@@ -1,0 +1,22 @@
+Pyrazole
+9
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 7
+1 4
+1 4
+2 3
+2 3
+2 5
+3 4
+3 6
+4 8

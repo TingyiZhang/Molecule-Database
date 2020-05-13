@@ -1,0 +1,72 @@
+Bornyl acetate
+34
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 12
+1 12
+1 12
+2 3
+2 5
+2 6
+2 9
+3 4
+3 10
+3 11
+4 7
+4 8
+4 14
+5 7
+5 15
+6 8
+6 16
+6 17
+7 18
+7 19
+8 20
+8 21
+9 22
+9 23
+9 24
+10 25
+10 26
+10 27
+11 28
+11 29
+11 30
+12 13
+13 31
+13 32
+13 33

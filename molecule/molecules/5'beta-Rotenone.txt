@@ -1,0 +1,116 @@
+5'beta-Rotenone
+51
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 8
+1 11
+1 17
+2 15
+2 16
+3 10
+3 10
+4 23
+4 27
+5 24
+5 28
+6 7
+6 9
+6 10
+6 29
+7 11
+7 30
+8 12
+8 13
+8 13
+9 17
+9 19
+9 19
+10 13
+11 31
+11 32
+12 14
+12 16
+12 16
+13 18
+14 15
+14 33
+14 34
+15 21
+15 35
+16 20
+17 22
+17 22
+18 20
+18 20
+18 36
+19 23
+19 37
+20 38
+21 25
+21 26
+21 26
+22 24
+22 39
+23 24
+23 24
+25 40
+25 41
+25 42
+26 43
+26 44
+27 45
+27 46
+27 47
+28 48
+28 49
+28 50

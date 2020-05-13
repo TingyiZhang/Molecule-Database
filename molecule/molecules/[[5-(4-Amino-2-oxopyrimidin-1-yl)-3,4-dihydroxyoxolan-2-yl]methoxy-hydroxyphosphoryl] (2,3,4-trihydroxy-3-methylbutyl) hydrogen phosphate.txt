@@ -1,0 +1,124 @@
+[[5-(4-Amino-2-oxopyrimidin-1-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] (2,3,4-trihydroxy-3-methylbutyl) hydrogen phosphate
+58
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+0 11
+0 12
+0 12
+1 6
+1 7
+1 14
+1 15
+1 15
+2 21
+2 22
+3 19
+3 39
+4 20
+4 40
+5 23
+7 29
+8 26
+8 51
+9 25
+9 25
+10 27
+10 52
+11 53
+13 30
+13 56
+14 57
+16 22
+16 24
+16 25
+17 25
+17 32
+17 32
+18 32
+18 54
+18 55
+19 20
+19 21
+19 33
+20 22
+20 34
+21 23
+21 35
+22 36
+23 37
+23 38
+24 28
+24 28
+24 41
+26 27
+26 30
+26 31
+27 29
+27 42
+28 32
+28 43
+29 44
+29 45
+30 46
+30 47
+31 48
+31 49
+31 50

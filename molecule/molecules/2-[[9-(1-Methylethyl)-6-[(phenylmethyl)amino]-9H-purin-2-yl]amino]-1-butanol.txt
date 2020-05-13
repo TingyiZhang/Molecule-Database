@@ -1,0 +1,115 @@
+2-[[9-(1-Methylethyl)-6-[(phenylmethyl)amino]-9H-purin-2-yl]amino]-1-butanol
+52
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 46
+1 7
+1 9
+1 14
+2 8
+2 13
+2 30
+3 9
+3 9
+3 13
+4 10
+4 14
+4 14
+5 12
+5 13
+5 13
+6 12
+6 19
+6 40
+7 15
+7 16
+7 26
+8 11
+8 17
+8 27
+9 10
+10 12
+10 12
+11 18
+11 28
+11 29
+14 31
+15 32
+15 33
+15 34
+16 35
+16 36
+16 37
+17 38
+17 39
+18 41
+18 42
+18 43
+19 20
+19 44
+19 45
+20 21
+20 21
+20 22
+21 23
+21 47
+22 24
+22 24
+22 48
+23 25
+23 25
+23 49
+24 25
+24 50
+25 51

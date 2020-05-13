@@ -1,0 +1,37 @@
+2,5-Dichlorophenylhydrazine
+16
+"Chlorine"
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+1 7
+2 3
+2 4
+2 13
+3 14
+3 15
+4 5
+4 5
+4 6
+5 8
+6 7
+6 7
+6 10
+7 9
+8 9
+8 9
+8 11
+9 12

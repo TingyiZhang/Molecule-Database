@@ -1,0 +1,77 @@
+N-(o-Carboxybenzoyl)-DL-glutamic acid
+34
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 31
+1 11
+1 11
+2 12
+2 12
+3 15
+3 32
+4 15
+4 15
+5 20
+5 33
+6 20
+6 20
+7 8
+7 12
+7 26
+8 9
+8 11
+8 21
+9 10
+9 22
+9 23
+10 15
+10 24
+10 25
+12 13
+13 14
+13 16
+13 16
+14 17
+14 17
+14 20
+16 18
+16 27
+17 19
+17 28
+18 19
+18 19
+18 29
+19 30

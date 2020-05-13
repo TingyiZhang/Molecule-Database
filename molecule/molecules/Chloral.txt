@@ -1,0 +1,16 @@
+Chloral
+7
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+0 4
+1 4
+2 4
+3 5
+3 5
+4 5
+5 6

@@ -1,0 +1,51 @@
+N,N-Dimethyl-m-toluidine
+23
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 7
+0 8
+1 2
+1 4
+1 4
+2 3
+2 3
+2 10
+3 5
+3 9
+4 6
+4 11
+5 6
+5 6
+5 12
+6 19
+7 13
+7 14
+7 15
+8 16
+8 17
+8 18
+9 20
+9 21
+9 22

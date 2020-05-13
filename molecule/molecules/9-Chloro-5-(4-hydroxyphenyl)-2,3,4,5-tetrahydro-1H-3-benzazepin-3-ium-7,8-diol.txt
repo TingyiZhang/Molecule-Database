@@ -1,0 +1,86 @@
+9-Chloro-5-(4-hydroxyphenyl)-2,3,4,5-tetrahydro-1H-3-benzazepin-3-ium-7,8-diol
+38
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 14
+1 35
+2 17
+2 36
+3 20
+3 37
+4 6
+4 8
+4 24
+4 25
+5 6
+5 7
+5 11
+5 21
+6 22
+6 23
+7 10
+7 12
+7 12
+8 9
+8 26
+8 27
+9 10
+9 28
+9 29
+10 13
+10 13
+11 15
+11 15
+11 16
+12 14
+12 30
+13 17
+14 17
+14 17
+15 18
+15 31
+16 19
+16 19
+16 32
+18 20
+18 20
+18 33
+19 20
+19 34

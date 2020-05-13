@@ -1,0 +1,120 @@
+7-[3-(3-Hydroxyoct-1-enyl)-2,6-dioxabicyclo[3.1.1]heptan-4-yl]hept-5-enoic acid
+57
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 8
+1 8
+1 9
+2 14
+2 48
+3 24
+3 56
+4 24
+4 24
+5 6
+5 7
+5 25
+6 9
+6 10
+6 26
+7 8
+7 27
+7 28
+8 29
+9 11
+9 30
+10 12
+10 31
+10 32
+11 13
+11 13
+11 33
+12 15
+12 15
+12 34
+13 14
+13 35
+14 16
+14 36
+15 17
+15 37
+16 18
+16 38
+16 39
+17 20
+17 40
+17 41
+18 19
+18 42
+18 43
+19 21
+19 44
+19 45
+20 22
+20 46
+20 47
+21 23
+21 49
+21 50
+22 24
+22 51
+22 52
+23 53
+23 54
+23 55

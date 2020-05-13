@@ -1,0 +1,51 @@
+Icodextrin
+22
+"Chlorine"
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 8
+2 3
+2 12
+2 12
+3 13
+3 13
+4 13
+4 18
+4 19
+5 13
+5 20
+5 21
+6 7
+6 7
+6 8
+6 12
+7 9
+8 10
+8 10
+9 11
+9 11
+9 14
+10 11
+10 15
+11 16
+12 17

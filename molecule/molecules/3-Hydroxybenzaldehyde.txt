@@ -1,0 +1,36 @@
+3-Hydroxybenzaldehyde
+15
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 14
+1 8
+1 8
+2 3
+2 3
+2 5
+2 8
+3 4
+3 9
+4 6
+4 6
+5 7
+5 7
+5 10
+6 7
+6 11
+7 12
+8 13

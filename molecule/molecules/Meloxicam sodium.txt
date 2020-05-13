@@ -1,0 +1,91 @@
+Meloxicam sodium
+36
+"Sulfur"
+"Sulfur"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 3
+0 4
+0 4
+0 7
+0 10
+1 20
+1 21
+2 5
+2 5
+2 5
+2 5
+2 5
+2 5
+2 5
+5 13
+6 17
+6 17
+7 12
+7 15
+8 17
+8 20
+8 31
+9 20
+9 20
+9 22
+10 11
+10 14
+10 14
+11 13
+11 16
+11 16
+12 13
+12 13
+12 17
+14 18
+14 24
+15 25
+15 26
+15 27
+16 19
+16 28
+18 19
+18 19
+18 29
+19 30
+21 22
+21 22
+21 23
+22 32
+23 33
+23 34
+23 35

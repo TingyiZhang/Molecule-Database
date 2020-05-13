@@ -1,0 +1,76 @@
+Oxythiamine
+34
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 11
+1 13
+1 33
+2 14
+2 14
+3 6
+3 7
+3 11
+3 11
+4 14
+4 16
+4 29
+5 15
+5 16
+5 16
+6 8
+6 8
+6 12
+7 10
+7 18
+7 19
+8 9
+9 13
+9 20
+9 21
+10 14
+10 15
+10 15
+11 22
+12 23
+12 24
+12 25
+13 26
+13 27
+15 28
+16 17
+17 30
+17 31
+17 32

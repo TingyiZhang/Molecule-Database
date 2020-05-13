@@ -1,0 +1,101 @@
+2-(3,7,11-Trimethyldodeca-2,6,10-trienylthio)acetic acid
+48
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 18
+1 19
+1 47
+2 19
+2 19
+3 5
+3 7
+3 20
+3 21
+4 6
+4 8
+4 22
+4 23
+5 9
+5 24
+5 25
+6 7
+6 7
+6 10
+7 26
+8 11
+8 27
+8 28
+9 12
+9 12
+9 13
+10 29
+10 30
+10 31
+11 14
+11 14
+11 32
+12 15
+12 33
+13 34
+13 35
+13 36
+14 16
+14 17
+15 37
+15 38
+16 39
+16 40
+16 41
+17 42
+17 43
+17 44
+18 19
+18 45
+18 46

@@ -1,0 +1,105 @@
+Hexestrol dimethyl ether
+48
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+0 20
+1 19
+1 21
+2 3
+2 4
+2 6
+2 22
+3 5
+3 7
+3 23
+4 8
+4 24
+4 25
+5 9
+5 26
+5 27
+6 10
+6 10
+6 12
+7 11
+7 11
+7 13
+8 28
+8 29
+8 30
+9 31
+9 32
+9 33
+10 14
+10 34
+11 15
+11 35
+12 16
+12 16
+12 36
+13 17
+13 17
+13 37
+14 18
+14 18
+14 38
+15 19
+15 19
+15 39
+16 18
+16 40
+17 19
+17 41
+20 42
+20 43
+20 44
+21 45
+21 46
+21 47

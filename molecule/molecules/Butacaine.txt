@@ -1,0 +1,110 @@
+Butacaine
+52
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 15
+1 15
+1 15
+2 4
+2 5
+2 6
+3 21
+3 50
+3 51
+4 7
+4 22
+4 23
+5 8
+5 24
+5 25
+6 9
+6 26
+6 27
+7 10
+7 28
+7 29
+8 11
+8 30
+8 31
+9 12
+9 32
+9 33
+10 13
+10 34
+10 35
+11 14
+11 36
+11 37
+12 38
+12 39
+13 40
+13 41
+13 42
+14 43
+14 44
+14 45
+15 16
+16 17
+16 17
+16 18
+17 19
+17 46
+18 20
+18 20
+18 47
+19 21
+19 21
+19 48
+20 21
+20 49

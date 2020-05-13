@@ -1,0 +1,107 @@
+Nilvadipine
+47
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 21
+1 19
+1 27
+2 15
+2 15
+3 19
+3 19
+4 7
+5 7
+5 7
+6 13
+6 14
+6 29
+7 20
+8 24
+8 24
+8 24
+9 10
+9 11
+9 12
+9 28
+10 13
+10 13
+10 15
+11 14
+11 14
+11 19
+12 16
+12 16
+12 17
+13 18
+14 24
+16 20
+16 30
+17 22
+17 22
+17 31
+18 32
+18 33
+18 34
+20 23
+20 23
+21 25
+21 26
+21 35
+22 23
+22 36
+23 37
+25 38
+25 39
+25 40
+26 41
+26 42
+26 43
+27 44
+27 45
+27 46

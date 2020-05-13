@@ -1,0 +1,87 @@
+Triphenyl phosphite
+37
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+1 4
+2 5
+3 6
+4 7
+4 7
+4 10
+5 8
+5 8
+5 11
+6 9
+6 9
+6 12
+7 13
+7 22
+8 14
+8 23
+9 15
+9 24
+10 16
+10 16
+10 25
+11 17
+11 17
+11 26
+12 18
+12 18
+12 27
+13 19
+13 19
+13 28
+14 20
+14 20
+14 29
+15 21
+15 21
+15 30
+16 19
+16 31
+17 20
+17 32
+18 21
+18 33
+19 34
+20 35
+21 36

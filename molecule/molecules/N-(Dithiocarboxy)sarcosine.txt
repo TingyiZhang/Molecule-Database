@@ -1,0 +1,35 @@
+N-(Dithiocarboxy)sarcosine
+16
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 14
+1 7
+1 7
+2 8
+2 15
+3 8
+3 8
+4 5
+4 6
+4 7
+5 8
+5 9
+5 10
+6 11
+6 12
+6 13

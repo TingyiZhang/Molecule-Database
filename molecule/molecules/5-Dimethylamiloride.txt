@@ -1,0 +1,65 @@
+5-Dimethylamiloride
+29
+"Chlorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 15
+1 15
+2 9
+2 13
+2 14
+3 9
+3 9
+3 10
+4 11
+4 12
+4 12
+5 10
+5 23
+5 24
+6 15
+6 16
+6 16
+7 16
+7 25
+7 26
+8 16
+8 27
+8 28
+9 12
+10 11
+10 11
+11 15
+13 17
+13 18
+13 19
+14 20
+14 21
+14 22

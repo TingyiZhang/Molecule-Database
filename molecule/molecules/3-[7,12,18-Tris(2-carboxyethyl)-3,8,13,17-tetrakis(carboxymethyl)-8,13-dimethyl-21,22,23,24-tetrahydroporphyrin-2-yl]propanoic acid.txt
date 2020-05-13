@@ -1,0 +1,239 @@
+3-[7,12,18-Tris(2-carboxyethyl)-3,8,13,17-tetrakis(carboxymethyl)-8,13-dimethyl-21,22,23,24-tetrahydroporphyrin-2-yl]propanoic acid
+108
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 41
+0 96
+1 42
+1 97
+2 41
+2 41
+3 42
+3 42
+4 52
+4 102
+5 54
+5 103
+6 52
+6 52
+7 54
+7 54
+8 58
+8 104
+9 59
+9 105
+10 58
+10 58
+11 59
+11 59
+12 60
+12 106
+13 61
+13 107
+14 60
+14 60
+15 61
+15 61
+16 25
+16 26
+16 67
+17 23
+17 30
+17 68
+18 38
+18 45
+18 85
+19 40
+19 47
+19 86
+20 23
+20 24
+20 27
+20 31
+21 22
+21 26
+21 29
+21 32
+22 25
+22 25
+22 33
+23 28
+23 28
+24 30
+24 30
+24 34
+25 28
+26 35
+26 35
+27 41
+27 62
+27 63
+28 64
+29 42
+29 65
+29 66
+30 36
+31 69
+31 70
+31 71
+32 72
+32 73
+32 74
+33 37
+33 75
+33 76
+34 39
+34 77
+34 78
+35 38
+35 79
+36 40
+36 40
+36 80
+37 52
+37 81
+37 82
+38 43
+38 43
+39 54
+39 83
+39 84
+40 46
+43 44
+43 51
+44 45
+44 45
+44 50
+45 49
+46 48
+46 48
+46 55
+47 48
+47 49
+47 49
+48 53
+49 87
+50 56
+50 88
+50 89
+51 58
+51 90
+51 91
+53 57
+53 92
+53 93
+55 59
+55 94
+55 95
+56 60
+56 98
+56 99
+57 61
+57 100
+57 101

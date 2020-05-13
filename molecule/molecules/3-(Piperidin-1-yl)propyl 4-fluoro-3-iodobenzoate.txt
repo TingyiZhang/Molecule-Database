@@ -1,0 +1,85 @@
+3-(Piperidin-1-yl)propyl 4-fluoro-3-iodobenzoate
+39
+"Iodine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+1 19
+2 12
+2 13
+3 13
+3 13
+4 5
+4 6
+4 10
+5 7
+5 20
+5 21
+6 8
+6 22
+6 23
+7 9
+7 24
+7 25
+8 9
+8 26
+8 27
+9 28
+9 29
+10 11
+10 30
+10 31
+11 12
+11 32
+11 33
+12 34
+12 35
+13 14
+14 15
+14 15
+14 16
+15 17
+15 36
+16 18
+16 18
+16 37
+17 19
+17 19
+18 19
+18 38

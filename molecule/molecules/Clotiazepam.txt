@@ -1,0 +1,83 @@
+Clotiazepam
+36
+"Chlorine"
+"Sulfur"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+1 6
+1 8
+2 12
+2 12
+3 6
+3 12
+3 14
+4 7
+4 7
+4 11
+5 6
+5 6
+5 7
+5 9
+7 13
+8 9
+8 9
+8 10
+9 21
+10 15
+10 22
+10 23
+11 12
+11 24
+11 25
+13 16
+13 17
+13 17
+14 26
+14 27
+14 28
+15 29
+15 30
+15 31
+16 18
+16 18
+17 19
+17 32
+18 20
+18 33
+19 20
+19 20
+19 34
+20 35

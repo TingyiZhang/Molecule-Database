@@ -1,0 +1,30 @@
+s-Ethylisothiourea
+14
+"Sulfur"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 5
+1 5
+1 11
+1 12
+2 5
+2 5
+2 13
+3 4
+3 6
+3 7
+4 8
+4 9
+4 10

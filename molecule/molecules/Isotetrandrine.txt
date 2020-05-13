@@ -1,0 +1,196 @@
+Isotetrandrine
+88
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 24
+1 27
+1 42
+2 30
+2 43
+3 31
+3 44
+4 36
+4 38
+5 41
+5 45
+6 8
+6 11
+6 22
+7 9
+7 16
+7 28
+8 10
+8 15
+8 46
+9 14
+9 19
+9 47
+10 12
+10 20
+10 20
+11 13
+11 48
+11 49
+12 13
+12 23
+12 23
+13 50
+13 51
+14 17
+14 21
+14 21
+15 25
+15 52
+15 53
+16 18
+16 54
+16 55
+17 18
+17 26
+17 26
+18 56
+18 57
+19 29
+19 58
+19 59
+20 27
+21 24
+21 60
+22 61
+22 62
+22 63
+23 30
+23 64
+24 31
+24 31
+25 32
+25 32
+25 33
+26 31
+26 65
+27 30
+27 30
+28 66
+28 67
+28 68
+29 34
+29 34
+29 35
+32 36
+32 69
+33 37
+33 37
+33 70
+34 39
+34 71
+35 40
+35 40
+35 72
+36 41
+36 41
+37 41
+37 73
+38 39
+38 39
+38 40
+39 74
+40 75
+42 76
+42 77
+42 78
+43 79
+43 80
+43 81
+44 82
+44 83
+44 84
+45 85
+45 86
+45 87

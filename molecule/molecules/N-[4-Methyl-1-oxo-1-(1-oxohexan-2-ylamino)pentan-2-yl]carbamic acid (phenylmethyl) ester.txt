@@ -1,0 +1,120 @@
+N-[4-Methyl-1-oxo-1-(1-oxohexan-2-ylamino)pentan-2-yl]carbamic acid (phenylmethyl) ester
+56
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 11
+1 17
+1 19
+2 16
+2 16
+3 17
+3 17
+4 9
+4 11
+4 33
+5 7
+5 17
+5 42
+6 7
+6 8
+6 26
+6 27
+7 11
+7 28
+8 13
+8 14
+8 29
+9 10
+9 16
+9 30
+10 12
+10 31
+10 32
+12 15
+12 34
+12 35
+13 36
+13 37
+13 38
+14 39
+14 40
+14 41
+15 18
+15 43
+15 44
+16 45
+18 46
+18 47
+18 48
+19 20
+19 49
+19 50
+20 21
+20 21
+20 22
+21 23
+21 51
+22 24
+22 24
+22 52
+23 25
+23 25
+23 53
+24 25
+24 54
+25 55

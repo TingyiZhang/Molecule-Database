@@ -1,0 +1,88 @@
+Pipemidic acid
+39
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+0 18
+1 21
+1 38
+2 21
+2 21
+3 8
+3 9
+3 12
+4 10
+4 11
+4 30
+5 13
+5 15
+5 17
+6 12
+6 13
+6 13
+7 12
+7 12
+7 16
+8 10
+8 22
+8 23
+9 11
+9 24
+9 25
+10 26
+10 27
+11 28
+11 29
+13 14
+14 16
+14 16
+14 18
+15 20
+15 31
+15 32
+16 33
+17 19
+17 19
+17 34
+18 19
+19 21
+20 35
+20 36
+20 37

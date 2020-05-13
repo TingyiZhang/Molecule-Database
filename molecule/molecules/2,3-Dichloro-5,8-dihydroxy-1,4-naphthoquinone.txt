@@ -1,0 +1,49 @@
+2,3-Dichloro-5,8-dihydroxy-1,4-naphthoquinone
+20
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 13
+2 8
+2 18
+3 9
+3 19
+4 10
+4 10
+5 11
+5 11
+6 7
+6 7
+6 8
+6 10
+7 9
+7 11
+8 12
+8 12
+9 13
+9 13
+10 14
+11 15
+12 13
+14 15
+14 15
+14 16
+15 17

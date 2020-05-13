@@ -1,0 +1,56 @@
+Adamantane
+26
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 5
+0 6
+0 10
+1 4
+1 7
+1 8
+1 11
+2 5
+2 7
+2 9
+2 12
+3 6
+3 8
+3 9
+3 13
+4 14
+4 15
+5 16
+5 17
+6 18
+6 19
+7 20
+7 21
+8 22
+8 23
+9 24
+9 25

@@ -1,0 +1,135 @@
+Cholan-24-oic acid, 3,7,12-trioxo-, (5beta)-
+63
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 15
+1 16
+1 16
+2 24
+2 24
+3 28
+3 62
+4 28
+4 28
+5 6
+5 7
+5 11
+5 29
+6 10
+6 15
+6 20
+7 8
+7 16
+7 30
+8 9
+8 13
+8 31
+9 12
+9 18
+9 21
+10 14
+10 19
+10 32
+11 14
+11 33
+11 34
+12 17
+12 22
+12 35
+13 15
+13 36
+13 37
+14 38
+14 39
+16 17
+17 40
+17 41
+18 23
+18 42
+18 43
+19 25
+19 26
+19 44
+20 45
+20 46
+20 47
+21 48
+21 49
+21 50
+22 24
+22 51
+22 52
+23 24
+23 53
+23 54
+25 27
+25 55
+25 56
+26 57
+26 58
+26 59
+27 28
+27 60
+27 61

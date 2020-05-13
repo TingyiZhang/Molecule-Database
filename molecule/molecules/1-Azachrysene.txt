@@ -1,0 +1,72 @@
+1-Azachrysene
+29
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 17
+0 17
+1 2
+1 2
+1 3
+1 8
+2 4
+2 6
+3 5
+3 11
+3 11
+4 7
+4 7
+4 12
+5 9
+5 13
+5 13
+6 9
+6 9
+6 18
+7 10
+8 10
+8 10
+8 19
+9 20
+10 21
+11 14
+11 22
+12 16
+12 16
+12 23
+13 15
+13 24
+14 15
+14 15
+14 25
+15 26
+16 17
+16 27
+17 28

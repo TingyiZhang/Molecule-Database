@@ -1,0 +1,115 @@
+Dextroamphetamine sulfate
+53
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 3
+0 4
+0 4
+1 51
+2 52
+5 7
+5 41
+5 42
+6 8
+6 43
+6 44
+7 9
+7 13
+7 25
+8 10
+8 14
+8 26
+9 11
+9 27
+9 28
+10 12
+10 29
+10 30
+11 15
+11 15
+11 17
+12 16
+12 16
+12 18
+13 31
+13 32
+13 33
+14 34
+14 35
+14 36
+15 19
+15 37
+16 20
+16 38
+17 21
+17 21
+17 39
+18 22
+18 22
+18 40
+19 23
+19 23
+19 45
+20 24
+20 24
+20 46
+21 23
+21 47
+22 24
+22 48
+23 49
+24 50

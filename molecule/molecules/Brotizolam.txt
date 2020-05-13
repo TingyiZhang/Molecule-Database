@@ -1,0 +1,77 @@
+Brotizolam
+32
+"Bromine"
+"Chlorine"
+"Sulfur"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+1 17
+2 7
+2 15
+3 7
+3 9
+3 12
+4 10
+4 10
+4 11
+5 6
+5 9
+5 9
+6 12
+6 12
+7 8
+7 8
+8 10
+8 14
+9 11
+10 13
+11 22
+11 23
+12 16
+13 17
+13 18
+13 18
+14 15
+14 15
+14 24
+16 25
+16 26
+16 27
+17 19
+17 19
+18 20
+18 28
+19 21
+19 29
+20 21
+20 21
+20 30
+21 31

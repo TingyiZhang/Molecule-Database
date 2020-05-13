@@ -1,0 +1,52 @@
+2-Amino-3-(2-fluorophenyl)propanoic acid
+23
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 9
+1 22
+2 9
+2 9
+3 5
+3 17
+3 18
+4 5
+4 6
+4 13
+4 14
+5 9
+5 15
+6 7
+6 8
+6 8
+7 10
+7 10
+8 11
+8 16
+10 12
+10 19
+11 12
+11 12
+11 20
+12 21

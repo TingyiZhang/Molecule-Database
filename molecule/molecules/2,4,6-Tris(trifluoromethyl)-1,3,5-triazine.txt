@@ -1,0 +1,41 @@
+2,4,6-Tris(trifluoromethyl)-1,3,5-triazine
+18
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+0 15
+1 15
+2 15
+3 16
+4 16
+5 16
+6 17
+7 17
+8 17
+9 12
+9 12
+9 13
+10 12
+10 14
+10 14
+11 13
+11 13
+11 14
+12 15
+13 16
+14 17

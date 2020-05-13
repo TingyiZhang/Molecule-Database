@@ -1,0 +1,89 @@
+3-(6H-Benzo[c][1]benzoxepin-11-ylidene)-N-methylpropan-1-amine
+39
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 8
+1 12
+1 19
+1 35
+2 3
+2 5
+2 7
+2 7
+3 4
+3 10
+3 10
+4 6
+4 11
+4 11
+5 8
+5 13
+5 13
+6 20
+6 21
+7 9
+7 22
+8 14
+8 14
+9 12
+9 23
+9 24
+10 15
+10 25
+11 16
+11 28
+12 26
+12 27
+13 17
+13 29
+14 18
+14 30
+15 16
+15 16
+15 31
+16 32
+17 18
+17 18
+17 33
+18 34
+19 36
+19 37
+19 38

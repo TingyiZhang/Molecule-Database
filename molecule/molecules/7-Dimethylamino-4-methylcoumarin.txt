@@ -1,0 +1,64 @@
+7-Dimethylamino-4-methylcoumarin
+28
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 14
+1 14
+1 14
+2 4
+2 12
+2 13
+3 5
+3 5
+3 6
+3 8
+4 7
+4 7
+4 9
+5 7
+6 10
+6 10
+6 11
+7 15
+8 9
+8 9
+8 16
+9 17
+10 14
+10 18
+11 19
+11 20
+11 21
+12 22
+12 23
+12 24
+13 25
+13 26
+13 27

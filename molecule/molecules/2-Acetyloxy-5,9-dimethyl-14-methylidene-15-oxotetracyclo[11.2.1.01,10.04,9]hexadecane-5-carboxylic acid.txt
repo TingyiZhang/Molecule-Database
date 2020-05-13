@@ -1,0 +1,123 @@
+2-Acetyloxy-5,9-dimethyl-14-methylidene-15-oxotetracyclo[11.2.1.01,10.04,9]hexadecane-5-carboxylic acid
+57
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 25
+1 17
+1 17
+2 23
+2 53
+3 23
+3 23
+4 25
+4 25
+5 6
+5 8
+5 15
+5 18
+6 7
+6 12
+6 27
+7 9
+7 10
+7 17
+8 11
+8 13
+8 28
+9 11
+9 29
+10 14
+10 30
+10 31
+11 32
+11 33
+12 16
+12 34
+12 35
+13 19
+13 22
+13 23
+14 16
+14 21
+14 36
+15 20
+15 37
+15 38
+16 39
+16 40
+17 21
+18 41
+18 42
+18 43
+19 20
+19 44
+19 45
+20 46
+20 47
+21 24
+21 24
+22 48
+22 49
+22 50
+24 51
+24 52
+25 26
+26 54
+26 55
+26 56

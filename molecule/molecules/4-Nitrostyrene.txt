@@ -1,0 +1,43 @@
+4-Nitrostyrene
+18
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+1 2
+1 2
+2 4
+3 5
+3 5
+3 6
+3 9
+4 7
+4 7
+4 8
+5 7
+5 11
+6 8
+6 8
+6 12
+7 13
+8 14
+9 10
+9 10
+9 15
+10 16
+10 17

@@ -1,0 +1,72 @@
+Flumequine
+31
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+1 15
+1 15
+2 18
+2 30
+3 18
+3 18
+4 5
+4 8
+4 12
+5 6
+5 11
+5 19
+6 7
+6 20
+6 21
+7 9
+7 22
+7 23
+8 9
+8 9
+8 10
+9 13
+10 15
+10 16
+10 16
+11 24
+11 25
+11 26
+12 14
+12 14
+12 27
+13 17
+13 17
+13 28
+14 15
+14 18
+16 17
+16 29

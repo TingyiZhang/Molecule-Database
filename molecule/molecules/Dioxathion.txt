@@ -1,0 +1,104 @@
+Dioxathion
+50
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 12
+1 5
+1 13
+2 4
+2 4
+3 5
+3 5
+4 8
+4 9
+5 10
+5 11
+6 12
+6 14
+7 13
+7 15
+8 16
+9 17
+10 18
+11 19
+12 13
+12 24
+13 25
+14 15
+14 26
+14 27
+15 28
+15 29
+16 20
+16 30
+16 31
+17 21
+17 32
+17 33
+18 22
+18 34
+18 35
+19 23
+19 36
+19 37
+20 38
+20 39
+20 40
+21 41
+21 42
+21 43
+22 44
+22 45
+22 46
+23 47
+23 48
+23 49

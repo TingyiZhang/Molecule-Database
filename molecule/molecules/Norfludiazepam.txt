@@ -1,0 +1,72 @@
+Norfludiazepam
+30
+"Chlorine"
+"Fluorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 15
+2 12
+2 12
+3 7
+3 12
+3 21
+4 6
+4 6
+4 10
+5 6
+5 7
+5 7
+5 9
+6 8
+7 11
+8 15
+8 16
+8 16
+9 13
+9 13
+9 20
+10 12
+10 22
+10 23
+11 14
+11 14
+11 24
+13 14
+14 25
+15 17
+15 17
+16 18
+16 26
+17 19
+17 27
+18 19
+18 19
+18 28
+19 29

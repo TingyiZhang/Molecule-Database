@@ -1,0 +1,53 @@
+3-(4-Methylphenyl)-2-sulfanylprop-2-enoic acid
+23
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 21
+1 12
+1 22
+2 12
+2 12
+3 5
+3 5
+3 6
+3 9
+4 7
+4 7
+4 8
+4 10
+5 7
+5 13
+6 8
+6 8
+6 14
+7 15
+8 16
+9 11
+9 11
+9 17
+10 18
+10 19
+10 20
+11 12

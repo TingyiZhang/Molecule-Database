@@ -1,0 +1,11 @@
+Thiocyanic acid
+4
+"Sulfur"
+"Nitrogen"
+"Carbon"
+"Hydrogen"
+0 2
+0 3
+1 2
+1 2
+1 2

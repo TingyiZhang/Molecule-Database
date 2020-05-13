@@ -1,0 +1,42 @@
+3-Hydroxyanthranilic acid
+18
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 16
+1 10
+1 17
+2 10
+2 10
+3 4
+3 14
+3 15
+4 5
+4 5
+4 6
+5 7
+5 10
+6 8
+6 8
+7 9
+7 9
+7 11
+8 9
+8 12
+9 13

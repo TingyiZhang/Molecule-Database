@@ -1,0 +1,92 @@
+4-[3-Methylsulfanylanilino]-6,7-dimethoxyquinazoline
+40
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 22
+1 10
+1 20
+2 12
+2 21
+3 8
+3 13
+3 25
+4 7
+4 16
+4 16
+5 8
+5 8
+5 16
+6 7
+6 8
+6 9
+6 9
+7 11
+7 11
+9 10
+9 23
+10 12
+10 12
+11 12
+11 24
+13 14
+13 14
+13 15
+14 17
+14 26
+15 18
+15 18
+15 27
+16 28
+17 19
+17 19
+18 19
+18 29
+19 30
+20 31
+20 32
+20 33
+21 34
+21 35
+21 36
+22 37
+22 38
+22 39

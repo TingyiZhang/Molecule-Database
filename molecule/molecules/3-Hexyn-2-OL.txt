@@ -1,0 +1,37 @@
+3-Hexyn-2-OL
+17
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 16
+1 2
+1 5
+1 7
+2 8
+2 9
+2 10
+3 4
+3 6
+3 11
+3 12
+4 13
+4 14
+4 15
+5 6
+5 6
+5 6

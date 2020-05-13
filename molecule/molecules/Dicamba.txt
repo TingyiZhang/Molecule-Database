@@ -1,0 +1,44 @@
+Dicamba
+19
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 8
+2 6
+2 12
+3 11
+3 18
+4 11
+4 11
+5 6
+5 7
+5 7
+5 11
+6 8
+6 8
+7 9
+8 10
+9 10
+9 10
+9 13
+10 14
+12 15
+12 16
+12 17

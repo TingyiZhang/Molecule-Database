@@ -1,0 +1,169 @@
+2-Naphthalenecarboxamide, N,N'-(3,3'-dimethoxy[1,1'-biphenyl]-4,4'-diyl)bis[3-hydroxy-
+72
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 42
+1 15
+1 43
+2 28
+2 64
+3 29
+3 65
+4 30
+4 30
+5 31
+5 31
+6 10
+6 30
+6 52
+7 11
+7 31
+7 53
+8 9
+8 12
+8 12
+8 20
+9 13
+9 13
+9 21
+10 14
+10 14
+10 24
+11 15
+11 15
+11 25
+12 14
+12 44
+13 15
+13 45
+16 26
+16 26
+16 28
+16 30
+17 27
+17 27
+17 29
+17 31
+18 22
+18 26
+18 34
+18 34
+19 23
+19 27
+19 35
+19 35
+20 24
+20 24
+20 46
+21 25
+21 25
+21 47
+22 32
+22 36
+22 36
+23 33
+23 37
+23 37
+24 48
+25 49
+26 50
+27 51
+28 32
+28 32
+29 33
+29 33
+32 54
+33 55
+34 38
+34 56
+35 39
+35 57
+36 40
+36 58
+37 41
+37 59
+38 40
+38 40
+38 60
+39 41
+39 41
+39 61
+40 62
+41 63
+42 66
+42 67
+42 68
+43 69
+43 70
+43 71

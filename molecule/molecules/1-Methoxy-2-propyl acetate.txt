@@ -1,0 +1,44 @@
+1-Methoxy-2-propyl acetate
+21
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 6
+1 4
+1 7
+2 6
+2 6
+3 4
+3 5
+3 9
+4 10
+4 11
+5 12
+5 13
+5 14
+6 8
+7 15
+7 16
+7 17
+8 18
+8 19
+8 20

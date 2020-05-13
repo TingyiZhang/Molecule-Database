@@ -1,0 +1,80 @@
+2-Phenethyl-2,3-dihydro-phthalazine-1,4-dione
+34
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 10
+1 10
+2 3
+2 4
+2 7
+3 10
+3 24
+4 5
+4 20
+4 21
+5 9
+5 22
+5 23
+6 7
+6 8
+6 11
+6 11
+8 10
+8 12
+8 12
+9 13
+9 13
+9 14
+11 15
+11 25
+12 16
+12 26
+13 17
+13 27
+14 18
+14 18
+14 28
+15 16
+15 16
+15 29
+16 30
+17 19
+17 19
+17 31
+18 19
+18 32
+19 33

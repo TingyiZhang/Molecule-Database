@@ -1,0 +1,193 @@
+Thonzonium
+92
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 34
+0 36
+1 5
+1 6
+1 8
+1 9
+2 11
+2 17
+2 20
+3 20
+3 20
+3 29
+4 20
+4 30
+4 30
+5 7
+5 37
+5 38
+6 11
+6 39
+6 40
+7 10
+7 41
+7 42
+8 43
+8 44
+8 45
+9 46
+9 47
+9 48
+10 12
+10 49
+10 50
+11 51
+11 52
+12 13
+12 53
+12 54
+13 14
+13 55
+13 56
+14 15
+14 57
+14 58
+15 16
+15 59
+15 60
+16 18
+16 61
+16 62
+17 23
+17 63
+17 64
+18 19
+18 65
+18 66
+19 21
+19 67
+19 68
+21 22
+21 69
+21 70
+22 24
+22 71
+22 72
+23 26
+23 26
+23 27
+24 25
+24 73
+24 74
+25 28
+25 75
+25 76
+26 31
+26 77
+27 32
+27 32
+27 78
+28 33
+28 79
+28 80
+29 35
+29 35
+29 81
+30 35
+30 82
+31 34
+31 34
+31 83
+32 34
+32 84
+33 85
+33 86
+33 87
+35 88
+36 89
+36 90
+36 91

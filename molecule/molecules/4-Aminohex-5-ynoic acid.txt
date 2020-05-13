@@ -1,0 +1,40 @@
+4-Aminohex-5-ynoic acid
+18
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 16
+1 6
+1 6
+2 4
+2 14
+2 15
+3 4
+3 5
+3 9
+3 10
+4 7
+4 11
+5 6
+5 12
+5 13
+7 8
+7 8
+7 8
+8 17

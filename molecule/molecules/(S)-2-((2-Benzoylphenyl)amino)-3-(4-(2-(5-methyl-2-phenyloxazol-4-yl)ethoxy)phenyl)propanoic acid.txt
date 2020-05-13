@@ -1,0 +1,164 @@
+(S)-2-((2-Benzoylphenyl)amino)-3-(4-(2-(5-methyl-2-phenyloxazol-4-yl)ethoxy)phenyl)propanoic acid
+71
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 19
+1 24
+1 27
+2 13
+2 60
+3 13
+3 13
+4 23
+4 23
+5 7
+5 10
+5 44
+6 21
+6 27
+6 27
+7 8
+7 13
+7 41
+8 9
+8 42
+8 43
+9 11
+9 11
+9 12
+10 14
+10 20
+10 20
+11 17
+11 45
+12 18
+12 18
+12 46
+14 22
+14 22
+14 23
+15 17
+15 17
+15 18
+16 19
+16 21
+16 47
+16 48
+17 49
+18 50
+19 51
+19 52
+20 25
+20 53
+21 24
+21 24
+22 26
+22 54
+23 28
+24 30
+25 26
+25 26
+25 55
+26 56
+27 29
+28 31
+28 31
+28 32
+29 33
+29 33
+29 34
+30 57
+30 58
+30 59
+31 35
+31 61
+32 36
+32 36
+32 62
+33 37
+33 63
+34 38
+34 38
+34 64
+35 39
+35 39
+35 65
+36 39
+36 66
+37 40
+37 40
+37 67
+38 40
+38 68
+39 69
+40 70

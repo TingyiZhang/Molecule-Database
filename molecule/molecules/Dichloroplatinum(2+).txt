@@ -1,0 +1,7 @@
+Dichloroplatinum(2+)
+3
+"Platinum"
+"Chlorine"
+"Chlorine"
+0 1
+0 2

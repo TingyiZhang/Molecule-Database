@@ -1,0 +1,20 @@
+Iodoacetamide
+9
+"Iodine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+1 4
+1 4
+2 4
+2 7
+2 8
+3 4
+3 5
+3 6

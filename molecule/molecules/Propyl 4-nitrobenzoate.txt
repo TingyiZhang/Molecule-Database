@@ -1,0 +1,59 @@
+Propyl 4-nitrobenzoate
+26
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 9
+1 9
+1 9
+2 4
+3 4
+3 4
+4 12
+5 6
+5 8
+5 15
+5 16
+6 17
+6 18
+7 9
+7 10
+7 10
+7 11
+8 19
+8 20
+8 21
+10 13
+10 22
+11 14
+11 14
+11 23
+12 13
+12 13
+12 14
+13 24
+14 25

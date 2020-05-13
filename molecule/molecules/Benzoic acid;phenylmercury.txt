@@ -1,0 +1,69 @@
+Benzoic acid;phenylmercury
+27
+"Mercury"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 6
+1 7
+1 23
+2 7
+2 7
+3 4
+3 4
+3 5
+3 7
+4 8
+4 16
+5 9
+5 9
+5 17
+6 10
+6 10
+6 11
+8 12
+8 12
+8 18
+9 12
+9 19
+10 13
+10 20
+11 14
+11 14
+11 21
+12 22
+13 15
+13 15
+13 24
+14 15
+14 25
+15 26

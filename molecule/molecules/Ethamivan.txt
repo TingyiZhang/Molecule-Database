@@ -1,0 +1,72 @@
+Ethamivan
+33
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+1 12
+1 15
+2 14
+2 29
+3 4
+3 5
+3 6
+4 8
+4 16
+4 17
+5 9
+5 18
+5 19
+6 7
+7 10
+7 10
+7 11
+8 20
+8 21
+8 22
+9 23
+9 24
+9 25
+10 12
+10 26
+11 13
+11 13
+11 27
+12 14
+12 14
+13 14
+13 28
+15 30
+15 31
+15 32

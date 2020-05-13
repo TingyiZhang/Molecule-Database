@@ -1,0 +1,108 @@
+Benactyzine
+49
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 11
+1 4
+1 42
+2 11
+2 11
+3 5
+3 9
+3 10
+4 7
+4 8
+4 11
+5 6
+5 24
+5 25
+6 26
+6 27
+7 12
+7 12
+7 14
+8 13
+8 13
+8 15
+9 16
+9 28
+9 29
+10 17
+10 30
+10 31
+12 18
+12 32
+13 19
+13 33
+14 20
+14 20
+14 34
+15 21
+15 21
+15 35
+16 36
+16 37
+16 38
+17 39
+17 40
+17 41
+18 22
+18 22
+18 43
+19 23
+19 23
+19 44
+20 22
+20 45
+21 23
+21 46
+22 47
+23 48

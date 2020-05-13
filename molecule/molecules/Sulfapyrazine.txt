@@ -1,0 +1,65 @@
+Sulfapyrazine
+27
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 3
+0 7
+3 13
+3 19
+4 10
+4 23
+4 24
+5 13
+5 13
+5 15
+6 14
+6 14
+6 16
+7 8
+7 8
+7 9
+8 11
+8 17
+9 12
+9 12
+9 18
+10 11
+10 11
+10 12
+11 20
+12 21
+13 14
+14 22
+15 16
+15 16
+15 25
+16 26

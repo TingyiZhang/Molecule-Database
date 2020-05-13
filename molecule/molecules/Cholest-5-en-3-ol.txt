@@ -1,0 +1,154 @@
+Cholest-5-en-3-ol
+74
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 21
+0 64
+1 2
+1 5
+1 6
+1 13
+2 3
+2 8
+2 28
+3 4
+3 11
+3 29
+4 7
+4 9
+4 30
+5 10
+5 12
+5 31
+6 9
+6 32
+6 33
+7 14
+7 15
+7 17
+8 10
+8 34
+8 35
+9 36
+9 37
+10 38
+10 39
+11 16
+11 40
+11 41
+12 20
+12 22
+12 42
+13 43
+13 44
+13 45
+14 16
+14 16
+14 18
+15 19
+15 46
+15 47
+16 48
+17 49
+17 50
+17 51
+18 21
+18 52
+18 53
+19 21
+19 54
+19 55
+20 23
+20 56
+20 57
+21 58
+22 59
+22 60
+22 61
+23 24
+23 62
+23 63
+24 25
+24 65
+24 66
+25 26
+25 27
+25 67
+26 68
+26 69
+26 70
+27 71
+27 72
+27 73

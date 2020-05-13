@@ -1,0 +1,25 @@
+2,2,3,3-Tetrafluoro-1-propanol
+12
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+1 5
+2 7
+3 7
+4 6
+4 11
+5 6
+5 7
+6 8
+6 9
+7 10

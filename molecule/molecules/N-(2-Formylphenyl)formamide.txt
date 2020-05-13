@@ -1,0 +1,43 @@
+N-(2-Formylphenyl)formamide
+18
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 9
+1 10
+1 10
+2 3
+2 10
+2 15
+3 4
+3 5
+3 5
+4 6
+4 6
+4 9
+5 7
+5 11
+6 8
+6 12
+7 8
+7 8
+7 13
+8 14
+9 16
+10 17

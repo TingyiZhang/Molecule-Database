@@ -1,0 +1,74 @@
+Carbamazepine-10,11-epoxide
+31
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 5
+1 16
+1 16
+2 8
+2 9
+2 16
+3 16
+3 29
+3 30
+4 5
+4 6
+4 19
+5 7
+5 20
+6 8
+6 10
+6 10
+7 9
+7 11
+7 11
+8 12
+8 12
+9 13
+9 13
+10 14
+10 21
+11 15
+11 22
+12 17
+12 23
+13 18
+13 24
+14 17
+14 17
+14 25
+15 18
+15 18
+15 26
+17 27
+18 28

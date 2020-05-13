@@ -1,0 +1,87 @@
+Carbinoxamine
+39
+"Chlorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+1 4
+1 5
+2 6
+2 12
+2 13
+3 8
+3 18
+3 18
+4 7
+4 8
+4 20
+5 6
+5 21
+5 22
+6 23
+6 24
+7 9
+7 9
+7 10
+8 11
+8 11
+9 14
+9 25
+10 15
+10 15
+10 26
+11 17
+11 27
+12 28
+12 29
+12 30
+13 31
+13 32
+13 33
+14 16
+14 16
+14 34
+15 16
+15 35
+17 19
+17 19
+17 36
+18 19
+18 37
+19 38

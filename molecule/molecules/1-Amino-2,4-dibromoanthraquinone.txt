@@ -1,0 +1,64 @@
+1-Amino-2,4-dibromoanthraquinone
+26
+"Bromine"
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 15
+2 9
+2 9
+3 10
+3 10
+4 11
+4 24
+4 25
+5 6
+5 6
+5 9
+5 11
+6 10
+6 12
+7 8
+7 9
+7 13
+7 13
+8 10
+8 14
+8 14
+11 15
+11 15
+12 16
+12 16
+13 17
+13 19
+14 18
+14 20
+15 16
+16 21
+17 18
+17 18
+17 22
+18 23

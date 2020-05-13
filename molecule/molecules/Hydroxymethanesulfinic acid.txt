@@ -1,0 +1,20 @@
+Hydroxymethanesulfinic acid
+9
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 3
+0 4
+1 4
+1 7
+2 8
+4 5
+4 6

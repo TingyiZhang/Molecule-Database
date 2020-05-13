@@ -1,0 +1,90 @@
+4-[4-(4-Hydroxyphenyl)hex-3-en-3-yl]phenol
+40
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+0 38
+1 19
+1 39
+2 3
+2 3
+2 4
+2 6
+3 5
+3 7
+4 8
+4 20
+4 21
+5 9
+5 22
+5 23
+6 10
+6 10
+6 12
+7 11
+7 11
+7 13
+8 24
+8 25
+8 26
+9 27
+9 28
+9 29
+10 14
+10 30
+11 15
+11 31
+12 16
+12 16
+12 32
+13 17
+13 17
+13 33
+14 18
+14 18
+14 34
+15 19
+15 19
+15 35
+16 18
+16 36
+17 19
+17 37

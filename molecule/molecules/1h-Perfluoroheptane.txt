@@ -1,0 +1,47 @@
+1h-Perfluoroheptane
+23
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+0 15
+1 15
+2 16
+3 16
+4 17
+5 17
+6 18
+7 18
+8 19
+9 19
+10 20
+11 20
+12 20
+13 21
+14 21
+15 16
+15 17
+16 18
+17 19
+18 20
+19 21
+21 22

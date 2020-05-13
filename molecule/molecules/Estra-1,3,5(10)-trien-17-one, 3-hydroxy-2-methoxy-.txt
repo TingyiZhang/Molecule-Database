@@ -1,0 +1,101 @@
+Estra-1,3,5(10)-trien-17-one, 3-hydroxy-2-methoxy-
+46
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 11
+1 19
+1 21
+2 20
+2 42
+3 4
+3 5
+3 8
+3 22
+4 7
+4 11
+4 13
+5 6
+5 10
+5 23
+6 9
+6 14
+6 24
+7 9
+7 25
+7 26
+8 12
+8 27
+8 28
+9 29
+9 30
+10 15
+10 31
+10 32
+11 12
+12 33
+12 34
+13 35
+13 36
+13 37
+14 16
+14 17
+14 17
+15 16
+15 38
+15 39
+16 18
+16 18
+17 19
+17 40
+18 20
+18 41
+19 20
+19 20
+21 43
+21 44
+21 45

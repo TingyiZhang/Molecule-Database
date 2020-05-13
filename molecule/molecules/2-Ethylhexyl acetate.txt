@@ -1,0 +1,66 @@
+2-Ethylhexyl acetate
+32
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 10
+1 10
+1 10
+2 3
+2 4
+2 6
+2 12
+3 5
+3 13
+3 14
+4 8
+4 15
+4 16
+5 7
+5 17
+5 18
+6 19
+6 20
+7 9
+7 21
+7 22
+8 23
+8 24
+8 25
+9 26
+9 27
+9 28
+10 11
+11 29
+11 30
+11 31

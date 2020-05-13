@@ -1,0 +1,116 @@
+Norethindrone acetate
+53
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 22
+1 21
+1 21
+2 22
+2 22
+3 4
+3 7
+3 8
+3 14
+4 5
+4 9
+4 25
+5 6
+5 13
+5 26
+6 10
+6 11
+6 27
+7 12
+7 18
+8 10
+8 28
+8 29
+9 12
+9 30
+9 31
+10 32
+10 33
+11 16
+11 17
+11 34
+12 35
+12 36
+13 15
+13 37
+13 38
+14 39
+14 40
+14 41
+15 16
+15 42
+15 43
+16 20
+16 20
+17 19
+17 44
+17 45
+18 23
+18 23
+18 23
+19 21
+19 46
+19 47
+20 21
+20 48
+22 24
+23 49
+24 50
+24 51
+24 52

@@ -1,0 +1,232 @@
+Manganese(3+);4-[10,15,20-tris(4-carboxyphenyl)porphyrin-22,24-diid-5-yl]benzoic acid
+89
+"Manganese"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 9
+0 9
+0 9
+0 9
+0 9
+0 10
+0 10
+0 10
+0 10
+0 10
+0 10
+0 11
+0 11
+0 11
+0 11
+0 11
+0 11
+1 57
+1 85
+2 58
+2 86
+3 57
+3 57
+4 58
+4 58
+5 59
+5 87
+6 60
+6 88
+7 59
+7 59
+8 60
+8 60
+9 13
+9 13
+9 14
+10 15
+10 19
+11 16
+11 20
+12 31
+12 31
+12 32
+13 17
+13 21
+14 18
+14 18
+14 22
+15 17
+15 17
+15 23
+16 18
+16 24
+16 24
+17 29
+18 30
+19 25
+19 27
+19 27
+20 26
+20 26
+20 28
+21 22
+21 22
+21 61
+22 62
+23 25
+23 25
+23 63
+24 26
+24 64
+25 65
+26 66
+27 31
+27 33
+28 32
+28 32
+28 34
+29 35
+29 35
+29 36
+30 37
+30 37
+30 38
+31 39
+32 40
+33 45
+33 45
+33 46
+34 47
+34 47
+34 48
+35 41
+35 67
+36 42
+36 42
+36 68
+37 43
+37 69
+38 44
+38 44
+38 70
+39 40
+39 40
+39 71
+40 72
+41 49
+41 49
+41 73
+42 49
+42 74
+43 50
+43 50
+43 75
+44 50
+44 76
+45 51
+45 77
+46 52
+46 52
+46 78
+47 53
+47 79
+48 54
+48 54
+48 80
+49 57
+50 58
+51 55
+51 55
+51 81
+52 55
+52 82
+53 56
+53 56
+53 83
+54 56
+54 84
+55 59
+56 60

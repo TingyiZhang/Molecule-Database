@@ -1,0 +1,256 @@
+Amanitin
+118
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 10
+0 44
+0 45
+1 27
+1 75
+2 29
+2 29
+3 30
+3 30
+4 34
+4 91
+5 35
+5 35
+6 40
+6 98
+7 43
+7 43
+8 46
+8 46
+9 48
+9 48
+11 55
+11 55
+12 59
+12 117
+13 60
+13 60
+14 61
+14 61
+15 25
+15 28
+15 30
+16 29
+16 31
+16 72
+17 33
+17 43
+17 81
+18 35
+18 38
+18 83
+19 44
+19 49
+19 92
+20 41
+20 55
+20 93
+21 48
+21 54
+21 96
+22 46
+22 100
+22 101
+23 51
+23 61
+23 106
+24 58
+24 60
+24 113
+25 26
+25 29
+25 64
+26 27
+26 65
+26 66
+27 28
+27 67
+28 68
+28 69
+30 33
+31 32
+31 35
+31 70
+32 34
+32 37
+32 71
+33 36
+33 73
+34 40
+34 74
+36 46
+36 76
+36 77
+37 78
+37 79
+37 80
+38 39
+38 48
+38 82
+39 42
+39 84
+39 85
+40 86
+40 87
+41 43
+41 45
+41 88
+42 44
+42 44
+42 47
+45 89
+45 90
+47 49
+47 49
+47 52
+49 53
+50 51
+50 56
+50 62
+50 94
+51 60
+51 95
+52 57
+52 57
+52 97
+53 59
+53 59
+53 99
+54 61
+54 102
+54 103
+55 58
+56 63
+56 104
+56 105
+57 59
+57 107
+58 108
+58 109
+62 110
+62 111
+62 112
+63 114
+63 115
+63 116

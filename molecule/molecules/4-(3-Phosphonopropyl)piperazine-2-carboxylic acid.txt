@@ -1,0 +1,70 @@
+4-(3-Phosphonopropyl)piperazine-2-carboxylic acid
+33
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+0 5
+0 5
+0 14
+1 15
+1 30
+2 15
+2 15
+3 31
+4 32
+6 8
+6 9
+6 11
+7 10
+7 12
+7 27
+8 10
+8 16
+8 17
+9 12
+9 18
+9 19
+10 15
+10 20
+11 13
+11 21
+11 22
+12 23
+12 24
+13 14
+13 25
+13 26
+14 28
+14 29

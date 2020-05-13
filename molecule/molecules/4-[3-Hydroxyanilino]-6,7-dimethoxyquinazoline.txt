@@ -1,0 +1,86 @@
+4-[3-Hydroxyanilino]-6,7-dimethoxyquinazoline
+37
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 20
+1 12
+1 21
+2 17
+2 36
+3 8
+3 13
+3 24
+4 7
+4 16
+4 16
+5 8
+5 8
+5 16
+6 7
+6 8
+6 9
+6 9
+7 11
+7 11
+9 10
+9 22
+10 12
+10 12
+11 12
+11 23
+13 14
+13 14
+13 15
+14 17
+14 25
+15 18
+15 18
+15 26
+16 27
+17 19
+17 19
+18 19
+18 28
+19 29
+20 30
+20 31
+20 32
+21 33
+21 34
+21 35

@@ -1,0 +1,56 @@
+1-Naphthol-4-sulfonic acid
+23
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 3
+0 4
+0 4
+0 6
+1 8
+1 21
+2 22
+5 6
+5 7
+5 10
+5 10
+6 9
+6 9
+7 8
+7 11
+7 11
+8 12
+8 12
+9 12
+9 15
+10 13
+10 16
+11 14
+11 17
+12 18
+13 14
+13 14
+13 19
+14 20

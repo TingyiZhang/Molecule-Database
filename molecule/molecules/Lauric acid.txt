@@ -1,0 +1,78 @@
+Lauric acid
+38
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 37
+1 13
+1 13
+2 3
+2 4
+2 14
+2 15
+3 5
+3 16
+3 17
+4 6
+4 18
+4 19
+5 7
+5 20
+5 21
+6 8
+6 22
+6 23
+7 9
+7 24
+7 25
+8 10
+8 26
+8 27
+9 11
+9 28
+9 29
+10 12
+10 30
+10 31
+11 13
+11 32
+11 33
+12 34
+12 35
+12 36

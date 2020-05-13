@@ -1,0 +1,191 @@
+7,18-Bis(2-piperidin-1-ylethyl)-7,18-diazaheptacyclo[14.6.2.22,5.03,12.04,9.013,23.020,24]hexacosa-1(23),2(26),3(12),4(9),5(25),10,14,16(24),21-nonaene-6,8,17,19-tetrone
+84
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+0 19
+1 23
+1 23
+2 37
+2 37
+3 39
+3 39
+4 19
+4 23
+4 26
+5 28
+5 31
+5 32
+6 36
+6 37
+6 39
+7 38
+7 41
+7 42
+8 9
+8 12
+8 18
+8 46
+9 10
+9 13
+9 13
+10 11
+10 16
+10 16
+11 19
+11 20
+11 47
+12 14
+12 14
+12 27
+13 15
+13 21
+14 15
+14 17
+15 29
+15 29
+16 22
+16 23
+17 24
+17 24
+17 25
+18 22
+18 22
+18 48
+20 21
+20 21
+20 49
+21 50
+22 51
+24 30
+24 37
+25 33
+25 33
+25 39
+26 28
+26 52
+26 53
+27 30
+27 30
+27 54
+28 55
+28 56
+29 33
+29 57
+30 58
+31 34
+31 59
+31 60
+32 35
+32 61
+32 62
+33 63
+34 40
+34 64
+34 65
+35 40
+35 66
+35 67
+36 38
+36 68
+36 69
+38 70
+38 71
+40 72
+40 73
+41 43
+41 74
+41 75
+42 44
+42 76
+42 77
+43 45
+43 78
+43 79
+44 45
+44 80
+44 81
+45 82
+45 83

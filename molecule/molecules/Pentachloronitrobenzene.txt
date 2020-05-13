@@ -1,0 +1,34 @@
+Pentachloronitrobenzene
+14
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+0 9
+1 10
+2 11
+3 12
+4 13
+5 7
+6 7
+6 7
+7 8
+8 9
+8 9
+8 10
+9 12
+10 11
+10 11
+11 13
+12 13
+12 13

@@ -1,0 +1,84 @@
+8-Methylbicyclo[3.2.1]oct-3-yl 3,5-dichlorobenzoate
+38
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+1 18
+2 11
+2 13
+3 13
+3 13
+4 6
+4 7
+4 9
+4 20
+5 6
+5 8
+5 10
+5 21
+6 12
+6 22
+7 8
+7 23
+7 24
+8 25
+8 26
+9 11
+9 27
+9 28
+10 11
+10 29
+10 30
+11 31
+12 32
+12 33
+12 34
+13 14
+14 15
+14 15
+14 16
+15 18
+15 35
+16 17
+16 17
+16 36
+17 19
+18 19
+18 19
+19 37

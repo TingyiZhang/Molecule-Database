@@ -1,0 +1,104 @@
+Corgard
+49
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 37
+1 6
+1 38
+2 11
+2 16
+3 14
+3 48
+4 12
+4 15
+4 32
+5 6
+5 7
+5 22
+6 8
+6 23
+7 9
+7 24
+7 25
+8 10
+8 26
+8 27
+9 10
+9 10
+9 11
+10 13
+11 17
+11 17
+12 19
+12 20
+12 21
+13 18
+13 18
+13 28
+14 15
+14 16
+14 29
+15 30
+15 31
+16 33
+16 34
+17 18
+17 35
+18 36
+19 39
+19 40
+19 41
+20 42
+20 43
+20 44
+21 45
+21 46
+21 47

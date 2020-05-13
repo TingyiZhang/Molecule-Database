@@ -1,0 +1,80 @@
+Chloroprocaine
+37
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 8
+1 11
+2 11
+2 11
+3 5
+3 6
+3 7
+4 15
+4 35
+4 36
+5 8
+5 18
+5 19
+6 9
+6 20
+6 21
+7 10
+7 22
+7 23
+8 24
+8 25
+9 26
+9 27
+9 28
+10 29
+10 30
+10 31
+11 12
+12 13
+12 13
+12 14
+13 16
+14 17
+14 17
+14 32
+15 16
+15 16
+15 17
+16 33
+17 34

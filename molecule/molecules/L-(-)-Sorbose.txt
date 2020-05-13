@@ -1,0 +1,50 @@
+L-(-)-Sorbose
+24
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 17
+1 7
+1 20
+2 8
+2 21
+3 9
+3 22
+4 10
+4 10
+5 11
+5 23
+6 7
+6 8
+6 12
+7 9
+7 13
+8 10
+8 14
+9 15
+9 16
+10 11
+11 18
+11 19

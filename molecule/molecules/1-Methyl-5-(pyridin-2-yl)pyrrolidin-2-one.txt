@@ -1,0 +1,57 @@
+1-Methyl-5-(pyridin-2-yl)pyrrolidin-2-one
+25
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+1 3
+1 6
+1 8
+2 7
+2 11
+2 11
+3 4
+3 7
+3 13
+4 5
+4 14
+4 15
+5 6
+5 16
+5 17
+7 9
+7 9
+8 18
+8 19
+8 20
+9 10
+9 21
+10 12
+10 12
+10 22
+11 12
+11 23
+12 24

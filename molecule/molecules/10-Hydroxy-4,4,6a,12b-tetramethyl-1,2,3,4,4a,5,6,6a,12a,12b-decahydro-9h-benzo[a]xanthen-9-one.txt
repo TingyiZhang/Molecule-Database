@@ -1,0 +1,113 @@
+10-Hydroxy-4,4,6a,12b-tetramethyl-1,2,3,4,4a,5,6,6a,12a,12b-decahydro-9h-benzo[a]xanthen-9-one
+52
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 19
+1 22
+1 51
+2 23
+2 23
+3 4
+3 5
+3 9
+3 13
+4 6
+4 8
+4 24
+5 7
+5 14
+5 25
+6 11
+6 15
+6 16
+7 10
+7 17
+8 10
+8 26
+8 27
+9 12
+9 28
+9 29
+10 30
+10 31
+11 12
+11 32
+11 33
+12 34
+12 35
+13 36
+13 37
+13 38
+14 18
+14 18
+14 39
+15 40
+15 41
+15 42
+16 43
+16 44
+16 45
+17 46
+17 47
+17 48
+18 19
+18 20
+19 21
+19 21
+20 22
+20 22
+20 49
+21 23
+21 50
+22 23

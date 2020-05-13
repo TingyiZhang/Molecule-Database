@@ -1,0 +1,55 @@
+Bis[amino(methylsulfanyl)methylidene]butanedinitrile
+24
+"Sulfur"
+"Sulfur"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 10
+1 9
+1 11
+2 8
+2 14
+2 15
+3 9
+3 16
+3 17
+4 12
+4 12
+4 12
+5 13
+5 13
+5 13
+6 7
+6 8
+6 8
+6 12
+7 9
+7 9
+7 13
+10 18
+10 19
+10 20
+11 21
+11 22
+11 23

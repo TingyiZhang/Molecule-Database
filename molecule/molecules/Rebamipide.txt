@@ -1,0 +1,96 @@
+Rebamipide
+41
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 25
+1 15
+1 38
+2 14
+2 14
+3 15
+3 15
+4 17
+4 17
+5 8
+5 17
+5 30
+6 11
+6 14
+6 32
+7 8
+7 9
+7 26
+7 27
+8 15
+8 28
+9 10
+9 12
+9 12
+10 11
+10 13
+10 13
+11 16
+11 16
+12 14
+12 29
+13 18
+13 31
+16 19
+16 33
+17 20
+18 19
+18 19
+18 34
+19 35
+20 21
+20 21
+20 22
+21 23
+21 36
+22 24
+22 24
+22 37
+23 25
+23 25
+23 39
+24 25
+24 40

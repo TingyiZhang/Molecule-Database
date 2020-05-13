@@ -1,0 +1,34 @@
+2-Mercaptoethylguanidine
+16
+"Sulfur"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 15
+1 4
+1 6
+1 6
+2 6
+2 11
+2 12
+3 6
+3 13
+3 14
+4 5
+4 7
+4 8
+5 9
+5 10

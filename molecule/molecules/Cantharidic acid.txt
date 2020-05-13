@@ -1,0 +1,63 @@
+Cantharidic acid
+29
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 8
+1 13
+1 27
+2 14
+2 28
+3 13
+3 13
+4 14
+4 14
+5 6
+5 7
+5 11
+5 13
+6 8
+6 12
+6 14
+7 9
+7 15
+8 10
+8 16
+9 10
+9 17
+9 18
+10 19
+10 20
+11 21
+11 22
+11 23
+12 24
+12 25
+12 26

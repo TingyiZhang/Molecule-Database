@@ -1,0 +1,78 @@
+Cyclic AMP
+34
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 5
+0 6
+0 6
+1 13
+1 15
+2 12
+3 16
+4 14
+4 28
+5 30
+7 15
+7 17
+7 18
+8 18
+8 18
+8 19
+9 17
+9 17
+9 21
+10 20
+10 21
+10 21
+11 20
+11 32
+11 33
+12 13
+12 14
+12 22
+13 16
+13 23
+14 15
+14 24
+15 25
+16 26
+16 27
+17 19
+18 29
+19 20
+19 20
+21 31

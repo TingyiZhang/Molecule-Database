@@ -1,0 +1,169 @@
+2,2-Dimethyl-3-((3E,7E,11E,15E)-3,7,12,16,20-pentamethylhenicosa-3,7,11,15,19-pentaenyl)oxirane
+81
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+1 2
+1 4
+1 5
+2 3
+2 31
+3 6
+3 32
+3 33
+4 34
+4 35
+4 36
+5 37
+5 38
+5 39
+6 7
+6 40
+6 41
+7 8
+7 8
+7 9
+8 10
+8 42
+9 43
+9 44
+9 45
+10 11
+10 46
+10 47
+11 12
+11 48
+11 49
+12 13
+12 13
+12 14
+13 15
+13 50
+14 51
+14 52
+14 53
+15 16
+15 54
+15 55
+16 18
+16 56
+16 57
+17 19
+17 20
+17 58
+17 59
+18 19
+18 19
+18 60
+19 24
+20 22
+20 61
+20 62
+21 22
+21 22
+21 23
+21 26
+22 63
+23 25
+23 64
+23 65
+24 66
+24 67
+24 68
+25 27
+25 69
+25 70
+26 71
+26 72
+26 73
+27 28
+27 28
+27 74
+28 29
+28 30
+29 75
+29 76
+29 77
+30 78
+30 79
+30 80

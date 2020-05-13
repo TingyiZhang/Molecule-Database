@@ -1,0 +1,143 @@
+Di(2-hexyloxyethyl) adipate
+70
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 22
+1 15
+1 23
+2 24
+2 26
+3 25
+3 27
+4 26
+4 26
+5 27
+5 27
+6 8
+6 10
+6 28
+6 29
+7 9
+7 11
+7 30
+7 31
+8 12
+8 32
+8 33
+9 13
+9 34
+9 35
+10 14
+10 36
+10 37
+11 15
+11 38
+11 39
+12 20
+12 40
+12 41
+13 21
+13 42
+13 43
+14 44
+14 45
+15 46
+15 47
+16 17
+16 18
+16 48
+16 49
+17 19
+17 50
+17 51
+18 26
+18 52
+18 53
+19 27
+19 54
+19 55
+20 56
+20 57
+20 58
+21 59
+21 60
+21 61
+22 24
+22 62
+22 63
+23 25
+23 64
+23 65
+24 66
+24 67
+25 68
+25 69

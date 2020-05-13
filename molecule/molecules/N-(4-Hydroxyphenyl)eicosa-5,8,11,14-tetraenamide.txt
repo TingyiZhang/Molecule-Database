@@ -1,0 +1,142 @@
+N-(4-Hydroxyphenyl)eicosa-5,8,11,14-tetraenamide
+66
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 15
+1 28
+1 65
+2 15
+2 22
+2 55
+3 4
+3 5
+3 29
+3 30
+4 6
+4 31
+4 32
+5 8
+5 33
+5 34
+6 9
+6 35
+6 36
+7 10
+7 11
+7 37
+7 38
+8 12
+8 12
+8 39
+9 40
+9 41
+9 42
+10 13
+10 43
+10 44
+11 15
+11 45
+11 46
+12 14
+12 47
+13 16
+13 16
+13 48
+14 18
+14 49
+14 50
+16 17
+16 51
+17 21
+17 52
+17 53
+18 20
+18 20
+18 54
+19 20
+19 23
+19 56
+19 57
+20 58
+21 23
+21 23
+21 59
+22 24
+22 24
+22 25
+23 60
+24 26
+24 61
+25 27
+25 27
+25 62
+26 28
+26 28
+26 63
+27 28
+27 64

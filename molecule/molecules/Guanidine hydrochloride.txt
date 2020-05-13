@@ -1,0 +1,23 @@
+Guanidine hydrochloride
+11
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 4
+1 5
+1 6
+2 4
+2 7
+2 8
+3 4
+3 4
+3 9

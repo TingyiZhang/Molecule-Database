@@ -1,0 +1,40 @@
+Nithiamide
+17
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 8
+1 10
+1 10
+2 6
+3 6
+3 6
+4 7
+4 10
+4 12
+5 7
+5 7
+5 9
+6 8
+8 9
+8 9
+9 13
+10 11
+11 14
+11 15
+11 16

@@ -1,0 +1,68 @@
+3-(1H-Indol-3-yl)-2-(methylamino)propanoic acid
+30
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 29
+1 12
+1 12
+2 8
+2 9
+2 20
+3 6
+3 15
+3 21
+4 5
+4 6
+4 16
+4 17
+5 7
+5 9
+5 9
+6 12
+6 18
+7 8
+7 10
+7 10
+8 11
+8 11
+9 19
+10 13
+10 22
+11 14
+11 23
+13 14
+13 14
+13 24
+14 25
+15 26
+15 27
+15 28

@@ -1,0 +1,35 @@
+Phloroglucinol
+15
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 12
+1 4
+1 13
+2 5
+2 14
+3 6
+3 6
+3 7
+4 6
+4 8
+4 8
+5 7
+5 7
+5 8
+6 9
+7 10
+8 11

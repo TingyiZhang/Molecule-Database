@@ -1,0 +1,268 @@
+2,3-Dimethoxy-5-methyl-6-(3,7,11,15,19,23,27,31-octamethyldotriaconta-2,6,10,14,18,22,26,30-octaenyl)cyclohexa-2,5-diene-1,4-dione
+127
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 44
+0 51
+1 45
+1 52
+2 41
+2 41
+3 43
+3 43
+4 6
+4 12
+4 53
+4 54
+5 7
+5 11
+5 55
+5 56
+6 17
+6 57
+6 58
+7 20
+7 59
+7 60
+8 10
+8 15
+8 61
+8 62
+9 13
+9 14
+9 63
+9 64
+10 21
+10 65
+10 66
+11 17
+11 17
+11 28
+12 21
+12 21
+12 29
+13 24
+13 67
+13 68
+14 20
+14 20
+14 31
+15 25
+15 25
+15 34
+16 18
+16 25
+16 69
+16 70
+17 71
+18 26
+18 72
+18 73
+19 22
+19 23
+19 74
+19 75
+20 76
+21 77
+22 24
+22 24
+22 37
+23 30
+23 78
+23 79
+24 80
+25 81
+26 32
+26 32
+26 38
+27 32
+27 36
+27 82
+27 83
+28 84
+28 85
+28 86
+29 87
+29 88
+29 89
+30 33
+30 33
+30 90
+31 91
+31 92
+31 93
+32 94
+33 35
+33 42
+34 95
+34 96
+34 97
+35 39
+35 98
+35 99
+36 40
+36 40
+36 41
+37 100
+37 101
+37 102
+38 103
+38 104
+38 105
+39 46
+39 106
+39 107
+40 43
+40 47
+41 44
+42 108
+42 109
+42 110
+43 45
+44 45
+44 45
+46 48
+46 48
+46 111
+47 112
+47 113
+47 114
+48 49
+48 50
+49 115
+49 116
+49 117
+50 118
+50 119
+50 120
+51 121
+51 122
+51 123
+52 124
+52 125
+52 126

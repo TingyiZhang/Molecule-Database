@@ -1,0 +1,52 @@
+3-Ethyl-5-methylpiperidine-2,6-dione
+24
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 8
+1 8
+2 7
+2 8
+2 20
+3 4
+3 6
+3 7
+3 11
+4 5
+4 12
+4 13
+5 8
+5 9
+5 14
+6 10
+6 15
+6 16
+9 17
+9 18
+9 19
+10 21
+10 22
+10 23

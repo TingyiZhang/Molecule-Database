@@ -1,0 +1,97 @@
+9-N-Phenylmethylamino-tacrine
+42
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+0 10
+1 8
+1 11
+1 30
+2 3
+2 4
+2 22
+2 23
+3 7
+3 8
+3 8
+4 5
+4 24
+4 25
+5 6
+5 26
+5 27
+6 7
+6 28
+6 29
+8 9
+9 10
+9 12
+9 12
+10 13
+10 13
+11 15
+11 31
+11 32
+12 14
+12 33
+13 16
+13 34
+14 16
+14 16
+14 35
+15 17
+15 17
+15 18
+16 36
+17 19
+17 37
+18 20
+18 20
+18 38
+19 21
+19 21
+19 39
+20 21
+20 40
+21 41

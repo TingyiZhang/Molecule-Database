@@ -1,0 +1,66 @@
+Ethoprophos
+32
+"Sulfur"
+"Sulfur"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 5
+1 2
+1 6
+2 3
+2 4
+2 4
+3 11
+5 7
+5 13
+5 14
+6 8
+6 15
+6 16
+7 9
+7 17
+7 18
+8 10
+8 19
+8 20
+9 21
+9 22
+9 23
+10 24
+10 25
+10 26
+11 12
+11 27
+11 28
+12 29
+12 30
+12 31

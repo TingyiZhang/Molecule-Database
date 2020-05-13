@@ -1,0 +1,26 @@
+Disodium but-2-enedioate
+12
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+2 8
+3 9
+4 8
+4 8
+5 9
+5 9
+6 7
+6 7
+6 8
+6 10
+7 9
+7 11

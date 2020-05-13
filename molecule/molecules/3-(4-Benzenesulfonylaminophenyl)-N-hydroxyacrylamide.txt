@@ -1,0 +1,85 @@
+3-(4-Benzenesulfonylaminophenyl)-N-hydroxyacrylamide
+36
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 5
+0 7
+3 21
+3 21
+4 6
+4 35
+5 8
+5 22
+6 21
+6 34
+7 12
+7 12
+7 13
+8 9
+8 9
+8 10
+9 14
+9 23
+10 15
+10 15
+10 24
+11 14
+11 14
+11 15
+11 19
+12 16
+12 25
+13 17
+13 17
+13 26
+14 27
+15 28
+16 18
+16 18
+16 29
+17 18
+17 30
+18 31
+19 20
+19 20
+19 32
+20 21
+20 33

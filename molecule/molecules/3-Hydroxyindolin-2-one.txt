@@ -1,0 +1,43 @@
+3-Hydroxyindolin-2-one
+18
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 17
+1 6
+1 6
+2 5
+2 6
+2 12
+3 4
+3 6
+3 11
+4 5
+4 7
+4 7
+5 8
+5 8
+7 9
+7 13
+8 10
+8 14
+9 10
+9 10
+9 15
+10 16

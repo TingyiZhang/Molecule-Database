@@ -1,0 +1,61 @@
+Diethyl ethylmalonate
+29
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 9
+1 7
+1 10
+2 6
+2 6
+3 7
+3 7
+4 5
+4 6
+4 7
+4 13
+5 8
+5 14
+5 15
+8 16
+8 17
+8 18
+9 11
+9 19
+9 20
+10 12
+10 21
+10 22
+11 23
+11 24
+11 25
+12 26
+12 27
+12 28

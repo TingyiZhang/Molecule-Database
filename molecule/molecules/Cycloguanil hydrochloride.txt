@@ -1,0 +1,73 @@
+Cycloguanil hydrochloride
+33
+"Chlorine"
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+1 32
+2 7
+2 10
+2 11
+3 7
+3 12
+3 12
+4 11
+4 11
+4 12
+5 11
+5 26
+5 27
+6 12
+6 30
+6 31
+7 8
+7 9
+8 18
+8 19
+8 20
+9 21
+9 22
+9 23
+10 13
+10 13
+10 14
+13 15
+13 24
+14 16
+14 16
+14 25
+15 17
+15 17
+15 28
+16 17
+16 29

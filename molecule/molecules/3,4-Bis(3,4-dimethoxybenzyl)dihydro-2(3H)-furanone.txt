@@ -1,0 +1,119 @@
+3,4-Bis(3,4-dimethoxybenzyl)dihydro-2(3H)-furanone
+54
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 11
+1 11
+1 11
+2 18
+2 24
+3 19
+3 25
+4 22
+4 26
+5 23
+5 27
+6 7
+6 8
+6 9
+6 28
+7 10
+7 11
+7 29
+8 30
+8 31
+9 12
+9 32
+9 33
+10 13
+10 34
+10 35
+12 14
+12 14
+12 15
+13 16
+13 16
+13 17
+14 18
+14 36
+15 20
+15 20
+15 37
+16 19
+16 38
+17 21
+17 21
+17 39
+18 22
+18 22
+19 23
+19 23
+20 22
+20 40
+21 23
+21 41
+24 42
+24 43
+24 44
+25 45
+25 46
+25 47
+26 48
+26 49
+26 50
+27 51
+27 52
+27 53

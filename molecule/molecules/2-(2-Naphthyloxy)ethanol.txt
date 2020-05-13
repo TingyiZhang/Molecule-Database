@@ -1,0 +1,60 @@
+2-(2-Naphthyloxy)ethanol
+26
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 10
+1 13
+1 25
+2 3
+2 5
+2 8
+2 8
+3 6
+3 9
+3 9
+4 5
+4 5
+4 7
+5 14
+6 7
+6 7
+6 15
+7 16
+8 11
+8 17
+9 12
+9 18
+10 13
+10 19
+10 20
+11 12
+11 12
+11 21
+12 22
+13 23
+13 24

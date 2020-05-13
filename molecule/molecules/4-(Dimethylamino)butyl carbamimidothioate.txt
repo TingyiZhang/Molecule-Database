@@ -1,0 +1,58 @@
+4-(Dimethylamino)butyl carbamimidothioate
+28
+"Sulfur"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 10
+1 5
+1 8
+1 9
+2 10
+2 25
+2 26
+3 10
+3 10
+3 27
+4 5
+4 6
+4 11
+4 12
+5 13
+5 14
+6 7
+6 15
+6 16
+7 17
+7 18
+8 19
+8 20
+8 21
+9 22
+9 23
+9 24

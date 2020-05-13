@@ -1,0 +1,135 @@
+Methyl 15-(acetyloxy)-1,11,12-trihydroxy-2,16-dioxo-13,20-epoxypicras-3-en-21-oate
+62
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 19
+1 16
+1 27
+2 17
+2 49
+3 20
+3 50
+4 22
+4 31
+5 23
+5 52
+6 26
+6 32
+7 26
+7 26
+8 27
+8 27
+9 28
+9 28
+10 31
+10 31
+11 12
+11 13
+11 16
+11 19
+12 14
+12 17
+12 34
+13 15
+13 22
+13 35
+14 18
+14 23
+14 24
+15 20
+15 26
+16 21
+16 36
+17 20
+17 37
+18 21
+18 25
+18 38
+19 39
+19 40
+20 41
+21 42
+21 43
+22 27
+22 44
+23 28
+23 45
+24 46
+24 47
+24 48
+25 29
+25 29
+25 30
+28 29
+29 51
+30 53
+30 54
+30 55
+31 33
+32 56
+32 57
+32 58
+33 59
+33 60
+33 61

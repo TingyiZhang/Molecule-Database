@@ -1,0 +1,170 @@
+Metofenazate
+77
+"Chlorine"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 27
+1 21
+1 22
+2 18
+2 29
+3 29
+3 29
+4 35
+4 38
+5 36
+5 39
+6 37
+6 40
+7 10
+7 11
+7 14
+8 12
+8 13
+8 16
+9 17
+9 19
+9 20
+10 12
+10 41
+10 42
+11 13
+11 43
+11 44
+12 45
+12 46
+13 47
+13 48
+14 15
+14 49
+14 50
+15 17
+15 51
+15 52
+16 18
+16 53
+16 54
+17 55
+17 56
+18 57
+18 58
+19 21
+19 21
+19 23
+20 22
+20 24
+20 24
+21 25
+22 26
+22 26
+23 27
+23 27
+23 59
+24 28
+24 60
+25 30
+25 30
+25 61
+26 31
+26 62
+27 30
+28 31
+28 31
+28 63
+29 32
+30 64
+31 65
+32 33
+32 33
+32 34
+33 36
+33 66
+34 35
+34 35
+34 67
+35 37
+36 37
+36 37
+38 68
+38 69
+38 70
+39 71
+39 72
+39 73
+40 74
+40 75
+40 76

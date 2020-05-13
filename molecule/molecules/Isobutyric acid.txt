@@ -1,0 +1,30 @@
+Isobutyric acid
+14
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 13
+1 5
+1 5
+2 3
+2 4
+2 5
+2 6
+3 7
+3 8
+3 9
+4 10
+4 11
+4 12

@@ -1,0 +1,71 @@
+N,N,N-Trimethyl-4-(2-oxopyrrolidin-1-yl)but-2-yn-1-aminium
+33
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 6
+1 8
+1 9
+1 10
+2 3
+2 7
+2 11
+3 4
+3 14
+3 15
+4 5
+4 16
+4 17
+5 7
+5 18
+5 19
+6 12
+6 20
+6 21
+8 22
+8 23
+8 24
+9 25
+9 26
+9 27
+10 28
+10 29
+10 30
+11 13
+11 31
+11 32
+12 13
+12 13
+12 13

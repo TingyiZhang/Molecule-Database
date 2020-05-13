@@ -1,0 +1,35 @@
+1,2-Benzisothiazole
+14
+"Sulfur"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 3
+1 6
+1 6
+2 3
+2 4
+2 4
+2 6
+3 5
+3 5
+4 7
+4 9
+5 8
+5 10
+6 11
+7 8
+7 8
+7 12
+8 13

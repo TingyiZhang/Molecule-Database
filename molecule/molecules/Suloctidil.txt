@@ -1,0 +1,121 @@
+Suloctidil
+58
+"Sulfur"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+0 20
+1 8
+1 45
+2 3
+2 7
+2 35
+3 8
+3 11
+3 23
+4 5
+4 6
+4 24
+4 25
+5 7
+5 26
+5 27
+6 9
+6 28
+6 29
+7 30
+7 31
+8 12
+8 32
+9 10
+9 33
+9 34
+10 13
+10 36
+10 37
+11 38
+11 39
+11 40
+12 14
+12 14
+12 15
+13 16
+13 41
+13 42
+14 17
+14 43
+15 18
+15 18
+15 44
+16 46
+16 47
+16 48
+17 19
+17 19
+17 49
+18 19
+18 50
+20 21
+20 22
+20 51
+21 52
+21 53
+21 54
+22 55
+22 56
+22 57

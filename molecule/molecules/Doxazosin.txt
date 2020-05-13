@@ -1,0 +1,131 @@
+Doxazosin
+58
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 18
+1 17
+1 20
+2 14
+2 14
+3 27
+3 31
+4 28
+4 32
+5 10
+5 11
+5 14
+6 12
+6 13
+6 16
+7 16
+7 16
+7 19
+8 16
+8 22
+8 22
+9 22
+9 50
+9 51
+10 12
+10 33
+10 34
+11 13
+11 35
+11 36
+12 37
+12 38
+13 39
+13 40
+14 15
+15 17
+15 41
+17 42
+17 43
+18 20
+18 24
+18 24
+19 21
+19 23
+19 23
+20 26
+20 26
+21 22
+21 25
+21 25
+23 27
+23 44
+24 29
+24 45
+25 28
+25 46
+26 30
+26 47
+27 28
+27 28
+29 30
+29 30
+29 48
+30 49
+31 52
+31 53
+31 54
+32 55
+32 56
+32 57

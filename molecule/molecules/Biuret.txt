@@ -1,0 +1,27 @@
+Biuret
+12
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 5
+1 6
+1 6
+2 5
+2 6
+2 7
+3 5
+3 8
+3 9
+4 6
+4 10
+4 11

@@ -1,0 +1,56 @@
+3-(2-Methylpropyl)-2,5-piperazinedione
+26
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 11
+1 11
+2 4
+2 11
+2 16
+3 7
+3 10
+3 25
+4 5
+4 7
+4 12
+5 6
+5 13
+5 14
+6 8
+6 9
+6 15
+8 17
+8 18
+8 19
+9 20
+9 21
+9 22
+10 11
+10 23
+10 24

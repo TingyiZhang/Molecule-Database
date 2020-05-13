@@ -1,0 +1,99 @@
+Piretanide
+43
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+0 3
+0 3
+0 7
+0 15
+1 13
+1 19
+4 18
+4 41
+5 18
+5 18
+6 8
+6 9
+6 12
+7 35
+7 36
+8 10
+8 25
+8 26
+9 11
+9 27
+9 28
+10 11
+10 29
+10 30
+11 31
+11 32
+12 13
+12 13
+12 14
+13 15
+14 16
+14 16
+14 33
+15 17
+15 17
+16 17
+16 18
+17 34
+19 20
+19 20
+19 21
+20 22
+20 37
+21 23
+21 23
+21 38
+22 24
+22 24
+22 39
+23 24
+23 40
+24 42

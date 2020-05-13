@@ -1,0 +1,31 @@
+Ethylenediamine dihydrochloride
+16
+"Chlorine"
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+1 15
+2 4
+2 10
+2 11
+3 5
+3 12
+3 13
+4 5
+4 6
+4 7
+5 8
+5 9

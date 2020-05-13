@@ -1,0 +1,106 @@
+Benoxathian
+48
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 11
+1 6
+1 10
+2 12
+2 17
+3 18
+3 23
+4 19
+4 24
+5 7
+5 9
+5 30
+6 7
+6 8
+6 25
+7 26
+7 27
+8 28
+8 29
+9 12
+9 31
+9 32
+10 11
+10 13
+10 13
+11 14
+11 14
+12 33
+12 34
+13 15
+13 35
+14 16
+14 36
+15 16
+15 16
+15 37
+16 38
+17 18
+17 18
+17 19
+18 20
+19 21
+19 21
+20 22
+20 22
+20 39
+21 22
+21 40
+22 41
+23 42
+23 43
+23 44
+24 45
+24 46
+24 47

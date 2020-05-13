@@ -1,0 +1,193 @@
+AMMONIUM, (5-alpha-ANDROSTAN-3-alpha,17-alpha-YLENE)BIS(TRIETHYL-, DIIODIDE
+95
+"Iodine"
+"Iodine"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+2 9
+2 23
+2 24
+2 25
+3 19
+3 26
+3 27
+3 28
+4 5
+4 9
+4 11
+4 20
+5 6
+5 13
+5 35
+6 7
+6 14
+6 36
+7 8
+7 12
+7 37
+8 10
+8 17
+8 22
+9 15
+9 38
+10 16
+10 18
+10 39
+11 12
+11 40
+11 41
+12 42
+12 43
+13 15
+13 44
+13 45
+14 16
+14 46
+14 47
+15 48
+15 49
+16 50
+16 51
+17 21
+17 52
+17 53
+18 19
+18 54
+18 55
+19 21
+19 56
+20 57
+20 58
+20 59
+21 60
+21 61
+22 62
+22 63
+22 64
+23 29
+23 65
+23 66
+24 30
+24 67
+24 68
+25 31
+25 69
+25 70
+26 32
+26 71
+26 72
+27 33
+27 73
+27 74
+28 34
+28 75
+28 76
+29 77
+29 78
+29 79
+30 80
+30 81
+30 82
+31 83
+31 84
+31 85
+32 86
+32 87
+32 88
+33 89
+33 90
+33 91
+34 92
+34 93
+34 94

@@ -1,0 +1,9 @@
+Hydrogen cyanide
+3
+"Nitrogen"
+"Carbon"
+"Hydrogen"
+0 1
+0 1
+0 1
+1 2

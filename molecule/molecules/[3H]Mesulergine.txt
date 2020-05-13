@@ -1,0 +1,115 @@
+[3H]Mesulergine
+52
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 5
+0 15
+3 7
+3 10
+3 17
+4 16
+4 19
+4 22
+5 23
+5 24
+6 7
+6 8
+6 12
+6 25
+7 11
+7 26
+8 9
+8 27
+8 28
+9 10
+9 15
+9 29
+10 30
+10 31
+11 14
+11 32
+11 33
+12 13
+12 13
+12 18
+13 14
+13 16
+14 19
+14 19
+15 34
+15 35
+16 20
+16 20
+17 36
+17 37
+17 38
+18 21
+18 21
+18 39
+19 40
+20 21
+20 41
+21 42
+22 43
+22 44
+22 45
+23 46
+23 47
+23 48
+24 49
+24 50
+24 51

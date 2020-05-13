@@ -1,0 +1,41 @@
+1,2-Bis(trifluoromethyl)benzene
+18
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 10
+2 10
+3 11
+4 11
+5 11
+6 7
+6 8
+6 8
+6 10
+7 9
+7 9
+7 11
+8 12
+8 14
+9 13
+9 15
+12 13
+12 13
+12 16
+13 17

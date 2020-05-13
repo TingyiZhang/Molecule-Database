@@ -1,0 +1,61 @@
+Chlorbenside
+26
+"Chlorine"
+"Chlorine"
+"Sulfur"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 15
+2 4
+2 5
+3 4
+3 6
+3 6
+3 7
+4 16
+4 17
+5 10
+5 10
+5 11
+6 8
+6 18
+7 9
+7 9
+7 19
+8 12
+8 12
+8 20
+9 12
+9 21
+10 13
+10 22
+11 14
+11 14
+11 23
+13 15
+13 15
+13 24
+14 15
+14 25

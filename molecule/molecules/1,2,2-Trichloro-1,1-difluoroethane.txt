@@ -1,0 +1,17 @@
+1,2,2-Trichloro-1,1-difluoroethane
+8
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Hydrogen"
+0 5
+1 5
+2 6
+3 6
+4 6
+5 6
+5 7

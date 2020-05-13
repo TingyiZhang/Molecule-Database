@@ -1,0 +1,111 @@
+l-beta-Hydrastine
+49
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 19
+1 18
+1 25
+2 20
+2 25
+3 22
+3 26
+4 19
+4 19
+5 24
+5 27
+6 7
+6 10
+6 15
+7 8
+7 9
+7 28
+8 13
+8 29
+9 11
+9 14
+9 14
+10 12
+10 30
+10 31
+11 12
+11 17
+11 17
+12 32
+12 33
+13 16
+13 16
+13 21
+14 18
+14 34
+15 35
+15 36
+15 37
+16 19
+16 22
+17 20
+17 38
+18 20
+18 20
+21 23
+21 23
+21 39
+22 24
+22 24
+23 24
+23 40
+25 41
+25 42
+26 43
+26 44
+26 45
+27 46
+27 47
+27 48

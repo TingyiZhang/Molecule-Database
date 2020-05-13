@@ -1,0 +1,88 @@
+1-Phenylsulfonamide-3-trifluoromethyl-5-parabromophenylpyrazole
+37
+"Bromine"
+"Sulfur"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 25
+1 5
+1 5
+1 6
+1 6
+1 9
+1 17
+2 22
+3 22
+4 22
+7 8
+7 10
+7 11
+8 14
+8 14
+9 35
+9 36
+10 12
+10 13
+10 13
+11 15
+11 15
+11 16
+12 20
+12 20
+12 21
+13 14
+13 26
+14 22
+15 18
+15 27
+16 19
+16 19
+16 28
+17 18
+17 18
+17 19
+18 29
+19 30
+20 23
+20 31
+21 24
+21 24
+21 32
+23 25
+23 25
+23 33
+24 25
+24 34

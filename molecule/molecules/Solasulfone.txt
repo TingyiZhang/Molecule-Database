@@ -1,0 +1,189 @@
+Solasulfone
+83
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sodium"
+"Sodium"
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 11
+0 11
+0 12
+0 12
+0 27
+1 10
+1 13
+1 13
+1 14
+1 14
+1 28
+2 15
+2 17
+2 17
+2 18
+2 18
+2 29
+3 16
+3 19
+3 19
+3 20
+3 20
+3 30
+4 21
+4 21
+4 22
+4 22
+4 39
+4 40
+23 29
+23 33
+23 63
+24 30
+24 34
+24 64
+25 27
+25 29
+25 55
+25 56
+26 28
+26 30
+26 57
+26 58
+27 31
+27 59
+28 32
+28 60
+29 61
+30 62
+31 35
+31 35
+31 37
+32 36
+32 36
+32 38
+33 41
+33 41
+33 43
+34 42
+34 42
+34 44
+35 49
+35 65
+36 50
+36 66
+37 51
+37 51
+37 67
+38 52
+38 52
+38 68
+39 45
+39 45
+39 47
+40 46
+40 46
+40 48
+41 45
+41 69
+42 46
+42 70
+43 47
+43 47
+43 71
+44 48
+44 48
+44 72
+45 73
+46 74
+47 75
+48 76
+49 53
+49 53
+49 77
+50 54
+50 54
+50 78
+51 53
+51 79
+52 54
+52 80
+53 81
+54 82

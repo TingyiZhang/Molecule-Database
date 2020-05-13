@@ -1,0 +1,85 @@
+2-[6-(4-Chlorophenoxy)hexyl]oxirane-2-carboxylic acid
+39
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+1 5
+1 7
+2 10
+2 34
+3 10
+3 10
+4 13
+4 14
+5 6
+5 7
+5 10
+6 8
+6 20
+6 21
+7 22
+7 23
+8 9
+8 24
+8 25
+9 11
+9 26
+9 27
+11 12
+11 28
+11 29
+12 13
+12 30
+12 31
+13 32
+13 33
+14 15
+14 15
+14 16
+15 17
+15 35
+16 18
+16 18
+16 36
+17 19
+17 19
+17 37
+18 19
+18 38

@@ -1,0 +1,51 @@
+2-Chloroethenyl diethyl phosphate
+24
+"Chlorine"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+1 2
+1 3
+1 4
+1 5
+1 5
+2 6
+3 7
+4 10
+6 8
+6 12
+6 13
+7 9
+7 14
+7 15
+8 16
+8 17
+8 18
+9 19
+9 20
+9 21
+10 11
+10 11
+10 22
+11 23

@@ -1,0 +1,66 @@
+Porphobilinogen
+30
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 28
+1 15
+1 29
+2 14
+2 14
+3 15
+3 15
+4 8
+4 10
+4 21
+5 12
+5 26
+5 27
+6 7
+6 8
+6 8
+6 11
+7 9
+7 10
+7 10
+8 12
+9 13
+9 16
+9 17
+10 18
+11 14
+11 19
+11 20
+12 22
+12 23
+13 15
+13 24
+13 25

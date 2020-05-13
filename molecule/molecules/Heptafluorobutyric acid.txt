@@ -1,0 +1,30 @@
+Heptafluorobutyric acid
+14
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+0 9
+1 9
+2 10
+3 10
+4 11
+5 11
+6 11
+7 12
+7 13
+8 12
+8 12
+9 10
+9 11
+10 12

@@ -1,0 +1,103 @@
+Chelerythrine
+44
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 23
+1 19
+1 23
+2 17
+2 24
+3 21
+3 25
+4 5
+4 5
+4 11
+4 20
+5 6
+5 7
+6 8
+6 8
+6 12
+7 10
+7 13
+7 13
+8 9
+8 18
+9 11
+9 11
+9 17
+10 14
+10 15
+10 15
+11 26
+12 14
+12 14
+12 27
+13 16
+13 28
+14 29
+15 19
+15 30
+16 19
+16 19
+17 21
+17 21
+18 22
+18 22
+18 31
+20 32
+20 33
+20 34
+21 22
+22 35
+23 36
+23 37
+24 38
+24 39
+24 40
+25 41
+25 42
+25 43

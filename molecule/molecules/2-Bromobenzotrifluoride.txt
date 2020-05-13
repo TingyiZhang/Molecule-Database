@@ -1,0 +1,35 @@
+2-Bromobenzotrifluoride
+15
+"Bromine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+1 7
+2 7
+3 7
+4 5
+4 6
+4 6
+4 7
+5 8
+5 8
+6 9
+6 11
+8 10
+8 12
+9 10
+9 10
+9 13
+10 14

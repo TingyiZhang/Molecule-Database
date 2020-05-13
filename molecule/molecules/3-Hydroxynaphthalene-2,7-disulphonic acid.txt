@@ -1,0 +1,66 @@
+3-Hydroxynaphthalene-2,7-disulphonic acid
+27
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 5
+0 5
+0 6
+0 6
+0 11
+1 4
+1 7
+1 7
+1 8
+1 8
+1 14
+2 16
+2 24
+3 25
+4 26
+9 10
+9 12
+9 12
+9 13
+10 15
+10 15
+10 17
+11 12
+11 16
+11 16
+12 19
+13 14
+13 14
+13 20
+14 18
+15 16
+15 21
+17 18
+17 18
+17 22
+18 23

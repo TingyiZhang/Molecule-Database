@@ -1,0 +1,77 @@
+Guanidine, 1-benzyl-1-phenyl-, hydrochloride
+34
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 33
+1 4
+1 6
+1 9
+2 9
+2 30
+2 31
+3 9
+3 9
+3 32
+4 5
+4 18
+4 19
+5 7
+5 7
+5 8
+6 10
+6 10
+6 11
+7 12
+7 20
+8 13
+8 13
+8 21
+10 14
+10 22
+11 15
+11 15
+11 23
+12 16
+12 16
+12 24
+13 16
+13 25
+14 17
+14 17
+14 26
+15 17
+15 27
+16 28
+17 29

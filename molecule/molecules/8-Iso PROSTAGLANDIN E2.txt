@@ -1,0 +1,120 @@
+8-Iso PROSTAGLANDIN E2
+57
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 34
+1 9
+1 9
+2 14
+2 46
+3 24
+3 56
+4 24
+4 24
+5 6
+5 7
+5 11
+5 25
+6 9
+6 10
+6 26
+7 8
+7 27
+8 9
+8 28
+8 29
+10 13
+10 30
+10 31
+11 12
+11 12
+11 32
+12 14
+12 33
+13 17
+13 17
+13 35
+14 15
+14 36
+15 16
+15 37
+15 38
+16 18
+16 39
+16 40
+17 19
+17 41
+18 20
+18 42
+18 43
+19 21
+19 44
+19 45
+20 23
+20 47
+20 48
+21 22
+21 49
+21 50
+22 24
+22 51
+22 52
+23 53
+23 54
+23 55

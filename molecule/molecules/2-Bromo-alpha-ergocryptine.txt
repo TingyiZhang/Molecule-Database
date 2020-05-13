@@ -1,0 +1,182 @@
+2-Bromo-alpha-ergocryptine
+83
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 39
+1 12
+1 15
+2 12
+2 55
+3 18
+3 18
+4 19
+4 19
+5 25
+5 25
+6 12
+6 13
+6 18
+7 11
+7 16
+7 19
+8 15
+8 25
+8 54
+9 27
+9 28
+9 37
+10 38
+10 39
+10 80
+11 12
+11 14
+11 43
+13 19
+13 20
+13 44
+14 17
+14 45
+14 46
+15 18
+15 21
+16 17
+16 47
+16 48
+17 49
+17 50
+20 22
+20 51
+20 52
+21 23
+21 24
+21 53
+22 29
+22 30
+22 56
+23 57
+23 58
+23 59
+24 60
+24 61
+24 62
+25 26
+26 28
+26 32
+26 63
+27 31
+27 33
+27 64
+28 65
+28 66
+29 67
+29 68
+29 69
+30 70
+30 71
+30 72
+31 32
+31 32
+31 34
+32 73
+33 35
+33 74
+33 75
+34 36
+34 36
+34 40
+35 36
+35 39
+35 39
+36 38
+37 76
+37 77
+37 78
+38 41
+38 41
+40 42
+40 42
+40 79
+41 42
+41 81
+42 82

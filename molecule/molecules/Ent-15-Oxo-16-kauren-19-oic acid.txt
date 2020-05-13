@@ -1,0 +1,110 @@
+Ent-15-Oxo-16-kauren-19-oic acid
+51
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 15
+1 21
+1 50
+2 21
+2 21
+3 4
+3 6
+3 13
+3 16
+4 5
+4 11
+4 23
+5 7
+5 8
+5 15
+6 9
+6 10
+6 24
+7 9
+7 25
+7 26
+8 12
+8 27
+8 28
+9 29
+9 30
+10 17
+10 20
+10 21
+11 14
+11 31
+11 32
+12 14
+12 19
+12 33
+13 18
+13 34
+13 35
+14 36
+14 37
+15 19
+16 38
+16 39
+16 40
+17 18
+17 41
+17 42
+18 43
+18 44
+19 22
+19 22
+20 45
+20 46
+20 47
+22 48
+22 49

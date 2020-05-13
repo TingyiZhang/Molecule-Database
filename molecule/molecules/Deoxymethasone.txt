@@ -1,0 +1,121 @@
+Deoxymethasone
+56
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 13
+1 50
+2 19
+2 19
+3 24
+3 55
+4 26
+4 26
+5 6
+5 9
+5 11
+5 16
+6 7
+6 10
+6 27
+7 8
+7 15
+7 28
+8 13
+8 14
+9 12
+9 19
+9 29
+10 12
+10 30
+10 31
+11 13
+11 32
+11 33
+12 20
+12 34
+13 35
+14 18
+14 21
+14 22
+15 17
+15 36
+15 37
+16 38
+16 39
+16 40
+17 18
+17 41
+17 42
+18 23
+18 23
+19 24
+20 43
+20 44
+20 45
+21 46
+21 47
+21 48
+22 25
+22 25
+22 49
+23 26
+23 51
+24 52
+24 53
+25 26
+25 54

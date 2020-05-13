@@ -1,0 +1,104 @@
+3'-Phosphonato-5'-adenylyl sulfate
+46
+"Sulfur"
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 13
+0 14
+0 14
+0 15
+0 15
+1 4
+1 7
+1 8
+1 9
+1 9
+2 6
+2 10
+2 11
+2 12
+2 12
+3 23
+3 24
+4 21
+5 22
+5 37
+6 25
+7 39
+8 40
+11 44
+13 45
+16 24
+16 26
+16 27
+17 27
+17 27
+17 28
+18 26
+18 26
+18 30
+19 29
+19 30
+19 30
+20 29
+20 42
+20 43
+21 22
+21 23
+21 31
+22 24
+22 32
+23 25
+23 33
+24 34
+25 35
+25 36
+26 28
+27 38
+28 29
+28 29
+30 41

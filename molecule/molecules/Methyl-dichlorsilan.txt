@@ -1,0 +1,17 @@
+Methyl-dichlorsilan
+8
+"Chlorine"
+"Chlorine"
+"Silicon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+1 2
+2 3
+2 4
+3 5
+3 6
+3 7

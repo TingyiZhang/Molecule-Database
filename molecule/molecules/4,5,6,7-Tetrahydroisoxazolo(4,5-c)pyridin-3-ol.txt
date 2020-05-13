@@ -1,0 +1,41 @@
+4,5,6,7-Tetrahydroisoxazolo(4,5-c)pyridin-3-ol
+18
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 7
+1 9
+1 9
+2 6
+2 8
+2 16
+3 9
+3 17
+4 6
+4 7
+4 10
+4 11
+5 7
+5 7
+5 8
+5 9
+6 12
+6 13
+8 14
+8 15

@@ -1,0 +1,53 @@
+Bis(3-aminopropyl)amine
+26
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+0 17
+1 7
+1 22
+1 23
+2 8
+2 24
+2 25
+3 5
+3 9
+3 10
+4 6
+4 11
+4 12
+5 7
+5 13
+5 14
+6 8
+6 15
+6 16
+7 18
+7 19
+8 20
+8 21

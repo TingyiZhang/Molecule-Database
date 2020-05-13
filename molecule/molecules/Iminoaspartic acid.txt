@@ -1,0 +1,32 @@
+Iminoaspartic acid
+14
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 12
+1 8
+1 13
+2 7
+2 7
+3 8
+3 8
+4 6
+4 6
+4 11
+5 6
+5 7
+5 9
+5 10
+6 8

@@ -1,0 +1,84 @@
+Pentoxifylline
+38
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 11
+1 13
+1 13
+2 18
+2 18
+3 7
+3 11
+3 13
+4 12
+4 13
+4 16
+5 10
+5 15
+5 17
+6 12
+6 15
+6 15
+7 8
+7 20
+7 21
+8 9
+8 22
+8 23
+9 14
+9 24
+9 25
+10 11
+10 12
+10 12
+14 18
+14 26
+14 27
+15 28
+16 29
+16 30
+16 31
+17 32
+17 33
+17 34
+18 19
+19 35
+19 36
+19 37

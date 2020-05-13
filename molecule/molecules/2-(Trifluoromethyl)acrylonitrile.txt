@@ -1,0 +1,24 @@
+2-(Trifluoromethyl)acrylonitrile
+10
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+0 4
+1 4
+2 4
+3 7
+3 7
+3 7
+4 5
+5 6
+5 6
+5 7
+6 8
+6 9

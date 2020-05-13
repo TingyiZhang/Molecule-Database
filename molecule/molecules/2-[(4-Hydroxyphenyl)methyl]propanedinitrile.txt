@@ -1,0 +1,51 @@
+2-[(4-Hydroxyphenyl)methyl]propanedinitrile
+21
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 20
+1 11
+1 11
+1 11
+2 12
+2 12
+2 12
+3 4
+3 5
+3 13
+3 14
+4 6
+4 6
+4 7
+5 11
+5 12
+5 15
+6 8
+6 16
+7 9
+7 9
+7 17
+8 10
+8 10
+8 18
+9 10
+9 19

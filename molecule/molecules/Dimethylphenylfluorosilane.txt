@@ -1,0 +1,47 @@
+Dimethylphenylfluorosilane
+21
+"Silicon"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 4
+2 5
+2 5
+2 6
+3 10
+3 11
+3 12
+4 13
+4 14
+4 15
+5 7
+5 16
+6 8
+6 8
+6 17
+7 9
+7 9
+7 18
+8 9
+8 19
+9 20

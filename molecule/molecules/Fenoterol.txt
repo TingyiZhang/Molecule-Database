@@ -1,0 +1,95 @@
+Fenoterol
+43
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 36
+1 16
+1 40
+2 17
+2 41
+3 20
+3 42
+4 5
+4 7
+4 27
+5 6
+5 9
+5 22
+6 10
+6 23
+6 24
+7 8
+7 25
+7 26
+8 11
+8 28
+9 29
+9 30
+9 31
+10 12
+10 12
+10 13
+11 14
+11 14
+11 15
+12 18
+12 32
+13 19
+13 19
+13 33
+14 17
+14 34
+15 16
+15 16
+15 35
+16 21
+17 21
+17 21
+18 20
+18 20
+18 37
+19 20
+19 38
+21 39

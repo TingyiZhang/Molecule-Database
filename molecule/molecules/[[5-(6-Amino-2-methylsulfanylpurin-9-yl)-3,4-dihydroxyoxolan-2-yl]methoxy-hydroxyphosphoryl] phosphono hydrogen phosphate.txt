@@ -1,0 +1,113 @@
+[[5-(6-Amino-2-methylsulfanylpurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] phosphono hydrogen phosphate
+51
+"Sulfur"
+"Phosphorus"
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 31
+0 32
+1 7
+1 8
+1 9
+1 10
+1 10
+2 8
+2 11
+2 12
+2 13
+2 13
+3 11
+3 14
+3 15
+3 16
+3 16
+4 24
+4 25
+5 22
+5 39
+6 23
+6 40
+7 26
+9 44
+12 48
+14 49
+15 50
+17 24
+17 27
+17 28
+18 28
+18 28
+18 29
+19 27
+19 27
+19 31
+20 30
+20 31
+20 31
+21 30
+21 42
+21 43
+22 23
+22 24
+22 33
+23 25
+23 34
+24 35
+25 26
+25 36
+26 37
+26 38
+27 29
+28 41
+29 30
+29 30
+32 45
+32 46
+32 47

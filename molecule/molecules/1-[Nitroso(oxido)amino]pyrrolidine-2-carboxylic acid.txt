@@ -1,0 +1,44 @@
+1-[Nitroso(oxido)amino]pyrrolidine-2-carboxylic acid
+20
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 19
+1 11
+1 11
+2 5
+3 6
+3 6
+4 5
+4 7
+4 10
+5 6
+7 8
+7 11
+7 12
+8 9
+8 13
+8 14
+9 10
+9 15
+9 16
+10 17
+10 18

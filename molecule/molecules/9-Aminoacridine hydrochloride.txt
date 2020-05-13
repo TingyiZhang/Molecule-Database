@@ -1,0 +1,64 @@
+9-Aminoacridine hydrochloride
+27
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 26
+1 6
+1 6
+1 7
+2 5
+2 24
+2 25
+3 5
+3 5
+3 6
+3 8
+4 5
+4 7
+4 9
+4 9
+6 10
+7 11
+7 11
+8 12
+8 12
+8 16
+9 13
+9 17
+10 14
+10 14
+10 18
+11 15
+11 19
+12 14
+12 20
+13 15
+13 15
+13 21
+14 22
+15 23

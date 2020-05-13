@@ -1,0 +1,52 @@
+Ethyl N-phenylcarbamate
+23
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 10
+1 10
+1 10
+2 3
+2 10
+2 14
+3 4
+3 4
+3 5
+4 7
+4 12
+5 8
+5 8
+5 13
+6 11
+6 15
+6 16
+7 9
+7 9
+7 17
+8 9
+8 18
+9 19
+11 20
+11 21
+11 22

@@ -1,0 +1,96 @@
+4-[(3-Bromophenyl)amino]-6,7-diethoxyquinazoline
+42
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 21
+1 8
+1 14
+2 10
+2 16
+3 11
+3 13
+3 26
+4 7
+4 15
+4 15
+5 11
+5 11
+5 15
+6 7
+6 9
+6 9
+6 11
+7 12
+7 12
+8 9
+8 10
+8 10
+9 24
+10 12
+12 25
+13 17
+13 17
+13 18
+14 19
+14 27
+14 28
+15 31
+16 20
+16 29
+16 30
+17 21
+17 32
+18 22
+18 22
+18 33
+19 34
+19 35
+19 36
+20 37
+20 38
+20 39
+21 23
+21 23
+22 23
+22 40
+23 41

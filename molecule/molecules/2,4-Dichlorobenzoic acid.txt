@@ -1,0 +1,36 @@
+2,4-Dichlorobenzoic acid
+15
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+1 9
+2 10
+2 14
+3 10
+3 10
+4 5
+4 5
+4 6
+4 10
+5 7
+6 8
+6 8
+6 11
+7 9
+7 9
+7 12
+8 9
+8 13

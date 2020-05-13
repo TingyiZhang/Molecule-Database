@@ -1,0 +1,51 @@
+Pre-conditions:
+- must run this project on a linux machine or a Mac.
+
+How to run:
+	1. Open IntelliJ, click "Open", and click "molecule" folder under "group6" folder
+	2. Set up SDK to JAVA8 (1.8)
+	3. Click "File", and select "Project Structure", click "Global Libraries"
+	4. Click "+" to add new libraries, select "From Maven...", in the search bar, search "org.jgrapht"
+	5. Find and select "org.jgrapht:jgrapht-core:1.3.0" in the dropdown options and press OK to add.
+	6. Repeat 4 again, find and select "org.jgrapht:jgrapht-io:1.3.0".
+	7. Click "+" to add new libraries, select "From Maven...", search "org.json", find and add "org.json:json.20180813".
+	8. Click "+" and select Java, find "sqlite-jdbc-3.8.10.1.jar" in root directory and add.
+	9. Right click Main.java and run!
+
+How to use command line:
+    After running Main.java, you can see a window with title "run" show up.
+    You can see "Try "./md --help" for instructions." at the bottom of the window, below that you can type some commands with:
+
+	1. ./md --addMolecule [filename]:
+		Add a molecule to the database, file must be a .txt file
+	2. ./md --findMolecule [filename]:
+		Find a molecule in the database, file must be a .txt file
+	3. ./md --findMostSimilar [filename]:
+		Find the most similar molecule in the database, file must be a .txt file
+	4. ./md --findSubGraph [filename]:
+		Find all molecules that contains the input text file as sub graph, file must be a .txt file
+
+	- Example for above commands:
+		./md --addMolecule water.txt
+
+	5. ./md download:
+		Download 1000 compounds from PubChem to the "molecules" folder.
+	6. ./md gui:
+		Open GUI.(Note: Closing this window will terminate the session.)
+	7. ./md exit:
+		Exit the program.
+	
+	After running Main.java, you can type those commands in the "Run" window of IntelliJ. Or, you can type "./md --help" to see the command list.
+
+	* All file must be under the "molecule" folder.* 
+    
+    You can test it with command line or you can manually add some code just like the test code shows.
+
+The database "molecule.db" is originally initialized with 10000 molecules. Files are all stored in the "molecules" folder. If you wanted to start with an empty database, just delete "molecule.db", and next time the program runs, database will automatically load molecules from the "init" folder.
+
+When you run this program, there will be tests running automatically, which may take a while. These tests basically test all the basic operations to the database, you can see the results in the terminal of IntelliJ. If you want to test findMostSimilar and subgraph search, you can uncomment commented lines in our test code.
+
+Please find further details about this project in README.md.
+
+
+	

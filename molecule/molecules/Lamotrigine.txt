@@ -1,0 +1,55 @@
+Lamotrigine
+23
+"Chlorine"
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+1 12
+2 5
+2 5
+2 8
+3 11
+3 15
+3 15
+4 11
+4 19
+4 20
+5 15
+6 15
+6 21
+6 22
+7 8
+7 9
+7 9
+7 10
+8 11
+8 11
+9 12
+10 13
+10 13
+10 16
+12 14
+12 14
+13 14
+13 17
+14 18

@@ -1,0 +1,109 @@
+n-Hydroxy-2-[4-(4-phenoxy-benzenesulfonyl)-tetrahydro-pyran-4-yl]-acetamide
+48
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+0 3
+0 3
+0 8
+0 14
+1 12
+1 13
+4 15
+4 15
+5 7
+5 42
+6 20
+6 21
+7 15
+7 39
+8 9
+8 10
+8 11
+9 12
+9 27
+9 28
+10 13
+10 29
+10 30
+11 15
+11 31
+11 32
+12 33
+12 34
+13 35
+13 36
+14 16
+14 16
+14 17
+16 18
+16 37
+17 19
+17 19
+17 38
+18 20
+18 20
+18 40
+19 20
+19 41
+21 22
+21 22
+21 23
+22 24
+22 43
+23 25
+23 25
+23 44
+24 26
+24 26
+24 45
+25 26
+25 46
+26 47

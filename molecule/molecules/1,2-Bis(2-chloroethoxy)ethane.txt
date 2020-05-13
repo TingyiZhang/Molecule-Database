@@ -1,0 +1,45 @@
+1,2-Bis(2-chloroethoxy)ethane
+22
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 9
+2 4
+2 6
+3 5
+3 7
+4 5
+4 10
+4 11
+5 12
+5 13
+6 8
+6 14
+6 15
+7 9
+7 16
+7 17
+8 18
+8 19
+9 20
+9 21

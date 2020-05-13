@@ -1,0 +1,62 @@
+Azanium;2-chlorohept-1-enyl(hydroxy)arsinate
+30
+"Arsenic"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 4
+0 4
+0 12
+1 11
+2 25
+5 26
+5 27
+5 28
+5 29
+6 7
+6 8
+6 13
+6 14
+7 9
+7 15
+7 16
+8 11
+8 17
+8 18
+9 10
+9 19
+9 20
+10 21
+10 22
+10 23
+11 12
+11 12
+12 24

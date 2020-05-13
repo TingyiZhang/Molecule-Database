@@ -1,0 +1,95 @@
+Cyclandelate
+44
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 12
+1 12
+1 12
+2 13
+2 38
+3 4
+3 6
+3 9
+3 10
+4 5
+4 20
+4 21
+5 8
+5 11
+5 22
+6 7
+6 23
+6 24
+7 8
+7 25
+8 26
+8 27
+9 28
+9 29
+9 30
+10 31
+10 32
+10 33
+11 34
+11 35
+11 36
+12 13
+13 14
+13 37
+14 15
+14 15
+14 16
+15 17
+15 39
+16 18
+16 18
+16 40
+17 19
+17 19
+17 41
+18 19
+18 42
+19 43

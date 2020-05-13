@@ -1,0 +1,125 @@
+Pomiferin
+55
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 7
+1 10
+1 21
+2 14
+2 43
+3 18
+3 18
+4 28
+4 53
+5 30
+5 54
+6 11
+6 15
+6 16
+7 8
+7 9
+7 9
+8 10
+8 10
+8 13
+9 14
+9 17
+10 12
+11 13
+11 13
+11 31
+12 14
+12 14
+12 18
+13 32
+15 33
+15 34
+15 35
+16 36
+16 37
+16 38
+17 20
+17 39
+17 40
+18 19
+19 21
+19 21
+19 22
+20 23
+20 23
+20 41
+21 42
+22 24
+22 24
+22 25
+23 26
+23 27
+24 28
+24 44
+25 29
+25 29
+25 45
+26 46
+26 47
+26 48
+27 49
+27 50
+27 51
+28 30
+28 30
+29 30
+29 52

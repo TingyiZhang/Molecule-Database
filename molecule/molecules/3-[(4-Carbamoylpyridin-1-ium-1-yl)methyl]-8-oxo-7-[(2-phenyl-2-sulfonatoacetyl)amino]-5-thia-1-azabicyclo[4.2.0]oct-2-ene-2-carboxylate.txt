@@ -1,0 +1,128 @@
+3-[(4-Carbamoylpyridin-1-ium-1-yl)methyl]-8-oxo-7-[(2-phenyl-2-sulfonatoacetyl)amino]-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylate
+55
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 19
+1 6
+1 7
+1 7
+1 8
+1 8
+1 22
+2 16
+2 16
+3 21
+3 21
+4 23
+5 23
+5 23
+9 35
+9 35
+10 14
+10 16
+10 17
+11 15
+11 21
+11 40
+12 20
+12 25
+12 25
+12 26
+13 35
+13 53
+13 54
+14 15
+14 36
+15 16
+15 37
+17 18
+17 18
+17 23
+18 19
+18 20
+19 38
+19 39
+20 41
+20 42
+21 22
+22 24
+22 43
+24 27
+24 27
+24 28
+25 29
+25 44
+26 30
+26 30
+26 45
+27 32
+27 46
+28 33
+28 33
+28 47
+29 31
+29 31
+29 48
+30 31
+30 49
+31 35
+32 34
+32 34
+32 50
+33 34
+33 51
+34 52

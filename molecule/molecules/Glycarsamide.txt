@@ -1,0 +1,57 @@
+Glycarsamide
+25
+"Arsenic"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 3
+0 7
+1 22
+2 23
+4 13
+4 13
+5 14
+5 24
+6 8
+6 13
+6 19
+7 9
+7 9
+7 10
+8 11
+8 11
+8 12
+9 11
+9 15
+10 12
+10 12
+10 16
+11 17
+12 18
+13 14
+14 20
+14 21

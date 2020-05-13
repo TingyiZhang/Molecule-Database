@@ -1,0 +1,85 @@
+4-Nonylphenol
+40
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 39
+1 2
+1 3
+1 16
+1 17
+2 4
+2 18
+2 19
+3 5
+3 20
+3 21
+4 6
+4 22
+4 23
+5 7
+5 24
+5 25
+6 8
+6 26
+6 27
+7 9
+7 28
+7 29
+8 10
+8 30
+8 31
+9 11
+9 11
+9 12
+10 32
+10 33
+10 34
+11 13
+11 35
+12 14
+12 14
+12 36
+13 15
+13 15
+13 37
+14 15
+14 38

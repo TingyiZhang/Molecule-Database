@@ -1,0 +1,48 @@
+Ethyl benzoate
+21
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 6
+1 6
+1 6
+2 4
+2 4
+2 5
+2 6
+3 10
+3 11
+3 12
+4 7
+4 13
+5 8
+5 8
+5 14
+7 9
+7 9
+7 15
+8 9
+8 16
+9 20
+10 17
+10 18
+10 19

@@ -1,0 +1,53 @@
+Sorbitol
+26
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 20
+1 7
+1 21
+2 8
+2 22
+3 9
+3 23
+4 10
+4 24
+5 11
+5 25
+6 7
+6 8
+6 12
+7 9
+7 13
+8 10
+8 14
+9 11
+9 15
+10 16
+10 17
+11 18
+11 19

@@ -1,0 +1,78 @@
+Famphur
+35
+"Sulfur"
+"Sulfur"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 4
+0 5
+0 5
+0 8
+0 9
+1 2
+1 2
+2 3
+2 6
+2 7
+3 12
+6 17
+7 18
+8 15
+8 16
+9 10
+9 10
+9 11
+10 13
+10 19
+11 14
+11 14
+11 20
+12 13
+12 13
+12 14
+13 21
+14 22
+15 23
+15 24
+15 25
+16 26
+16 27
+16 28
+17 29
+17 30
+17 31
+18 32
+18 33
+18 34

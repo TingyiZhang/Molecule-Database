@@ -1,0 +1,42 @@
+2-Chloroethyl gamma-fluorobutyrate
+20
+"Chlorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+1 6
+2 7
+2 8
+3 7
+3 7
+4 5
+4 6
+4 10
+4 11
+5 7
+5 12
+5 13
+6 14
+6 15
+8 9
+8 16
+8 17
+9 18
+9 19

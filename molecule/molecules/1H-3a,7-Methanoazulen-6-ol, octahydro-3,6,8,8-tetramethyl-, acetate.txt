@@ -1,0 +1,99 @@
+1H-3a,7-Methanoazulen-6-ol, octahydro-3,6,8,8-tetramethyl-, acetate
+47
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 17
+1 17
+1 17
+2 3
+2 6
+2 7
+2 8
+3 4
+3 10
+3 19
+4 5
+4 13
+4 14
+5 6
+5 9
+5 20
+6 21
+6 22
+7 11
+7 15
+7 23
+8 12
+8 24
+8 25
+9 12
+9 16
+10 11
+10 26
+10 27
+11 28
+11 29
+12 30
+12 31
+13 32
+13 33
+13 34
+14 35
+14 36
+14 37
+15 38
+15 39
+15 40
+16 41
+16 42
+16 43
+17 18
+18 44
+18 45
+18 46

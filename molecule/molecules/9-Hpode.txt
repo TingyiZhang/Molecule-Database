@@ -1,0 +1,112 @@
+9-Hpode
+54
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 10
+1 52
+2 18
+2 53
+3 18
+3 18
+4 5
+4 6
+4 22
+4 23
+5 7
+5 24
+5 25
+6 8
+6 26
+6 27
+7 9
+7 28
+7 29
+8 10
+8 30
+8 31
+9 11
+9 32
+9 33
+10 12
+10 34
+11 18
+11 35
+11 36
+12 17
+12 17
+12 37
+13 14
+13 15
+13 38
+13 39
+14 16
+14 40
+14 41
+15 19
+15 42
+15 43
+16 21
+16 44
+16 45
+17 20
+17 46
+19 20
+19 20
+19 47
+20 48
+21 49
+21 50
+21 51

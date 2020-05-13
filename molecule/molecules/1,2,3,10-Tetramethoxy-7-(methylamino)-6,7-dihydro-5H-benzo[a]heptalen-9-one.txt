@@ -1,0 +1,115 @@
+1,2,3,10-Tetramethoxy-7-(methylamino)-6,7-dihydro-5H-benzo[a]heptalen-9-one
+52
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 23
+1 17
+1 24
+2 18
+2 25
+3 22
+3 26
+4 20
+4 20
+5 6
+5 19
+5 32
+6 7
+6 9
+6 27
+7 8
+7 28
+7 29
+8 10
+8 30
+8 31
+9 12
+9 15
+9 15
+10 11
+10 14
+10 14
+11 12
+11 13
+11 13
+12 16
+12 16
+13 17
+14 18
+14 33
+15 20
+15 34
+16 21
+16 35
+17 18
+17 18
+19 36
+19 37
+19 38
+20 22
+21 22
+21 22
+21 39
+23 40
+23 41
+23 42
+24 43
+24 44
+24 45
+25 46
+25 47
+25 48
+26 49
+26 50
+26 51

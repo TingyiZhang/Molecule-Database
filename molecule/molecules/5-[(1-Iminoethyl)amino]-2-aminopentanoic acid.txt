@@ -1,0 +1,57 @@
+5-[(1-Iminoethyl)amino]-2-aminopentanoic acid
+27
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 24
+1 9
+1 9
+2 7
+2 19
+2 20
+3 8
+3 10
+3 10
+4 10
+4 25
+4 26
+5 6
+5 7
+5 12
+5 13
+6 8
+6 14
+6 15
+7 9
+7 16
+8 17
+8 18
+10 11
+11 21
+11 22
+11 23

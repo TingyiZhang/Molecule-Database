@@ -1,0 +1,76 @@
+8-Cyclopentyltheophylline
+34
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 14
+1 15
+1 15
+2 11
+2 12
+2 27
+3 11
+3 11
+3 13
+4 13
+4 15
+4 16
+5 14
+5 15
+5 17
+6 7
+6 8
+6 11
+6 18
+7 9
+7 19
+7 20
+8 10
+8 21
+8 22
+9 10
+9 23
+9 24
+10 25
+10 26
+12 13
+12 13
+12 14
+16 28
+16 29
+16 30
+17 31
+17 32
+17 33

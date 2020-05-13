@@ -1,0 +1,90 @@
+6-Amino-2-[(4-methylphenyl)sulfonylamino]hexanamide
+41
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 4
+0 13
+3 11
+3 11
+4 8
+4 27
+5 11
+5 32
+5 33
+6 12
+6 36
+6 37
+7 8
+7 9
+7 20
+7 21
+8 11
+8 22
+9 10
+9 23
+9 24
+10 12
+10 25
+10 26
+12 28
+12 29
+13 14
+13 14
+13 15
+14 17
+14 30
+15 18
+15 18
+15 31
+16 17
+16 17
+16 18
+16 19
+17 34
+18 35
+19 38
+19 39
+19 40

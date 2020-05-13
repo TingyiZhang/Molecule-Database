@@ -1,0 +1,115 @@
+Dodecamethylpentasiloxane
+57
+"Silicon"
+"Silicon"
+"Silicon"
+"Silicon"
+"Silicon"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+0 9
+0 10
+1 5
+1 7
+1 11
+1 12
+2 6
+2 8
+2 13
+2 14
+3 7
+3 15
+3 16
+3 17
+4 8
+4 18
+4 19
+4 20
+9 21
+9 22
+9 23
+10 24
+10 25
+10 26
+11 27
+11 28
+11 29
+12 30
+12 31
+12 32
+13 33
+13 34
+13 35
+14 36
+14 37
+14 38
+15 39
+15 40
+15 41
+16 42
+16 43
+16 44
+17 45
+17 46
+17 47
+18 48
+18 49
+18 50
+19 51
+19 52
+19 53
+20 54
+20 55
+20 56

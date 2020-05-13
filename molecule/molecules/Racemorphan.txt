@@ -1,0 +1,92 @@
+Racemorphan
+42
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 41
+1 4
+1 10
+1 15
+2 3
+2 5
+2 6
+2 8
+3 4
+3 7
+3 19
+4 9
+4 20
+5 10
+5 21
+5 22
+6 11
+6 23
+6 24
+7 12
+7 25
+7 26
+8 13
+8 13
+8 14
+9 13
+9 27
+9 28
+10 29
+10 30
+11 12
+11 31
+11 32
+12 33
+12 34
+13 16
+14 17
+14 17
+14 35
+15 36
+15 37
+15 38
+16 18
+16 18
+16 39
+17 18
+18 40

@@ -1,0 +1,66 @@
+5-Methoxytryptamine hydrochloride
+30
+"Chlorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 29
+1 12
+1 14
+2 6
+2 8
+2 18
+3 10
+3 24
+3 25
+4 5
+4 7
+4 8
+4 8
+5 6
+5 6
+5 9
+6 11
+7 10
+7 15
+7 16
+8 17
+9 12
+9 12
+9 19
+10 20
+10 21
+11 13
+11 13
+11 22
+12 13
+13 23
+14 26
+14 27
+14 28

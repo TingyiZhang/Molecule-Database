@@ -1,0 +1,97 @@
+3-Allyl-2,3,4,5-tetrahydro-7,8-dihydroxy-1-phenyl-1H-3-benzazepine
+43
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 39
+1 16
+1 40
+2 4
+2 6
+2 10
+3 4
+3 5
+3 9
+3 22
+4 23
+4 24
+5 8
+5 11
+5 11
+6 7
+6 25
+6 26
+7 8
+7 27
+7 28
+8 12
+8 12
+9 14
+9 14
+9 15
+10 17
+10 29
+10 30
+11 13
+11 31
+12 16
+12 32
+13 16
+13 16
+14 18
+14 33
+15 19
+15 19
+15 34
+17 21
+17 21
+17 35
+18 20
+18 20
+18 36
+19 20
+19 37
+20 38
+21 41
+21 42

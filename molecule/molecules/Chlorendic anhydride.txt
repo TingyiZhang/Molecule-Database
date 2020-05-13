@@ -1,0 +1,47 @@
+Chlorendic anhydride
+20
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+0 9
+1 10
+2 13
+3 13
+4 14
+5 15
+6 16
+6 17
+7 16
+7 16
+8 17
+8 17
+9 11
+9 13
+9 14
+10 12
+10 13
+10 15
+11 12
+11 16
+11 18
+12 17
+12 19
+14 15
+14 15

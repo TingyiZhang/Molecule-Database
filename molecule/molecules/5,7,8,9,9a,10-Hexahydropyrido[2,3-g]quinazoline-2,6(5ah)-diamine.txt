@@ -1,0 +1,73 @@
+5,7,8,9,9a,10-Hexahydropyrido[2,3-g]quinazoline-2,6(5ah)-diamine
+33
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 6
+0 11
+1 28
+1 29
+2 13
+2 13
+2 15
+3 14
+3 15
+3 15
+4 15
+4 31
+4 32
+5 6
+5 7
+5 8
+5 16
+6 9
+6 17
+7 10
+7 18
+7 19
+8 13
+8 20
+8 21
+9 12
+9 22
+9 23
+10 11
+10 24
+10 25
+11 26
+11 27
+12 13
+12 14
+12 14
+14 30

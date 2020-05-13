@@ -1,0 +1,46 @@
+4,6-Dioxoheptanoic acid
+21
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+1 9
+1 20
+2 8
+2 8
+3 9
+3 9
+4 5
+4 6
+4 11
+4 12
+5 9
+5 13
+5 14
+6 7
+7 8
+7 15
+7 16
+8 10
+10 17
+10 18
+10 19

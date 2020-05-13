@@ -1,0 +1,138 @@
+N-[2-[[2-[2-(Dimethylamino)ethylcarbamoyl]-1-methylimidazol-4-yl]carbamoyl]-1-methylimidazol-4-yl]-4-formamido-1-methylimidazole-2-carboxamide
+62
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+0 19
+1 24
+1 24
+2 30
+2 30
+3 34
+3 34
+4 15
+4 25
+4 26
+5 17
+5 21
+5 27
+6 16
+6 19
+6 39
+7 20
+7 23
+7 29
+8 18
+8 24
+8 42
+9 17
+9 17
+9 18
+10 20
+10 20
+10 22
+11 28
+11 31
+11 33
+12 22
+12 30
+12 52
+13 28
+13 28
+13 32
+14 32
+14 34
+14 60
+15 16
+15 35
+15 36
+16 37
+16 38
+17 19
+18 21
+18 21
+20 24
+21 40
+22 23
+22 23
+23 41
+25 43
+25 44
+25 45
+26 46
+26 47
+26 48
+27 49
+27 50
+27 51
+28 30
+29 53
+29 54
+29 55
+31 32
+31 32
+31 56
+33 57
+33 58
+33 59
+34 61

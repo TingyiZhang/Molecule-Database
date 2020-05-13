@@ -1,0 +1,237 @@
+13-[3-[6-(Acetyloxymethyl)-3,4,5-trihydroxyoxan-2-yl]oxy-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxydocosanoic acid
+116
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 19
+1 16
+1 18
+2 16
+2 23
+3 19
+3 24
+4 15
+4 73
+5 17
+5 74
+6 20
+6 79
+7 21
+7 80
+8 22
+8 81
+9 27
+9 88
+10 29
+10 42
+11 42
+11 42
+12 49
+12 115
+13 49
+13 49
+14 15
+14 16
+14 50
+15 17
+15 51
+16 52
+17 18
+17 53
+18 27
+18 54
+19 20
+19 55
+20 21
+20 56
+21 22
+21 57
+22 24
+22 58
+23 25
+23 26
+23 59
+24 29
+24 60
+25 28
+25 61
+25 62
+26 30
+26 63
+26 64
+27 65
+27 66
+28 31
+28 67
+28 68
+29 69
+29 70
+30 32
+30 71
+30 72
+31 33
+31 75
+31 76
+32 34
+32 77
+32 78
+33 35
+33 82
+33 83
+34 36
+34 84
+34 85
+35 37
+35 86
+35 87
+36 38
+36 89
+36 90
+37 39
+37 91
+37 92
+38 40
+38 93
+38 94
+39 41
+39 95
+39 96
+40 44
+40 97
+40 98
+41 43
+41 99
+41 100
+42 45
+43 46
+43 101
+43 102
+44 47
+44 103
+44 104
+45 107
+45 108
+45 109
+46 48
+46 105
+46 106
+47 110
+47 111
+47 112
+48 49
+48 113
+48 114

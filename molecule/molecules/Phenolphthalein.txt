@@ -1,0 +1,91 @@
+Phenolphthalein
+38
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 9
+1 9
+1 9
+2 22
+2 36
+3 23
+3 37
+4 5
+4 6
+4 7
+5 8
+5 10
+5 10
+6 11
+6 11
+6 13
+7 12
+7 12
+7 14
+8 9
+8 15
+8 15
+10 16
+10 24
+11 18
+11 25
+12 19
+12 26
+13 20
+13 20
+13 27
+14 21
+14 21
+14 28
+15 17
+15 29
+16 17
+16 17
+16 30
+17 31
+18 22
+18 22
+18 32
+19 23
+19 23
+19 33
+20 22
+20 34
+21 23
+21 35

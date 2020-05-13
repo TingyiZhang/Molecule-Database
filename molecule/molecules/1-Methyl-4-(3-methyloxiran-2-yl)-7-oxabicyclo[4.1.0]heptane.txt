@@ -1,0 +1,60 @@
+1-Methyl-4-(3-methyloxiran-2-yl)-7-oxabicyclo[4.1.0]heptane
+28
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+1 6
+1 9
+2 3
+2 7
+2 10
+3 5
+3 12
+4 5
+4 6
+4 8
+4 13
+5 14
+5 15
+6 9
+6 16
+7 8
+7 17
+7 18
+8 19
+8 20
+9 11
+9 21
+10 22
+10 23
+10 24
+11 25
+11 26
+11 27

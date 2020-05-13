@@ -1,0 +1,7 @@
+Carbon monoxide
+2
+"Oxygen"
+"Carbon"
+0 1
+0 1
+0 1

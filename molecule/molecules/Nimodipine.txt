@@ -1,0 +1,123 @@
+Nimodipine
+56
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 23
+1 17
+1 25
+2 15
+2 15
+3 17
+3 17
+4 28
+4 29
+5 8
+6 8
+6 8
+7 13
+7 14
+7 31
+8 21
+9 10
+9 11
+9 12
+9 30
+10 13
+10 13
+10 15
+11 14
+11 14
+11 17
+12 16
+12 16
+12 18
+13 19
+14 20
+16 21
+16 32
+18 22
+18 22
+18 33
+19 34
+19 35
+19 36
+20 37
+20 38
+20 39
+21 24
+21 24
+22 24
+22 40
+23 26
+23 27
+23 41
+24 42
+25 28
+25 43
+25 44
+26 45
+26 46
+26 47
+27 48
+27 49
+27 50
+28 51
+28 52
+29 53
+29 54
+29 55

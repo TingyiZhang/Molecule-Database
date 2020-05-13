@@ -1,0 +1,234 @@
+[4-Hydroxy-3,5-dimethyl-6-(2-methyloxiran-2-yl)-6-oxohexan-2-yl] 5-[4-(dimethylamino)-3-hydroxy-6-methyloxan-2-yl]oxy-3-(5-hydroxy-4-methoxy-6-methyloxan-2-yl)oxy-2,4,6-trimethylheptanoate
+114
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 18
+1 15
+1 24
+2 18
+2 22
+3 24
+3 35
+4 25
+4 34
+5 37
+5 38
+6 19
+6 90
+7 30
+7 48
+8 29
+8 109
+9 31
+9 110
+10 36
+10 36
+11 38
+11 38
+12 17
+12 44
+12 45
+13 14
+13 15
+13 23
+13 49
+14 16
+14 50
+15 20
+15 51
+16 32
+16 33
+16 52
+17 19
+17 21
+17 53
+18 19
+18 54
+19 55
+20 38
+20 39
+20 56
+21 22
+21 57
+21 58
+22 40
+22 59
+23 60
+23 61
+23 62
+24 26
+24 63
+25 34
+25 36
+25 41
+26 30
+26 64
+26 65
+27 29
+27 36
+27 42
+27 66
+28 29
+28 37
+28 43
+28 67
+29 68
+30 31
+30 69
+31 35
+31 70
+32 71
+32 72
+32 73
+33 74
+33 75
+33 76
+34 77
+34 78
+35 46
+35 79
+37 47
+37 80
+39 81
+39 82
+39 83
+40 84
+40 85
+40 86
+41 87
+41 88
+41 89
+42 91
+42 92
+42 93
+43 94
+43 95
+43 96
+44 97
+44 98
+44 99
+45 100
+45 101
+45 102
+46 103
+46 104
+46 105
+47 106
+47 107
+47 108
+48 111
+48 112
+48 113

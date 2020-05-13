@@ -1,0 +1,29 @@
+2-Hydroxypyridine
+12
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+1 2
+1 4
+1 7
+2 3
+3 5
+3 5
+3 8
+4 6
+4 6
+4 9
+5 6
+5 10
+6 11

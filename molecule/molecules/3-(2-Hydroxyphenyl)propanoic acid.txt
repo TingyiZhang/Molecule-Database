@@ -1,0 +1,50 @@
+3-(2-Hydroxyphenyl)propanoic acid
+22
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 20
+1 11
+1 21
+2 11
+2 11
+3 4
+3 5
+3 12
+3 13
+4 6
+4 7
+4 7
+5 11
+5 14
+5 15
+6 8
+6 8
+7 9
+7 16
+8 10
+8 17
+9 10
+9 10
+9 18
+10 19

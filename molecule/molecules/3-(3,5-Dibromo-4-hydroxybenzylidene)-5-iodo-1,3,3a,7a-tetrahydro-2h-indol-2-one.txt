@@ -1,0 +1,73 @@
+3-(3,5-Dibromo-4-hydroxybenzylidene)-5-iodo-1,3,3a,7a-tetrahydro-2h-indol-2-one
+31
+"Iodine"
+"Bromine"
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 18
+2 19
+3 10
+3 10
+4 20
+4 30
+5 7
+5 10
+5 23
+6 7
+6 8
+6 9
+6 21
+7 11
+7 22
+8 10
+8 12
+8 12
+9 13
+9 13
+9 24
+11 14
+11 14
+11 25
+12 15
+12 26
+13 14
+14 27
+15 16
+15 16
+15 17
+16 19
+16 28
+17 18
+17 18
+17 29
+18 20
+19 20
+19 20

@@ -1,0 +1,120 @@
+(3R,8S,9S,10R,13S,14S,17R)-3,17-Dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-2,3,6,7,8,9,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-11-one
+56
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 50
+1 15
+1 15
+2 21
+2 21
+3 24
+3 54
+4 25
+4 55
+5 6
+5 7
+5 11
+5 26
+6 9
+6 12
+6 17
+7 8
+7 14
+7 27
+8 10
+8 15
+8 28
+9 13
+9 21
+10 16
+10 19
+10 20
+11 13
+11 29
+11 30
+12 15
+12 31
+12 32
+13 33
+13 34
+14 18
+14 35
+14 36
+16 18
+16 23
+16 23
+17 37
+17 38
+17 39
+18 40
+18 41
+19 22
+19 42
+19 43
+20 44
+20 45
+20 46
+21 25
+22 24
+22 47
+22 48
+23 24
+23 49
+24 51
+25 52
+25 53

@@ -1,0 +1,44 @@
+Azulene
+18
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 2
+0 4
+1 3
+1 5
+1 5
+2 6
+2 10
+3 6
+3 6
+3 11
+4 7
+4 7
+4 12
+5 8
+5 13
+6 14
+7 9
+7 15
+8 9
+8 9
+8 16
+9 17

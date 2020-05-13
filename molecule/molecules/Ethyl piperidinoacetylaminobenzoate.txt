@@ -1,0 +1,94 @@
+Ethyl piperidinoacetylaminobenzoate
+43
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 11
+1 18
+1 19
+2 18
+2 18
+3 8
+3 9
+3 10
+4 11
+4 12
+4 33
+5 6
+5 7
+5 21
+5 22
+6 8
+6 23
+6 24
+7 9
+7 25
+7 26
+8 27
+8 28
+9 29
+9 30
+10 11
+10 31
+10 32
+12 13
+12 13
+12 14
+13 16
+13 34
+14 17
+14 17
+14 35
+15 16
+15 16
+15 17
+15 18
+16 36
+17 37
+19 20
+19 38
+19 39
+20 40
+20 41
+20 42

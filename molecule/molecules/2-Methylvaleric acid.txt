@@ -1,0 +1,42 @@
+2-Methylvaleric acid
+20
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 19
+1 7
+1 7
+2 3
+2 5
+2 7
+2 8
+3 4
+3 9
+3 10
+4 6
+4 11
+4 12
+5 13
+5 14
+5 15
+6 16
+6 17
+6 18

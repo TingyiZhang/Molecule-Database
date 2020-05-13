@@ -1,0 +1,181 @@
+Glucosulfone
+83
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 13
+0 13
+0 14
+0 14
+0 27
+1 12
+1 15
+1 15
+1 16
+1 16
+1 28
+2 19
+2 19
+2 20
+2 20
+2 37
+2 38
+3 23
+3 63
+4 24
+4 64
+5 25
+5 65
+6 26
+6 66
+7 29
+7 67
+8 30
+8 68
+9 31
+9 73
+10 32
+10 74
+11 79
+12 80
+17 33
+17 81
+18 34
+18 82
+21 27
+21 35
+21 57
+22 28
+22 36
+22 58
+23 25
+23 27
+23 47
+24 26
+24 28
+24 48
+25 29
+25 49
+26 30
+26 50
+27 51
+28 52
+29 31
+29 53
+30 32
+30 54
+31 33
+31 55
+32 34
+32 56
+33 59
+33 60
+34 61
+34 62
+35 39
+35 39
+35 41
+36 40
+36 40
+36 42
+37 43
+37 43
+37 45
+38 44
+38 44
+38 46
+39 43
+39 69
+40 44
+40 70
+41 45
+41 45
+41 71
+42 46
+42 46
+42 72
+43 75
+44 76
+45 77
+46 78

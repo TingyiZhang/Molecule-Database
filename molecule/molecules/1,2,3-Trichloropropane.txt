@@ -1,0 +1,23 @@
+1,2,3-Trichloropropane
+11
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+1 4
+2 5
+3 4
+3 5
+3 6
+4 7
+4 8
+5 9
+5 10

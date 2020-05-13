@@ -1,0 +1,53 @@
+Cyclobutane-1,1-dicarboxylic acid;platinum
+19
+"Platinum"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 2
+0 2
+0 2
+0 2
+0 2
+0 2
+1 9
+1 17
+2 10
+2 18
+3 9
+3 9
+4 10
+4 10
+5 6
+5 7
+5 9
+5 10
+6 8
+6 11
+6 12
+7 8
+7 13
+7 14
+8 15
+8 16

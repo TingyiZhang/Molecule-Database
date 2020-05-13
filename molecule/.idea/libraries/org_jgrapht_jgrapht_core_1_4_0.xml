@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.jgrapht:jgrapht-core:1.4.0" type="repository">
+    <properties maven-id="org.jgrapht:jgrapht-core:1.4.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jgrapht/jgrapht-core/1.4.0/jgrapht-core-1.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jheaps/jheaps/0.11/jheaps-0.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,115 @@
+3-(3,4-Dihydroxy-1-methoxy-2-oxopentyl)-8,9-dihydroxy-7-methyl-3,4-dihydro-2H-anthracen-1-one
+52
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 23
+1 13
+1 13
+2 16
+2 45
+3 14
+3 14
+4 17
+4 46
+5 20
+5 50
+6 21
+6 51
+7 8
+7 9
+7 10
+7 28
+8 11
+8 29
+8 30
+9 13
+9 31
+9 32
+10 14
+10 33
+11 12
+11 12
+11 15
+12 13
+12 16
+14 17
+15 18
+15 18
+15 34
+16 19
+16 19
+17 20
+17 35
+18 19
+18 22
+19 21
+20 26
+20 36
+21 24
+21 24
+22 25
+22 25
+22 37
+23 38
+23 39
+23 40
+24 25
+24 27
+25 41
+26 42
+26 43
+26 44
+27 47
+27 48
+27 49

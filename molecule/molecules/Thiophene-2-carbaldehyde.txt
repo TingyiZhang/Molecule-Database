@@ -1,0 +1,27 @@
+Thiophene-2-carbaldehyde
+11
+"Sulfur"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 5
+1 6
+1 6
+2 3
+2 3
+2 6
+3 4
+3 7
+4 5
+4 5
+4 8
+5 9
+6 10

@@ -1,0 +1,219 @@
+3-Hydroxy-3-methylglutaryl CoA
+102
+"Sulfur"
+"Phosphorus"
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 55
+0 56
+1 5
+1 8
+1 9
+1 11
+1 11
+2 7
+2 10
+2 13
+2 14
+2 14
+3 10
+3 12
+3 16
+3 17
+3 17
+4 33
+4 34
+5 31
+6 32
+6 64
+7 35
+8 75
+9 76
+12 42
+13 78
+15 40
+15 81
+16 85
+18 46
+18 46
+19 49
+19 100
+20 51
+20 51
+21 55
+21 55
+22 57
+22 101
+23 57
+23 57
+24 34
+24 36
+24 37
+25 37
+25 37
+25 38
+26 36
+26 36
+26 45
+27 41
+27 45
+27 45
+28 41
+28 79
+28 80
+29 46
+29 47
+29 82
+30 51
+30 54
+30 95
+31 32
+31 33
+31 58
+32 34
+32 59
+33 35
+33 60
+34 61
+35 62
+35 63
+36 38
+37 65
+38 41
+38 41
+39 40
+39 42
+39 43
+39 44
+40 46
+40 66
+42 67
+42 68
+43 69
+43 70
+43 71
+44 72
+44 73
+44 74
+45 77
+47 48
+47 83
+47 84
+48 51
+48 86
+48 87
+49 50
+49 52
+49 53
+50 55
+50 88
+50 89
+52 57
+52 90
+52 91
+53 92
+53 93
+53 94
+54 56
+54 96
+54 97
+56 98
+56 99

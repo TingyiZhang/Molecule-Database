@@ -1,0 +1,132 @@
+Thiothixene
+59
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+0 3
+0 3
+0 6
+0 21
+1 18
+1 20
+4 7
+4 8
+4 11
+5 9
+5 10
+5 13
+6 28
+6 29
+7 9
+7 30
+7 31
+8 10
+8 32
+8 33
+9 34
+9 35
+10 36
+10 37
+11 12
+11 38
+11 39
+12 14
+12 40
+12 41
+13 42
+13 43
+13 44
+14 15
+14 15
+14 45
+15 16
+15 17
+16 18
+16 18
+16 19
+17 20
+17 23
+17 23
+18 22
+19 21
+19 21
+19 46
+20 25
+20 25
+21 24
+22 24
+22 24
+22 47
+23 26
+23 48
+24 49
+25 27
+25 50
+26 27
+26 27
+26 51
+27 52
+28 53
+28 54
+28 55
+29 56
+29 57
+29 58

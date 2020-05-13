@@ -1,0 +1,39 @@
+Salicyl alcohol
+17
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 15
+1 4
+1 16
+2 3
+2 4
+2 5
+2 5
+3 6
+3 6
+4 9
+4 10
+5 7
+5 11
+6 8
+6 12
+7 8
+7 8
+7 13
+8 14

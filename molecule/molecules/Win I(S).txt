@@ -1,0 +1,118 @@
+Win I(S)
+54
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 17
+1 14
+1 15
+2 4
+2 12
+3 13
+3 15
+3 15
+4 24
+4 24
+5 6
+5 7
+5 26
+5 27
+6 8
+6 28
+6 29
+7 9
+7 30
+7 31
+8 10
+8 32
+8 33
+9 11
+9 34
+9 35
+10 12
+10 36
+10 37
+11 38
+11 39
+12 18
+12 18
+13 14
+13 19
+13 40
+14 41
+14 42
+15 16
+16 20
+16 20
+16 21
+17 22
+17 22
+17 23
+18 24
+18 43
+19 44
+19 45
+19 46
+20 22
+20 47
+21 23
+21 23
+21 48
+22 49
+23 50
+24 25
+25 51
+25 52
+25 53

@@ -1,0 +1,29 @@
+Pyrophosphoric acid
+13
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 4
+0 7
+0 7
+1 2
+1 5
+1 6
+1 8
+1 8
+3 9
+4 10
+5 11
+6 12

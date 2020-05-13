@@ -1,0 +1,112 @@
+4-[(7-Hydroxy-6H-pyrrolo[2,3-g][1,3]benzothiazol-8-yl)methylideneamino]-N-pyridin-2-ylbenzenesulfonamide
+46
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 21
+1 3
+1 3
+1 4
+1 4
+1 8
+1 19
+2 14
+2 40
+5 11
+5 14
+5 31
+6 15
+6 21
+6 21
+7 18
+7 18
+7 20
+8 26
+8 41
+9 26
+9 29
+9 29
+10 11
+10 11
+10 12
+10 13
+11 16
+12 14
+12 14
+12 18
+13 15
+13 15
+15 17
+16 17
+16 17
+16 32
+17 33
+18 34
+19 22
+19 22
+19 23
+20 24
+20 24
+20 25
+21 35
+22 24
+22 36
+23 25
+23 25
+23 37
+24 38
+25 39
+26 27
+26 27
+27 28
+27 42
+28 30
+28 30
+28 43
+29 30
+29 44
+30 45

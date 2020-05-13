@@ -1,0 +1,59 @@
+1,4,5,6,7,7-Hexachloro-3-(dichloromethyl)-2,2-dimethylbicyclo[2.2.1]heptane
+28
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 10
+2 12
+3 12
+4 13
+5 14
+6 17
+7 17
+8 9
+8 12
+8 13
+9 11
+9 15
+9 16
+10 11
+10 12
+10 14
+11 17
+11 18
+13 14
+13 19
+14 20
+15 21
+15 22
+15 23
+16 24
+16 25
+16 26
+17 27

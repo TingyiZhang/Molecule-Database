@@ -1,0 +1,130 @@
+(3-Oxo-1H-2-benzofuran-1-yl) 6-[(2-amino-2-phenylacetyl)amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylate
+57
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 12
+1 14
+1 14
+2 17
+2 20
+3 17
+3 17
+4 18
+4 18
+5 20
+5 24
+6 24
+6 24
+7 10
+7 11
+7 14
+8 13
+8 18
+8 43
+9 19
+9 46
+9 47
+10 13
+10 34
+11 12
+11 17
+11 35
+12 15
+12 16
+13 14
+13 36
+15 37
+15 38
+15 39
+16 40
+16 41
+16 42
+18 19
+19 22
+19 44
+20 21
+20 45
+21 23
+21 25
+21 25
+22 26
+22 26
+22 27
+23 24
+23 28
+23 28
+25 29
+25 48
+26 31
+26 49
+27 32
+27 32
+27 50
+28 30
+28 51
+29 30
+29 30
+29 52
+30 53
+31 33
+31 33
+31 54
+32 33
+32 55
+33 56

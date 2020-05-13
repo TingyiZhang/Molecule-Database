@@ -1,0 +1,83 @@
+3-Acetamido-4-amino-2-(3-amino-1,2-dihydroxypropyl)-3,4-dihydro-2H-pyran-6-carboxylic acid
+39
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 15
+1 11
+1 31
+2 13
+2 32
+3 17
+3 17
+4 18
+4 38
+5 18
+5 18
+6 10
+6 17
+6 26
+7 12
+7 29
+7 30
+8 16
+8 33
+8 34
+9 10
+9 11
+9 20
+10 12
+10 21
+11 13
+11 22
+12 14
+12 23
+13 16
+13 24
+14 15
+14 15
+14 25
+15 18
+16 27
+16 28
+17 19
+19 35
+19 36
+19 37

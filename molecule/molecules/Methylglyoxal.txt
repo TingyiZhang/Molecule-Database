@@ -1,0 +1,21 @@
+Methylglyoxal
+9
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 3
+1 4
+1 4
+2 3
+2 5
+2 6
+2 7
+3 4
+4 8

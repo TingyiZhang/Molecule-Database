@@ -1,0 +1,107 @@
+1,6-Heptadiene-3,5-dione, 1,7-bis(4-hydroxy-3-methoxyphenyl)-
+47
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 25
+1 12
+1 26
+2 17
+2 39
+3 18
+3 40
+4 19
+4 19
+5 20
+5 20
+6 9
+6 9
+6 13
+6 15
+7 10
+7 10
+7 14
+7 16
+8 19
+8 20
+8 27
+8 28
+9 11
+9 29
+10 12
+10 30
+11 17
+11 17
+12 18
+12 18
+13 21
+13 21
+13 31
+14 22
+14 22
+14 32
+15 23
+15 23
+15 33
+16 24
+16 24
+16 34
+17 21
+18 22
+19 23
+20 24
+21 35
+22 36
+23 37
+24 38
+25 41
+25 42
+25 43
+26 44
+26 45
+26 46

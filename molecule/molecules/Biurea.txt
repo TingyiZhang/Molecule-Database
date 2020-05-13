@@ -1,0 +1,31 @@
+Biurea
+14
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+1 7
+1 7
+2 3
+2 6
+2 8
+3 7
+3 9
+4 6
+4 10
+4 11
+5 7
+5 12
+5 13

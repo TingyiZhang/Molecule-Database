@@ -1,0 +1,44 @@
+1H-Imidazole-4-ethanamine, N-methyl-
+20
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 7
+0 13
+1 5
+1 8
+1 14
+2 6
+2 8
+2 8
+3 4
+3 5
+3 9
+3 10
+4 11
+4 12
+5 6
+5 6
+6 15
+7 16
+7 17
+7 18
+8 19

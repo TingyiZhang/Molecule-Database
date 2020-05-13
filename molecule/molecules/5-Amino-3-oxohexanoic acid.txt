@@ -1,0 +1,45 @@
+5-Amino-3-oxohexanoic acid
+21
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+1 9
+1 20
+2 9
+2 9
+3 4
+3 18
+3 19
+4 5
+4 7
+4 10
+5 6
+5 11
+5 12
+6 8
+7 13
+7 14
+7 15
+8 9
+8 16
+8 17

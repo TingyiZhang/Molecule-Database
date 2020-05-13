@@ -1,0 +1,79 @@
+Ethacridine
+34
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 17
+1 7
+1 7
+1 8
+2 6
+2 25
+2 26
+3 15
+3 29
+3 30
+4 6
+4 6
+4 7
+4 9
+5 6
+5 8
+5 8
+5 10
+7 11
+8 13
+9 12
+9 12
+9 19
+10 16
+10 16
+10 20
+11 14
+11 14
+11 21
+12 14
+13 15
+13 15
+13 22
+14 23
+15 16
+16 24
+17 18
+17 27
+17 28
+18 31
+18 32
+18 33

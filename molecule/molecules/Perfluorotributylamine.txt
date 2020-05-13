@@ -1,0 +1,81 @@
+Perfluorotributylamine
+40
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+0 28
+1 28
+2 29
+3 29
+4 30
+5 30
+6 31
+7 31
+8 32
+9 32
+10 33
+11 33
+12 34
+13 34
+14 35
+15 35
+16 36
+17 36
+18 37
+19 37
+20 37
+21 38
+22 38
+23 38
+24 39
+25 39
+26 39
+27 28
+27 29
+27 30
+28 31
+29 32
+30 33
+31 34
+32 35
+33 36
+34 37
+35 38
+36 39

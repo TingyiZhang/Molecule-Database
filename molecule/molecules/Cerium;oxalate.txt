@@ -1,0 +1,17 @@
+Cerium;oxalate
+8
+"Cerium"
+"Cerium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+2 6
+3 7
+4 6
+4 6
+5 7
+5 7
+6 7

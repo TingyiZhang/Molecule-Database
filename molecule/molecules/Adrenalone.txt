@@ -1,0 +1,54 @@
+Adrenalone
+24
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+1 9
+1 22
+2 11
+2 23
+3 5
+3 12
+3 18
+4 6
+4 7
+4 7
+4 8
+5 6
+5 13
+5 14
+7 9
+7 15
+8 10
+8 10
+8 16
+9 11
+9 11
+10 11
+10 17
+12 19
+12 20
+12 21

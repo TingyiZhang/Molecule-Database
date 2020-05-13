@@ -1,0 +1,110 @@
+8-Hydroxy-1-methyl-7-propan-2-yl-3,6,10,16-tetraoxaheptacyclo[11.7.0.02,4.02,9.05,7.09,11.014,18]icos-14(18)-en-17-one
+50
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 8
+1 7
+1 12
+2 10
+2 11
+3 13
+3 39
+4 24
+4 25
+5 25
+5 25
+6 7
+6 8
+6 9
+7 12
+7 13
+8 11
+8 26
+9 14
+9 16
+9 18
+10 11
+10 13
+10 17
+11 27
+12 15
+12 28
+13 29
+14 15
+14 19
+14 30
+15 31
+15 32
+16 20
+16 33
+16 34
+17 22
+17 23
+17 35
+18 36
+18 37
+18 38
+19 21
+19 21
+19 24
+20 21
+20 40
+20 41
+21 25
+22 42
+22 43
+22 44
+23 45
+23 46
+23 47
+24 48
+24 49

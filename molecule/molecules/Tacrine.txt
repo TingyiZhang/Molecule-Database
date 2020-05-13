@@ -1,0 +1,67 @@
+Tacrine
+29
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+0 10
+1 8
+1 25
+1 26
+2 3
+2 4
+2 15
+2 16
+3 5
+3 17
+3 18
+4 6
+4 19
+4 20
+5 7
+5 8
+5 8
+6 7
+6 21
+6 22
+8 9
+9 10
+9 11
+9 11
+10 12
+10 12
+11 13
+11 23
+12 14
+12 24
+13 14
+13 14
+13 27
+14 28

@@ -1,0 +1,60 @@
+2-Chloroanthraquinone
+24
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 7
+1 7
+2 8
+2 8
+3 4
+3 4
+3 7
+3 9
+4 8
+4 10
+5 6
+5 7
+5 11
+5 11
+6 8
+6 12
+6 12
+9 13
+9 13
+9 17
+10 14
+10 14
+10 18
+11 15
+11 19
+12 16
+12 20
+13 14
+14 21
+15 16
+15 16
+15 22
+16 23

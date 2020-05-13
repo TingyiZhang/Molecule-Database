@@ -1,0 +1,167 @@
+Methyl 4-[4-(dimethylamino)-5-hydroxy-6-methyloxan-2-yl]oxy-2-ethyl-2,5,7-trihydroxy-6,11-dioxo-3,4-dihydro-1H-tetracene-1-carboxylate
+76
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 18
+1 11
+1 54
+2 18
+2 22
+3 21
+3 61
+4 25
+4 36
+5 23
+5 68
+6 25
+6 25
+7 30
+7 30
+8 31
+8 31
+9 37
+9 75
+10 19
+10 32
+10 33
+11 12
+11 13
+11 17
+12 14
+12 41
+12 42
+13 16
+13 25
+13 43
+14 15
+14 44
+15 16
+15 23
+15 23
+16 24
+16 24
+17 28
+17 45
+17 46
+18 20
+18 47
+19 20
+19 21
+19 48
+20 49
+20 50
+21 22
+21 51
+22 29
+22 52
+23 26
+24 27
+24 53
+26 27
+26 27
+26 30
+27 31
+28 55
+28 56
+28 57
+29 58
+29 59
+29 60
+30 34
+31 35
+32 62
+32 63
+32 64
+33 65
+33 66
+33 67
+34 35
+34 35
+34 37
+35 38
+36 69
+36 70
+36 71
+37 39
+37 39
+38 40
+38 40
+38 72
+39 40
+39 73
+40 74

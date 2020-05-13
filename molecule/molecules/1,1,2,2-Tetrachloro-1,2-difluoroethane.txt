@@ -1,0 +1,17 @@
+1,1,2,2-Tetrachloro-1,2-difluoroethane
+8
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+0 6
+1 6
+2 7
+3 7
+4 6
+5 7
+6 7

@@ -1,0 +1,52 @@
+2,2,2-Trifluoroethyl N-phenylcarbamate
+23
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 10
+2 10
+3 7
+3 13
+4 13
+4 13
+5 6
+5 13
+5 17
+6 8
+6 8
+6 9
+7 10
+7 15
+7 16
+8 11
+8 18
+9 12
+9 12
+9 19
+11 14
+11 14
+11 20
+12 14
+12 21
+14 22

@@ -1,0 +1,23 @@
+Dichlorodimethylsilane
+11
+"Chlorine"
+"Chlorine"
+"Silicon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+1 2
+2 3
+2 4
+3 5
+3 6
+3 7
+4 8
+4 9
+4 10

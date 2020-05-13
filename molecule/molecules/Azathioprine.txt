@@ -1,0 +1,63 @@
+Azathioprine
+26
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 12
+1 8
+2 8
+2 8
+3 10
+3 14
+3 16
+4 11
+4 17
+4 23
+5 13
+5 14
+5 14
+6 12
+6 12
+6 18
+7 15
+7 17
+7 17
+8 13
+9 15
+9 18
+9 18
+10 13
+10 13
+11 12
+11 15
+11 15
+14 19
+16 20
+16 21
+16 22
+17 24
+18 25

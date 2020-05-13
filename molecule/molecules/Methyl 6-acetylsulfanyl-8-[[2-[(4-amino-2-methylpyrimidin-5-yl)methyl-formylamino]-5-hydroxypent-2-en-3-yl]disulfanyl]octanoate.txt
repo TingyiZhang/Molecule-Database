@@ -1,0 +1,151 @@
+Methyl 6-acetylsulfanyl-8-[[2-[(4-amino-2-methylpyrimidin-5-yl)methyl-formylamino]-5-hydroxypent-2-en-3-yl]disulfanyl]octanoate
+71
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 20
+1 2
+1 17
+2 21
+3 19
+3 32
+4 19
+4 19
+5 20
+5 20
+6 28
+6 65
+7 29
+7 29
+8 22
+8 24
+8 29
+9 30
+9 30
+9 33
+10 31
+10 33
+10 33
+11 30
+11 66
+11 67
+12 13
+12 15
+12 35
+13 14
+13 36
+13 37
+14 16
+14 38
+14 39
+15 17
+15 40
+15 41
+16 18
+16 42
+16 43
+17 44
+17 45
+18 19
+18 46
+18 47
+20 25
+21 22
+21 22
+21 23
+22 26
+23 28
+23 48
+23 49
+24 27
+24 50
+24 51
+25 52
+25 53
+25 54
+26 55
+26 56
+26 57
+27 30
+27 31
+27 31
+28 58
+28 59
+29 60
+31 61
+32 62
+32 63
+32 64
+33 34
+34 68
+34 69
+34 70

@@ -1,0 +1,59 @@
+gamma-D-Glutamylaminomethylsulfonic acid
+27
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 5
+0 5
+0 6
+0 6
+0 13
+1 12
+1 12
+2 14
+2 25
+3 26
+4 14
+4 14
+7 12
+7 13
+7 22
+8 11
+8 23
+8 24
+9 10
+9 11
+9 15
+9 16
+10 12
+10 17
+10 18
+11 14
+11 19
+13 20
+13 21

@@ -1,0 +1,35 @@
+3,4-Dichlorotoluene
+15
+"Chlorine"
+"Chlorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+1 8
+2 3
+2 3
+2 4
+2 5
+3 6
+3 9
+4 7
+4 7
+4 10
+5 11
+5 12
+5 13
+6 8
+6 8
+7 8
+7 14

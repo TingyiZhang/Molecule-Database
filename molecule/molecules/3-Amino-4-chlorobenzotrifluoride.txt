@@ -1,0 +1,39 @@
+3-Amino-4-chlorobenzotrifluoride
+17
+"Chlorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 9
+2 9
+3 9
+4 7
+4 15
+4 16
+5 6
+5 6
+5 8
+5 9
+6 7
+6 12
+7 10
+7 10
+8 11
+8 11
+8 13
+10 11
+11 14

@@ -1,0 +1,56 @@
+Phenol, 4-(3-hydroxy-1-propenyl)-2-methoxy-
+25
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 12
+1 7
+1 23
+2 11
+2 24
+3 4
+3 4
+3 6
+3 9
+4 5
+4 13
+5 7
+5 7
+6 8
+6 8
+6 14
+7 8
+8 15
+9 10
+9 10
+9 16
+10 11
+10 17
+11 18
+11 19
+12 20
+12 21
+12 22

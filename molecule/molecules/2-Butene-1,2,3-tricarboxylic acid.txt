@@ -1,0 +1,47 @@
+2-Butene-1,2,3-tricarboxylic acid
+21
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 18
+1 11
+1 19
+2 12
+2 20
+3 10
+3 10
+4 11
+4 11
+5 12
+5 12
+6 7
+6 8
+6 8
+6 10
+7 11
+7 13
+7 14
+8 9
+8 12
+9 15
+9 16
+9 17

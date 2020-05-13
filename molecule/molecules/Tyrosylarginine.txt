@@ -1,0 +1,102 @@
+Tyrosylarginine
+47
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 14
+1 17
+1 41
+2 17
+2 17
+3 22
+3 42
+4 9
+4 14
+4 32
+5 11
+5 35
+5 36
+6 15
+6 23
+6 23
+7 23
+7 43
+7 44
+8 23
+8 45
+8 46
+9 10
+9 17
+9 24
+10 12
+10 25
+10 26
+11 13
+11 14
+11 27
+12 15
+12 28
+12 29
+13 16
+13 30
+13 31
+15 33
+15 34
+16 18
+16 18
+16 19
+18 20
+18 37
+19 21
+19 21
+19 38
+20 22
+20 22
+20 39
+21 22
+21 40

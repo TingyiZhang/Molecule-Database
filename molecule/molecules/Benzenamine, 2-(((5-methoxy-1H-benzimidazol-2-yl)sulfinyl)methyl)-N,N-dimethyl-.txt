@@ -1,0 +1,96 @@
+Benzenamine, 2-(((5-methoxy-1H-benzimidazol-2-yl)sulfinyl)methyl)-N,N-dimethyl-
+42
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 7
+0 9
+2 18
+2 22
+3 9
+3 10
+3 25
+4 8
+4 19
+4 20
+5 9
+5 9
+5 11
+6 7
+6 8
+6 12
+6 12
+7 23
+7 24
+8 13
+8 13
+10 11
+10 11
+10 14
+11 15
+12 16
+12 26
+13 17
+13 27
+14 18
+14 18
+14 28
+15 21
+15 21
+15 29
+16 17
+16 17
+16 30
+17 31
+18 21
+19 32
+19 33
+19 34
+20 35
+20 36
+20 37
+21 38
+22 39
+22 40
+22 41

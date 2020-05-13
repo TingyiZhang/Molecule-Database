@@ -1,0 +1,199 @@
+Malonyl-coenzyme a
+92
+"Sulfur"
+"Phosphorus"
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 50
+0 51
+1 5
+1 8
+1 9
+1 12
+1 12
+2 7
+2 10
+2 13
+2 15
+2 15
+3 10
+3 11
+3 16
+3 17
+3 17
+4 32
+4 33
+5 30
+6 31
+6 60
+7 34
+8 71
+9 72
+11 40
+13 74
+14 39
+14 75
+16 81
+18 45
+18 45
+19 48
+19 48
+20 51
+20 51
+21 53
+21 91
+22 53
+22 53
+23 33
+23 35
+23 36
+24 36
+24 36
+24 37
+25 35
+25 35
+25 44
+26 41
+26 44
+26 44
+27 41
+27 76
+27 77
+28 45
+28 46
+28 78
+29 48
+29 49
+29 84
+30 31
+30 32
+30 54
+31 33
+31 55
+32 34
+32 56
+33 57
+34 58
+34 59
+35 37
+36 61
+37 41
+37 41
+38 39
+38 40
+38 42
+38 43
+39 45
+39 62
+40 63
+40 64
+42 65
+42 66
+42 67
+43 68
+43 69
+43 70
+44 73
+46 47
+46 79
+46 80
+47 48
+47 82
+47 83
+49 50
+49 85
+49 86
+50 87
+50 88
+51 52
+52 53
+52 89
+52 90

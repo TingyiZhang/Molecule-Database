@@ -1,0 +1,109 @@
+Bromosulfophthalein
+46
+"Bromine"
+"Bromine"
+"Bromine"
+"Bromine"
+"Sulfur"
+"Sulfur"
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 24
+1 29
+2 32
+3 33
+4 12
+4 14
+4 14
+4 15
+4 15
+4 30
+5 13
+5 16
+5 16
+5 17
+5 17
+5 31
+8 18
+8 23
+9 23
+9 23
+10 36
+10 44
+11 37
+11 45
+18 19
+18 20
+18 21
+19 22
+19 22
+19 24
+20 25
+20 25
+20 27
+21 26
+21 26
+21 28
+22 23
+22 29
+24 32
+24 32
+25 30
+25 38
+26 31
+26 39
+27 34
+27 34
+27 40
+28 35
+28 35
+28 41
+29 33
+29 33
+30 36
+30 36
+31 37
+31 37
+32 33
+34 36
+34 42
+35 37
+35 43

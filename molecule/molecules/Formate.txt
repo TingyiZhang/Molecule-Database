@@ -1,0 +1,10 @@
+Formate
+4
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Hydrogen"
+0 2
+1 2
+1 2
+2 3

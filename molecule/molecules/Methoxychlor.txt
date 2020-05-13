@@ -1,0 +1,81 @@
+Methoxychlor
+36
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 8
+2 8
+3 17
+3 19
+4 18
+4 20
+5 6
+5 7
+5 8
+5 21
+6 9
+6 9
+6 11
+7 10
+7 10
+7 12
+9 13
+9 22
+10 14
+10 23
+11 15
+11 15
+11 24
+12 16
+12 16
+12 25
+13 17
+13 17
+13 26
+14 18
+14 18
+14 27
+15 17
+15 28
+16 18
+16 29
+19 30
+19 31
+19 32
+20 33
+20 34
+20 35

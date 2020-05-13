@@ -1,0 +1,59 @@
+Octahydroindolizine-1,6,7,8-tetrol
+28
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 24
+1 7
+1 25
+2 10
+2 26
+3 12
+3 27
+4 5
+4 8
+4 9
+5 6
+5 7
+5 13
+6 10
+6 14
+7 11
+7 15
+8 11
+8 16
+8 17
+9 12
+9 18
+9 19
+10 12
+10 20
+11 21
+11 22
+12 23

@@ -1,0 +1,50 @@
+2-(Hydroxymethyl)piperidine-3,4,5-triol
+24
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 20
+1 7
+1 21
+2 8
+2 22
+3 10
+3 23
+4 6
+4 9
+4 17
+5 6
+5 7
+5 11
+6 10
+6 12
+7 8
+7 13
+8 9
+8 14
+9 15
+9 16
+10 18
+10 19

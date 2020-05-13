@@ -1,0 +1,42 @@
+4-Nitro-3-(trifluoromethyl)phenol
+18
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 10
+2 10
+3 12
+3 17
+4 6
+5 6
+5 6
+6 8
+7 8
+7 8
+7 9
+7 10
+8 11
+9 12
+9 12
+9 14
+11 13
+11 13
+11 15
+12 13
+13 16

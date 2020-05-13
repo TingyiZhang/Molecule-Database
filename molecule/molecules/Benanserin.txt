@@ -1,0 +1,99 @@
+Benanserin
+44
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 21
+1 4
+1 6
+1 8
+2 12
+2 36
+2 37
+3 4
+3 4
+3 5
+3 7
+4 11
+5 6
+5 6
+5 9
+6 10
+7 12
+7 22
+7 23
+8 13
+8 24
+8 25
+9 14
+9 14
+9 26
+10 15
+10 15
+10 27
+11 28
+11 29
+11 30
+12 31
+12 32
+13 16
+13 16
+13 17
+14 15
+15 33
+16 18
+16 34
+17 19
+17 19
+17 35
+18 20
+18 20
+18 38
+19 20
+19 39
+20 40
+21 41
+21 42
+21 43

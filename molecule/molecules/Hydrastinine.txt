@@ -1,0 +1,63 @@
+Hydrastinine
+28
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 25
+1 11
+1 14
+2 12
+2 14
+3 4
+3 8
+3 13
+4 6
+4 15
+5 7
+5 8
+5 16
+5 17
+6 7
+6 9
+6 9
+7 10
+7 10
+8 18
+8 19
+9 11
+9 20
+10 12
+10 21
+11 12
+11 12
+13 22
+13 23
+13 24
+14 26
+14 27

@@ -1,0 +1,135 @@
+Diacylglycerol kinase inhibitor i
+59
+"Sulfur"
+"Fluorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 23
+0 32
+1 30
+2 18
+2 18
+3 6
+3 7
+3 11
+4 18
+4 23
+4 29
+5 17
+5 23
+5 23
+6 8
+6 33
+6 34
+7 9
+7 35
+7 36
+8 10
+8 37
+8 38
+9 10
+9 39
+9 40
+10 13
+10 13
+11 12
+11 41
+11 42
+12 14
+12 43
+12 44
+13 15
+13 16
+14 17
+14 17
+14 18
+15 19
+15 19
+15 20
+16 21
+16 21
+16 22
+17 24
+19 25
+19 45
+20 26
+20 26
+20 46
+21 27
+21 47
+22 28
+22 28
+22 48
+24 49
+24 50
+24 51
+25 30
+25 30
+25 52
+26 30
+26 53
+27 31
+27 31
+27 54
+28 31
+28 55
+29 32
+29 32
+29 56
+31 57
+32 58

@@ -1,0 +1,106 @@
+Lavendustin b
+46
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 42
+1 14
+1 43
+2 19
+2 44
+3 26
+3 45
+4 26
+4 26
+5 6
+5 7
+5 8
+6 9
+6 27
+6 28
+7 10
+7 29
+7 30
+8 11
+8 11
+8 12
+9 13
+9 15
+9 15
+10 14
+10 16
+10 16
+11 17
+11 31
+12 18
+12 18
+12 32
+13 20
+13 20
+14 21
+14 21
+15 22
+15 33
+16 23
+16 34
+17 19
+17 19
+17 26
+18 19
+18 35
+20 24
+20 36
+21 25
+21 37
+22 24
+22 24
+22 38
+23 25
+23 25
+23 39
+24 40
+25 41

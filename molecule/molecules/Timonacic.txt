@@ -1,0 +1,33 @@
+Timonacic
+15
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+1 7
+1 14
+2 7
+2 7
+3 4
+3 6
+3 11
+4 5
+4 7
+4 8
+5 9
+5 10
+6 12
+6 13

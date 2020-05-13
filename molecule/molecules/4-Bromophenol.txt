@@ -1,0 +1,31 @@
+4-Bromophenol
+13
+"Bromine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 2
+1 12
+2 3
+2 3
+2 4
+3 5
+3 8
+4 6
+4 6
+4 9
+5 7
+5 7
+5 10
+6 7
+6 11

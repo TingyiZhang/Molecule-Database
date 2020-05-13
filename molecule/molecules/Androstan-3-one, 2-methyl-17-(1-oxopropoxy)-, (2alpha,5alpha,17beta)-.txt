@@ -1,0 +1,131 @@
+Androstan-3-one, 2-methyl-17-(1-oxopropoxy)-, (2alpha,5alpha,17beta)-
+62
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 23
+1 21
+1 21
+2 23
+2 23
+3 4
+3 7
+3 9
+3 26
+4 5
+4 11
+4 27
+5 6
+5 13
+5 28
+6 10
+6 12
+6 17
+7 8
+7 15
+7 19
+8 14
+8 18
+8 29
+9 10
+9 30
+9 31
+10 32
+10 33
+11 14
+11 34
+11 35
+12 16
+12 36
+13 16
+13 37
+13 38
+14 39
+14 40
+15 20
+15 41
+15 42
+16 43
+16 44
+17 45
+17 46
+17 47
+18 21
+18 48
+18 49
+19 50
+19 51
+19 52
+20 21
+20 22
+20 53
+22 54
+22 55
+22 56
+23 24
+24 25
+24 57
+24 58
+25 59
+25 60
+25 61

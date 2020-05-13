@@ -1,0 +1,71 @@
+n-Acetyl-p-nitrophenylserinol
+32
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 25
+1 10
+1 28
+2 13
+2 13
+3 6
+4 6
+4 6
+5 7
+5 13
+5 22
+6 16
+7 8
+7 10
+7 18
+8 9
+8 19
+9 11
+9 11
+9 12
+10 20
+10 21
+11 14
+11 23
+12 15
+12 15
+12 24
+13 17
+14 16
+14 16
+14 26
+15 16
+15 27
+17 29
+17 30
+17 31

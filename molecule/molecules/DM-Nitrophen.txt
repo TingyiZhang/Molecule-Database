@@ -1,0 +1,122 @@
+DM-Nitrophen
+56
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 24
+0 31
+1 26
+1 32
+2 27
+2 46
+3 28
+3 47
+4 27
+4 27
+5 28
+5 28
+6 29
+6 51
+7 30
+7 52
+8 14
+9 14
+9 14
+10 29
+10 29
+11 30
+11 30
+12 15
+12 18
+12 19
+13 16
+13 22
+13 23
+14 20
+15 16
+15 17
+15 33
+16 34
+16 35
+17 20
+17 21
+17 21
+18 27
+18 36
+18 37
+19 28
+19 38
+19 39
+20 25
+20 25
+21 24
+21 40
+22 29
+22 41
+22 42
+23 30
+23 43
+23 44
+24 26
+24 26
+25 26
+25 45
+31 48
+31 49
+31 50
+32 53
+32 54
+32 55

@@ -1,0 +1,134 @@
+Fluocinolone acetonide
+62
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 20
+2 11
+2 22
+3 13
+3 22
+4 16
+4 50
+5 21
+5 21
+6 26
+6 61
+7 31
+7 31
+8 9
+8 11
+8 15
+8 19
+9 10
+9 14
+9 32
+10 12
+10 18
+10 33
+11 13
+11 21
+12 16
+12 17
+13 14
+13 34
+14 35
+14 36
+15 16
+15 37
+15 38
+16 39
+17 23
+17 24
+17 25
+18 20
+18 40
+18 41
+19 42
+19 43
+19 44
+20 23
+20 45
+21 26
+22 27
+22 28
+23 29
+23 29
+24 46
+24 47
+24 48
+25 30
+25 30
+25 49
+26 51
+26 52
+27 53
+27 54
+27 55
+28 56
+28 57
+28 58
+29 31
+29 59
+30 31
+30 60

@@ -1,0 +1,118 @@
+Bunazosin
+54
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 13
+1 23
+1 25
+2 24
+2 26
+3 9
+3 11
+3 13
+4 10
+4 12
+4 14
+5 14
+5 14
+5 17
+6 14
+6 19
+6 19
+7 19
+7 46
+7 47
+8 9
+8 10
+8 27
+8 28
+9 29
+9 30
+10 31
+10 32
+11 12
+11 33
+11 34
+12 35
+12 36
+13 15
+15 16
+15 37
+15 38
+16 20
+16 39
+16 40
+17 18
+17 21
+17 21
+18 19
+18 22
+18 22
+20 41
+20 42
+20 43
+21 23
+21 44
+22 24
+22 45
+23 24
+23 24
+25 48
+25 49
+25 50
+26 51
+26 52
+26 53

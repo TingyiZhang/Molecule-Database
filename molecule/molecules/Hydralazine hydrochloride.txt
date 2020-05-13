@@ -1,0 +1,51 @@
+Hydralazine hydrochloride
+22
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 21
+1 4
+1 7
+1 18
+2 3
+2 7
+2 7
+3 11
+3 11
+4 19
+4 20
+5 6
+5 7
+5 8
+5 8
+6 9
+6 9
+6 11
+8 10
+8 13
+9 12
+9 14
+10 12
+10 12
+10 15
+11 16
+12 17

@@ -1,0 +1,85 @@
+1-[9-[3,4-Dihydroxy-5-(hydroxymethyl)oxolan-2-yl]purin-6-yl]-1-hydroxyguanidine
+38
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 15
+1 12
+1 29
+2 14
+2 30
+3 16
+3 32
+4 9
+4 34
+5 13
+5 17
+5 18
+6 18
+6 18
+6 19
+7 17
+7 21
+7 21
+8 20
+8 20
+8 21
+9 20
+9 22
+10 22
+10 35
+10 36
+11 22
+11 22
+11 37
+12 13
+12 14
+12 23
+13 24
+14 15
+14 25
+15 16
+15 26
+16 27
+16 28
+17 19
+17 19
+18 31
+19 20
+21 33

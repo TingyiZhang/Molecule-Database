@@ -1,0 +1,53 @@
+Pyridoxamine
+24
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 22
+1 9
+1 23
+2 8
+2 8
+2 10
+3 7
+3 20
+3 21
+4 5
+4 6
+4 6
+4 7
+5 9
+5 10
+5 10
+6 8
+7 12
+7 13
+8 11
+9 14
+9 15
+10 16
+11 17
+11 18
+11 19

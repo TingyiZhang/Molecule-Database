@@ -1,0 +1,92 @@
+Benzo(a)pyrene-7,8,9-triol, 7,8,9,10-tetrahydro-
+39
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 32
+1 5
+1 33
+2 6
+2 34
+3 7
+3 8
+3 8
+3 9
+4 5
+4 6
+4 23
+5 8
+5 24
+6 7
+6 25
+7 26
+7 27
+8 12
+9 10
+9 10
+9 14
+10 11
+10 13
+11 12
+11 12
+11 17
+12 28
+13 15
+13 16
+13 16
+14 18
+14 18
+14 29
+15 18
+15 20
+15 20
+16 19
+16 21
+17 19
+17 19
+17 30
+18 31
+19 35
+20 22
+20 36
+21 22
+21 22
+21 37
+22 38

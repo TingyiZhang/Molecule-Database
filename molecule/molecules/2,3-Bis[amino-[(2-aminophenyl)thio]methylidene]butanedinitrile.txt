@@ -1,0 +1,99 @@
+2,3-Bis[amino-[(2-aminophenyl)thio]methylidene]butanedinitrile
+42
+"Sulfur"
+"Sulfur"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 16
+1 9
+1 17
+2 10
+2 34
+2 35
+3 11
+3 36
+3 37
+4 16
+4 38
+4 39
+5 17
+5 40
+5 41
+6 24
+6 24
+6 24
+7 25
+7 25
+7 25
+8 10
+8 12
+8 12
+9 11
+9 13
+9 13
+10 14
+10 14
+11 15
+11 15
+12 20
+12 26
+13 21
+13 27
+14 22
+14 28
+15 23
+15 29
+16 18
+16 18
+17 19
+17 19
+18 19
+18 24
+19 25
+20 22
+20 22
+20 30
+21 23
+21 23
+21 31
+22 32
+23 33

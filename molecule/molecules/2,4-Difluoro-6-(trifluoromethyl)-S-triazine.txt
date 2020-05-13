@@ -1,0 +1,29 @@
+2,4-Difluoro-6-(trifluoromethyl)-S-triazine
+12
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+0 9
+1 9
+2 9
+3 10
+4 11
+5 8
+5 8
+5 11
+6 8
+6 10
+6 10
+7 10
+7 11
+7 11
+8 9

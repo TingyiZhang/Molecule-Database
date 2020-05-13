@@ -1,0 +1,61 @@
+N,N-Diethyl-P-phenylenediamine
+28
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 4
+1 11
+1 26
+1 27
+2 7
+2 12
+2 13
+3 8
+3 14
+3 15
+4 5
+4 5
+4 6
+5 9
+5 16
+6 10
+6 10
+6 17
+7 18
+7 19
+7 20
+8 21
+8 22
+8 23
+9 11
+9 11
+9 24
+10 11
+10 25

@@ -1,0 +1,40 @@
+3,4,5-Trihydroxy-2-pentanone
+19
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 16
+1 5
+1 17
+2 6
+2 18
+3 7
+3 7
+4 5
+4 6
+4 9
+5 7
+5 10
+6 11
+6 12
+7 8
+8 13
+8 14
+8 15

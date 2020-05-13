@@ -1,0 +1,51 @@
+4-(2-Amino-1-hydroxyethyl)-5-fluorobenzene-1,2-diol
+23
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+1 5
+1 18
+2 10
+2 21
+3 12
+3 22
+4 7
+4 19
+4 20
+5 6
+5 7
+5 13
+6 8
+6 8
+6 9
+7 14
+7 15
+8 10
+8 16
+9 11
+9 11
+10 12
+10 12
+11 12
+11 17

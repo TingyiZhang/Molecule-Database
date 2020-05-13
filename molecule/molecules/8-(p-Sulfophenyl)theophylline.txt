@@ -1,0 +1,83 @@
+8-(p-Sulfophenyl)theophylline
+35
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+0 4
+0 5
+0 5
+0 20
+1 13
+1 13
+2 15
+2 15
+3 34
+6 11
+6 15
+6 16
+7 10
+7 12
+7 23
+8 13
+8 15
+8 19
+9 11
+9 12
+9 12
+10 11
+10 11
+10 13
+12 14
+14 17
+14 17
+14 18
+16 24
+16 25
+16 26
+17 21
+17 27
+18 22
+18 22
+18 28
+19 29
+19 30
+19 31
+20 21
+20 21
+20 22
+21 32
+22 33

@@ -1,0 +1,135 @@
+Desaspidin
+62
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 42
+1 11
+1 11
+2 16
+2 45
+3 21
+3 30
+4 18
+4 18
+5 20
+5 54
+6 25
+6 55
+7 26
+7 26
+8 9
+8 11
+8 13
+8 14
+9 10
+9 10
+10 15
+10 16
+11 12
+12 16
+12 16
+12 18
+13 32
+13 33
+13 34
+14 35
+14 36
+14 37
+15 17
+15 38
+15 39
+17 20
+17 21
+17 21
+18 19
+19 23
+19 40
+19 41
+20 22
+20 22
+21 24
+22 25
+22 26
+23 28
+23 43
+23 44
+24 25
+24 25
+24 46
+26 27
+27 29
+27 47
+27 48
+28 49
+28 50
+28 51
+29 31
+29 52
+29 53
+30 56
+30 57
+30 58
+31 59
+31 60
+31 61

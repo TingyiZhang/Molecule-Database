@@ -1,0 +1,92 @@
+Tripelennamine hydrochloride
+42
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 41
+1 4
+1 6
+1 7
+2 5
+2 9
+2 10
+3 7
+3 18
+3 18
+4 5
+4 20
+4 21
+5 22
+5 23
+6 8
+6 24
+6 25
+7 13
+7 13
+8 11
+8 11
+8 12
+9 26
+9 27
+9 28
+10 29
+10 30
+10 31
+11 14
+11 32
+12 15
+12 15
+12 33
+13 16
+13 34
+14 17
+14 17
+14 35
+15 17
+15 36
+16 19
+16 19
+16 37
+17 38
+18 19
+18 39
+19 40

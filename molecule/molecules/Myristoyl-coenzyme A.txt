@@ -1,0 +1,264 @@
+Myristoyl-coenzyme A
+125
+"Sulfur"
+"Phosphorus"
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 59
+0 62
+1 5
+1 8
+1 9
+1 11
+1 11
+2 7
+2 10
+2 12
+2 14
+2 14
+3 10
+3 13
+3 16
+3 17
+3 17
+4 30
+4 31
+5 28
+6 29
+6 69
+7 32
+8 74
+9 75
+12 87
+13 39
+15 38
+15 102
+16 110
+18 47
+18 47
+19 59
+19 59
+20 60
+20 60
+21 31
+21 33
+21 34
+22 34
+22 34
+22 35
+23 33
+23 33
+23 40
+24 37
+24 40
+24 40
+25 37
+25 88
+25 89
+26 47
+26 55
+26 107
+27 60
+27 61
+27 122
+28 29
+28 30
+28 63
+29 31
+29 64
+30 32
+30 65
+31 66
+32 67
+32 68
+33 35
+34 70
+35 37
+35 37
+36 38
+36 39
+36 41
+36 42
+38 47
+38 71
+39 72
+39 73
+40 76
+41 77
+41 78
+41 79
+42 80
+42 81
+42 82
+43 44
+43 45
+43 83
+43 84
+44 46
+44 85
+44 86
+45 48
+45 90
+45 91
+46 49
+46 92
+46 93
+48 50
+48 94
+48 95
+49 51
+49 96
+49 97
+50 52
+50 98
+50 99
+51 53
+51 100
+51 101
+52 54
+52 103
+52 104
+53 56
+53 105
+53 106
+54 58
+54 108
+54 109
+55 57
+55 111
+55 112
+56 59
+56 113
+56 114
+57 60
+57 115
+57 116
+58 117
+58 118
+58 119
+61 62
+61 120
+61 121
+62 123
+62 124

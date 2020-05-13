@@ -1,0 +1,104 @@
+[3,4,5-Trihydroxy-6-[4,5,6-trihydroxy-2-(hydroxymethyl)oxan-3-yl]oxyoxan-2-yl]methyl dihydrogen phosphate
+50
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 12
+0 13
+0 14
+0 14
+1 15
+1 16
+2 16
+2 22
+3 20
+3 24
+4 17
+4 41
+5 18
+5 42
+6 19
+6 43
+7 21
+7 44
+8 23
+8 45
+9 24
+9 46
+10 26
+11 25
+11 47
+12 48
+13 49
+15 18
+15 20
+15 27
+16 17
+16 28
+17 19
+17 29
+18 23
+18 30
+19 21
+19 31
+20 25
+20 32
+21 22
+21 33
+22 26
+22 34
+23 24
+23 35
+24 36
+25 37
+25 38
+26 39
+26 40

@@ -1,0 +1,130 @@
+N-(2-Phenylcyclopentyl)-1-azacyclotridecen-2-amine
+61
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 8
+0 33
+1 8
+1 8
+1 18
+2 3
+2 4
+2 7
+2 25
+3 5
+3 26
+4 6
+4 27
+4 28
+5 6
+5 29
+5 30
+6 31
+6 32
+7 10
+7 10
+7 11
+8 9
+9 12
+9 34
+9 35
+10 22
+10 36
+11 23
+11 23
+11 37
+12 13
+12 38
+12 39
+13 14
+13 40
+13 41
+14 15
+14 42
+14 43
+15 16
+15 44
+15 45
+16 17
+16 46
+16 47
+17 19
+17 48
+17 49
+18 20
+18 50
+18 51
+19 21
+19 52
+19 53
+20 21
+20 56
+20 57
+21 54
+21 55
+22 24
+22 24
+22 58
+23 24
+23 59
+24 60

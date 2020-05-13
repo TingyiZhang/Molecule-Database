@@ -1,0 +1,42 @@
+5-Ureidoimidazole-4-carboxylic acid
+18
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 17
+1 10
+1 10
+2 11
+2 11
+3 7
+3 9
+3 12
+4 8
+4 11
+4 13
+5 8
+5 9
+5 9
+6 11
+6 15
+6 16
+7 8
+7 8
+7 10
+9 14

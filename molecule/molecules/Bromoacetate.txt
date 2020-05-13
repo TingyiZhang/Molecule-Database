@@ -1,0 +1,16 @@
+Bromoacetate
+7
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+0 3
+1 4
+2 4
+2 4
+3 4
+3 5
+3 6

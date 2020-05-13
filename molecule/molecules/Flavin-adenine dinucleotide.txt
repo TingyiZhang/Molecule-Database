@@ -1,0 +1,192 @@
+Flavin-adenine dinucleotide
+86
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+0 10
+0 12
+0 12
+1 6
+1 9
+1 13
+1 14
+1 14
+2 28
+2 29
+3 26
+3 59
+4 27
+4 60
+5 30
+7 34
+7 71
+8 35
+8 72
+9 40
+10 76
+11 37
+11 77
+13 85
+15 49
+15 49
+16 52
+16 52
+17 28
+17 31
+17 32
+18 32
+18 32
+18 33
+19 31
+19 31
+19 42
+20 36
+20 39
+20 41
+21 38
+21 42
+21 42
+22 38
+22 74
+22 75
+23 43
+23 45
+23 45
+24 41
+24 41
+24 52
+25 49
+25 52
+25 84
+26 27
+26 28
+26 53
+27 29
+27 54
+28 55
+29 30
+29 56
+30 57
+30 58
+31 33
+32 61
+33 38
+33 38
+34 35
+34 36
+34 62
+35 37
+35 63
+36 64
+36 65
+37 40
+37 66
+39 43
+39 43
+39 44
+40 67
+40 68
+41 45
+42 69
+43 47
+44 46
+44 46
+44 70
+45 49
+46 48
+46 50
+47 48
+47 48
+47 73
+48 51
+50 78
+50 79
+50 80
+51 81
+51 82
+51 83

@@ -1,0 +1,114 @@
+3,4,5-Trimethoxy-11,18,20-trioxapentacyclo[13.7.0.02,7.09,13.017,21]docosa-1(22),2,4,6,15,17(21)-hexaene-10,14-dione
+50
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 14
+1 12
+1 12
+2 14
+2 14
+3 19
+3 27
+4 23
+4 26
+5 24
+5 26
+6 22
+6 28
+7 25
+7 29
+8 9
+8 10
+8 14
+8 30
+9 11
+9 12
+9 31
+10 13
+10 32
+10 33
+11 34
+11 35
+12 16
+13 15
+13 18
+13 18
+15 17
+15 19
+15 19
+16 17
+16 20
+16 20
+17 21
+17 21
+18 22
+18 36
+19 25
+20 23
+20 37
+21 24
+21 38
+22 25
+22 25
+23 24
+23 24
+26 39
+26 40
+27 41
+27 42
+27 43
+28 44
+28 45
+28 46
+29 47
+29 48
+29 49

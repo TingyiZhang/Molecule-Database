@@ -1,0 +1,99 @@
+2-Propenoic acid, 3-phenyl-, 1-ethenyl-1,5-dimethyl-4-hexen-1-yl ester
+45
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 9
+1 9
+1 9
+2 3
+2 5
+2 6
+3 4
+3 21
+3 22
+4 7
+4 23
+4 24
+5 25
+5 26
+5 27
+6 10
+6 10
+6 28
+7 8
+7 8
+7 29
+8 11
+8 12
+9 13
+10 30
+10 31
+11 32
+11 33
+11 34
+12 35
+12 36
+12 37
+13 14
+13 14
+13 38
+14 15
+14 39
+15 16
+15 16
+15 17
+16 18
+16 40
+17 19
+17 19
+17 41
+18 20
+18 20
+18 42
+19 20
+19 43
+20 44

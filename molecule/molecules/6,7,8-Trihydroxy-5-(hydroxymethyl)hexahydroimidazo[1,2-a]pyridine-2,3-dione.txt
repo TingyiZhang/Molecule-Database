@@ -1,0 +1,61 @@
+6,7,8-Trihydroxy-5-(hydroxymethyl)hexahydroimidazo[1,2-a]pyridine-2,3-dione
+28
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 24
+1 11
+1 25
+2 12
+2 26
+3 13
+3 27
+4 14
+4 14
+5 15
+5 15
+6 8
+6 9
+6 14
+7 8
+7 15
+7 21
+8 10
+8 16
+9 11
+9 13
+9 17
+10 12
+10 18
+11 12
+11 19
+12 20
+13 22
+13 23
+14 15

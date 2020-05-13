@@ -1,0 +1,166 @@
+10-(3a,6,6,9a-Tetramethyl-2,7-dioxo-4,5,5a,8,9,9b-hexahydro-1H-cyclopenta[a]naphthalen-3-ylidene)-2,4,6-trimethylundeca-2,4,6,8-tetraenoic acid
+77
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 17
+1 18
+1 18
+2 34
+2 76
+3 34
+3 34
+4 5
+4 6
+4 11
+4 14
+5 7
+5 12
+5 35
+6 8
+6 9
+6 36
+7 10
+7 13
+7 16
+8 17
+8 19
+8 20
+9 10
+9 37
+9 38
+10 39
+10 40
+11 15
+11 41
+11 42
+12 18
+12 43
+12 44
+13 18
+13 21
+13 21
+14 45
+14 46
+14 47
+15 17
+15 48
+15 49
+16 50
+16 51
+16 52
+19 53
+19 54
+19 55
+20 56
+20 57
+20 58
+21 22
+21 23
+22 59
+22 60
+22 61
+23 24
+23 24
+23 62
+24 25
+24 63
+25 26
+25 26
+25 64
+26 27
+26 28
+27 65
+27 66
+27 67
+28 29
+28 29
+28 68
+29 30
+29 31
+30 69
+30 70
+30 71
+31 32
+31 32
+31 72
+32 33
+32 34
+33 73
+33 74
+33 75

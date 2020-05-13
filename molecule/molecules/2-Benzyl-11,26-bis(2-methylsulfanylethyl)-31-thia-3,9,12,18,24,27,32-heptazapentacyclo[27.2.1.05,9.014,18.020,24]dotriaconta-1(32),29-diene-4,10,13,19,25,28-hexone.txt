@@ -1,0 +1,222 @@
+2-Benzyl-11,26-bis(2-methylsulfanylethyl)-31-thia-3,9,12,18,24,27,32-heptazapentacyclo[27.2.1.05,9.014,18.020,24]dotriaconta-1(32),29-diene-4,10,13,19,25,28-hexone
+102
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 37
+0 46
+1 39
+1 49
+2 42
+2 45
+3 22
+3 22
+4 25
+4 25
+5 28
+5 28
+6 32
+6 32
+7 35
+7 35
+8 40
+8 40
+9 17
+9 20
+9 22
+10 16
+10 24
+10 28
+11 26
+11 30
+11 32
+12 25
+12 29
+12 75
+13 33
+13 40
+13 81
+14 35
+14 38
+14 82
+15 42
+15 42
+15 43
+16 18
+16 22
+16 53
+17 19
+17 25
+17 54
+18 23
+18 55
+18 56
+19 21
+19 57
+19 58
+20 21
+20 59
+20 60
+21 61
+21 62
+23 24
+23 63
+23 64
+24 65
+24 66
+26 27
+26 35
+26 67
+27 31
+27 68
+27 69
+28 33
+29 32
+29 34
+29 70
+30 31
+30 71
+30 72
+31 73
+31 74
+33 36
+33 76
+34 37
+34 77
+34 78
+36 39
+36 79
+36 80
+37 83
+37 84
+38 41
+38 42
+38 85
+39 86
+39 87
+40 43
+41 44
+41 88
+41 89
+43 45
+43 45
+44 47
+44 47
+44 48
+45 90
+46 91
+46 92
+46 93
+47 50
+47 94
+48 51
+48 51
+48 95
+49 96
+49 97
+49 98
+50 52
+50 52
+50 99
+51 52
+51 100
+52 101

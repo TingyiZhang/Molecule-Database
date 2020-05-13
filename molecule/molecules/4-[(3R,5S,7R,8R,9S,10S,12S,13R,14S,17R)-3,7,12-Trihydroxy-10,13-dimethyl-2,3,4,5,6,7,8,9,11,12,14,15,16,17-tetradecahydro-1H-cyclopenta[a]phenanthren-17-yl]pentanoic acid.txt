@@ -1,0 +1,144 @@
+4-[(3R,5S,7R,8R,9S,10S,12S,13R,14S,17R)-3,7,12-Trihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoic acid
+69
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 58
+1 15
+1 61
+2 24
+2 65
+3 28
+3 68
+4 28
+4 28
+5 6
+5 10
+5 11
+5 19
+6 7
+6 14
+6 29
+7 8
+7 15
+7 30
+8 9
+8 12
+8 31
+9 13
+9 18
+9 22
+10 16
+10 20
+10 32
+11 12
+11 33
+12 34
+12 35
+13 17
+13 21
+13 36
+14 16
+14 37
+14 38
+15 17
+15 39
+16 40
+16 41
+17 42
+17 43
+18 23
+18 44
+18 45
+19 46
+19 47
+19 48
+20 25
+20 26
+20 49
+21 24
+21 50
+21 51
+22 52
+22 53
+22 54
+23 24
+23 55
+23 56
+24 57
+25 27
+25 59
+25 60
+26 62
+26 63
+26 64
+27 28
+27 66
+27 67

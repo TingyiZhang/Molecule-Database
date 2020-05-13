@@ -1,0 +1,154 @@
+Thromstop
+68
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 3
+0 4
+0 4
+0 7
+0 26
+1 16
+1 16
+2 19
+2 19
+5 10
+5 11
+5 16
+6 15
+6 19
+6 50
+7 20
+7 55
+8 32
+8 65
+8 66
+9 32
+9 32
+9 67
+10 12
+10 37
+10 38
+11 13
+11 39
+11 40
+12 14
+12 41
+12 42
+13 14
+13 43
+13 44
+14 45
+14 46
+15 16
+15 17
+15 47
+17 18
+17 48
+17 49
+18 21
+18 21
+18 22
+19 20
+20 51
+20 52
+21 23
+21 53
+22 24
+22 24
+22 54
+23 25
+23 25
+23 56
+24 25
+24 57
+25 32
+26 27
+26 27
+26 29
+27 28
+27 58
+28 30
+28 33
+28 33
+29 31
+29 31
+29 59
+30 31
+30 34
+30 34
+31 60
+33 35
+33 61
+34 36
+34 62
+35 36
+35 36
+35 63
+36 64

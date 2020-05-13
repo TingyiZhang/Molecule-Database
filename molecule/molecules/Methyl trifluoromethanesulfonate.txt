@@ -1,0 +1,27 @@
+Methyl trifluoromethanesulfonate
+12
+"Sulfur"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 5
+0 5
+0 6
+0 6
+0 7
+1 7
+2 7
+3 7
+4 8
+8 9
+8 10
+8 11

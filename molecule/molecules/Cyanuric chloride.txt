@@ -1,0 +1,23 @@
+Cyanuric chloride
+9
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+0 6
+1 7
+2 8
+3 6
+3 6
+3 7
+4 6
+4 8
+4 8
+5 7
+5 7
+5 8

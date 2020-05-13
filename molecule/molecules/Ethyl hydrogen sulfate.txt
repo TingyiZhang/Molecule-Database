@@ -1,0 +1,29 @@
+Ethyl hydrogen sulfate
+13
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 3
+0 4
+0 4
+1 5
+2 12
+5 6
+5 7
+5 8
+6 9
+6 10
+6 11

@@ -1,0 +1,240 @@
+Antibiotic MA 144A1
+111
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 23
+1 23
+1 26
+2 21
+2 28
+3 16
+3 76
+4 28
+4 36
+5 33
+5 45
+6 32
+6 50
+7 29
+7 94
+8 34
+8 95
+9 32
+9 32
+10 45
+10 51
+11 43
+11 43
+12 44
+12 44
+13 52
+13 110
+14 54
+14 54
+15 20
+15 40
+15 41
+16 18
+16 19
+16 27
+17 18
+17 24
+17 58
+18 59
+18 60
+19 25
+19 32
+19 61
+20 21
+20 22
+20 62
+21 26
+21 63
+22 23
+22 64
+22 65
+23 66
+24 25
+24 29
+24 29
+25 30
+25 30
+26 35
+26 67
+27 38
+27 68
+27 69
+28 31
+28 70
+29 37
+30 39
+30 71
+31 34
+31 72
+31 73
+33 34
+33 36
+33 74
+34 75
+35 77
+35 78
+35 79
+36 42
+36 80
+37 39
+37 39
+37 43
+38 81
+38 82
+38 83
+39 44
+40 84
+40 85
+40 86
+41 87
+41 88
+41 89
+42 90
+42 91
+42 92
+43 46
+44 47
+45 48
+45 93
+46 47
+46 47
+46 52
+47 53
+48 49
+48 96
+48 97
+49 54
+49 98
+49 99
+50 100
+50 101
+50 102
+51 54
+51 57
+51 103
+52 55
+52 55
+53 56
+53 56
+53 104
+55 56
+55 105
+56 106
+57 107
+57 108
+57 109

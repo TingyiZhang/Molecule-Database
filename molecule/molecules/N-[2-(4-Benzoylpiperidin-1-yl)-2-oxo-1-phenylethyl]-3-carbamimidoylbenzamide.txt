@@ -1,0 +1,144 @@
+N-[2-(4-Benzoylpiperidin-1-yl)-2-oxo-1-phenylethyl]-3-carbamimidoylbenzamide
+63
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 12
+1 13
+1 13
+2 21
+2 21
+3 10
+3 11
+3 13
+4 14
+4 21
+4 45
+5 34
+5 60
+5 61
+6 34
+6 34
+6 62
+7 8
+7 9
+7 12
+7 35
+8 10
+8 36
+8 37
+9 11
+9 38
+9 39
+10 40
+10 41
+11 42
+11 43
+12 15
+13 14
+14 16
+14 44
+15 17
+15 17
+15 18
+16 19
+16 19
+16 20
+17 22
+17 46
+18 23
+18 23
+18 47
+19 24
+19 48
+20 25
+20 25
+20 49
+21 27
+22 26
+22 26
+22 50
+23 26
+23 51
+24 28
+24 28
+24 52
+25 28
+25 53
+26 54
+27 29
+27 30
+27 30
+28 55
+29 31
+29 31
+29 56
+30 32
+30 57
+31 33
+31 34
+32 33
+32 33
+32 58
+33 59

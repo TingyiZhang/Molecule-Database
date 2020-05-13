@@ -1,0 +1,148 @@
+Bis(2-ethylhexyl) cyclohexane-1,2-dicarboxylate
+72
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 14
+1 11
+1 15
+2 10
+2 10
+3 11
+3 11
+4 5
+4 6
+4 10
+4 28
+5 7
+5 11
+5 29
+6 8
+6 30
+6 31
+7 9
+7 32
+7 33
+8 9
+8 34
+8 35
+9 36
+9 37
+12 14
+12 16
+12 18
+12 38
+13 15
+13 17
+13 19
+13 39
+14 40
+14 41
+15 42
+15 43
+16 20
+16 44
+16 45
+17 21
+17 46
+17 47
+18 24
+18 48
+18 49
+19 25
+19 50
+19 51
+20 22
+20 52
+20 53
+21 23
+21 54
+21 55
+22 26
+22 56
+22 57
+23 27
+23 58
+23 59
+24 60
+24 61
+24 62
+25 63
+25 64
+25 65
+26 66
+26 67
+26 68
+27 69
+27 70
+27 71

@@ -1,0 +1,45 @@
+Carmustine
+21
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 11
+2 9
+2 9
+3 6
+3 6
+4 6
+4 7
+4 9
+5 8
+5 9
+5 16
+7 10
+7 12
+7 13
+8 11
+8 14
+8 15
+10 17
+10 18
+11 19
+11 20

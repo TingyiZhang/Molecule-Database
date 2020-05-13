@@ -1,0 +1,70 @@
+6-Fluoro-2',5'-dioxo-2,3-dihydrospiro[chromene-4,4'-imidazolidine]-2-carboxamide
+30
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+1 11
+1 13
+2 12
+2 12
+3 14
+3 14
+4 16
+4 16
+5 8
+5 14
+5 23
+6 12
+6 14
+6 24
+7 16
+7 28
+7 29
+8 9
+8 10
+8 12
+9 11
+9 20
+9 21
+10 13
+10 13
+10 15
+11 16
+11 22
+13 17
+15 18
+15 18
+15 25
+17 19
+17 19
+17 26
+18 19
+19 27

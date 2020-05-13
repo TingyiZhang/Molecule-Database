@@ -1,0 +1,63 @@
+6-Acetimidamido-2-aminohexanoic acid
+30
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 24
+1 10
+1 10
+2 8
+2 22
+2 23
+3 9
+3 11
+3 11
+4 11
+4 28
+4 29
+5 6
+5 7
+5 13
+5 14
+6 8
+6 15
+6 16
+7 9
+7 17
+7 18
+8 10
+8 19
+9 20
+9 21
+11 12
+12 25
+12 26
+12 27

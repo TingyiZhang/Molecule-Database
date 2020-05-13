@@ -1,0 +1,17 @@
+1,2-Dibromo-1-chloro-1,2,2-trifluoroethane
+8
+"Bromine"
+"Bromine"
+"Chlorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+0 6
+1 7
+2 6
+3 6
+4 7
+5 7
+6 7

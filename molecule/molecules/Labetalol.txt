@@ -1,0 +1,106 @@
+Labetalol
+48
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 40
+1 19
+1 45
+2 23
+2 23
+3 5
+3 7
+3 27
+4 23
+4 46
+4 47
+5 6
+5 10
+5 24
+6 8
+6 25
+6 26
+7 9
+7 28
+7 29
+8 12
+8 30
+8 31
+9 11
+9 32
+10 33
+10 34
+10 35
+11 13
+11 13
+11 14
+12 15
+12 15
+12 16
+13 17
+13 36
+14 18
+14 18
+14 37
+15 20
+15 38
+16 21
+16 21
+16 39
+17 19
+17 19
+17 23
+18 19
+18 41
+20 22
+20 22
+20 42
+21 22
+21 43
+22 44

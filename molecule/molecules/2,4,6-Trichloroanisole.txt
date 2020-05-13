@@ -1,0 +1,37 @@
+2,4,6-Trichloroanisole
+16
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+1 6
+2 9
+3 4
+3 10
+4 5
+4 5
+4 6
+5 7
+6 8
+6 8
+7 9
+7 9
+7 11
+8 9
+8 12
+10 13
+10 14
+10 15

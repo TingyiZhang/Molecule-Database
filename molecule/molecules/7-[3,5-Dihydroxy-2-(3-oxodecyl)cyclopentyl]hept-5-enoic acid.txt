@@ -1,0 +1,135 @@
+7-[3,5-Dihydroxy-2-(3-oxodecyl)cyclopentyl]hept-5-enoic acid
+65
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 39
+1 8
+1 40
+2 14
+2 14
+3 26
+3 64
+4 26
+4 26
+5 6
+5 7
+5 10
+5 27
+6 8
+6 11
+6 28
+7 9
+7 29
+8 9
+8 30
+9 31
+9 32
+10 12
+10 33
+10 34
+11 13
+11 35
+11 36
+12 14
+12 37
+12 38
+13 16
+13 16
+13 41
+14 15
+15 17
+15 42
+15 43
+16 18
+16 44
+17 19
+17 45
+17 46
+18 20
+18 47
+18 48
+19 21
+19 49
+19 50
+20 23
+20 51
+20 52
+21 22
+21 53
+21 54
+22 24
+22 55
+22 56
+23 26
+23 57
+23 58
+24 25
+24 59
+24 60
+25 61
+25 62
+25 63

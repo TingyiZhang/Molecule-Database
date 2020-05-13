@@ -1,0 +1,34 @@
+Oxonic Acid
+14
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 8
+1 10
+1 13
+2 9
+2 9
+3 10
+3 10
+4 7
+4 8
+4 11
+5 8
+5 9
+5 12
+6 7
+6 7
+6 9
+7 10

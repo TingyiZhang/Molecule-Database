@@ -1,0 +1,18 @@
+Trichloroacetic acid
+8
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+0 5
+1 5
+2 5
+3 6
+3 7
+4 6
+4 6
+5 6

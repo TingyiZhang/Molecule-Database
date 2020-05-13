@@ -1,0 +1,44 @@
+1,2,3,6-Tetrahydrophthalic anhydride
+19
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 8
+1 7
+1 7
+2 8
+2 8
+3 4
+3 5
+3 7
+3 11
+4 6
+4 8
+4 12
+5 9
+5 13
+5 14
+6 10
+6 15
+6 16
+9 10
+9 10
+9 17
+10 18

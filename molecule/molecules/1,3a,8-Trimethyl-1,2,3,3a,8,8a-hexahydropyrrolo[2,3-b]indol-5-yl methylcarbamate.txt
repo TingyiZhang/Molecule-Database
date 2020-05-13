@@ -1,0 +1,90 @@
+1,3a,8-Trimethyl-1,2,3,3a,8,8a-hexahydropyrrolo[2,3-b]indol-5-yl methylcarbamate
+41
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 18
+1 18
+1 18
+2 6
+2 9
+2 12
+3 6
+3 10
+3 14
+4 18
+4 19
+4 37
+5 6
+5 7
+5 8
+5 11
+6 20
+7 9
+7 21
+7 22
+8 10
+8 10
+8 13
+9 23
+9 24
+10 15
+11 25
+11 26
+11 27
+12 28
+12 29
+12 30
+13 16
+13 16
+13 31
+14 32
+14 33
+14 34
+15 17
+15 17
+15 35
+16 17
+17 36
+19 38
+19 39
+19 40

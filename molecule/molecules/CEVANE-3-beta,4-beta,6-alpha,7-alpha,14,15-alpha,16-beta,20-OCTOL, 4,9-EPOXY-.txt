@@ -1,0 +1,168 @@
+CEVANE-3-beta,4-beta,6-alpha,7-alpha,14,15-alpha,16-beta,20-OCTOL, 4,9-EPOXY-
+80
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 17
+1 13
+1 59
+2 17
+2 60
+3 18
+3 61
+4 20
+4 62
+5 22
+5 63
+6 24
+6 71
+7 25
+7 72
+8 28
+8 73
+9 29
+9 30
+9 33
+10 11
+10 12
+10 16
+11 15
+11 21
+11 26
+12 13
+12 18
+12 37
+13 14
+13 22
+14 16
+14 19
+14 38
+15 17
+15 20
+15 39
+16 40
+16 41
+17 25
+18 20
+18 42
+19 23
+19 29
+19 43
+20 44
+21 27
+21 45
+21 46
+22 24
+22 47
+23 24
+23 28
+23 48
+24 49
+25 27
+25 50
+26 51
+26 52
+26 53
+27 54
+27 55
+28 30
+28 32
+29 56
+29 57
+30 31
+30 58
+31 35
+31 64
+31 65
+32 66
+32 67
+32 68
+33 34
+33 69
+33 70
+34 35
+34 36
+34 74
+35 75
+35 76
+36 77
+36 78
+36 79

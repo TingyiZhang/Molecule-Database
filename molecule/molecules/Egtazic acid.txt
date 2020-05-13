@@ -1,0 +1,105 @@
+Egtazic acid
+50
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 20
+1 15
+1 21
+2 22
+2 46
+3 23
+3 47
+4 24
+4 48
+5 25
+5 49
+6 22
+6 22
+7 23
+7 23
+8 24
+8 24
+9 25
+9 25
+10 12
+10 16
+10 17
+11 13
+11 18
+11 19
+12 14
+12 26
+12 27
+13 15
+13 28
+13 29
+14 30
+14 31
+15 32
+15 33
+16 22
+16 34
+16 35
+17 23
+17 36
+17 37
+18 24
+18 38
+18 39
+19 25
+19 40
+19 41
+20 21
+20 42
+20 43
+21 44
+21 45

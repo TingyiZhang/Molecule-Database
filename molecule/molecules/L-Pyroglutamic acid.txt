@@ -1,0 +1,36 @@
+L-Pyroglutamic acid
+16
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 8
+1 15
+2 8
+2 8
+3 4
+3 7
+3 14
+4 5
+4 8
+4 9
+5 6
+5 10
+5 11
+6 7
+6 12
+6 13

@@ -1,0 +1,105 @@
+Hyflavin
+47
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 36
+1 12
+1 37
+2 13
+2 38
+3 19
+3 46
+4 23
+4 23
+5 26
+5 26
+6 11
+6 14
+6 15
+7 16
+7 18
+7 18
+8 15
+8 15
+8 26
+9 23
+9 26
+9 45
+10 11
+10 12
+10 27
+11 28
+11 29
+12 13
+12 30
+13 19
+13 31
+14 16
+14 16
+14 17
+15 18
+16 21
+17 20
+17 20
+17 32
+18 23
+19 33
+19 34
+20 22
+20 24
+21 22
+21 22
+21 35
+22 25
+24 39
+24 40
+24 41
+25 42
+25 43
+25 44

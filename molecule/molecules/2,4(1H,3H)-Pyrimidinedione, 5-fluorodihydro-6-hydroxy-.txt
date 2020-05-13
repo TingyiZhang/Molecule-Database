@@ -1,0 +1,34 @@
+2,4(1H,3H)-Pyrimidinedione, 5-fluorodihydro-6-hydroxy-
+15
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 6
+1 14
+2 8
+2 8
+3 9
+3 9
+4 6
+4 9
+4 12
+5 8
+5 9
+5 13
+6 7
+6 10
+7 8
+7 11

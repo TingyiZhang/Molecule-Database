@@ -1,0 +1,38 @@
+5-Chlorosalicylic acid
+16
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 5
+1 14
+2 10
+2 15
+3 10
+3 10
+4 5
+4 5
+4 6
+4 10
+5 7
+6 8
+6 8
+6 11
+7 9
+7 9
+7 12
+8 9
+9 13

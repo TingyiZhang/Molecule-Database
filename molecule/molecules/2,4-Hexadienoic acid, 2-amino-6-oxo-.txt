@@ -1,0 +1,39 @@
+2,4-Hexadienoic acid, 2-amino-6-oxo-
+17
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 16
+1 7
+1 7
+2 9
+2 9
+3 4
+3 12
+3 13
+4 5
+4 5
+4 7
+5 6
+5 10
+6 8
+6 8
+6 11
+8 9
+8 14
+9 15

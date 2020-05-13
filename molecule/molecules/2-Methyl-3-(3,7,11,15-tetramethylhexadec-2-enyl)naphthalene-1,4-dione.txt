@@ -1,0 +1,168 @@
+2-Methyl-3-(3,7,11,15-tetramethylhexadec-2-enyl)naphthalene-1,4-dione
+79
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 24
+0 24
+1 27
+1 27
+2 3
+2 7
+2 11
+2 33
+3 5
+3 34
+3 35
+4 6
+4 8
+4 13
+4 36
+5 6
+5 37
+5 38
+6 39
+6 40
+7 9
+7 41
+7 42
+8 12
+8 43
+8 44
+9 10
+9 45
+9 46
+10 14
+10 47
+10 48
+11 49
+11 50
+11 51
+12 15
+12 52
+12 53
+13 54
+13 55
+13 56
+14 16
+14 17
+14 57
+15 18
+15 58
+15 59
+16 60
+16 61
+16 62
+17 63
+17 64
+17 65
+18 19
+18 19
+18 20
+19 21
+19 66
+20 67
+20 68
+20 69
+21 22
+21 70
+21 71
+22 23
+22 23
+22 24
+23 27
+23 28
+24 25
+25 26
+25 29
+25 29
+26 27
+26 30
+26 30
+28 72
+28 73
+28 74
+29 31
+29 75
+30 32
+30 76
+31 32
+31 32
+31 77
+32 78

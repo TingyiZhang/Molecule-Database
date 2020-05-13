@@ -1,0 +1,100 @@
+Flutazolam
+44
+"Chlorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+1 17
+2 7
+2 11
+3 14
+3 14
+4 22
+4 43
+5 7
+5 8
+5 10
+6 13
+6 14
+6 16
+7 9
+7 12
+8 11
+8 26
+8 27
+9 13
+9 13
+9 15
+10 14
+10 28
+10 29
+11 30
+11 31
+12 17
+12 18
+12 18
+13 19
+15 20
+15 20
+15 32
+16 22
+16 33
+16 34
+17 23
+17 23
+18 24
+18 35
+19 21
+19 21
+19 36
+20 21
+21 37
+22 38
+22 39
+23 25
+23 40
+24 25
+24 25
+24 41
+25 42

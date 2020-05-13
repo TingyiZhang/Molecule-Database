@@ -1,0 +1,185 @@
+Tritriaconta-16,29-diene-2,4,32-triyne-1,6,31-triol
+88
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 25
+0 81
+1 29
+1 83
+2 35
+2 87
+3 4
+3 5
+3 36
+3 37
+4 6
+4 38
+4 39
+5 7
+5 40
+5 41
+6 8
+6 42
+6 43
+7 15
+7 44
+7 45
+8 14
+8 46
+8 47
+9 10
+9 11
+9 48
+9 49
+10 12
+10 50
+10 51
+11 13
+11 52
+11 53
+12 16
+12 54
+12 55
+13 17
+13 56
+13 57
+14 18
+14 58
+14 59
+15 19
+15 60
+15 61
+16 20
+16 62
+16 63
+17 21
+17 64
+17 65
+18 22
+18 66
+18 67
+19 24
+19 68
+19 69
+20 23
+20 70
+20 71
+21 25
+21 72
+21 73
+22 23
+22 23
+22 74
+23 75
+24 26
+24 76
+24 77
+25 27
+25 78
+26 28
+26 28
+26 79
+27 30
+27 30
+27 30
+28 29
+28 80
+29 31
+29 82
+30 32
+31 33
+31 33
+31 33
+32 34
+32 34
+32 34
+33 84
+34 35
+35 85
+35 86

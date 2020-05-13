@@ -1,0 +1,119 @@
+Rilmazafone
+52
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+1 24
+2 18
+2 18
+3 22
+3 22
+4 23
+4 23
+5 6
+5 11
+5 12
+6 16
+6 16
+7 12
+7 12
+7 16
+8 14
+8 23
+8 37
+9 22
+9 27
+9 28
+10 26
+10 50
+10 51
+11 13
+11 13
+11 15
+12 14
+13 17
+13 18
+14 32
+14 33
+15 19
+15 19
+15 34
+16 22
+17 20
+17 20
+17 35
+18 21
+19 20
+19 36
+21 24
+21 25
+21 25
+23 26
+24 29
+24 29
+25 30
+25 38
+26 39
+26 40
+27 41
+27 42
+27 43
+28 44
+28 45
+28 46
+29 31
+29 47
+30 31
+30 31
+30 48
+31 49

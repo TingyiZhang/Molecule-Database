@@ -1,0 +1,93 @@
+2,6-Di-tert-butyl-4-methoxymethylphenol
+44
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 40
+1 16
+1 17
+2 4
+2 9
+2 10
+2 11
+3 5
+3 12
+3 13
+3 14
+4 6
+4 6
+4 7
+5 6
+5 8
+5 8
+7 15
+7 15
+7 18
+8 15
+8 19
+9 20
+9 21
+9 22
+10 23
+10 24
+10 25
+11 26
+11 27
+11 28
+12 29
+12 30
+12 31
+13 32
+13 33
+13 34
+14 35
+14 36
+14 37
+15 16
+16 38
+16 39
+17 41
+17 42
+17 43

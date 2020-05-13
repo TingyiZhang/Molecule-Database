@@ -1,0 +1,20 @@
+Isoxazole
+8
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 3
+1 4
+1 4
+2 3
+2 3
+2 4
+2 5
+3 6
+4 7

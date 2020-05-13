@@ -1,0 +1,58 @@
+Homoveratric acid
+26
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 12
+1 9
+1 13
+2 11
+2 25
+3 11
+3 11
+4 5
+4 5
+4 6
+4 8
+5 7
+5 14
+6 11
+6 15
+6 16
+7 9
+7 9
+8 10
+8 10
+8 17
+9 10
+10 18
+12 19
+12 20
+12 21
+13 22
+13 23
+13 24

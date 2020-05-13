@@ -1,0 +1,149 @@
+Loperamide
+67
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 25
+1 5
+1 46
+2 16
+2 16
+3 8
+3 9
+3 10
+4 16
+4 30
+4 31
+5 6
+5 7
+5 13
+6 8
+6 34
+6 35
+7 9
+7 36
+7 37
+8 38
+8 39
+9 40
+9 41
+10 11
+10 42
+10 43
+11 12
+11 44
+11 45
+12 14
+12 15
+12 16
+13 17
+13 17
+13 18
+14 19
+14 19
+14 21
+15 20
+15 20
+15 22
+17 23
+17 47
+18 24
+18 24
+18 48
+19 26
+19 49
+20 27
+20 50
+21 28
+21 28
+21 51
+22 29
+22 29
+22 52
+23 25
+23 25
+23 53
+24 25
+24 54
+26 32
+26 32
+26 55
+27 33
+27 33
+27 56
+28 32
+28 57
+29 33
+29 58
+30 59
+30 60
+30 61
+31 62
+31 63
+31 64
+32 65
+33 66

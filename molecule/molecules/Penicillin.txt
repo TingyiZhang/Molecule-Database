@@ -1,0 +1,92 @@
+Penicillin
+41
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 8
+1 11
+1 11
+2 14
+2 33
+3 14
+3 14
+4 15
+4 15
+5 7
+5 9
+5 11
+6 10
+6 15
+6 32
+7 10
+7 23
+8 9
+8 12
+8 13
+9 14
+9 24
+10 11
+10 25
+12 26
+12 27
+12 28
+13 29
+13 30
+13 31
+15 16
+16 17
+16 34
+16 35
+17 18
+17 18
+17 19
+18 20
+18 36
+19 21
+19 21
+19 37
+20 22
+20 22
+20 38
+21 22
+21 39
+22 40

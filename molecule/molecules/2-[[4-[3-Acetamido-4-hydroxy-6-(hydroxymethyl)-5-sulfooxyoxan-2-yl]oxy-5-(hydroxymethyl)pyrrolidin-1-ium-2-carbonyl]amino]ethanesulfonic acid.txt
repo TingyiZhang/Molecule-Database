@@ -1,0 +1,139 @@
+2-[[4-[3-Acetamido-4-hydroxy-6-(hydroxymethyl)-5-sulfooxyoxan-2-yl]oxy-5-(hydroxymethyl)pyrrolidin-1-ium-2-carbonyl]amino]ethanesulfonic acid
+65
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 10
+0 11
+0 11
+0 12
+0 12
+1 13
+1 14
+1 14
+1 15
+1 15
+1 33
+2 19
+2 23
+3 23
+3 28
+4 27
+5 25
+5 54
+6 26
+6 53
+7 29
+7 29
+8 30
+8 57
+9 32
+9 32
+10 63
+13 64
+16 20
+16 21
+16 40
+16 41
+17 24
+17 32
+17 49
+18 29
+18 31
+18 52
+19 20
+19 22
+19 35
+20 25
+20 36
+21 22
+21 29
+21 37
+22 38
+22 39
+23 24
+23 42
+24 26
+24 43
+25 44
+25 45
+26 27
+26 46
+27 28
+27 47
+28 30
+28 48
+30 50
+30 51
+31 33
+31 55
+31 56
+32 34
+33 58
+33 59
+34 60
+34 61
+34 62

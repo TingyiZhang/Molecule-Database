@@ -1,0 +1,60 @@
+1,5-Dichloroanthraquinone
+24
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 11
+2 8
+2 8
+3 9
+3 9
+4 6
+4 6
+4 8
+4 10
+5 7
+5 7
+5 9
+5 11
+6 9
+6 12
+7 8
+7 13
+10 14
+10 14
+11 15
+11 15
+12 16
+12 16
+12 18
+13 17
+13 17
+13 19
+14 16
+14 20
+15 17
+15 21
+16 22
+17 23

@@ -1,0 +1,99 @@
+Pecazine
+44
+"Sulfur"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 13
+1 5
+1 8
+1 9
+2 7
+2 10
+2 11
+3 4
+3 5
+3 7
+3 22
+4 6
+4 23
+4 24
+5 25
+5 26
+6 8
+6 27
+6 28
+7 29
+7 30
+8 31
+8 32
+9 33
+9 34
+9 35
+10 12
+10 14
+10 14
+11 13
+11 15
+11 15
+12 16
+12 16
+13 17
+13 17
+14 18
+14 36
+15 19
+15 37
+16 20
+16 38
+17 21
+17 39
+18 20
+18 20
+18 40
+19 21
+19 21
+19 41
+20 42
+21 43

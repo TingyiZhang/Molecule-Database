@@ -1,0 +1,176 @@
+Ergotaman-3',6',18-trione, 12'-hydroxy-2'-methyl-5'-(phenylmethyl)-, (5'alpha)-
+78
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 16
+1 11
+1 53
+2 17
+2 17
+3 18
+3 18
+4 23
+4 23
+5 10
+5 14
+5 17
+6 11
+6 13
+6 18
+7 16
+7 23
+7 54
+8 22
+8 25
+8 32
+9 35
+9 36
+9 72
+10 11
+10 12
+10 43
+12 15
+12 44
+12 45
+13 17
+13 19
+13 46
+14 15
+14 47
+14 48
+15 49
+15 50
+16 18
+16 20
+19 24
+19 51
+19 52
+20 55
+20 56
+20 57
+21 23
+21 25
+21 28
+21 58
+22 26
+22 27
+22 59
+24 33
+24 33
+24 34
+25 60
+25 61
+26 28
+26 28
+26 29
+27 30
+27 62
+27 63
+28 64
+29 31
+29 31
+29 37
+30 31
+30 36
+30 36
+31 35
+32 65
+32 66
+32 67
+33 39
+33 68
+34 40
+34 40
+34 69
+35 38
+35 38
+36 70
+37 41
+37 41
+37 71
+38 41
+38 73
+39 42
+39 42
+39 74
+40 42
+40 75
+41 76
+42 77

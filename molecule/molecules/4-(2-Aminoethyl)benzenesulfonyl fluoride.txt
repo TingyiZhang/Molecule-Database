@@ -1,0 +1,53 @@
+4-(2-Aminoethyl)benzenesulfonyl fluoride
+23
+"Sulfur"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 2
+0 3
+0 3
+0 10
+4 7
+4 21
+4 22
+5 6
+5 8
+5 8
+5 9
+6 7
+6 13
+6 14
+7 15
+7 16
+8 11
+8 17
+9 12
+9 12
+9 18
+10 11
+10 11
+10 12
+11 19
+12 20

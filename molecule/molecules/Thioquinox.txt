@@ -1,0 +1,46 @@
+Thioquinox
+18
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 13
+1 8
+1 13
+2 13
+2 13
+3 5
+3 7
+3 7
+4 6
+4 8
+4 8
+5 6
+5 9
+5 9
+6 10
+6 10
+7 8
+9 11
+9 14
+10 12
+10 15
+11 12
+11 12
+11 16
+12 17

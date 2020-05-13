@@ -1,0 +1,48 @@
+Tpmpa
+22
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 2
+0 5
+0 9
+1 21
+3 6
+3 7
+3 17
+4 5
+4 6
+4 10
+4 11
+5 8
+5 8
+6 12
+6 13
+7 8
+7 14
+7 15
+8 16
+9 18
+9 19
+9 20

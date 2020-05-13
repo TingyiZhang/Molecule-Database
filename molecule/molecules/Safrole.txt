@@ -1,0 +1,51 @@
+Safrole
+22
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 9
+1 4
+1 9
+2 5
+2 5
+2 6
+2 7
+3 4
+3 4
+3 5
+4 8
+5 12
+6 10
+6 13
+6 14
+7 8
+7 8
+7 15
+8 16
+9 17
+9 18
+10 11
+10 11
+10 19
+11 20
+11 21

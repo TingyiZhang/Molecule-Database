@@ -1,0 +1,146 @@
+N-[2-Hydroxy-3-(pyridin-2-ylsulfonylamino)propyl]-4-methyl-2-(3-phenylphenyl)pentanamide
+65
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 3
+0 4
+0 4
+0 6
+0 26
+1 12
+1 12
+2 17
+2 55
+5 12
+5 15
+5 46
+6 20
+6 54
+7 26
+7 32
+7 32
+8 9
+8 11
+8 12
+8 34
+9 10
+9 35
+9 36
+10 13
+10 14
+10 37
+11 16
+11 18
+11 18
+13 38
+13 39
+13 40
+14 41
+14 42
+14 43
+15 17
+15 44
+15 45
+16 19
+16 19
+16 47
+17 20
+17 48
+18 21
+18 49
+19 22
+19 23
+20 50
+20 51
+21 22
+21 22
+21 52
+22 53
+23 24
+23 24
+23 25
+24 27
+24 56
+25 28
+25 28
+25 57
+26 30
+26 30
+27 29
+27 29
+27 58
+28 29
+28 59
+29 60
+30 31
+30 61
+31 33
+31 33
+31 62
+32 33
+32 63
+33 64

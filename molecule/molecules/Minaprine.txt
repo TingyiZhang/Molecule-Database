@@ -1,0 +1,98 @@
+Minaprine
+44
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 9
+1 5
+1 6
+1 7
+2 10
+2 11
+2 34
+3 4
+3 11
+3 11
+4 14
+4 14
+5 8
+5 22
+5 23
+6 9
+6 24
+6 25
+7 10
+7 26
+7 27
+8 28
+8 29
+9 30
+9 31
+10 32
+10 33
+11 12
+12 13
+12 13
+12 15
+13 14
+13 35
+14 16
+15 36
+15 37
+15 38
+16 17
+16 17
+16 18
+17 19
+17 39
+18 20
+18 20
+18 40
+19 21
+19 21
+19 41
+20 21
+20 42
+21 43

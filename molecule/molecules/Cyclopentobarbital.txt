@@ -1,0 +1,70 @@
+Cyclopentobarbital
+31
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 11
+1 12
+1 12
+2 15
+2 15
+3 11
+3 15
+3 26
+4 12
+4 15
+4 27
+5 6
+5 8
+5 11
+5 12
+6 7
+6 10
+6 17
+7 9
+7 18
+7 19
+8 14
+8 20
+8 21
+9 13
+9 22
+9 23
+10 13
+10 13
+10 24
+13 25
+14 16
+14 16
+14 28
+16 29
+16 30

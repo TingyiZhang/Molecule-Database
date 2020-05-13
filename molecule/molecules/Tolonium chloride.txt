@@ -1,0 +1,82 @@
+Tolonium chloride
+36
+"Chlorine"
+"Sulfur"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+1 5
+1 8
+2 9
+2 9
+2 18
+2 19
+3 6
+3 7
+3 7
+4 13
+4 34
+4 35
+5 7
+5 10
+5 10
+6 8
+6 8
+6 12
+7 15
+8 14
+9 10
+9 16
+10 20
+11 12
+11 12
+11 13
+11 17
+12 21
+13 14
+13 14
+14 22
+15 16
+15 16
+15 23
+16 24
+17 25
+17 26
+17 27
+18 28
+18 29
+18 30
+19 31
+19 32
+19 33

@@ -1,0 +1,42 @@
+Gallic acid
+18
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 14
+1 7
+1 15
+2 8
+2 16
+3 11
+3 17
+4 11
+4 11
+5 9
+5 9
+5 10
+5 11
+6 7
+6 7
+6 8
+7 9
+8 10
+8 10
+9 12
+10 13

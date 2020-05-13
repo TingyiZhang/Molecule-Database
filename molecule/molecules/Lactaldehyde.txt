@@ -1,0 +1,24 @@
+Lactaldehyde
+11
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 10
+1 4
+1 4
+2 3
+2 4
+2 5
+3 6
+3 7
+3 8
+4 9

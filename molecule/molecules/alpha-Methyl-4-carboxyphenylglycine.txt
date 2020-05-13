@@ -1,0 +1,59 @@
+alpha-Methyl-4-carboxyphenylglycine
+26
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 24
+1 10
+1 10
+2 14
+2 25
+3 14
+3 14
+4 5
+4 20
+4 21
+5 6
+5 7
+5 10
+6 8
+6 8
+6 9
+7 15
+7 16
+7 17
+8 11
+8 18
+9 12
+9 12
+9 19
+11 13
+11 13
+11 22
+12 13
+12 23
+13 14

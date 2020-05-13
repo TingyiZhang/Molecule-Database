@@ -1,0 +1,70 @@
+p-Methyl-beta-phenylethylhydrazine dihydrogen sulfate
+32
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 3
+0 4
+0 4
+1 31
+5 6
+5 9
+5 24
+6 28
+6 29
+6 30
+7 8
+7 9
+7 16
+7 17
+8 10
+8 10
+8 11
+9 18
+9 19
+10 13
+10 20
+11 14
+11 14
+11 21
+12 13
+12 13
+12 14
+12 15
+13 22
+14 23
+15 25
+15 26
+15 27

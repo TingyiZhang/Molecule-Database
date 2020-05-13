@@ -1,0 +1,135 @@
+Distigmine
+62
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 18
+1 17
+1 19
+2 16
+2 16
+3 17
+3 17
+4 12
+4 14
+4 16
+5 13
+5 15
+5 17
+6 20
+6 26
+6 26
+6 28
+7 21
+7 27
+7 27
+7 29
+8 9
+8 10
+8 30
+8 31
+9 11
+9 32
+9 33
+10 12
+10 34
+10 35
+11 13
+11 36
+11 37
+12 38
+12 39
+13 40
+13 41
+14 42
+14 43
+14 44
+15 45
+15 46
+15 47
+18 20
+18 20
+18 22
+19 21
+19 21
+19 23
+20 48
+21 49
+22 24
+22 24
+22 50
+23 25
+23 25
+23 51
+24 26
+24 52
+25 27
+25 53
+26 54
+27 55
+28 56
+28 57
+28 58
+29 59
+29 60
+29 61

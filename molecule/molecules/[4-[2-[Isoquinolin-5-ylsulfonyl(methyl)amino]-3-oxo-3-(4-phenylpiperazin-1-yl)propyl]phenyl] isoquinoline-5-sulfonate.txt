@@ -1,0 +1,201 @@
+[4-[2-[Isoquinolin-5-ylsulfonyl(methyl)amino]-3-oxo-3-(4-phenylpiperazin-1-yl)propyl]phenyl] isoquinoline-5-sulfonate
+86
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 3
+0 4
+0 4
+0 10
+0 23
+1 5
+1 6
+1 6
+1 7
+1 7
+1 42
+2 18
+2 18
+5 35
+8 14
+8 15
+8 18
+9 16
+9 17
+9 20
+10 13
+10 22
+11 40
+11 40
+11 41
+12 49
+12 49
+12 50
+13 18
+13 19
+13 51
+14 16
+14 52
+14 53
+15 17
+15 54
+15 55
+16 56
+16 57
+17 58
+17 59
+19 21
+19 60
+19 61
+20 24
+20 24
+20 25
+21 27
+21 27
+21 28
+22 62
+22 63
+22 64
+23 26
+23 29
+23 29
+24 31
+24 65
+25 32
+25 32
+25 66
+26 30
+26 30
+26 38
+27 33
+27 67
+28 34
+28 34
+28 68
+29 37
+29 69
+30 39
+30 40
+31 36
+31 36
+31 70
+32 36
+32 71
+33 35
+33 35
+33 72
+34 35
+34 73
+36 74
+37 39
+37 39
+37 75
+38 41
+38 41
+38 76
+39 77
+40 78
+41 79
+42 43
+42 44
+42 44
+43 45
+43 45
+43 48
+44 46
+44 80
+45 47
+45 49
+46 47
+46 47
+46 81
+47 82
+48 50
+48 50
+48 83
+49 84
+50 85

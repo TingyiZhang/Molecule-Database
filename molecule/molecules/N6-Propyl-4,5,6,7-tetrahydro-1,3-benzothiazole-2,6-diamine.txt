@@ -1,0 +1,67 @@
+N6-Propyl-4,5,6,7-tetrahydro-1,3-benzothiazole-2,6-diamine
+31
+"Sulfur"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 12
+1 4
+1 10
+1 21
+2 9
+2 12
+2 12
+3 12
+3 29
+3 30
+4 5
+4 6
+4 14
+5 7
+5 15
+5 16
+6 8
+6 17
+6 18
+7 9
+7 19
+7 20
+8 9
+8 9
+10 11
+10 22
+10 23
+11 13
+11 24
+11 25
+13 26
+13 27
+13 28

@@ -1,0 +1,88 @@
+4-[6-Amino-3-(4-methoxyphenyl)-1-pyridazin-1-iumyl]butanoic acid
+39
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 35
+1 19
+1 20
+2 16
+2 16
+3 4
+3 6
+3 9
+3 9
+4 10
+4 10
+5 9
+5 31
+5 32
+6 7
+6 21
+6 22
+7 8
+7 23
+7 24
+8 16
+8 25
+8 26
+9 12
+10 11
+10 13
+11 14
+11 14
+11 15
+12 13
+12 13
+12 27
+13 28
+14 17
+14 29
+15 18
+15 18
+15 30
+17 19
+17 19
+17 33
+18 19
+18 34
+20 36
+20 37
+20 38

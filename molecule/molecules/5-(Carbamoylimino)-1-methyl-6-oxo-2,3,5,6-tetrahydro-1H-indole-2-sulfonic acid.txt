@@ -1,0 +1,70 @@
+5-(Carbamoylimino)-1-methyl-6-oxo-2,3,5,6-tetrahydro-1H-indole-2-sulfonic acid
+30
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 2
+0 3
+0 3
+0 9
+1 27
+4 17
+4 17
+5 18
+5 18
+6 9
+6 12
+6 13
+7 16
+7 16
+7 18
+8 18
+8 28
+8 29
+9 10
+9 19
+10 11
+10 20
+10 21
+11 12
+11 14
+11 14
+12 15
+12 15
+13 22
+13 23
+13 24
+14 16
+14 25
+15 17
+15 26
+16 17

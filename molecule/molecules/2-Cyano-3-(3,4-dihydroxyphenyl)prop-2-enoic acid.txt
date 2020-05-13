@@ -1,0 +1,53 @@
+2-Cyano-3-(3,4-dihydroxyphenyl)prop-2-enoic acid
+22
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 19
+1 9
+1 20
+2 13
+2 21
+3 13
+3 13
+4 14
+4 14
+4 14
+5 6
+5 6
+5 7
+5 11
+6 8
+6 15
+7 10
+7 10
+7 16
+8 9
+8 9
+9 10
+10 17
+11 12
+11 12
+11 18
+12 13
+12 14

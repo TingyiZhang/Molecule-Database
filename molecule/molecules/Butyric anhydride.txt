@@ -1,0 +1,53 @@
+Butyric anhydride
+25
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 8
+1 7
+1 7
+2 8
+2 8
+3 5
+3 7
+3 11
+3 12
+4 6
+4 8
+4 13
+4 14
+5 9
+5 15
+5 16
+6 10
+6 17
+6 18
+9 19
+9 20
+9 21
+10 22
+10 23
+10 24

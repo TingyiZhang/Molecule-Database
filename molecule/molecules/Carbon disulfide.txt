@@ -1,0 +1,9 @@
+Carbon disulfide
+3
+"Sulfur"
+"Sulfur"
+"Carbon"
+0 2
+0 2
+1 2
+1 2

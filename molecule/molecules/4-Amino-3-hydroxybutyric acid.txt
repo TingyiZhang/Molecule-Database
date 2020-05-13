@@ -1,0 +1,36 @@
+4-Amino-3-hydroxybutyric acid
+17
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 15
+1 7
+1 16
+2 7
+2 7
+3 6
+3 13
+3 14
+4 5
+4 6
+4 8
+5 7
+5 9
+5 10
+6 11
+6 12

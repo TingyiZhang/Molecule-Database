@@ -1,0 +1,146 @@
+Tetrasodium;2-[[2-[bis(carboxylatomethyl)amino]-2-(4,5-dimethoxy-2-nitrophenyl)ethyl]-(carboxylatomethyl)amino]acetate
+56
+"Sodium"
+"Sodium"
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+0 6
+0 6
+0 6
+0 6
+0 6
+1 7
+1 7
+1 7
+1 7
+1 7
+1 7
+1 7
+2 10
+2 10
+2 10
+2 10
+2 10
+2 10
+2 10
+3 11
+3 11
+3 11
+3 11
+3 11
+3 11
+3 11
+4 28
+4 35
+5 30
+5 36
+6 31
+7 32
+8 31
+8 31
+9 32
+9 32
+10 33
+11 34
+12 18
+13 18
+13 18
+14 33
+14 33
+15 34
+15 34
+16 19
+16 22
+16 23
+17 20
+17 26
+17 27
+18 24
+19 20
+19 21
+19 37
+20 38
+20 39
+21 24
+21 25
+21 25
+22 31
+22 40
+22 41
+23 32
+23 42
+23 43
+24 29
+24 29
+25 28
+25 44
+26 33
+26 45
+26 46
+27 34
+27 47
+27 48
+28 30
+28 30
+29 30
+29 49
+35 50
+35 51
+35 52
+36 53
+36 54
+36 55

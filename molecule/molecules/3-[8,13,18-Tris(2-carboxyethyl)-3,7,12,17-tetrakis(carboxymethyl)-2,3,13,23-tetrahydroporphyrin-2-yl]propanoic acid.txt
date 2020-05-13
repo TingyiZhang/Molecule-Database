@@ -1,0 +1,224 @@
+3-[8,13,18-Tris(2-carboxyethyl)-3,7,12,17-tetrakis(carboxymethyl)-2,3,13,23-tetrahydroporphyrin-2-yl]propanoic acid
+100
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 41
+0 92
+1 41
+1 41
+2 48
+2 93
+3 48
+3 48
+4 53
+4 94
+5 55
+5 95
+6 53
+6 53
+7 55
+7 55
+8 56
+8 96
+9 57
+9 97
+10 56
+10 56
+11 57
+11 57
+12 58
+12 98
+13 59
+13 99
+14 58
+14 58
+15 59
+15 59
+16 23
+16 23
+16 24
+17 30
+17 32
+17 73
+18 34
+18 37
+18 37
+19 35
+19 35
+19 43
+20 21
+20 22
+20 23
+20 60
+21 24
+21 25
+21 61
+22 27
+22 62
+22 63
+23 28
+24 31
+24 31
+25 41
+25 64
+25 65
+26 29
+26 30
+26 33
+26 66
+27 48
+27 67
+27 68
+28 34
+28 34
+28 69
+29 32
+29 32
+29 44
+30 38
+30 38
+31 35
+31 70
+32 45
+33 46
+33 71
+33 72
+34 36
+35 40
+36 39
+36 39
+36 47
+37 38
+37 39
+38 74
+39 50
+40 42
+40 42
+40 51
+42 43
+42 49
+43 45
+43 45
+44 53
+44 75
+44 76
+45 77
+46 55
+46 78
+46 79
+47 52
+47 80
+47 81
+49 54
+49 82
+49 83
+50 56
+50 84
+50 85
+51 57
+51 86
+51 87
+52 58
+52 88
+52 89
+54 59
+54 90
+54 91

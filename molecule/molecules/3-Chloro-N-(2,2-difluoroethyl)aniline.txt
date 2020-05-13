@@ -1,0 +1,45 @@
+3-Chloro-N-(2,2-difluoroethyl)aniline
+20
+"Chlorine"
+"Fluorine"
+"Fluorine"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+1 8
+2 8
+3 4
+3 5
+3 14
+4 8
+4 12
+4 13
+5 6
+5 6
+5 7
+6 9
+6 16
+7 10
+7 10
+7 17
+8 15
+9 11
+9 11
+10 11
+10 18
+11 19

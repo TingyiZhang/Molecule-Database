@@ -1,0 +1,116 @@
+Hydroxyzine
+53
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 22
+1 13
+1 24
+2 25
+2 52
+3 5
+3 6
+3 9
+4 7
+4 8
+4 10
+5 7
+5 26
+5 27
+6 8
+6 28
+6 29
+7 30
+7 31
+8 32
+8 33
+9 11
+9 12
+9 34
+10 13
+10 35
+10 36
+11 14
+11 14
+11 15
+12 16
+12 16
+12 17
+13 37
+13 38
+14 18
+14 39
+15 19
+15 19
+15 40
+16 20
+16 41
+17 21
+17 21
+17 42
+18 22
+18 22
+18 43
+19 22
+19 44
+20 23
+20 23
+20 45
+21 23
+21 46
+23 47
+24 25
+24 48
+24 49
+25 50
+25 51

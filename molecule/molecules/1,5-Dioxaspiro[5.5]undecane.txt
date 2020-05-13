@@ -1,0 +1,57 @@
+1,5-Dioxaspiro[5.5]undecane
+27
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 8
+1 2
+1 9
+2 3
+2 4
+3 5
+3 11
+3 12
+4 6
+4 13
+4 14
+5 7
+5 15
+5 16
+6 7
+6 17
+6 18
+7 19
+7 20
+8 10
+8 21
+8 22
+9 10
+9 23
+9 24
+10 25
+10 26

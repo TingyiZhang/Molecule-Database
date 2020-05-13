@@ -1,0 +1,115 @@
+1-(4-Methanesulfonamidophenoxy)-3-(N-methyl-3,4-dichlorophenylethylamino)-2-propanol
+52
+"Chlorine"
+"Chlorine"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+1 24
+2 5
+2 5
+2 6
+2 6
+2 8
+2 27
+3 11
+3 40
+4 13
+4 18
+7 9
+7 10
+7 14
+8 23
+8 48
+9 11
+9 28
+9 29
+10 12
+10 30
+10 31
+11 13
+11 32
+12 15
+12 33
+12 34
+13 35
+13 36
+14 37
+14 38
+14 39
+15 16
+15 16
+15 17
+16 19
+16 41
+17 20
+17 20
+17 42
+18 21
+18 21
+18 22
+19 24
+19 24
+20 24
+20 43
+21 25
+21 44
+22 26
+22 26
+22 45
+23 25
+23 25
+23 26
+25 46
+26 47
+27 49
+27 50
+27 51

@@ -1,0 +1,50 @@
+4'-Methylacetanilide
+22
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 9
+1 2
+1 9
+1 15
+2 4
+2 4
+2 5
+3 6
+3 6
+3 7
+3 8
+4 6
+4 11
+5 7
+5 7
+5 12
+6 13
+7 14
+8 16
+8 17
+8 18
+9 10
+10 19
+10 20
+10 21

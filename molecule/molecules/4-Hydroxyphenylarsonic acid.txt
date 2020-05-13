@@ -1,0 +1,42 @@
+4-Hydroxyphenylarsonic acid
+18
+"Arsenic"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 3
+0 5
+1 15
+2 16
+4 10
+4 17
+5 6
+5 6
+5 7
+6 8
+6 11
+7 9
+7 9
+7 12
+8 10
+8 10
+8 13
+9 10
+9 14

@@ -1,0 +1,20 @@
+Hexafluoropropene
+9
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Carbon"
+0 6
+1 6
+2 6
+3 7
+4 8
+5 8
+6 7
+7 8
+7 8

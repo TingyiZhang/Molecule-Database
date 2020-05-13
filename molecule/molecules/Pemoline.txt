@@ -1,0 +1,50 @@
+Pemoline
+21
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 9
+1 6
+1 6
+2 6
+2 9
+2 9
+3 9
+3 19
+3 20
+4 5
+4 6
+4 13
+5 7
+5 7
+5 8
+7 10
+7 14
+8 11
+8 11
+8 15
+10 12
+10 12
+10 16
+11 12
+11 17
+12 18

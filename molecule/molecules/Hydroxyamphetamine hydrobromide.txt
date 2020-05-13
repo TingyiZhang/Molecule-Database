@@ -1,0 +1,56 @@
+Hydroxyamphetamine hydrobromide
+26
+"Bromine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 25
+1 11
+1 24
+2 3
+2 20
+2 21
+3 4
+3 6
+3 12
+4 5
+4 13
+4 14
+5 7
+5 7
+5 8
+6 15
+6 16
+6 17
+7 9
+7 18
+8 10
+8 10
+8 19
+9 11
+9 11
+9 22
+10 11
+10 23

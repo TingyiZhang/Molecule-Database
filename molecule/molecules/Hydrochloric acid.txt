@@ -1,0 +1,5 @@
+Hydrochloric acid
+2
+"Chlorine"
+"Hydrogen"
+0 1

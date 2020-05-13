@@ -1,0 +1,12 @@
+Phosphate
+5
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+0 1
+0 2
+0 3
+0 4
+0 4

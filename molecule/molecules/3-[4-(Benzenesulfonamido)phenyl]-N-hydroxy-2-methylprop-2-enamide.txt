@@ -1,0 +1,91 @@
+3-[4-(Benzenesulfonamido)phenyl]-N-hydroxy-2-methylprop-2-enamide
+39
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 5
+0 8
+3 22
+3 22
+4 6
+4 38
+5 7
+5 23
+6 22
+6 37
+7 10
+7 10
+7 11
+8 14
+8 14
+8 15
+9 12
+9 12
+9 13
+9 16
+10 12
+10 24
+11 13
+11 13
+11 25
+12 26
+13 27
+14 18
+14 28
+15 19
+15 19
+15 29
+16 17
+16 17
+16 30
+17 21
+17 22
+18 20
+18 20
+18 31
+19 20
+19 32
+20 33
+21 34
+21 35
+21 36

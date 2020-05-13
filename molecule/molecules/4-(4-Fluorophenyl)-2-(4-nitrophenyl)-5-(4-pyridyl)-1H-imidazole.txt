@@ -1,0 +1,97 @@
+4-(4-Fluorophenyl)-2-(4-nitrophenyl)-5-(4-pyridyl)-1H-imidazole
+40
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 24
+1 6
+2 6
+2 6
+3 7
+3 9
+3 27
+4 8
+4 9
+4 9
+5 25
+5 25
+5 26
+6 21
+7 8
+7 8
+7 12
+8 10
+9 11
+10 15
+10 15
+10 16
+11 13
+11 13
+11 14
+12 17
+12 17
+12 18
+13 19
+13 28
+14 20
+14 20
+14 29
+15 22
+15 30
+16 23
+16 23
+16 31
+17 25
+17 32
+18 26
+18 26
+18 33
+19 21
+19 21
+19 34
+20 21
+20 35
+22 24
+22 24
+22 36
+23 24
+23 37
+25 38
+26 39

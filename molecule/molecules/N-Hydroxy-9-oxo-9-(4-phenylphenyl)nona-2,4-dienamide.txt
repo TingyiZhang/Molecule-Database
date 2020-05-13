@@ -1,0 +1,105 @@
+N-Hydroxy-9-oxo-9-(4-phenylphenyl)nona-2,4-dienamide
+46
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 24
+1 24
+2 3
+2 45
+3 24
+3 44
+4 5
+4 6
+4 25
+4 26
+5 7
+5 27
+5 28
+6 15
+6 29
+6 30
+7 8
+8 10
+8 10
+8 11
+9 12
+9 12
+9 13
+9 14
+10 12
+10 31
+11 13
+11 13
+11 32
+12 33
+13 34
+14 16
+14 16
+14 17
+15 18
+15 18
+15 35
+16 19
+16 36
+17 20
+17 20
+17 37
+18 22
+18 38
+19 21
+19 21
+19 39
+20 21
+20 40
+21 41
+22 23
+22 23
+22 42
+23 24
+23 43

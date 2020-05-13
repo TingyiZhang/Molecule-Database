@@ -1,0 +1,143 @@
+15-(1-Methoxycyclopentyl)oxy-2,16-dimethyl-5-thiapentacyclo[9.7.0.02,8.04,6.012,16]octadecane
+68
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 15
+1 17
+1 22
+2 22
+2 27
+3 4
+3 8
+3 9
+3 20
+4 5
+4 10
+4 28
+5 6
+5 11
+5 29
+6 7
+6 18
+6 30
+7 12
+7 17
+7 21
+8 14
+8 16
+8 31
+9 13
+9 32
+9 33
+10 12
+10 34
+10 35
+11 14
+11 36
+11 37
+12 38
+12 39
+13 15
+13 40
+14 41
+14 42
+15 16
+15 43
+16 44
+16 45
+17 19
+17 46
+18 19
+18 47
+18 48
+19 49
+19 50
+20 51
+20 52
+20 53
+21 54
+21 55
+21 56
+22 23
+22 24
+23 25
+23 57
+23 58
+24 26
+24 59
+24 60
+25 26
+25 61
+25 62
+26 63
+26 64
+27 65
+27 66
+27 67

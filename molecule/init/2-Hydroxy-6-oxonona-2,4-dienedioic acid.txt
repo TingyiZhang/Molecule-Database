@@ -1,0 +1,56 @@
+2-Hydroxy-6-oxonona-2,4-dienedioic acid
+25
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 8
+1 10
+1 22
+2 10
+2 10
+3 13
+3 23
+4 14
+4 24
+5 14
+5 14
+6 7
+6 8
+6 15
+6 16
+7 10
+7 17
+7 18
+8 9
+9 11
+9 11
+9 19
+11 12
+11 20
+12 13
+12 13
+12 21
+13 14

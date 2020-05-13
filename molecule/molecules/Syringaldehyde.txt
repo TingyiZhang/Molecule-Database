@@ -1,0 +1,52 @@
+Syringaldehyde
+23
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 11
+1 5
+1 12
+2 6
+2 16
+3 10
+3 10
+4 6
+4 6
+4 8
+5 6
+5 9
+5 9
+7 8
+7 8
+7 9
+7 10
+8 13
+9 14
+10 15
+11 17
+11 18
+11 19
+12 20
+12 21
+12 22

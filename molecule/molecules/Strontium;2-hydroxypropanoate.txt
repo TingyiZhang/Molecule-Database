@@ -1,0 +1,25 @@
+Strontium;2-hydroxypropanoate
+12
+"Strontium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+1 4
+1 11
+2 6
+3 6
+3 6
+4 5
+4 6
+4 7
+5 8
+5 9
+5 10

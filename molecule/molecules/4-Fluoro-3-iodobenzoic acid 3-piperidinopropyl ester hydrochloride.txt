@@ -1,0 +1,88 @@
+4-Fluoro-3-iodobenzoic acid 3-piperidinopropyl ester hydrochloride
+41
+"Iodine"
+"Chlorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+1 40
+2 20
+3 13
+3 14
+4 14
+4 14
+5 6
+5 7
+5 11
+6 8
+6 21
+6 22
+7 9
+7 23
+7 24
+8 10
+8 25
+8 26
+9 10
+9 27
+9 28
+10 29
+10 30
+11 12
+11 31
+11 32
+12 13
+12 33
+12 34
+13 35
+13 36
+14 15
+15 16
+15 16
+15 17
+16 18
+16 37
+17 19
+17 19
+17 38
+18 20
+18 20
+19 20
+19 39

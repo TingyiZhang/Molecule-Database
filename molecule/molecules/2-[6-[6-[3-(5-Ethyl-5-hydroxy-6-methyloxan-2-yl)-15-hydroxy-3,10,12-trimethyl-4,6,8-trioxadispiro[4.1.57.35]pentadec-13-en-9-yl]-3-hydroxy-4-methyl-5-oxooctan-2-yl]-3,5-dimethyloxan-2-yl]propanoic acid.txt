@@ -1,0 +1,255 @@
+2-[6-[6-[3-(5-Ethyl-5-hydroxy-6-methyloxan-2-yl)-15-hydroxy-3,10,12-trimethyl-4,6,8-trioxadispiro[4.1.57.35]pentadec-13-en-9-yl]-3-hydroxy-4-methyl-5-oxooctan-2-yl]-3,5-dimethyloxan-2-yl]propanoic acid
+123
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 12
+1 12
+1 13
+2 13
+2 18
+3 16
+3 28
+4 19
+4 97
+5 32
+5 42
+6 23
+6 98
+7 39
+7 118
+8 34
+8 34
+9 52
+9 122
+10 52
+10 52
+11 14
+11 16
+11 25
+12 15
+12 19
+13 17
+13 27
+14 15
+14 53
+14 54
+15 55
+15 56
+16 22
+16 57
+17 21
+17 30
+17 58
+18 20
+18 24
+18 59
+19 29
+19 60
+20 21
+20 31
+20 61
+21 62
+21 63
+22 26
+22 64
+22 65
+23 26
+23 28
+23 37
+24 34
+24 38
+24 66
+25 67
+25 68
+25 69
+26 70
+26 71
+27 29
+27 29
+27 72
+28 43
+28 73
+29 74
+30 75
+30 76
+30 77
+31 79
+31 80
+31 81
+32 33
+32 36
+32 78
+33 39
+33 44
+33 82
+34 35
+35 39
+35 46
+35 83
+36 41
+36 47
+36 84
+37 48
+37 85
+37 86
+38 49
+38 87
+38 88
+39 89
+40 41
+40 42
+40 50
+40 90
+41 91
+41 92
+42 45
+42 93
+43 94
+43 95
+43 96
+44 99
+44 100
+44 101
+45 51
+45 52
+45 102
+46 103
+46 104
+46 105
+47 106
+47 107
+47 108
+48 109
+48 110
+48 111
+49 112
+49 113
+49 114
+50 115
+50 116
+50 117
+51 119
+51 120
+51 121

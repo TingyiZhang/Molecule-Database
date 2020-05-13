@@ -1,0 +1,44 @@
+1-Methylhistamine
+20
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 7
+0 8
+1 4
+1 7
+1 7
+2 5
+2 18
+2 19
+3 4
+3 5
+3 9
+3 10
+4 6
+4 6
+5 11
+5 12
+6 13
+7 14
+8 15
+8 16
+8 17

@@ -1,0 +1,12 @@
+Formic acid
+5
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 4
+1 2
+1 2
+2 3

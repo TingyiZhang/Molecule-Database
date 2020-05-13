@@ -1,0 +1,61 @@
+2-Methyl-4-phenyl-2-butanol
+28
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 22
+1 2
+1 4
+1 5
+2 3
+2 12
+2 13
+3 6
+3 14
+3 15
+4 16
+4 17
+4 18
+5 19
+5 20
+5 21
+6 7
+6 7
+6 8
+7 9
+7 23
+8 10
+8 10
+8 24
+9 11
+9 11
+9 25
+10 11
+10 26
+11 27

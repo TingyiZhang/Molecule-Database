@@ -1,0 +1,73 @@
+7-Hydroxy-2-acetamidofluorene
+31
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 27
+1 16
+1 16
+2 12
+2 16
+2 26
+3 4
+3 6
+3 18
+3 19
+4 5
+4 5
+4 8
+5 7
+5 9
+6 7
+6 7
+6 10
+7 11
+8 12
+8 12
+8 20
+9 13
+9 13
+9 21
+10 14
+10 14
+10 22
+11 15
+11 15
+11 23
+12 13
+13 24
+14 15
+15 25
+16 17
+17 28
+17 29
+17 30

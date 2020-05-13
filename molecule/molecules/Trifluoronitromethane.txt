@@ -1,0 +1,16 @@
+Trifluoronitromethane
+7
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+0 6
+1 6
+2 6
+3 5
+4 5
+4 5
+5 6

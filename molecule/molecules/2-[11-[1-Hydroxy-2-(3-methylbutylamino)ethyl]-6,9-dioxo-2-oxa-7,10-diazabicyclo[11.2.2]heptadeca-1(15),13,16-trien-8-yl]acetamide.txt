@@ -1,0 +1,145 @@
+2-[11-[1-Hydroxy-2-(3-methylbutylamino)ethyl]-6,9-dioxo-2-oxa-7,10-diazabicyclo[11.2.2]heptadeca-1(15),13,16-trien-8-yl]acetamide
+68
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 46
+1 18
+1 18
+2 26
+2 30
+3 28
+3 28
+4 31
+4 31
+5 9
+5 18
+5 38
+6 12
+6 13
+6 39
+7 16
+7 28
+7 51
+8 31
+8 66
+8 67
+9 10
+9 11
+9 32
+10 12
+10 33
+11 14
+11 34
+11 35
+12 36
+12 37
+13 15
+13 40
+13 41
+14 20
+14 20
+14 21
+15 17
+15 42
+15 43
+16 18
+16 19
+16 44
+17 22
+17 23
+17 45
+19 31
+19 47
+19 48
+20 24
+20 49
+21 25
+21 25
+21 50
+22 52
+22 53
+22 54
+23 55
+23 56
+23 57
+24 26
+24 26
+24 58
+25 26
+25 59
+27 28
+27 29
+27 60
+27 61
+29 30
+29 62
+29 63
+30 64
+30 65

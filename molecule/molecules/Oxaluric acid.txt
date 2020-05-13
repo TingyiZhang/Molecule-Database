@@ -1,0 +1,30 @@
+Oxaluric acid
+13
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 12
+1 6
+1 6
+2 7
+2 7
+3 8
+3 8
+4 6
+4 7
+4 9
+5 7
+5 10
+5 11
+6 8

@@ -1,0 +1,56 @@
+6-Hydroxynaphthalene-2-sulfonic acid
+23
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 3
+0 3
+0 4
+0 4
+0 7
+1 21
+2 13
+2 22
+5 6
+5 6
+5 8
+5 11
+6 9
+6 12
+7 8
+7 8
+7 10
+8 15
+9 10
+9 10
+9 16
+10 17
+11 14
+11 14
+11 18
+12 13
+12 13
+12 19
+13 14
+14 20

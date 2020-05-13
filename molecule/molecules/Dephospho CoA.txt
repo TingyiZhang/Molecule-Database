@@ -1,0 +1,170 @@
+Dephospho CoA
+79
+"Sulfur"
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 43
+0 78
+1 6
+1 8
+1 10
+1 11
+1 11
+2 7
+2 8
+2 13
+2 14
+2 14
+3 25
+3 26
+4 23
+4 50
+5 24
+5 51
+6 27
+7 33
+9 32
+9 62
+10 67
+12 37
+12 37
+13 72
+15 41
+15 41
+16 25
+16 28
+16 30
+17 30
+17 30
+17 31
+18 28
+18 28
+18 38
+19 37
+19 39
+19 64
+20 36
+20 38
+20 38
+21 36
+21 68
+21 69
+22 41
+22 42
+22 73
+23 24
+23 25
+23 44
+24 26
+24 45
+25 46
+26 27
+26 47
+27 48
+27 49
+28 31
+29 32
+29 33
+29 34
+29 35
+30 52
+31 36
+31 36
+32 37
+32 53
+33 54
+33 55
+34 56
+34 57
+34 58
+35 59
+35 60
+35 61
+38 63
+39 40
+39 65
+39 66
+40 41
+40 70
+40 71
+42 43
+42 74
+42 75
+43 76
+43 77

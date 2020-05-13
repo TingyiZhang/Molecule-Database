@@ -1,0 +1,65 @@
+Dinoseb
+29
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 28
+1 5
+2 5
+2 5
+3 6
+4 6
+4 6
+5 14
+6 15
+7 8
+7 9
+7 10
+7 17
+8 11
+8 11
+8 12
+9 13
+9 18
+9 19
+10 20
+10 21
+10 22
+11 14
+12 15
+12 15
+12 23
+13 24
+13 25
+13 26
+14 16
+14 16
+15 16
+16 27

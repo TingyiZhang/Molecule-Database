@@ -1,0 +1,156 @@
+Gentamicin
+76
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 18
+1 13
+1 21
+2 14
+2 56
+3 18
+3 26
+4 21
+4 24
+5 20
+5 64
+6 22
+6 65
+7 15
+7 52
+7 53
+8 16
+8 54
+8 55
+9 19
+9 31
+9 61
+10 23
+10 62
+10 63
+11 28
+11 32
+11 69
+12 14
+12 15
+12 33
+13 14
+13 16
+13 34
+14 35
+15 17
+15 36
+16 17
+16 37
+17 38
+17 39
+18 20
+18 40
+19 20
+19 22
+19 41
+20 42
+21 23
+21 43
+22 26
+22 29
+23 25
+23 44
+24 27
+24 28
+24 45
+25 27
+25 46
+25 47
+26 48
+26 49
+27 50
+27 51
+28 30
+28 57
+29 58
+29 59
+29 60
+30 66
+30 67
+30 68
+31 70
+31 71
+31 72
+32 73
+32 74
+32 75

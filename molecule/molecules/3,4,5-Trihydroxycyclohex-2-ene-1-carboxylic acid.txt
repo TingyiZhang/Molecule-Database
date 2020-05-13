@@ -1,0 +1,48 @@
+3,4,5-Trihydroxycyclohex-2-ene-1-carboxylic acid
+22
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 18
+1 8
+1 19
+2 10
+2 20
+3 11
+3 21
+4 11
+4 11
+5 6
+5 8
+5 12
+6 7
+6 13
+6 14
+7 9
+7 11
+7 15
+8 10
+8 16
+9 10
+9 10
+9 17

@@ -1,0 +1,72 @@
+Flurbiprofen
+31
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 12
+1 30
+2 12
+2 12
+3 4
+3 10
+3 12
+3 18
+4 6
+4 6
+4 7
+5 8
+5 8
+5 9
+5 11
+6 8
+6 19
+7 9
+7 9
+7 20
+9 21
+10 22
+10 23
+10 24
+11 13
+11 13
+11 14
+13 15
+13 25
+14 16
+14 16
+14 26
+15 17
+15 17
+15 27
+16 17
+16 28
+17 29

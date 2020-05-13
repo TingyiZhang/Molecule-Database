@@ -1,0 +1,162 @@
+6-(6-Benzyl-2,5,8,11-tetraoxo-3-propan-2-yl-1,4,7,10-tetrazabicyclo[10.3.0]pentadecan-9-yl)hexanoic acid
+75
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 15
+1 16
+1 16
+2 23
+2 23
+3 24
+3 24
+4 33
+4 74
+5 33
+5 33
+6 10
+6 12
+6 15
+7 16
+7 18
+7 47
+8 14
+8 24
+8 48
+9 20
+9 23
+9 60
+10 11
+10 16
+10 37
+11 13
+11 38
+11 39
+12 13
+12 40
+12 41
+13 42
+13 43
+14 15
+14 17
+14 44
+17 21
+17 22
+17 45
+18 19
+18 23
+18 46
+19 25
+19 49
+19 50
+20 24
+20 26
+20 51
+21 52
+21 53
+21 54
+22 55
+22 56
+22 57
+25 27
+25 58
+25 59
+26 29
+26 61
+26 62
+27 28
+27 63
+27 64
+28 30
+28 65
+28 66
+29 31
+29 31
+29 32
+30 33
+30 67
+30 68
+31 34
+31 69
+32 35
+32 35
+32 70
+34 36
+34 36
+34 71
+35 36
+35 72
+36 73

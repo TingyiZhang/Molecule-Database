@@ -1,0 +1,135 @@
+2-Butyl-6-hydroxy-3-[2'-(1H-tetrazol-5-YL)-biphenyl-4-ylmethyl]-3H-quinazolin-4-one
+58
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 12
+1 26
+1 56
+2 8
+2 10
+2 12
+3 8
+3 8
+3 16
+4 6
+4 32
+4 32
+5 7
+5 7
+5 32
+6 7
+6 57
+8 9
+9 11
+9 34
+9 35
+10 13
+10 36
+10 37
+11 15
+11 38
+11 39
+12 14
+13 17
+13 17
+13 18
+14 16
+14 16
+14 20
+15 22
+15 40
+15 41
+16 21
+17 23
+17 42
+18 24
+18 24
+18 43
+19 23
+19 23
+19 24
+19 25
+20 26
+20 26
+20 44
+21 27
+21 27
+21 45
+22 46
+22 47
+22 48
+23 49
+24 50
+25 28
+25 29
+25 29
+26 27
+27 51
+28 30
+28 30
+28 32
+29 31
+29 52
+30 33
+30 53
+31 33
+31 33
+31 54
+33 55

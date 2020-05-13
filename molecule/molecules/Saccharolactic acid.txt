@@ -1,0 +1,51 @@
+Saccharolactic acid
+24
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 18
+1 9
+1 19
+2 10
+2 20
+3 11
+3 21
+4 12
+4 22
+5 13
+5 23
+6 12
+6 12
+7 13
+7 13
+8 9
+8 10
+8 14
+9 11
+9 15
+10 12
+10 16
+11 13
+11 17

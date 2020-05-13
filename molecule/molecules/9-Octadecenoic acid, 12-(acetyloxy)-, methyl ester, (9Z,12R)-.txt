@@ -1,0 +1,130 @@
+9-Octadecenoic acid, 12-(acetyloxy)-, methyl ester, (9Z,12R)-
+63
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 21
+1 22
+1 24
+2 21
+2 21
+3 22
+3 22
+4 5
+4 6
+4 25
+4 26
+5 8
+5 27
+6 7
+6 28
+6 29
+7 11
+7 30
+7 31
+8 16
+8 32
+8 33
+9 10
+9 12
+9 34
+9 35
+10 13
+10 36
+10 37
+11 15
+11 38
+11 39
+12 14
+12 40
+12 41
+13 17
+13 42
+13 43
+14 18
+14 44
+14 45
+15 20
+15 48
+15 49
+16 18
+16 18
+16 50
+17 19
+17 46
+17 47
+18 51
+19 22
+19 52
+19 53
+20 54
+20 55
+20 56
+21 23
+23 57
+23 58
+23 59
+24 60
+24 61
+24 62

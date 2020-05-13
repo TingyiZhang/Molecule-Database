@@ -1,0 +1,38 @@
+4-Aminobenzoate
+16
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+1 9
+1 9
+2 4
+2 14
+2 15
+3 5
+3 5
+3 6
+3 9
+4 7
+4 7
+4 8
+5 7
+5 10
+6 8
+6 8
+6 11
+7 12
+8 13

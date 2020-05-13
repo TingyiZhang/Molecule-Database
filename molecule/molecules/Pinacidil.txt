@@ -1,0 +1,82 @@
+Pinacidil
+37
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 11
+0 11
+1 11
+1 12
+1 31
+2 11
+2 15
+2 32
+3 16
+3 16
+3 17
+4 15
+4 15
+4 15
+5 6
+5 7
+5 8
+5 9
+6 10
+6 18
+7 19
+7 20
+7 21
+8 22
+8 23
+8 24
+9 25
+9 26
+9 27
+10 28
+10 29
+10 30
+12 13
+12 13
+12 14
+13 16
+13 33
+14 17
+14 17
+14 34
+16 35
+17 36

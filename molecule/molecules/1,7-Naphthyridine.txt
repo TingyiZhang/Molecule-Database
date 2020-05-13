@@ -1,0 +1,40 @@
+1,7-Naphthyridine
+16
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 9
+0 9
+1 6
+1 6
+1 8
+2 3
+2 3
+2 4
+2 5
+3 6
+4 7
+4 7
+4 10
+5 8
+5 8
+5 11
+6 12
+7 9
+7 13
+8 14
+9 15

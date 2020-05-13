@@ -1,0 +1,66 @@
+Aniracetam
+29
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 8
+1 8
+2 14
+2 15
+3 5
+3 7
+3 8
+4 5
+4 6
+4 16
+4 17
+5 18
+5 19
+6 7
+6 20
+6 21
+8 9
+9 10
+9 10
+9 11
+10 12
+10 22
+11 13
+11 13
+11 23
+12 14
+12 14
+12 24
+13 14
+13 25
+15 26
+15 27
+15 28

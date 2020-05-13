@@ -1,0 +1,28 @@
+2-Chloroethyl vinyl ether
+13
+"Chlorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+1 2
+1 4
+2 3
+2 6
+2 7
+3 8
+3 9
+4 5
+4 5
+4 10
+5 11
+5 12

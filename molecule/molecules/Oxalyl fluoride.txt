@@ -1,0 +1,15 @@
+Oxalyl fluoride
+6
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+0 4
+1 5
+2 4
+2 4
+3 5
+3 5
+4 5

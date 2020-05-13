@@ -1,0 +1,70 @@
+Isopropyl 4-amino-2-sulfamoylbenzoate
+31
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+0 3
+0 3
+0 5
+0 7
+1 9
+1 13
+4 13
+4 13
+5 27
+5 28
+6 12
+6 29
+6 30
+7 8
+7 8
+7 10
+8 11
+8 13
+9 15
+9 16
+9 17
+10 12
+10 12
+10 18
+11 14
+11 14
+11 19
+12 14
+14 20
+15 21
+15 22
+15 23
+16 24
+16 25
+16 26

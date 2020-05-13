@@ -1,0 +1,194 @@
+2-[[4-[Hydroxy(methoxy)methyl]phenyl]methyl]-7-[[4-(hydroxymethyl)phenyl]methyl]-1,1-dioxo-3,6-bis(phenoxymethyl)-1,2,7-thiadiazepane-4,5-diol
+87
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 3
+0 4
+0 4
+0 10
+0 11
+1 14
+1 59
+2 15
+2 60
+5 16
+5 26
+6 17
+6 27
+7 38
+7 46
+8 38
+8 82
+9 39
+9 83
+10 12
+10 18
+11 13
+11 19
+12 14
+12 16
+12 47
+13 15
+13 17
+13 48
+14 15
+14 49
+15 50
+16 51
+16 52
+17 53
+17 54
+18 20
+18 55
+18 56
+19 21
+19 57
+19 58
+20 22
+20 22
+20 23
+21 24
+21 24
+21 25
+22 28
+22 61
+23 29
+23 29
+23 62
+24 30
+24 63
+25 31
+25 31
+25 64
+26 34
+26 34
+26 35
+27 36
+27 36
+27 37
+28 32
+28 32
+28 65
+29 32
+29 66
+30 33
+30 33
+30 67
+31 33
+31 68
+32 38
+33 39
+34 40
+34 69
+35 41
+35 41
+35 70
+36 42
+36 71
+37 43
+37 43
+37 72
+38 73
+39 74
+39 75
+40 44
+40 44
+40 76
+41 44
+41 77
+42 45
+42 45
+42 78
+43 45
+43 79
+44 80
+45 81
+46 84
+46 85
+46 86

@@ -1,0 +1,7 @@
+Cyanide ion
+2
+"Nitrogen"
+"Carbon"
+0 1
+0 1
+0 1

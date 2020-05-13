@@ -1,0 +1,29 @@
+Pentachlorofluorobenzene
+12
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+0 6
+1 7
+2 8
+3 9
+4 10
+5 11
+6 7
+6 7
+6 8
+7 10
+8 9
+8 9
+9 11
+10 11
+10 11

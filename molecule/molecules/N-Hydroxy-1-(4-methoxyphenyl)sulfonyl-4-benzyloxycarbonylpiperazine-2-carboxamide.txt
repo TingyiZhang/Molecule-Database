@@ -1,0 +1,122 @@
+N-Hydroxy-1-(4-methoxyphenyl)sulfonyl-4-benzyloxycarbonylpiperazine-2-carboxamide
+54
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 8
+0 16
+3 17
+3 22
+4 15
+4 15
+5 17
+5 17
+6 10
+6 45
+7 23
+7 29
+8 11
+8 13
+9 12
+9 14
+9 17
+10 15
+10 38
+11 12
+11 15
+11 31
+12 32
+12 33
+13 14
+13 34
+13 35
+14 36
+14 37
+16 18
+16 18
+16 19
+18 20
+18 39
+19 21
+19 21
+19 40
+20 23
+20 23
+20 41
+21 23
+21 42
+22 24
+22 43
+22 44
+24 25
+24 25
+24 26
+25 27
+25 46
+26 28
+26 28
+26 47
+27 30
+27 30
+27 48
+28 30
+28 49
+29 50
+29 51
+29 52
+30 53

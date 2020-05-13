@@ -1,0 +1,170 @@
+7-[2-(4-Fluorophenyl)-3-phenyl-4-(phenylcarbamoyl)-5-propan-2-ylpyrrol-1-yl]-3,5-dihydroxyheptanoic acid
+76
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 32
+1 15
+1 60
+2 21
+2 66
+3 22
+3 22
+4 34
+4 72
+5 34
+5 34
+6 8
+6 9
+6 10
+7 22
+7 33
+7 63
+8 11
+8 13
+8 13
+9 12
+9 41
+9 42
+10 14
+10 14
+10 17
+11 18
+11 19
+11 43
+12 15
+12 44
+12 45
+13 14
+13 22
+14 20
+15 16
+15 46
+16 21
+16 47
+16 48
+17 24
+17 24
+17 25
+18 49
+18 50
+18 51
+19 52
+19 53
+19 54
+20 26
+20 26
+20 27
+21 23
+21 55
+23 34
+23 56
+23 57
+24 28
+24 58
+25 29
+25 29
+25 59
+26 30
+26 61
+27 31
+27 31
+27 62
+28 32
+28 32
+28 64
+29 32
+29 65
+30 35
+30 35
+30 67
+31 35
+31 68
+33 36
+33 36
+33 37
+35 69
+36 38
+36 70
+37 39
+37 39
+37 71
+38 40
+38 40
+38 73
+39 40
+39 74
+40 75

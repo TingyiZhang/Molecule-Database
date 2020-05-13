@@ -1,0 +1,36 @@
+4-Chlorobenzoic acid
+15
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 9
+1 14
+2 9
+2 9
+3 4
+3 4
+3 5
+3 9
+4 6
+4 10
+5 7
+5 7
+5 11
+6 8
+6 8
+6 12
+7 8
+7 13

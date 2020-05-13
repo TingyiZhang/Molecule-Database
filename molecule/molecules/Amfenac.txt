@@ -1,0 +1,75 @@
+Amfenac
+32
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 10
+1 15
+1 31
+2 15
+2 15
+3 5
+3 24
+3 25
+4 5
+4 5
+4 7
+4 8
+5 6
+6 9
+6 9
+6 10
+7 15
+7 19
+7 20
+8 11
+8 11
+8 21
+9 11
+9 22
+10 12
+11 23
+12 13
+12 13
+12 14
+13 16
+13 26
+14 17
+14 17
+14 27
+16 18
+16 18
+16 28
+17 18
+17 29
+18 30

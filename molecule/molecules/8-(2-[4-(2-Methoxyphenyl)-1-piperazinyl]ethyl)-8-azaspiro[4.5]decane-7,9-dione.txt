@@ -1,0 +1,128 @@
+8-(2-[4-(2-Methoxyphenyl)-1-piperazinyl]ethyl)-8-azaspiro[4.5]decane-7,9-dione
+59
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 13
+1 14
+1 14
+2 22
+2 27
+3 13
+3 14
+3 15
+4 16
+4 17
+4 18
+5 19
+5 20
+5 21
+6 7
+6 8
+6 11
+6 12
+7 9
+7 28
+7 29
+8 10
+8 30
+8 31
+9 10
+9 32
+9 33
+10 34
+10 35
+11 13
+11 36
+11 37
+12 14
+12 38
+12 39
+15 16
+15 40
+15 41
+16 42
+16 43
+17 19
+17 44
+17 45
+18 20
+18 46
+18 47
+19 48
+19 49
+20 50
+20 51
+21 22
+21 23
+21 23
+22 24
+22 24
+23 25
+23 52
+24 26
+24 53
+25 26
+25 26
+25 54
+26 55
+27 56
+27 57
+27 58

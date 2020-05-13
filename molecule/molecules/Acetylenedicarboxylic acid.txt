@@ -1,0 +1,25 @@
+Acetylenedicarboxylic acid
+10
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 8
+1 5
+1 9
+2 4
+2 4
+3 5
+3 5
+4 6
+5 7
+6 7
+6 7
+6 7

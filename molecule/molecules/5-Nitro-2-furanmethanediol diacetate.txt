@@ -1,0 +1,59 @@
+5-Nitro-2-furanmethanediol diacetate
+26
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 11
+1 8
+1 13
+2 8
+2 14
+3 13
+3 13
+4 14
+4 14
+5 7
+6 7
+6 7
+7 11
+8 9
+8 17
+9 10
+9 10
+10 12
+10 18
+11 12
+11 12
+12 19
+13 15
+14 16
+15 20
+15 21
+15 22
+16 23
+16 24
+16 25

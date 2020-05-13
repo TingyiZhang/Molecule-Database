@@ -1,0 +1,63 @@
+Allyl heptanoate
+30
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 9
+1 8
+1 8
+2 3
+2 4
+2 12
+2 13
+3 5
+3 14
+3 15
+4 6
+4 16
+4 17
+5 7
+5 18
+5 19
+6 8
+6 20
+6 21
+7 22
+7 23
+7 24
+9 10
+9 25
+9 26
+10 11
+10 11
+10 27
+11 28
+11 29

@@ -1,0 +1,96 @@
+Ampicillin
+43
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 9
+1 12
+1 12
+2 15
+2 35
+3 15
+3 15
+4 16
+4 16
+5 8
+5 10
+5 12
+6 11
+6 16
+6 33
+7 17
+7 36
+7 37
+8 11
+8 24
+9 10
+9 13
+9 14
+10 15
+10 25
+11 12
+11 26
+13 27
+13 28
+13 29
+14 30
+14 31
+14 32
+16 17
+17 18
+17 34
+18 19
+18 19
+18 20
+19 21
+19 38
+20 22
+20 22
+20 39
+21 23
+21 23
+21 40
+22 23
+22 41
+23 42

@@ -1,0 +1,31 @@
+2-Cyanopyridine
+12
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 6
+0 6
+1 7
+1 7
+1 7
+2 3
+2 4
+2 4
+2 8
+3 5
+3 5
+3 9
+4 7
+5 6
+5 10
+6 11

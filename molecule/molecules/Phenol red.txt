@@ -1,0 +1,94 @@
+Phenol red
+39
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 2
+0 3
+0 3
+0 8
+1 6
+4 23
+4 37
+5 24
+5 38
+6 7
+6 9
+6 10
+7 8
+7 11
+7 11
+8 12
+8 12
+9 13
+9 13
+9 15
+10 14
+10 14
+10 16
+11 17
+11 25
+12 18
+12 26
+13 19
+13 27
+14 20
+14 28
+15 21
+15 21
+15 29
+16 22
+16 22
+16 30
+17 18
+17 18
+17 31
+18 32
+19 23
+19 23
+19 33
+20 24
+20 24
+20 34
+21 23
+21 35
+22 24
+22 36

@@ -1,0 +1,78 @@
+Phenethyl phenylacetate
+34
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 9
+1 9
+1 9
+2 3
+2 4
+2 18
+2 19
+3 7
+3 7
+3 8
+4 20
+4 21
+5 6
+5 9
+5 22
+5 23
+6 10
+6 10
+6 11
+7 12
+7 24
+8 13
+8 13
+8 25
+10 15
+10 26
+11 16
+11 16
+11 27
+12 14
+12 14
+12 28
+13 14
+13 29
+14 30
+15 17
+15 17
+15 31
+16 17
+16 32
+17 33

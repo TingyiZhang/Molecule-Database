@@ -1,0 +1,87 @@
+(p-Fluorophenoxy)acetic acid 2-(diethylamino)ethyl ester hydrochloride
+41
+"Chlorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 40
+1 19
+2 9
+2 12
+3 13
+3 14
+4 12
+4 12
+5 6
+5 7
+5 8
+6 9
+6 20
+6 21
+7 10
+7 22
+7 23
+8 11
+8 24
+8 25
+9 26
+9 27
+10 28
+10 29
+10 30
+11 31
+11 32
+11 33
+12 13
+13 34
+13 35
+14 15
+14 15
+14 16
+15 17
+15 36
+16 18
+16 18
+16 37
+17 19
+17 19
+17 38
+18 19
+18 39

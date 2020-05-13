@@ -1,0 +1,72 @@
+Emodin
+30
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 27
+1 9
+1 9
+2 10
+2 10
+3 14
+3 28
+4 17
+4 29
+5 6
+5 6
+5 10
+5 11
+6 9
+6 12
+7 8
+7 8
+7 9
+7 14
+8 10
+8 15
+11 13
+11 13
+11 20
+12 16
+12 16
+13 16
+13 19
+14 18
+14 18
+15 17
+15 17
+15 21
+16 22
+17 18
+18 23
+19 24
+19 25
+19 26

@@ -1,0 +1,49 @@
+4-Nitroquinoline N-oxide
+20
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+1 4
+2 4
+2 4
+3 6
+3 11
+3 11
+4 7
+5 6
+5 7
+5 8
+5 8
+6 9
+6 9
+7 10
+7 10
+8 12
+8 14
+9 13
+9 15
+10 11
+10 16
+11 17
+12 13
+12 13
+12 18
+13 19

@@ -1,0 +1,102 @@
+3-Ethyl-3,13,23-triazahexacyclo[14.7.0.02,10.04,9.011,15.017,22]tricosa-1,4,6,8,10,15,17,19,21-nonaene-12,14-dione
+42
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 16
+1 17
+1 17
+2 5
+2 12
+2 15
+3 7
+3 14
+3 27
+4 16
+4 17
+4 32
+5 6
+5 7
+5 7
+6 9
+6 9
+6 11
+7 8
+8 10
+8 10
+8 13
+9 10
+9 16
+10 17
+11 12
+11 18
+11 18
+12 19
+12 19
+13 14
+13 20
+13 20
+14 21
+14 21
+15 22
+15 28
+15 29
+18 23
+18 30
+19 24
+19 31
+20 25
+20 33
+21 26
+21 34
+22 35
+22 36
+22 37
+23 24
+23 24
+23 38
+24 39
+25 26
+25 26
+25 40
+26 41

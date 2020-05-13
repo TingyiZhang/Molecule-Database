@@ -1,0 +1,170 @@
+Lup-20(29)-en-28-oic acid, 3beta-hydroxy-
+81
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 25
+0 74
+1 27
+1 78
+2 27
+2 27
+3 4
+3 5
+3 11
+3 20
+4 6
+4 13
+4 21
+5 7
+5 12
+5 33
+6 8
+6 14
+6 34
+7 9
+7 19
+7 24
+8 10
+8 18
+8 35
+9 15
+9 17
+9 36
+10 16
+10 22
+10 27
+11 15
+11 37
+11 38
+12 14
+12 39
+12 40
+13 16
+13 41
+13 42
+14 43
+14 44
+15 45
+15 46
+16 47
+16 48
+17 25
+17 28
+17 29
+18 23
+18 30
+18 49
+19 26
+19 50
+19 51
+20 52
+20 53
+20 54
+21 55
+21 56
+21 57
+22 23
+22 58
+22 59
+23 60
+23 61
+24 62
+24 63
+24 64
+25 26
+25 65
+26 66
+26 67
+28 68
+28 69
+28 70
+29 71
+29 72
+29 73
+30 31
+30 32
+30 32
+31 75
+31 76
+31 77
+32 79
+32 80

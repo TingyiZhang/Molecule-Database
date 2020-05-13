@@ -1,0 +1,71 @@
+Fipronil
+30
+"Chlorine"
+"Chlorine"
+"Sulfur"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+1 19
+2 9
+2 9
+2 16
+2 24
+3 23
+4 23
+5 23
+6 24
+7 24
+8 24
+10 11
+10 14
+10 15
+11 17
+11 17
+12 15
+12 28
+12 29
+13 25
+13 25
+13 25
+14 18
+14 18
+14 19
+15 16
+15 16
+16 17
+17 25
+18 21
+19 22
+19 22
+20 21
+20 21
+20 22
+20 23
+21 26
+22 27

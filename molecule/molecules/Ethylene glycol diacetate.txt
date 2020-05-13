@@ -1,0 +1,43 @@
+Ethylene glycol diacetate
+20
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 6
+1 5
+1 7
+2 6
+2 6
+3 7
+3 7
+4 5
+4 10
+4 11
+5 12
+5 13
+6 8
+7 9
+8 14
+8 15
+8 16
+9 17
+9 18
+9 19

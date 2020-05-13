@@ -1,0 +1,119 @@
+2-(3-(Diisopropylamino)-1-phenylpropyl)-4-methylphenol
+55
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 54
+1 2
+1 5
+1 6
+2 3
+2 24
+2 25
+3 4
+3 26
+3 27
+4 7
+4 8
+4 28
+5 9
+5 10
+5 29
+6 11
+6 12
+6 30
+7 13
+7 14
+7 14
+8 15
+8 15
+8 16
+9 31
+9 32
+9 33
+10 34
+10 35
+10 36
+11 37
+11 38
+11 39
+12 40
+12 41
+12 42
+13 17
+13 17
+13 43
+14 18
+15 20
+15 44
+16 21
+16 21
+16 45
+17 19
+17 23
+18 19
+18 19
+18 46
+19 47
+20 22
+20 22
+20 48
+21 22
+21 49
+22 50
+23 51
+23 52
+23 53

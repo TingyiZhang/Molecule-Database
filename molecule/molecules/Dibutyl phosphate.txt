@@ -1,0 +1,66 @@
+Dibutyl phosphate
+32
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 4
+0 4
+1 7
+2 8
+3 31
+5 7
+5 9
+5 13
+5 14
+6 8
+6 10
+6 15
+6 16
+7 17
+7 18
+8 19
+8 20
+9 11
+9 21
+9 22
+10 12
+10 23
+10 24
+11 25
+11 26
+11 27
+12 28
+12 29
+12 30

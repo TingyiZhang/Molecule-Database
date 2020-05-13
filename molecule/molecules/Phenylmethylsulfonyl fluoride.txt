@@ -1,0 +1,43 @@
+Phenylmethylsulfonyl fluoride
+18
+"Sulfur"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 2
+0 3
+0 3
+0 4
+4 5
+4 11
+4 12
+5 6
+5 6
+5 7
+6 8
+6 13
+7 9
+7 9
+7 14
+8 10
+8 10
+8 15
+9 10
+9 16
+10 17

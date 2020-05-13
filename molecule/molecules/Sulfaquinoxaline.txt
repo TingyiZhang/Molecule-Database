@@ -1,0 +1,80 @@
+Sulfaquinoxaline
+33
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 3
+0 7
+3 8
+3 21
+4 8
+4 8
+4 11
+5 12
+5 16
+5 16
+6 15
+6 31
+6 32
+7 9
+7 9
+7 10
+8 16
+9 13
+9 22
+10 14
+10 14
+10 23
+11 12
+11 17
+11 17
+12 18
+12 18
+13 15
+13 15
+13 24
+14 15
+14 25
+16 26
+17 19
+17 27
+18 20
+18 28
+19 20
+19 20
+19 29
+20 30

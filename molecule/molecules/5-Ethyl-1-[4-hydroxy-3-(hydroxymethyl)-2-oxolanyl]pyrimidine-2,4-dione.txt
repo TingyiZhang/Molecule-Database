@@ -1,0 +1,74 @@
+5-Ethyl-1-[4-hydroxy-3-(hydroxymethyl)-2-oxolanyl]pyrimidine-2,4-dione
+34
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 10
+1 9
+1 26
+2 11
+2 27
+3 13
+3 13
+4 15
+4 15
+5 8
+5 12
+5 13
+6 13
+6 15
+6 28
+7 8
+7 9
+7 11
+7 18
+8 19
+9 10
+9 20
+10 21
+10 22
+11 23
+11 24
+12 14
+12 14
+12 25
+14 15
+14 16
+16 17
+16 29
+16 30
+17 31
+17 32
+17 33

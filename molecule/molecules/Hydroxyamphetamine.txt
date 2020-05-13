@@ -1,0 +1,53 @@
+Hydroxyamphetamine
+24
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 23
+1 2
+1 19
+1 20
+2 3
+2 5
+2 11
+3 4
+3 12
+3 13
+4 6
+4 6
+4 7
+5 14
+5 15
+5 16
+6 8
+6 17
+7 9
+7 9
+7 18
+8 10
+8 10
+8 21
+9 10
+9 22

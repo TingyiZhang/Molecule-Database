@@ -1,0 +1,32 @@
+2,6-Dichloroquinone-4-chloroimide
+13
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 9
+2 4
+3 10
+3 10
+4 5
+4 5
+5 6
+5 7
+6 8
+6 8
+6 11
+7 9
+7 9
+7 12
+8 10
+9 10

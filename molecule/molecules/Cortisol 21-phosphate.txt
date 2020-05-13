@@ -1,0 +1,131 @@
+Cortisol 21-phosphate
+61
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 6
+0 7
+0 8
+0 8
+1 13
+1 52
+2 16
+2 55
+3 25
+3 25
+4 29
+5 28
+5 28
+6 59
+7 60
+9 10
+9 13
+9 14
+9 20
+10 11
+10 17
+10 30
+11 12
+11 19
+11 31
+12 15
+12 16
+12 32
+13 18
+13 25
+14 16
+14 33
+14 34
+15 21
+15 23
+15 24
+16 35
+17 18
+17 36
+17 37
+18 38
+18 39
+19 22
+19 40
+19 41
+20 42
+20 43
+20 44
+21 22
+21 27
+21 27
+22 45
+22 46
+23 26
+23 47
+23 48
+24 49
+24 50
+24 51
+25 29
+26 28
+26 53
+26 54
+27 28
+27 56
+29 57
+29 58

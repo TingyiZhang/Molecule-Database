@@ -1,0 +1,42 @@
+(2S,3R)-2,3,4,5-Tetrahydroxypentanal
+20
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 15
+1 6
+1 17
+2 7
+2 18
+3 8
+3 19
+4 9
+4 9
+5 6
+5 7
+5 10
+6 8
+6 11
+7 9
+7 12
+8 13
+8 14
+9 16

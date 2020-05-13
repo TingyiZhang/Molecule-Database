@@ -1,0 +1,84 @@
+Gualenic acid
+37
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 2
+0 3
+0 3
+0 7
+1 36
+4 5
+4 9
+4 9
+4 10
+5 7
+5 11
+5 11
+6 8
+6 10
+6 10
+6 13
+7 12
+7 12
+8 15
+8 16
+8 19
+9 12
+9 17
+10 20
+11 14
+11 18
+12 21
+13 14
+13 14
+13 22
+14 23
+15 24
+15 25
+15 26
+16 27
+16 28
+16 29
+17 30
+17 31
+17 32
+18 33
+18 34
+18 35

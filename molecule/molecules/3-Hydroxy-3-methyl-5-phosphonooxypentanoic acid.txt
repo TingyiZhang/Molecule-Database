@@ -1,0 +1,57 @@
+3-Hydroxy-3-methyl-5-phosphonooxypentanoic acid
+27
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 5
+0 6
+0 7
+0 7
+1 8
+1 23
+2 12
+3 13
+3 24
+4 13
+4 13
+5 25
+6 26
+8 9
+8 10
+8 11
+9 12
+9 14
+9 15
+10 13
+10 16
+10 17
+11 18
+11 19
+11 20
+12 21
+12 22

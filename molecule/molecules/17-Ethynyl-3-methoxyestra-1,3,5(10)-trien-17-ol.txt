@@ -1,0 +1,108 @@
+17-Ethynyl-3-methoxyestra-1,3,5(10)-trien-17-ol
+49
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 41
+1 20
+1 22
+2 3
+2 5
+2 7
+2 12
+3 4
+3 8
+3 23
+4 6
+4 11
+4 24
+5 10
+5 16
+6 9
+6 13
+6 25
+7 9
+7 26
+7 27
+8 10
+8 28
+8 29
+9 30
+9 31
+10 32
+10 33
+11 14
+11 34
+11 35
+12 36
+12 37
+12 38
+13 15
+13 15
+13 17
+14 15
+14 39
+14 40
+15 18
+16 21
+16 21
+16 21
+17 19
+17 19
+17 42
+18 20
+18 20
+18 43
+19 20
+19 44
+21 45
+22 46
+22 47
+22 48

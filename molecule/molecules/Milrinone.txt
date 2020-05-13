@@ -1,0 +1,61 @@
+Milrinone
+25
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 10
+1 5
+1 10
+1 17
+2 13
+2 13
+2 14
+3 15
+3 15
+3 15
+4 5
+4 5
+4 6
+4 7
+5 9
+6 11
+6 11
+6 12
+7 8
+7 8
+7 16
+8 10
+8 15
+9 18
+9 19
+9 20
+11 13
+11 21
+12 14
+12 14
+12 22
+13 23
+14 24

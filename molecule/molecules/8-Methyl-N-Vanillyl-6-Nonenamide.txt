@@ -1,0 +1,105 @@
+8-Methyl-N-Vanillyl-6-Nonenamide
+49
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 10
+1 18
+1 21
+2 20
+2 45
+3 10
+3 12
+3 35
+4 5
+4 6
+4 22
+4 23
+5 7
+5 24
+5 25
+6 9
+6 26
+6 27
+7 10
+7 28
+7 29
+8 11
+8 14
+8 15
+8 30
+9 11
+9 11
+9 31
+11 32
+12 13
+12 33
+12 34
+13 16
+13 16
+13 17
+14 36
+14 37
+14 38
+15 39
+15 40
+15 41
+16 18
+16 42
+17 19
+17 19
+17 43
+18 20
+18 20
+19 20
+19 44
+21 46
+21 47
+21 48

@@ -1,0 +1,141 @@
+[2-Methoxy-5-[(5-methoxy-3,4-disulfooxyoxan-2-yl)methoxymethyl]-3-sulfooxyoxan-4-yl] hydrogen sulfate
+65
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 13
+0 17
+0 17
+0 18
+0 18
+1 8
+1 14
+1 19
+1 19
+1 20
+1 20
+2 9
+2 15
+2 21
+2 21
+2 22
+2 22
+3 10
+3 16
+3 23
+3 23
+3 24
+3 24
+4 28
+4 36
+5 32
+5 34
+6 33
+6 35
+7 26
+8 27
+9 29
+10 30
+11 31
+11 37
+12 34
+12 38
+13 61
+14 62
+15 63
+16 64
+25 26
+25 32
+25 33
+25 39
+26 29
+26 40
+27 28
+27 30
+27 41
+28 35
+28 42
+29 34
+29 43
+30 31
+30 44
+31 36
+31 45
+32 46
+32 47
+33 48
+33 49
+34 50
+35 51
+35 52
+36 53
+36 54
+37 55
+37 56
+37 57
+38 58
+38 59
+38 60

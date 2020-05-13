@@ -1,0 +1,35 @@
+3,7-Dihydropurin-6-one
+14
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 5
+1 8
+1 10
+2 6
+2 9
+2 11
+3 6
+3 8
+3 8
+4 7
+4 9
+4 9
+5 6
+5 6
+5 7
+8 12
+9 13

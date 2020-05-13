@@ -1,0 +1,93 @@
+Spermine tetrahydrochloride
+48
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 44
+1 45
+2 46
+3 47
+4 10
+4 12
+4 26
+5 11
+5 13
+5 27
+6 16
+6 40
+6 41
+7 17
+7 42
+7 43
+8 9
+8 10
+8 18
+8 19
+9 11
+9 20
+9 21
+10 22
+10 23
+11 24
+11 25
+12 14
+12 28
+12 29
+13 15
+13 30
+13 31
+14 16
+14 32
+14 33
+15 17
+15 34
+15 35
+16 36
+16 37
+17 38
+17 39

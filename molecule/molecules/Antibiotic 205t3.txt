@@ -1,0 +1,227 @@
+Antibiotic 205t3
+105
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 21
+1 21
+1 33
+2 23
+2 30
+3 30
+3 35
+4 18
+4 79
+5 20
+5 80
+6 25
+6 52
+7 22
+7 90
+8 28
+8 53
+9 31
+9 54
+10 37
+10 94
+11 48
+11 55
+12 46
+12 101
+13 45
+13 45
+14 47
+14 47
+15 48
+15 48
+16 19
+16 50
+16 51
+17 18
+17 24
+17 34
+18 19
+18 56
+19 20
+19 57
+20 21
+20 58
+21 59
+22 26
+22 27
+22 42
+23 26
+23 29
+23 60
+24 33
+24 39
+24 39
+25 28
+25 31
+25 44
+26 61
+26 62
+27 32
+27 48
+27 63
+28 30
+28 64
+29 32
+29 37
+29 37
+30 65
+31 35
+31 66
+32 41
+32 41
+33 36
+33 36
+34 67
+34 68
+34 69
+35 49
+35 70
+36 43
+36 45
+37 40
+38 40
+38 40
+38 41
+38 45
+39 46
+39 71
+40 47
+41 72
+42 73
+42 74
+42 75
+43 46
+43 46
+43 47
+44 76
+44 77
+44 78
+49 81
+49 82
+49 83
+50 84
+50 85
+50 86
+51 87
+51 88
+51 89
+52 91
+52 92
+52 93
+53 95
+53 96
+53 97
+54 98
+54 99
+54 100
+55 102
+55 103
+55 104

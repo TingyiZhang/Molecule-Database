@@ -1,0 +1,107 @@
+8-[4-(Dimethylamino)benzoylamino]octanehydroxamic acid
+50
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 13
+1 14
+1 14
+2 5
+2 49
+3 11
+3 14
+3 37
+4 16
+4 21
+4 22
+5 13
+5 42
+6 7
+6 8
+6 23
+6 24
+7 9
+7 25
+7 26
+8 10
+8 27
+8 28
+9 11
+9 29
+9 30
+10 12
+10 31
+10 32
+11 33
+11 34
+12 13
+12 35
+12 36
+14 15
+15 17
+15 17
+15 18
+16 19
+16 19
+16 20
+17 19
+17 38
+18 20
+18 20
+18 39
+19 40
+20 41
+21 43
+21 44
+21 45
+22 46
+22 47
+22 48

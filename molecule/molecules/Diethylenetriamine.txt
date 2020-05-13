@@ -1,0 +1,41 @@
+Diethylenetriamine
+20
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+0 11
+1 5
+1 16
+1 17
+2 6
+2 18
+2 19
+3 5
+3 7
+3 8
+4 6
+4 9
+4 10
+5 12
+5 13
+6 14
+6 15

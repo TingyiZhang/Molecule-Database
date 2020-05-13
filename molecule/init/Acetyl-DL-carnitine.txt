@@ -1,0 +1,65 @@
+Acetyl-DL-carnitine
+31
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 12
+1 11
+2 11
+2 11
+3 12
+3 12
+4 5
+4 7
+4 8
+4 9
+5 6
+5 14
+5 15
+6 10
+6 16
+7 17
+7 18
+7 19
+8 20
+8 21
+8 22
+9 23
+9 24
+9 25
+10 11
+10 26
+10 27
+12 13
+13 28
+13 29
+13 30

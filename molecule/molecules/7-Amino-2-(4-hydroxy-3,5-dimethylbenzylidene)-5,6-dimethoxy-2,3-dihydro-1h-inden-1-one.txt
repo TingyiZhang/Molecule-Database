@@ -1,0 +1,104 @@
+7-Amino-2-(4-hydroxy-3,5-dimethylbenzylidene)-5,6-dimethoxy-2,3-dihydro-1h-inden-1-one
+46
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 9
+1 13
+1 23
+2 14
+2 24
+3 20
+3 45
+4 10
+4 31
+4 32
+5 6
+5 8
+5 25
+5 26
+6 7
+6 11
+6 11
+7 9
+7 10
+7 10
+8 9
+8 12
+8 12
+10 13
+11 14
+11 27
+12 15
+12 28
+13 14
+13 14
+15 16
+15 16
+15 17
+16 18
+16 29
+17 19
+17 19
+17 30
+18 20
+18 20
+18 21
+19 20
+19 22
+21 33
+21 34
+21 35
+22 36
+22 37
+22 38
+23 39
+23 40
+23 41
+24 42
+24 43
+24 44

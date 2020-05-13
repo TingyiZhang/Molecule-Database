@@ -1,0 +1,123 @@
+Pregna-1,4-diene-3,20-dione, 9-chloro-11,17,21-trihydroxy-16-methyl-, (11beta,16beta)-
+57
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+1 10
+1 49
+2 14
+2 51
+3 20
+3 20
+4 25
+4 56
+5 27
+5 27
+6 7
+6 10
+6 12
+6 17
+7 8
+7 11
+7 28
+8 9
+8 16
+8 29
+9 14
+9 15
+10 13
+10 20
+11 13
+11 30
+11 31
+12 14
+12 32
+12 33
+13 21
+13 34
+14 35
+15 19
+15 22
+15 23
+16 18
+16 36
+16 37
+17 38
+17 39
+17 40
+18 19
+18 41
+18 42
+19 24
+19 24
+20 25
+21 43
+21 44
+21 45
+22 46
+22 47
+22 48
+23 26
+23 26
+23 50
+24 27
+24 52
+25 53
+25 54
+26 27
+26 55

@@ -1,0 +1,146 @@
+Calmidazolium
+63
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 23
+1 32
+2 33
+3 34
+4 35
+5 39
+6 11
+6 22
+7 9
+7 12
+7 13
+8 10
+8 12
+8 12
+8 16
+9 14
+9 15
+9 40
+10 11
+10 41
+10 42
+11 17
+11 43
+12 44
+13 16
+13 16
+13 45
+14 18
+14 18
+14 20
+15 19
+15 19
+15 21
+16 46
+17 23
+17 23
+17 24
+18 25
+18 47
+19 26
+19 48
+20 27
+20 27
+20 49
+21 28
+21 28
+21 50
+22 29
+22 51
+22 52
+23 30
+24 31
+24 31
+24 53
+25 32
+25 32
+25 54
+26 33
+26 33
+26 55
+27 32
+27 56
+28 33
+28 57
+29 35
+29 35
+29 36
+30 34
+30 34
+30 58
+31 34
+31 59
+35 37
+36 38
+36 38
+36 60
+37 39
+37 39
+37 61
+38 39
+38 62

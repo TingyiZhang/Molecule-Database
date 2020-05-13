@@ -1,0 +1,141 @@
+2-(Butylsulfonylamino)-3-[4-(4-piperidin-4-ylbutoxy)phenyl]propanoic acid
+66
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+0 3
+0 3
+0 7
+0 19
+1 16
+1 20
+4 28
+4 65
+5 28
+5 28
+6 12
+6 13
+6 43
+7 17
+7 53
+8 9
+8 10
+8 11
+8 30
+9 12
+9 31
+9 32
+10 13
+10 33
+10 34
+11 14
+11 35
+11 36
+12 37
+12 38
+13 39
+13 40
+14 15
+14 41
+14 42
+15 16
+15 44
+15 45
+16 46
+16 47
+17 18
+17 28
+17 48
+18 22
+18 49
+18 50
+19 21
+19 51
+19 52
+20 24
+20 24
+20 25
+21 23
+21 54
+21 55
+22 26
+22 26
+22 27
+23 29
+23 56
+23 57
+24 26
+24 60
+25 27
+25 27
+25 61
+26 58
+27 59
+29 62
+29 63
+29 64

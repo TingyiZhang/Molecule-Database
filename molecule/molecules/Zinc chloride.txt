@@ -1,0 +1,7 @@
+Zinc chloride
+3
+"Zinc"
+"Chlorine"
+"Chlorine"
+0 1
+0 2

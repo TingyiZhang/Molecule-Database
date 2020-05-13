@@ -1,0 +1,99 @@
+Homatropine methylbromide
+46
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+1 11
+1 14
+2 14
+2 14
+3 15
+3 40
+4 5
+4 6
+4 12
+4 13
+5 7
+5 9
+5 22
+6 8
+6 10
+6 23
+7 8
+7 24
+7 25
+8 26
+8 27
+9 11
+9 28
+9 29
+10 11
+10 30
+10 31
+11 32
+12 33
+12 34
+12 35
+13 36
+13 37
+13 38
+14 15
+15 16
+15 39
+16 17
+16 17
+16 18
+17 19
+17 41
+18 20
+18 20
+18 42
+19 21
+19 21
+19 43
+20 21
+20 44
+21 45

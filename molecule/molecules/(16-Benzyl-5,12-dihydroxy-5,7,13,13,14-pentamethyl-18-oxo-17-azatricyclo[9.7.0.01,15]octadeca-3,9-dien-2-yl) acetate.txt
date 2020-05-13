@@ -1,0 +1,172 @@
+(16-Benzyl-5,12-dihydroxy-5,7,13,13,14-pentamethyl-18-oxo-17-azatricyclo[9.7.0.01,15]octadeca-3,9-dien-2-yl) acetate
+80
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 57
+1 13
+1 28
+2 14
+2 14
+3 25
+3 78
+4 28
+4 28
+5 12
+5 14
+5 43
+6 7
+6 10
+6 13
+6 14
+7 8
+7 12
+7 37
+8 9
+8 15
+8 38
+9 11
+9 16
+9 17
+10 11
+10 19
+10 39
+11 40
+12 18
+12 41
+13 20
+13 42
+15 44
+15 45
+15 46
+16 47
+16 48
+16 49
+17 50
+17 51
+17 52
+18 21
+18 53
+18 54
+19 22
+19 22
+19 55
+20 23
+20 23
+20 56
+21 29
+21 29
+21 30
+22 24
+22 58
+23 25
+23 59
+24 26
+24 60
+24 61
+25 27
+25 31
+26 27
+26 32
+26 62
+27 63
+27 64
+28 33
+29 34
+29 65
+30 35
+30 35
+30 66
+31 67
+31 68
+31 69
+32 70
+32 71
+32 72
+33 73
+33 74
+33 75
+34 36
+34 36
+34 76
+35 36
+35 77
+36 79

@@ -1,0 +1,66 @@
+Triclocarban
+28
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 15
+2 18
+3 10
+3 10
+4 6
+4 10
+4 19
+5 7
+5 10
+5 20
+6 8
+6 8
+6 9
+7 11
+7 11
+7 12
+8 13
+8 21
+9 14
+9 14
+9 22
+11 16
+11 23
+12 17
+12 17
+12 24
+13 15
+13 15
+14 15
+14 25
+16 18
+16 18
+16 26
+17 18
+17 27

@@ -1,0 +1,131 @@
+Eprazinone
+60
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 18
+1 14
+1 14
+2 4
+2 5
+2 8
+3 6
+3 7
+3 9
+4 6
+4 28
+4 29
+5 7
+5 30
+5 31
+6 32
+6 33
+7 34
+7 35
+8 10
+8 36
+8 37
+9 11
+9 38
+9 39
+10 12
+10 14
+10 40
+11 13
+11 41
+12 42
+12 43
+12 44
+13 16
+13 16
+13 17
+14 15
+15 21
+15 21
+15 22
+16 19
+16 45
+17 20
+17 20
+17 46
+18 23
+18 47
+18 48
+19 24
+19 24
+19 49
+20 24
+20 50
+21 25
+21 51
+22 26
+22 26
+22 52
+23 53
+23 54
+23 55
+24 56
+25 27
+25 27
+25 57
+26 27
+26 58
+27 59

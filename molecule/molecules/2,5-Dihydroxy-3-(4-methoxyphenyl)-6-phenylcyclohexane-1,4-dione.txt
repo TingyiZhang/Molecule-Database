@@ -1,0 +1,96 @@
+2,5-Dihydroxy-3-(4-methoxyphenyl)-6-phenylcyclohexane-1,4-dione
+42
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 28
+1 8
+1 29
+2 9
+2 9
+3 10
+3 10
+4 21
+4 23
+5 7
+5 9
+5 11
+5 24
+6 8
+6 10
+6 12
+6 25
+7 10
+7 26
+8 9
+8 27
+11 13
+11 13
+11 14
+12 15
+12 15
+12 16
+13 17
+13 30
+14 18
+14 18
+14 31
+15 19
+15 32
+16 20
+16 20
+16 33
+17 21
+17 21
+17 34
+18 21
+18 35
+19 22
+19 22
+19 36
+20 22
+20 37
+22 38
+23 39
+23 40
+23 41

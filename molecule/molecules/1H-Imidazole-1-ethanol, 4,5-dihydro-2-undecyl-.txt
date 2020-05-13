@@ -1,0 +1,105 @@
+1H-Imidazole-1-ethanol, 4,5-dihydro-2-undecyl-
+51
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 50
+1 9
+1 11
+1 14
+2 9
+2 9
+2 13
+3 4
+3 5
+3 19
+3 20
+4 6
+4 21
+4 22
+5 7
+5 23
+5 24
+6 8
+6 25
+6 26
+7 9
+7 27
+7 28
+8 10
+8 29
+8 30
+10 12
+10 31
+10 32
+11 13
+11 33
+11 34
+12 15
+12 35
+12 36
+13 37
+13 38
+14 17
+14 39
+14 40
+15 16
+15 41
+15 42
+16 18
+16 43
+16 44
+17 45
+17 46
+18 47
+18 48
+18 49

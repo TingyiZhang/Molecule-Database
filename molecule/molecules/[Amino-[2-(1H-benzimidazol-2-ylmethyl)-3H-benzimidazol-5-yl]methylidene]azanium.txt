@@ -1,0 +1,88 @@
+[Amino-[2-(1H-benzimidazol-2-ylmethyl)-3H-benzimidazol-5-yl]methylidene]azanium
+37
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 8
+0 24
+1 9
+1 11
+1 25
+2 7
+2 7
+2 10
+3 9
+3 9
+3 12
+4 19
+4 19
+4 33
+4 34
+5 19
+5 35
+5 36
+6 7
+6 9
+6 22
+6 23
+8 10
+8 10
+8 13
+10 15
+11 12
+11 17
+11 17
+12 18
+12 18
+13 14
+13 14
+13 26
+14 16
+14 19
+15 16
+15 16
+15 27
+16 28
+17 20
+17 29
+18 21
+18 30
+20 21
+20 21
+20 31
+21 32

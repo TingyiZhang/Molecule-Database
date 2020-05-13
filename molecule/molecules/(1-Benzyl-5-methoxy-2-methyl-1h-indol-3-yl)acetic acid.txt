@@ -1,0 +1,96 @@
+(1-Benzyl-5-methoxy-2-methyl-1h-indol-3-yl)acetic acid
+42
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 22
+1 16
+1 41
+2 16
+2 16
+3 4
+3 5
+3 8
+4 7
+4 7
+4 11
+5 6
+5 6
+5 12
+6 7
+6 9
+7 10
+8 13
+8 23
+8 24
+9 16
+9 25
+9 26
+10 14
+10 14
+10 27
+11 15
+11 15
+11 28
+12 29
+12 30
+12 31
+13 17
+13 17
+13 18
+14 15
+15 32
+17 19
+17 33
+18 20
+18 20
+18 34
+19 21
+19 21
+19 35
+20 21
+20 36
+21 37
+22 38
+22 39
+22 40

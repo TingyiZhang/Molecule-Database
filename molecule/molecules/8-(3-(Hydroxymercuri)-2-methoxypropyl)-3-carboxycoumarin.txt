@@ -1,0 +1,86 @@
+8-(3-(Hydroxymercuri)-2-methoxypropyl)-3-carboxycoumarin
+36
+"Mercury"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 3
+0 3
+0 3
+0 3
+0 3
+0 11
+1 8
+1 19
+2 10
+2 18
+3 33
+3 34
+4 18
+4 18
+5 20
+5 35
+6 20
+6 20
+7 8
+7 9
+7 21
+7 22
+8 11
+8 23
+9 10
+9 13
+9 13
+10 12
+10 12
+11 24
+11 25
+12 14
+12 16
+13 15
+13 26
+14 15
+14 15
+14 27
+15 28
+16 17
+16 17
+16 29
+17 18
+17 20
+19 30
+19 31
+19 32

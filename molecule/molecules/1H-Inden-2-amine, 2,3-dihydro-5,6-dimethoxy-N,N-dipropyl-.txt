@@ -1,0 +1,100 @@
+1H-Inden-2-amine, 2,3-dihydro-5,6-dimethoxy-N,N-dipropyl-
+47
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 18
+1 15
+1 19
+2 3
+2 8
+2 9
+3 4
+3 5
+3 20
+4 6
+4 21
+4 22
+5 7
+5 23
+5 24
+6 7
+6 10
+6 10
+7 11
+7 11
+8 12
+8 25
+8 26
+9 13
+9 27
+9 28
+10 14
+10 29
+11 15
+11 30
+12 16
+12 31
+12 32
+13 17
+13 33
+13 34
+14 15
+14 15
+16 35
+16 36
+16 37
+17 38
+17 39
+17 40
+18 41
+18 42
+18 43
+19 44
+19 45
+19 46

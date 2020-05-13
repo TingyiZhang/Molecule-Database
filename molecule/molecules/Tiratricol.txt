@@ -1,0 +1,70 @@
+Tiratricol
+30
+"Iodine"
+"Iodine"
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 13
+2 18
+3 8
+3 14
+4 17
+4 28
+5 20
+5 29
+6 17
+6 17
+7 9
+7 10
+7 10
+7 11
+8 12
+8 12
+8 13
+9 17
+9 21
+9 22
+10 12
+10 23
+11 13
+11 13
+11 24
+14 15
+14 15
+14 16
+15 18
+15 25
+16 19
+16 19
+16 26
+18 20
+18 20
+19 20
+19 27

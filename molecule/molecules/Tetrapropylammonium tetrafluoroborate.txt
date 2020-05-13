@@ -1,0 +1,92 @@
+Tetrapropylammonium tetrafluoroborate
+46
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Boron"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+1 17
+2 17
+3 17
+4 5
+4 6
+4 7
+4 8
+5 9
+5 18
+5 19
+6 10
+6 20
+6 21
+7 11
+7 22
+7 23
+8 12
+8 24
+8 25
+9 13
+9 26
+9 27
+10 14
+10 28
+10 29
+11 15
+11 30
+11 31
+12 16
+12 32
+12 33
+13 34
+13 35
+13 36
+14 37
+14 38
+14 39
+15 40
+15 41
+15 42
+16 43
+16 44
+16 45

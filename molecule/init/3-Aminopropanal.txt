@@ -1,0 +1,26 @@
+3-Aminopropanal
+12
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 4
+1 2
+1 9
+1 10
+2 3
+2 5
+2 6
+3 4
+3 7
+3 8
+4 11

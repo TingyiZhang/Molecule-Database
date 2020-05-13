@@ -1,0 +1,45 @@
+Nitric acid;phenylmercury
+17
+"Mercury"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 5
+1 4
+1 16
+2 4
+3 4
+3 4
+5 6
+5 6
+5 7
+6 8
+6 11
+7 9
+7 9
+7 12
+8 10
+8 10
+8 13
+9 10
+9 14
+10 15

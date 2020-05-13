@@ -1,0 +1,120 @@
+Ioxilan
+56
+"Iodine"
+"Iodine"
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+1 19
+2 21
+3 16
+3 44
+4 22
+4 50
+5 26
+5 51
+6 23
+6 23
+7 25
+7 25
+8 27
+8 27
+9 29
+9 54
+10 31
+10 55
+11 14
+11 15
+11 23
+12 24
+12 25
+12 40
+13 27
+13 30
+13 47
+14 16
+14 32
+14 33
+15 17
+15 19
+15 19
+16 22
+16 34
+17 18
+17 18
+18 21
+18 25
+19 20
+20 21
+20 21
+20 27
+22 35
+22 36
+23 28
+24 26
+24 37
+24 38
+26 29
+26 39
+28 41
+28 42
+28 43
+29 45
+29 46
+30 31
+30 48
+30 49
+31 52
+31 53

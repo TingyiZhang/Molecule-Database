@@ -1,0 +1,131 @@
+(3-Ethenyl-6,10-dihydroxy-3,4a,7,7,10a-pentamethyl-1-oxo-2,5,6,6a,8,9,10,10b-octahydrobenzo[f]chromen-5-yl) acetate
+62
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 21
+1 11
+1 51
+2 13
+2 25
+3 12
+3 52
+4 17
+4 17
+5 25
+5 25
+6 7
+6 8
+6 12
+6 16
+7 9
+7 11
+7 28
+8 10
+8 17
+8 29
+9 14
+9 18
+9 19
+10 13
+10 20
+11 13
+11 30
+12 15
+12 31
+13 32
+14 15
+14 33
+14 34
+15 35
+15 36
+16 37
+16 38
+16 39
+17 22
+18 40
+18 41
+18 42
+19 43
+19 44
+19 45
+20 46
+20 47
+20 48
+21 22
+21 23
+21 24
+22 49
+22 50
+23 53
+23 54
+23 55
+24 26
+24 26
+24 56
+25 27
+26 57
+26 58
+27 59
+27 60
+27 61

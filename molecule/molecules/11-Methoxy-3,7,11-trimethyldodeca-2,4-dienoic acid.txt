@@ -1,0 +1,98 @@
+11-Methoxy-3,7,11-trimethyldodeca-2,4-dienoic acid
+47
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 13
+1 18
+1 46
+2 18
+2 18
+3 4
+3 5
+3 19
+3 20
+4 6
+4 21
+4 22
+5 7
+5 23
+5 24
+6 9
+6 10
+7 8
+7 11
+7 25
+8 12
+8 26
+8 27
+9 28
+9 29
+9 30
+10 31
+10 32
+10 33
+11 34
+11 35
+11 36
+12 14
+12 14
+12 37
+13 38
+13 39
+13 40
+14 15
+14 41
+15 16
+15 17
+15 17
+16 42
+16 43
+16 44
+17 18
+17 45

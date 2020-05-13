@@ -1,0 +1,71 @@
+2-Amino-4-[(3,4,5-trihydroxyoxolan-2-yl)methylsulfanyl]butanoic acid
+34
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 13
+1 8
+1 11
+2 9
+2 23
+3 10
+3 24
+4 11
+4 29
+5 16
+5 33
+6 16
+6 16
+7 15
+7 31
+7 32
+8 9
+8 12
+8 17
+9 10
+9 18
+10 11
+10 19
+11 20
+12 21
+12 22
+13 14
+13 25
+13 26
+14 15
+14 27
+14 28
+15 16
+15 30

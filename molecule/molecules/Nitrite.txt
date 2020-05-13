@@ -1,0 +1,8 @@
+Nitrite
+3
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+0 2
+1 2
+1 2

@@ -1,0 +1,71 @@
+6-Anilino-5,8-quinolinedione
+29
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 9
+1 9
+2 4
+2 10
+2 20
+3 6
+3 15
+3 15
+4 7
+4 8
+4 8
+5 6
+5 6
+5 7
+5 11
+6 9
+8 9
+8 19
+10 13
+10 13
+10 14
+11 12
+11 12
+11 21
+12 15
+12 24
+13 16
+13 22
+14 17
+14 17
+14 23
+15 25
+16 18
+16 18
+16 26
+17 18
+17 27
+18 28

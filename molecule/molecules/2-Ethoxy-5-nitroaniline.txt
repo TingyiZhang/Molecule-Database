@@ -1,0 +1,52 @@
+2-Ethoxy-5-nitroaniline
+23
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 11
+1 4
+2 4
+2 4
+3 6
+3 21
+3 22
+4 7
+5 6
+5 6
+5 9
+6 8
+7 8
+7 8
+7 10
+8 13
+9 10
+9 10
+9 14
+10 15
+11 12
+11 16
+11 17
+12 18
+12 19
+12 20

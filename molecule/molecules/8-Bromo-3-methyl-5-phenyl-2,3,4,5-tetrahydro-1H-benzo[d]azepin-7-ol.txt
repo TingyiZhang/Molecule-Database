@@ -1,0 +1,86 @@
+8-Bromo-3-methyl-5-phenyl-2,3,4,5-tetrahydro-1H-benzo[d]azepin-7-ol
+38
+"Bromine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+1 15
+1 37
+2 4
+2 6
+2 11
+3 4
+3 5
+3 9
+3 20
+4 21
+4 22
+5 8
+5 10
+5 10
+6 7
+6 23
+6 24
+7 8
+7 25
+7 26
+8 12
+8 12
+9 13
+9 13
+9 14
+10 15
+10 27
+11 28
+11 29
+11 30
+12 16
+12 31
+13 17
+13 32
+14 18
+14 18
+14 33
+15 16
+15 16
+17 19
+17 19
+17 34
+18 19
+18 35
+19 36

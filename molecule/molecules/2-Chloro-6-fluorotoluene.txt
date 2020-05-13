@@ -1,0 +1,35 @@
+2-Chloro-6-fluorotoluene
+15
+"Chlorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+1 4
+2 3
+2 4
+2 4
+2 5
+3 6
+3 6
+4 7
+5 9
+5 10
+5 11
+6 8
+6 12
+7 8
+7 8
+7 13
+8 14

@@ -1,0 +1,57 @@
+Pentanamide, 2-amino-5-[(aminoiminomethyl)amino]-
+27
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 10
+1 8
+1 19
+1 20
+2 9
+2 11
+2 11
+3 10
+3 21
+3 22
+4 11
+4 23
+4 24
+5 11
+5 25
+5 26
+6 7
+6 8
+6 12
+6 13
+7 9
+7 14
+7 15
+8 10
+8 16
+9 17
+9 18

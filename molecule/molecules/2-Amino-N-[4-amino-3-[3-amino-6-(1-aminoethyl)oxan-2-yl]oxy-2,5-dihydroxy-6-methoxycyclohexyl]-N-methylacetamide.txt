@@ -1,0 +1,130 @@
+2-Amino-N-[4-amino-3-[3-amino-6-(1-aminoethyl)oxan-2-yl]oxy-2,5-dihydroxy-6-methoxycyclohexyl]-N-methylacetamide
+63
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 17
+1 15
+1 25
+2 13
+2 43
+3 17
+3 19
+4 16
+4 44
+5 24
+5 24
+6 12
+6 23
+6 24
+7 14
+7 39
+7 40
+8 18
+8 49
+8 50
+9 22
+9 59
+9 60
+10 27
+10 61
+10 62
+11 13
+11 14
+11 28
+12 13
+12 15
+12 29
+13 30
+14 16
+14 31
+15 16
+15 32
+16 33
+17 18
+17 34
+18 20
+18 35
+19 21
+19 22
+19 36
+20 21
+20 37
+20 38
+21 41
+21 42
+22 26
+22 45
+23 46
+23 47
+23 48
+24 27
+25 51
+25 52
+25 53
+26 54
+26 55
+26 56
+27 57
+27 58

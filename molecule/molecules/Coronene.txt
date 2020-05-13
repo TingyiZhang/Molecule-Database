@@ -1,0 +1,92 @@
+Coronene
+36
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 6
+0 6
+1 3
+1 7
+1 7
+2 4
+2 8
+2 8
+3 5
+3 9
+3 9
+4 5
+4 10
+4 10
+5 11
+5 11
+6 12
+6 14
+7 13
+7 22
+8 17
+8 20
+9 15
+9 23
+10 16
+10 19
+11 18
+11 21
+12 20
+12 20
+12 24
+13 14
+13 14
+13 25
+14 26
+15 18
+15 18
+15 31
+16 21
+16 21
+16 28
+17 19
+17 19
+17 33
+18 27
+19 30
+20 29
+21 34
+22 23
+22 23
+22 32
+23 35

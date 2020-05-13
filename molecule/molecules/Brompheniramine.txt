@@ -1,0 +1,85 @@
+Brompheniramine
+38
+"Bromine"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+1 5
+1 11
+1 12
+2 7
+2 17
+2 17
+3 4
+3 6
+3 7
+3 19
+4 5
+4 20
+4 21
+5 22
+5 23
+6 8
+6 8
+6 9
+7 10
+7 10
+8 13
+8 24
+9 14
+9 14
+9 25
+10 15
+10 26
+11 27
+11 28
+11 29
+12 30
+12 31
+12 32
+13 16
+13 16
+13 33
+14 16
+14 34
+15 18
+15 18
+15 35
+17 18
+17 36
+18 37

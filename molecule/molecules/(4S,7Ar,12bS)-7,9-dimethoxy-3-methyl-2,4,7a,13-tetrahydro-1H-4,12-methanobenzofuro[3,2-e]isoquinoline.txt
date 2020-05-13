@@ -1,0 +1,99 @@
+(4S,7Ar,12bS)-7,9-dimethoxy-3-methyl-2,4,7a,13-tetrahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline
+44
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 13
+1 14
+1 21
+2 19
+2 22
+3 6
+3 11
+3 18
+4 5
+4 7
+4 8
+4 9
+5 6
+5 15
+5 15
+6 10
+6 23
+7 14
+7 24
+8 11
+8 25
+8 26
+9 12
+9 12
+9 13
+10 12
+10 27
+10 28
+11 29
+11 30
+12 17
+13 19
+13 19
+14 16
+14 16
+15 16
+15 31
+16 32
+17 20
+17 20
+17 33
+18 34
+18 35
+18 36
+19 20
+20 37
+21 38
+21 39
+21 40
+22 41
+22 42
+22 43

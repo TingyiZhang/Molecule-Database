@@ -1,0 +1,98 @@
+Butyrophenone, 4-(2-azaspiro(4.4)non-2-YL)-4'-fluoro-
+45
+"Fluorine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+1 14
+1 14
+2 7
+2 10
+2 11
+3 4
+3 5
+3 6
+3 7
+4 8
+4 21
+4 22
+5 9
+5 23
+5 24
+6 10
+6 25
+6 26
+7 27
+7 28
+8 9
+8 29
+8 30
+9 31
+9 32
+10 33
+10 34
+11 12
+11 35
+11 36
+12 13
+12 37
+12 38
+13 14
+13 39
+13 40
+14 15
+15 16
+15 16
+15 17
+16 18
+16 41
+17 19
+17 19
+17 42
+18 20
+18 20
+18 43
+19 20
+19 44

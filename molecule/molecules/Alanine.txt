@@ -1,0 +1,28 @@
+Alanine
+13
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 12
+1 5
+1 5
+2 3
+2 10
+2 11
+3 4
+3 5
+3 6
+4 7
+4 8
+4 9

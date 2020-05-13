@@ -1,0 +1,113 @@
+N-(2-Aminophenyl)-4-[N-(pyridine-3-ylmethoxycarbonyl)aminomethyl]benzamide
+49
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 19
+1 13
+1 13
+2 19
+2 19
+3 7
+3 19
+3 34
+4 13
+4 14
+4 35
+5 15
+5 47
+5 48
+6 7
+6 9
+6 9
+6 10
+7 28
+7 29
+8 11
+8 11
+8 12
+8 13
+9 11
+9 30
+10 12
+10 12
+10 31
+11 32
+12 33
+14 15
+14 18
+14 18
+15 20
+15 20
+16 17
+16 22
+16 22
+16 23
+17 36
+17 37
+18 21
+18 38
+20 24
+20 39
+21 24
+21 24
+21 40
+22 25
+22 41
+23 26
+23 26
+23 42
+24 43
+25 27
+25 27
+25 44
+26 27
+26 45
+27 46

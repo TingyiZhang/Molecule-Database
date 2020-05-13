@@ -1,0 +1,93 @@
+5-Isopropyl-1-ethoxymethyl-6-(phenylthio)uracil
+42
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 14
+1 12
+1 15
+2 11
+2 11
+3 13
+3 13
+4 8
+4 12
+4 13
+5 11
+5 13
+5 31
+6 7
+6 9
+6 10
+6 22
+7 8
+7 8
+7 11
+9 23
+9 24
+9 25
+10 26
+10 27
+10 28
+12 29
+12 30
+14 16
+14 16
+14 17
+15 18
+15 32
+15 33
+16 19
+16 34
+17 20
+17 20
+17 35
+18 36
+18 37
+18 38
+19 21
+19 21
+19 39
+20 21
+20 40
+21 41

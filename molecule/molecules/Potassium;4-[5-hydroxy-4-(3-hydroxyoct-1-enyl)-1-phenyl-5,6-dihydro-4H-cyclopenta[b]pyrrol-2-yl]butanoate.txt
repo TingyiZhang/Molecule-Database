@@ -1,0 +1,143 @@
+Potassium;4-[5-hydroxy-4-(3-hydroxyoct-1-enyl)-1-phenyl-5,6-dihydro-4H-cyclopenta[b]pyrrol-2-yl]butanoate
+63
+"Potassium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 3
+0 3
+0 3
+0 3
+0 3
+0 3
+1 7
+1 39
+2 18
+2 56
+3 29
+4 29
+4 29
+5 9
+5 11
+5 15
+6 7
+6 8
+6 13
+6 31
+7 10
+7 32
+8 9
+8 9
+8 12
+9 10
+10 33
+10 34
+11 12
+11 12
+11 14
+12 35
+13 16
+13 16
+13 36
+14 17
+14 37
+14 38
+15 20
+15 20
+15 21
+16 18
+16 40
+17 22
+17 41
+17 42
+18 19
+18 43
+19 23
+19 44
+19 45
+20 25
+20 46
+21 26
+21 26
+21 47
+22 29
+22 48
+22 49
+23 24
+23 50
+23 51
+24 28
+24 52
+24 53
+25 27
+25 27
+25 54
+26 27
+26 55
+27 57
+28 30
+28 58
+28 59
+30 60
+30 61
+30 62

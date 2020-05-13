@@ -1,0 +1,101 @@
+N-Hydroxy-3-(4-methoxyphenyl)sulfonyl-1,2,3,4-tetrahydronaphthalene-2-carboxamide
+44
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 7
+0 14
+3 13
+3 13
+4 6
+4 40
+5 23
+5 24
+6 13
+6 37
+7 8
+7 9
+7 25
+8 10
+8 13
+8 26
+9 11
+9 27
+9 28
+10 12
+10 29
+10 30
+11 12
+11 15
+11 15
+12 16
+12 16
+14 19
+14 19
+14 20
+15 17
+15 31
+16 18
+16 32
+17 18
+17 18
+17 33
+18 34
+19 21
+19 35
+20 22
+20 22
+20 36
+21 23
+21 23
+21 38
+22 23
+22 39
+24 41
+24 42
+24 43

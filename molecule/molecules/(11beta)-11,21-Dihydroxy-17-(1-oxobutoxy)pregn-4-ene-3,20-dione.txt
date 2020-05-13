@@ -1,0 +1,143 @@
+(11beta)-11,21-Dihydroxy-17-(1-oxobutoxy)pregn-4-ene-3,20-dione
+67
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 27
+1 13
+1 55
+2 22
+2 22
+3 26
+3 61
+4 25
+4 25
+5 27
+5 27
+6 7
+6 10
+6 11
+6 17
+7 8
+7 14
+7 31
+8 9
+8 16
+8 32
+9 12
+9 13
+9 33
+10 15
+10 22
+11 13
+11 34
+11 35
+12 18
+12 20
+12 21
+13 36
+14 15
+14 37
+14 38
+15 39
+15 40
+16 19
+16 41
+16 42
+17 43
+17 44
+17 45
+18 19
+18 24
+18 24
+19 46
+19 47
+20 23
+20 48
+20 49
+21 50
+21 51
+21 52
+22 26
+23 25
+23 53
+23 54
+24 25
+24 56
+26 57
+26 58
+27 28
+28 29
+28 59
+28 60
+29 30
+29 62
+29 63
+30 64
+30 65
+30 66

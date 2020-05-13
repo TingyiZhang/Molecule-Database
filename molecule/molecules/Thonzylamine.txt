@@ -1,0 +1,95 @@
+Thonzylamine
+43
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 20
+1 5
+1 7
+1 9
+2 6
+2 10
+2 11
+3 9
+3 17
+3 17
+4 9
+4 9
+4 18
+5 6
+5 21
+5 22
+6 23
+6 24
+7 8
+7 25
+7 26
+8 12
+8 12
+8 13
+10 27
+10 28
+10 29
+11 30
+11 31
+11 32
+12 14
+12 33
+13 15
+13 15
+13 34
+14 16
+14 16
+14 35
+15 16
+15 36
+17 19
+17 37
+18 19
+18 19
+18 38
+19 39
+20 40
+20 41
+20 42

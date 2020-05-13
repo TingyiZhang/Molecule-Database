@@ -1,0 +1,95 @@
+Benzoylmethylecgonine
+43
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 14
+1 13
+1 15
+2 13
+2 13
+3 14
+3 14
+4 5
+4 6
+4 12
+5 7
+5 8
+5 22
+6 9
+6 10
+6 23
+7 11
+7 13
+7 24
+8 9
+8 25
+8 26
+9 27
+9 28
+10 11
+10 29
+10 30
+11 31
+12 32
+12 33
+12 34
+14 16
+15 35
+15 36
+15 37
+16 17
+16 17
+16 18
+17 19
+17 38
+18 20
+18 20
+18 39
+19 21
+19 21
+19 40
+20 21
+20 41
+21 42

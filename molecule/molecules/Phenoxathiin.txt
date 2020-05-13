@@ -1,0 +1,54 @@
+Phenoxathiin
+22
+"Sulfur"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+1 4
+1 5
+2 4
+2 6
+2 6
+3 5
+3 7
+3 7
+4 8
+4 8
+5 9
+5 9
+6 10
+6 14
+7 11
+7 15
+8 12
+8 16
+9 13
+9 17
+10 12
+10 12
+10 18
+11 13
+11 13
+11 19
+12 20
+13 21

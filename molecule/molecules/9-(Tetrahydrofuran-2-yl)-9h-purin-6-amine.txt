@@ -1,0 +1,60 @@
+9-(Tetrahydrofuran-2-yl)-9h-purin-6-amine
+26
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 9
+1 6
+1 10
+1 11
+2 11
+2 11
+2 12
+3 10
+3 10
+3 14
+4 13
+4 14
+4 14
+5 13
+5 24
+5 25
+6 7
+6 15
+7 8
+7 16
+7 17
+8 9
+8 18
+8 19
+9 20
+9 21
+10 12
+11 22
+12 13
+12 13
+14 23

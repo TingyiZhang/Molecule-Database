@@ -1,0 +1,25 @@
+Ferrousfumarate
+11
+"Iron"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+1 7
+2 8
+3 7
+3 7
+4 8
+4 8
+5 6
+5 6
+5 7
+5 9
+6 8
+6 10

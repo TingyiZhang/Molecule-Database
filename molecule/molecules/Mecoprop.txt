@@ -1,0 +1,56 @@
+Mecoprop
+25
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 4
+1 5
+2 13
+2 24
+3 13
+3 13
+4 8
+4 13
+4 14
+5 6
+5 6
+5 7
+6 9
+6 10
+7 11
+7 11
+7 18
+8 15
+8 16
+8 17
+9 12
+9 12
+9 19
+10 20
+10 21
+10 22
+11 12
+11 23

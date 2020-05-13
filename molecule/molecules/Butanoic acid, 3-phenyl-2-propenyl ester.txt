@@ -1,0 +1,69 @@
+Butanoic acid, 3-phenyl-2-propenyl ester
+31
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+1 5
+1 5
+2 3
+2 4
+2 15
+2 16
+3 5
+3 17
+3 18
+4 19
+4 20
+4 21
+6 8
+6 22
+6 23
+7 9
+7 10
+7 10
+7 11
+8 9
+8 9
+8 24
+9 25
+10 12
+10 26
+11 13
+11 13
+11 27
+12 14
+12 14
+12 28
+13 14
+13 29
+14 30

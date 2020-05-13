@@ -1,0 +1,92 @@
+9-Bromo-phenazine-1-carboxylic acid (2-dimethylamino-ethyl)-amide
+40
+"Bromine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+1 11
+1 11
+2 6
+2 16
+2 17
+3 7
+3 11
+3 27
+4 9
+4 12
+4 12
+5 10
+5 13
+5 13
+6 7
+6 23
+6 24
+7 25
+7 26
+8 9
+8 9
+8 11
+8 14
+9 10
+10 15
+10 15
+12 13
+12 19
+13 20
+14 18
+14 18
+14 28
+15 18
+15 29
+16 30
+16 31
+16 32
+17 33
+17 34
+17 35
+18 36
+19 21
+19 21
+20 22
+20 22
+20 37
+21 22
+21 38
+22 39

@@ -1,0 +1,101 @@
+Laurylpyridinium
+48
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 13
+0 13
+0 14
+1 2
+1 3
+1 18
+1 19
+2 4
+2 20
+2 21
+3 5
+3 22
+3 23
+4 6
+4 24
+4 25
+5 7
+5 26
+5 27
+6 8
+6 28
+6 29
+7 9
+7 30
+7 31
+8 10
+8 32
+8 33
+9 11
+9 34
+9 35
+10 36
+10 37
+11 12
+11 38
+11 39
+12 40
+12 41
+12 42
+13 15
+13 43
+14 16
+14 16
+14 44
+15 17
+15 17
+15 45
+16 17
+16 46
+17 47

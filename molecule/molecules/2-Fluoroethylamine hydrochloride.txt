@@ -1,0 +1,24 @@
+2-Fluoroethylamine hydrochloride
+12
+"Chlorine"
+"Fluorine"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+1 4
+2 3
+2 9
+2 10
+3 4
+3 5
+3 6
+4 7
+4 8

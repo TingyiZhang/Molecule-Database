@@ -1,0 +1,79 @@
+9-Acridinamine, 1,2,3,4-tetrahydro-N-ethyl-
+35
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+0 10
+1 11
+1 15
+1 28
+2 3
+2 4
+2 17
+2 18
+3 6
+3 19
+3 20
+4 5
+4 21
+4 22
+5 7
+5 23
+5 24
+6 7
+6 8
+6 8
+8 9
+8 25
+9 10
+9 10
+9 11
+10 12
+11 13
+11 13
+12 14
+12 14
+12 26
+13 14
+13 27
+14 29
+15 16
+15 30
+15 31
+16 32
+16 33
+16 34

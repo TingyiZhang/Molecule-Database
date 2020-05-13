@@ -1,0 +1,100 @@
+4-((Diphenylcarbamoyl)oxy)-3-nitrobenzoic acid
+42
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 11
+1 10
+1 10
+2 27
+2 41
+3 7
+4 7
+4 7
+5 27
+5 27
+6 8
+6 9
+6 10
+7 16
+8 12
+8 12
+8 14
+9 13
+9 13
+9 15
+11 16
+11 16
+11 17
+12 21
+12 28
+13 22
+13 29
+14 23
+14 23
+14 30
+15 24
+15 24
+15 31
+16 19
+17 20
+17 20
+17 32
+18 19
+18 19
+18 20
+18 27
+19 33
+20 34
+21 25
+21 25
+21 35
+22 26
+22 26
+22 36
+23 25
+23 37
+24 26
+24 38
+25 39
+26 40

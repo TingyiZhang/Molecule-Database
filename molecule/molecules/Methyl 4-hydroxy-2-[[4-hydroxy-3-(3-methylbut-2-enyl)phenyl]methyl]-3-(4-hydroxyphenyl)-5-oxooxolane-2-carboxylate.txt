@@ -1,0 +1,127 @@
+Methyl 4-hydroxy-2-[[4-hydroxy-3-(3-methylbut-2-enyl)phenyl]methyl]-3-(4-hydroxyphenyl)-5-oxooxolane-2-carboxylate
+57
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 12
+1 9
+1 37
+2 13
+2 26
+3 12
+3 12
+4 13
+4 13
+5 22
+5 49
+6 24
+6 50
+7 8
+7 10
+7 13
+8 9
+8 11
+8 31
+9 12
+9 32
+10 14
+10 33
+10 34
+11 15
+11 15
+11 16
+14 17
+14 17
+14 18
+15 20
+15 35
+16 21
+16 21
+16 36
+17 19
+17 38
+18 23
+18 23
+18 39
+19 24
+19 24
+19 25
+20 22
+20 22
+20 40
+21 22
+21 41
+23 24
+23 42
+25 27
+25 43
+25 44
+26 45
+26 46
+26 47
+27 28
+27 28
+27 48
+28 29
+28 30
+29 51
+29 52
+29 53
+30 54
+30 55
+30 56

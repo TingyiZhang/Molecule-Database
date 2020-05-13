@@ -1,0 +1,137 @@
+Benzyldimethyltetradecylammonium
+66
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 3
+0 5
+0 6
+1 2
+1 24
+1 25
+2 4
+2 26
+2 27
+3 10
+3 28
+3 29
+4 7
+4 30
+4 31
+5 32
+5 33
+5 34
+6 35
+6 36
+6 37
+7 8
+7 38
+7 39
+8 9
+8 40
+8 41
+9 11
+9 42
+9 43
+10 16
+10 16
+10 17
+11 12
+11 44
+11 45
+12 13
+12 46
+12 47
+13 14
+13 48
+13 49
+14 15
+14 50
+14 51
+15 18
+15 52
+15 53
+16 19
+16 54
+17 20
+17 20
+17 55
+18 21
+18 56
+18 57
+19 22
+19 22
+19 60
+20 22
+20 61
+21 23
+21 58
+21 59
+22 62
+23 63
+23 64
+23 65

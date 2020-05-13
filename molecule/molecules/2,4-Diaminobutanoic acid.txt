@@ -1,0 +1,38 @@
+2,4-Diaminobutanoic acid
+18
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 17
+1 7
+1 7
+2 5
+2 13
+2 14
+3 6
+3 15
+3 16
+4 5
+4 6
+4 8
+4 9
+5 7
+5 10
+6 11
+6 12

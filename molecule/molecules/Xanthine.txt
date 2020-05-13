@@ -1,0 +1,37 @@
+Xanthine
+15
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 8
+1 9
+1 9
+2 7
+2 9
+2 11
+3 6
+3 10
+3 12
+4 8
+4 9
+4 13
+5 7
+5 10
+5 10
+6 7
+6 7
+6 8
+10 14

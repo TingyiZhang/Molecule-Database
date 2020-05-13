@@ -1,0 +1,39 @@
+4-Methoxybutan-1-ol
+19
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 6
+1 5
+1 18
+2 3
+2 4
+2 7
+2 8
+3 5
+3 9
+3 10
+4 11
+4 12
+5 13
+5 14
+6 15
+6 16
+6 17

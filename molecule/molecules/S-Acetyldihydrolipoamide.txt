@@ -1,0 +1,71 @@
+S-Acetyldihydrolipoamide
+34
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 13
+1 11
+1 28
+2 12
+2 12
+3 13
+3 13
+4 12
+4 32
+4 33
+5 6
+5 7
+5 15
+5 16
+6 8
+6 17
+7 9
+7 18
+7 19
+8 11
+8 20
+8 21
+9 10
+9 22
+9 23
+10 12
+10 24
+10 25
+11 26
+11 27
+13 14
+14 29
+14 30
+14 31

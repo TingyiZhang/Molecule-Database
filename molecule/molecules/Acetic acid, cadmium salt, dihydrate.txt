@@ -1,0 +1,47 @@
+Acetic acid, cadmium salt, dihydrate
+17
+"Cadmium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 2
+0 2
+0 2
+0 2
+0 2
+0 2
+1 5
+1 9
+2 6
+2 10
+3 5
+3 5
+4 6
+4 6
+5 7
+6 8
+7 11
+7 12
+7 13
+8 14
+8 15
+8 16

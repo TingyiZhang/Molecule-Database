@@ -1,0 +1,38 @@
+3-Nitroaniline
+16
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+1 2
+1 2
+2 4
+3 5
+3 14
+3 15
+4 6
+4 7
+4 7
+5 6
+5 6
+5 8
+6 10
+7 9
+7 11
+8 9
+8 9
+8 12
+9 13

@@ -1,0 +1,62 @@
+7-Bromo-3-(bromomethyl)-2,3,6-trichloro-7-methyloct-1-ene
+30
+"Bromine"
+"Bromine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 12
+2 6
+3 9
+4 13
+5 6
+5 7
+5 15
+5 16
+6 8
+6 17
+7 9
+7 18
+7 19
+8 10
+8 11
+9 12
+9 13
+10 20
+10 21
+10 22
+11 23
+11 24
+11 25
+12 26
+12 27
+13 14
+13 14
+14 28
+14 29

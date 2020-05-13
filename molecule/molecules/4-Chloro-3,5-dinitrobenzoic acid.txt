@@ -1,0 +1,46 @@
+4-Chloro-3,5-dinitrobenzoic acid
+19
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+1 15
+1 18
+2 15
+2 15
+3 7
+4 8
+5 7
+5 7
+6 8
+6 8
+7 10
+8 11
+9 12
+9 12
+9 13
+9 15
+10 13
+10 13
+10 14
+11 12
+11 14
+11 14
+12 16
+13 17

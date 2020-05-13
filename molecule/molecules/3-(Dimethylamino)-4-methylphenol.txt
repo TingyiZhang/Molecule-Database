@@ -1,0 +1,53 @@
+3-(Dimethylamino)-4-methylphenol
+24
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 23
+1 2
+1 8
+1 9
+2 3
+2 3
+2 4
+3 5
+3 7
+4 6
+4 6
+4 11
+5 10
+5 10
+5 12
+6 10
+7 13
+7 14
+7 15
+8 16
+8 17
+8 18
+9 19
+9 20
+9 21
+10 22

@@ -1,0 +1,38 @@
+Phthalic anhydride
+15
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 8
+1 7
+1 7
+2 8
+2 8
+3 4
+3 5
+3 5
+3 7
+4 6
+4 6
+4 8
+5 9
+5 11
+6 10
+6 12
+9 10
+9 10
+9 13
+10 14

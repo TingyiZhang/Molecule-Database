@@ -1,0 +1,62 @@
+Diphenyl carbonate
+26
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 15
+1 4
+1 15
+2 15
+2 15
+3 5
+3 5
+3 7
+4 6
+4 6
+4 8
+5 9
+5 16
+6 10
+6 17
+7 11
+7 11
+7 18
+8 12
+8 12
+8 19
+9 13
+9 13
+9 20
+10 14
+10 14
+10 21
+11 13
+11 22
+12 14
+12 23
+13 24
+14 25

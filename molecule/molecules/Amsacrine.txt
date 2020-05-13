@@ -1,0 +1,111 @@
+Amsacrine
+47
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+0 3
+0 3
+0 6
+0 26
+1 15
+1 27
+4 7
+4 12
+4 28
+5 10
+5 10
+5 11
+6 16
+6 40
+7 8
+7 8
+7 9
+8 10
+8 13
+9 11
+9 14
+9 14
+10 18
+11 19
+11 19
+12 15
+12 15
+12 17
+13 22
+13 22
+13 29
+14 23
+14 30
+15 20
+16 20
+16 20
+16 21
+17 21
+17 21
+17 31
+18 24
+18 24
+18 32
+19 25
+19 33
+20 34
+21 35
+22 24
+22 36
+23 25
+23 25
+23 37
+24 38
+25 39
+26 41
+26 42
+26 43
+27 44
+27 45
+27 46

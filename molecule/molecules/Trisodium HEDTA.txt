@@ -1,0 +1,75 @@
+Trisodium HEDTA
+37
+"Sodium"
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+3 18
+3 36
+4 19
+5 19
+5 19
+6 20
+7 21
+8 20
+8 20
+9 21
+9 21
+10 12
+10 14
+10 15
+11 13
+11 16
+11 17
+12 13
+12 22
+12 23
+13 24
+13 25
+14 18
+14 26
+14 27
+15 19
+15 28
+15 29
+16 20
+16 30
+16 31
+17 21
+17 32
+17 33
+18 34
+18 35

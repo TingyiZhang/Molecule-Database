@@ -1,0 +1,55 @@
+Aminohippuric acid
+24
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+1 13
+1 23
+2 13
+2 13
+3 6
+3 12
+3 16
+4 9
+4 21
+4 22
+5 6
+5 7
+5 7
+5 8
+7 10
+7 14
+8 11
+8 11
+8 15
+9 10
+9 10
+9 11
+10 17
+11 18
+12 13
+12 19
+12 20

@@ -1,0 +1,47 @@
+2-Amino-3-hydroxy-4-(phosphonooxy)butanoate
+22
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 3
+0 4
+0 7
+0 7
+1 11
+2 9
+2 19
+3 20
+4 21
+5 12
+6 12
+6 12
+8 10
+8 17
+8 18
+9 10
+9 11
+9 13
+10 12
+10 14
+11 15
+11 16

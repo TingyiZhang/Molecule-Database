@@ -1,0 +1,83 @@
+6-Chloro-3a-hydroxy-1-phenyl-1,2,3,3a-tetrahydro-4h-pyrrolo[2,3-b]quinolin-4-one
+35
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+1 5
+1 26
+2 9
+2 9
+3 7
+3 8
+3 11
+4 8
+4 8
+4 12
+5 6
+5 8
+5 9
+6 7
+6 22
+6 23
+7 24
+7 25
+9 10
+10 12
+10 12
+10 13
+11 14
+11 14
+11 15
+12 16
+13 17
+13 17
+13 27
+14 19
+14 28
+15 20
+15 20
+15 29
+16 18
+16 18
+16 30
+17 18
+18 31
+19 21
+19 21
+19 32
+20 21
+20 33
+21 34

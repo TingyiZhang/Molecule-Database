@@ -1,0 +1,39 @@
+2-Hydroxyglutaric acid
+18
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 15
+1 8
+1 16
+2 9
+2 17
+3 8
+3 8
+4 9
+4 9
+5 6
+5 7
+5 10
+5 11
+6 8
+6 12
+7 9
+7 13
+7 14

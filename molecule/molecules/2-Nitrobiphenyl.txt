@@ -1,0 +1,58 @@
+2-Nitrobiphenyl
+24
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+1 2
+1 2
+2 5
+3 4
+3 5
+3 6
+3 6
+4 7
+4 7
+4 8
+5 9
+5 9
+6 10
+6 15
+7 12
+7 16
+8 13
+8 13
+8 17
+9 11
+9 18
+10 11
+10 11
+10 19
+11 20
+12 14
+12 14
+12 21
+13 14
+13 22
+14 23

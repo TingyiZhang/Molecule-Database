@@ -1,0 +1,163 @@
+Didecyl phthalate
+78
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 24
+1 21
+1 25
+2 24
+2 24
+3 25
+3 25
+4 6
+4 8
+4 32
+4 33
+5 7
+5 9
+5 34
+5 35
+6 10
+6 36
+6 37
+7 11
+7 38
+7 39
+8 12
+8 40
+8 41
+9 13
+9 42
+9 43
+10 14
+10 44
+10 45
+11 15
+11 46
+11 47
+12 16
+12 48
+12 49
+13 17
+13 50
+13 51
+14 18
+14 52
+14 53
+15 19
+15 54
+15 55
+16 20
+16 56
+16 57
+17 21
+17 58
+17 59
+18 22
+18 60
+18 61
+19 23
+19 62
+19 63
+20 64
+20 65
+21 66
+21 67
+22 68
+22 69
+22 70
+23 71
+23 72
+23 73
+24 26
+25 27
+26 27
+26 28
+26 28
+27 29
+27 29
+28 30
+28 74
+29 31
+29 75
+30 31
+30 31
+30 76
+31 77

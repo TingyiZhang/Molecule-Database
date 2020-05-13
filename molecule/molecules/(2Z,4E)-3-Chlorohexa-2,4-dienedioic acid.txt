@@ -1,0 +1,37 @@
+(2Z,4E)-3-Chlorohexa-2,4-dienedioic acid
+16
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+1 9
+1 14
+2 10
+2 15
+3 9
+3 9
+4 10
+4 10
+5 6
+5 7
+5 7
+6 8
+6 8
+6 11
+7 9
+7 12
+8 10
+8 13

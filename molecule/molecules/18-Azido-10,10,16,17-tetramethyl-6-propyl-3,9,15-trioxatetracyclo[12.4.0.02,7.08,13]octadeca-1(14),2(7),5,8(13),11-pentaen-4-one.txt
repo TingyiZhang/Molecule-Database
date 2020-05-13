@@ -1,0 +1,121 @@
+18-Azido-10,10,16,17-tetramethyl-6-propyl-3,9,15-trioxatetracyclo[12.4.0.02,7.08,13]octadeca-1(14),2(7),5,8(13),11-pentaen-4-one
+54
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 11
+1 15
+1 17
+2 13
+2 26
+3 26
+3 26
+4 5
+4 5
+4 8
+5 6
+5 6
+7 8
+7 9
+7 16
+7 29
+8 10
+8 30
+9 18
+9 31
+10 11
+10 11
+10 13
+11 12
+12 15
+12 15
+12 20
+13 14
+13 14
+14 15
+14 19
+16 32
+16 33
+16 34
+17 21
+17 23
+17 24
+18 35
+18 36
+18 37
+19 22
+19 25
+19 25
+20 21
+20 21
+20 38
+21 39
+22 27
+22 40
+22 41
+23 42
+23 43
+23 44
+24 45
+24 46
+24 47
+25 26
+25 48
+27 28
+27 49
+27 50
+28 51
+28 52
+28 53

@@ -1,0 +1,80 @@
+5,7-Dimethoxy-3-(4-pyridinyl)quinoline
+34
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 18
+1 11
+1 19
+2 5
+2 13
+2 13
+3 16
+3 16
+3 17
+4 5
+4 5
+4 7
+4 8
+5 9
+6 7
+6 7
+6 10
+6 13
+7 20
+8 12
+8 12
+9 11
+9 11
+9 21
+10 14
+10 14
+10 15
+11 12
+12 22
+13 23
+14 16
+14 24
+15 17
+15 17
+15 25
+16 26
+17 27
+18 28
+18 29
+18 30
+19 31
+19 32
+19 33

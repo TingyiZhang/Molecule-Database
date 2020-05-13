@@ -1,0 +1,53 @@
+Penicillanic acid
+24
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+1 9
+1 9
+2 12
+2 23
+3 12
+3 12
+4 6
+4 7
+4 9
+5 7
+5 10
+5 11
+6 8
+6 13
+7 12
+7 14
+8 9
+8 15
+8 16
+10 17
+10 18
+10 19
+11 20
+11 21
+11 22

@@ -1,0 +1,129 @@
+2-Acetamido-N-[4,5-dihydroxy-6-(hydroxymethyl)-2-(2,3,4,5,6-pentahydroxycyclohexyl)oxyoxan-3-yl]-3-sulfanylpropanamide
+62
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 29
+0 58
+1 15
+1 22
+2 22
+2 25
+3 16
+3 46
+4 17
+4 47
+5 18
+5 48
+6 19
+6 49
+7 21
+7 50
+8 23
+8 51
+9 24
+9 52
+10 26
+10 54
+11 27
+11 27
+12 30
+12 30
+13 20
+13 27
+13 43
+14 28
+14 30
+14 57
+15 16
+15 17
+15 32
+16 18
+16 33
+17 19
+17 34
+18 21
+18 35
+19 21
+19 36
+20 22
+20 23
+20 37
+21 38
+22 39
+23 24
+23 40
+24 25
+24 41
+25 26
+25 42
+26 44
+26 45
+27 28
+28 29
+28 53
+29 55
+29 56
+30 31
+31 59
+31 60
+31 61

@@ -1,0 +1,154 @@
+Cyclotetrasiloxane, 2,4,6,8-tetramethyl-2,4,6,8-tetraphenyl-
+68
+"Silicon"
+"Silicon"
+"Silicon"
+"Silicon"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 5
+0 8
+0 12
+1 4
+1 6
+1 9
+1 13
+2 5
+2 7
+2 10
+2 14
+3 6
+3 7
+3 11
+3 15
+8 16
+8 16
+8 20
+9 17
+9 17
+9 21
+10 18
+10 18
+10 22
+11 19
+11 19
+11 23
+12 36
+12 37
+12 38
+13 39
+13 40
+13 41
+14 42
+14 43
+14 44
+15 45
+15 46
+15 47
+16 24
+16 48
+17 25
+17 49
+18 26
+18 50
+19 27
+19 51
+20 28
+20 28
+20 52
+21 29
+21 29
+21 53
+22 30
+22 30
+22 54
+23 31
+23 31
+23 55
+24 32
+24 32
+24 56
+25 33
+25 33
+25 57
+26 34
+26 34
+26 58
+27 35
+27 35
+27 59
+28 32
+28 60
+29 33
+29 61
+30 34
+30 62
+31 35
+31 63
+32 64
+33 65
+34 66
+35 67

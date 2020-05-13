@@ -1,0 +1,29 @@
+(3-Methyloxiran-2-yl)phosphonate
+13
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 4
+0 4
+0 5
+1 5
+1 6
+5 6
+5 8
+6 7
+6 9
+7 10
+7 11
+7 12

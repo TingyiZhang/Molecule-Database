@@ -1,0 +1,67 @@
+Butabarbital
+31
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 9
+1 10
+1 10
+2 14
+2 14
+3 9
+3 14
+3 29
+4 10
+4 14
+4 30
+5 6
+5 7
+5 9
+5 10
+6 8
+6 11
+6 15
+7 12
+7 16
+7 17
+8 13
+8 18
+8 19
+11 20
+11 21
+11 22
+12 23
+12 24
+12 25
+13 26
+13 27
+13 28

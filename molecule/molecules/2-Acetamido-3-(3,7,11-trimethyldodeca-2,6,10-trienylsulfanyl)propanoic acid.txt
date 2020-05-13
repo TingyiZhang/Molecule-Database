@@ -1,0 +1,122 @@
+2-Acetamido-3-(3,7,11-trimethyldodeca-2,6,10-trienylsulfanyl)propanoic acid
+58
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 17
+1 20
+1 57
+2 20
+2 20
+3 23
+3 23
+4 15
+4 23
+4 47
+5 6
+5 9
+5 25
+5 26
+6 10
+6 27
+6 28
+7 8
+7 11
+7 29
+7 30
+8 9
+8 9
+8 13
+9 31
+10 12
+10 12
+10 16
+11 18
+11 32
+11 33
+12 14
+12 34
+13 35
+13 36
+13 37
+14 38
+14 39
+15 17
+15 20
+15 40
+16 43
+16 44
+16 45
+17 41
+17 42
+18 19
+18 19
+18 46
+19 21
+19 22
+21 48
+21 49
+21 50
+22 51
+22 52
+22 53
+23 24
+24 54
+24 55
+24 56

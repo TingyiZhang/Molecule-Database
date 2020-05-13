@@ -1,0 +1,91 @@
+Ethyl loflazepate
+39
+"Chlorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+1 18
+2 15
+2 23
+3 12
+3 12
+4 15
+4 15
+5 10
+5 12
+5 26
+6 8
+6 8
+6 9
+7 8
+7 10
+7 10
+7 13
+8 11
+9 12
+9 15
+9 25
+10 14
+11 18
+11 19
+11 19
+13 16
+13 16
+13 27
+14 17
+14 17
+14 28
+16 17
+17 29
+18 20
+18 20
+19 21
+19 30
+20 22
+20 31
+21 22
+21 22
+21 32
+22 33
+23 24
+23 34
+23 35
+24 36
+24 37
+24 38

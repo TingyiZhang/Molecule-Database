@@ -1,0 +1,43 @@
+Aklomide
+18
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 12
+1 12
+2 4
+3 4
+3 4
+4 7
+5 12
+5 16
+5 17
+6 8
+6 8
+6 9
+6 12
+7 10
+7 10
+7 11
+8 10
+9 11
+9 11
+9 13
+10 14
+11 15

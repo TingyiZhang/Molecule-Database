@@ -1,0 +1,48 @@
+5-Aminoisoquinolin-1(2H)-one
+20
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 8
+1 8
+1 11
+1 17
+2 5
+2 18
+2 19
+3 4
+3 4
+3 5
+3 6
+4 7
+4 8
+5 9
+5 9
+6 11
+6 11
+6 12
+7 10
+7 10
+7 13
+9 10
+9 14
+10 15
+11 16

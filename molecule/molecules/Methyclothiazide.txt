@@ -1,0 +1,72 @@
+Methyclothiazide
+31
+"Chlorine"
+"Chlorine"
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+1 19
+2 4
+2 4
+2 5
+2 5
+2 8
+2 12
+3 6
+3 6
+3 7
+3 7
+3 10
+3 18
+8 11
+8 16
+9 11
+9 13
+9 21
+10 29
+10 30
+11 14
+11 20
+12 13
+12 15
+12 15
+13 17
+13 17
+14 22
+14 23
+15 18
+15 24
+16 25
+16 26
+16 27
+17 19
+17 28
+18 19
+18 19

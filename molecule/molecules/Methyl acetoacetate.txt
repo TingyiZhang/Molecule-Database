@@ -1,0 +1,35 @@
+Methyl acetoacetate
+16
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 7
+1 4
+1 4
+2 5
+2 5
+3 4
+3 5
+3 8
+3 9
+4 6
+6 10
+6 11
+6 12
+7 13
+7 14
+7 15

@@ -1,0 +1,93 @@
+Sulfoxone sodium
+41
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 5
+0 6
+0 6
+0 13
+0 14
+1 7
+1 9
+1 9
+1 25
+2 8
+2 10
+2 10
+2 26
+11 19
+11 25
+11 35
+12 20
+12 26
+12 36
+13 15
+13 15
+13 17
+14 16
+14 16
+14 18
+15 21
+15 27
+16 22
+16 28
+17 23
+17 23
+17 29
+18 24
+18 24
+18 30
+19 21
+19 21
+19 23
+20 22
+20 22
+20 24
+21 31
+22 32
+23 33
+24 34
+25 37
+25 38
+26 39
+26 40

@@ -1,0 +1,75 @@
+Furosemide
+32
+"Chlorine"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+1 3
+1 3
+1 4
+1 4
+1 8
+1 10
+2 16
+2 20
+5 17
+5 31
+6 17
+6 17
+7 9
+7 13
+7 24
+8 27
+8 28
+9 11
+9 14
+9 14
+10 12
+10 15
+10 15
+11 12
+11 12
+11 17
+12 21
+13 16
+13 22
+13 23
+14 15
+14 25
+16 18
+16 18
+18 19
+18 26
+19 20
+19 20
+19 29
+20 30

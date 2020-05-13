@@ -1,0 +1,74 @@
+Malotilate
+34
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 16
+1 15
+1 17
+2 6
+2 13
+3 7
+3 14
+4 13
+4 13
+5 14
+5 14
+6 9
+6 10
+6 18
+7 11
+7 12
+7 19
+8 13
+8 14
+8 15
+8 15
+9 20
+9 21
+9 22
+10 23
+10 24
+10 25
+11 26
+11 27
+11 28
+12 29
+12 30
+12 31
+16 17
+16 17
+16 32
+17 33

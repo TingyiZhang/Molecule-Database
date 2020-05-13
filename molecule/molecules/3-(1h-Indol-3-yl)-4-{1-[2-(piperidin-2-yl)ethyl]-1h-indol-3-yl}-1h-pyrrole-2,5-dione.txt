@@ -1,0 +1,136 @@
+3-(1h-Indol-3-yl)-4-{1-[2-(piperidin-2-yl)ethyl]-1h-indol-3-yl}-1h-pyrrole-2,5-dione
+59
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 22
+0 22
+1 24
+1 24
+2 6
+2 11
+2 42
+3 12
+3 13
+3 15
+4 22
+4 24
+4 52
+5 27
+5 28
+5 54
+6 7
+6 8
+6 33
+7 9
+7 34
+7 35
+8 12
+8 36
+8 37
+9 10
+9 38
+9 39
+10 11
+10 40
+10 41
+11 43
+11 44
+12 45
+12 46
+13 16
+13 19
+13 19
+14 15
+14 15
+14 16
+14 17
+15 47
+16 20
+16 20
+17 18
+17 18
+17 22
+18 21
+18 24
+19 23
+19 48
+20 25
+20 49
+21 26
+21 27
+21 27
+23 25
+23 25
+23 50
+25 51
+26 28
+26 29
+26 29
+27 53
+28 30
+28 30
+29 31
+29 55
+30 32
+30 56
+31 32
+31 32
+31 57
+32 58

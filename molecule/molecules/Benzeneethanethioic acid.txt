@@ -1,0 +1,42 @@
+Benzeneethanethioic acid
+18
+"Sulfur"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 17
+1 9
+1 9
+2 3
+2 4
+2 4
+2 5
+3 9
+3 10
+3 11
+4 6
+4 12
+5 7
+5 7
+5 13
+6 8
+6 8
+6 14
+7 8
+7 15
+8 16

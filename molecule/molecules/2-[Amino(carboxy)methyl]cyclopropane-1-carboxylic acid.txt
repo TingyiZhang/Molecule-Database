@@ -1,0 +1,44 @@
+2-[Amino(carboxy)methyl]cyclopropane-1-carboxylic acid
+20
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 18
+1 9
+1 9
+2 10
+2 19
+3 10
+3 10
+4 8
+4 16
+4 17
+5 6
+5 7
+5 8
+5 11
+6 7
+6 9
+6 12
+7 13
+7 14
+8 10
+8 15

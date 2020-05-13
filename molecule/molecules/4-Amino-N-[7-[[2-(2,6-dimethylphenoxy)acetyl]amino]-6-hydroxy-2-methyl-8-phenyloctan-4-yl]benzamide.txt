@@ -1,0 +1,175 @@
+4-Amino-N-[7-[[2-(2,6-dimethylphenoxy)acetyl]amino]-6-hydroxy-2-methyl-8-phenyloctan-4-yl]benzamide
+80
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 57
+1 17
+1 17
+2 18
+2 18
+3 22
+3 30
+4 7
+4 17
+4 49
+5 11
+5 18
+5 50
+6 31
+6 71
+6 72
+7 8
+7 10
+7 39
+8 9
+8 40
+8 41
+9 11
+9 42
+10 12
+10 43
+10 44
+11 13
+11 45
+12 14
+12 15
+12 46
+13 16
+13 47
+13 48
+14 51
+14 52
+14 53
+15 54
+15 55
+15 56
+16 19
+16 19
+16 20
+17 21
+18 22
+19 23
+19 58
+20 24
+20 24
+20 59
+21 26
+21 26
+21 27
+22 60
+22 61
+23 25
+23 25
+23 62
+24 25
+24 63
+25 64
+26 28
+26 65
+27 29
+27 29
+27 66
+28 31
+28 31
+28 67
+29 31
+29 68
+30 32
+30 32
+30 33
+32 34
+32 36
+33 35
+33 35
+33 37
+34 38
+34 38
+34 69
+35 38
+35 70
+36 73
+36 74
+36 75
+37 76
+37 77
+37 78
+38 79

@@ -1,0 +1,114 @@
+4-{[(5,5,8,8-Tetramethyl-5,6,7,8-tetrahydronaphthalen-2-yl)carbonyl]amino}benzoic acid
+51
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+0 18
+1 25
+1 50
+2 25
+2 25
+3 18
+3 19
+3 45
+4 6
+4 8
+4 10
+4 11
+5 7
+5 9
+5 12
+5 13
+6 7
+6 26
+6 27
+7 28
+7 29
+8 9
+8 9
+8 14
+9 15
+10 30
+10 31
+10 32
+11 33
+11 34
+11 35
+12 36
+12 37
+12 38
+13 39
+13 40
+13 41
+14 16
+14 16
+14 42
+15 17
+15 17
+15 43
+16 17
+16 18
+17 44
+19 20
+19 20
+19 21
+20 22
+20 46
+21 23
+21 23
+21 47
+22 24
+22 24
+22 48
+23 24
+23 49
+24 25

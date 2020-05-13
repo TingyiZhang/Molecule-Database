@@ -1,0 +1,111 @@
+Chlorphenamine hydrogen maleate
+50
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+1 25
+1 48
+2 26
+2 49
+3 25
+3 25
+4 26
+4 26
+5 9
+5 15
+5 16
+6 11
+6 21
+6 21
+7 8
+7 10
+7 11
+7 27
+8 9
+8 28
+8 29
+9 30
+9 31
+10 12
+10 12
+10 13
+11 14
+11 14
+12 17
+12 32
+13 18
+13 18
+13 33
+14 19
+14 34
+15 35
+15 36
+15 37
+16 38
+16 39
+16 40
+17 20
+17 20
+17 41
+18 20
+18 42
+19 22
+19 22
+19 43
+21 22
+21 44
+22 45
+23 24
+23 24
+23 25
+23 46
+24 26
+24 47

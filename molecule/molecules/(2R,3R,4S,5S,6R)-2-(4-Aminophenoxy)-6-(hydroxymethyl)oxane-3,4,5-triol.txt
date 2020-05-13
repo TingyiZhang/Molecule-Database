@@ -1,0 +1,78 @@
+(2R,3R,4S,5S,6R)-2-(4-Aminophenoxy)-6-(hydroxymethyl)oxane-3,4,5-triol
+36
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 11
+1 7
+1 26
+2 11
+2 13
+3 8
+3 27
+4 9
+4 28
+5 12
+5 29
+6 18
+6 34
+6 35
+7 8
+7 9
+7 19
+8 10
+8 20
+9 11
+9 21
+10 12
+10 22
+11 23
+12 24
+12 25
+13 14
+13 14
+13 15
+14 16
+14 30
+15 17
+15 17
+15 31
+16 18
+16 18
+16 32
+17 18
+17 33

@@ -1,0 +1,125 @@
+9,13,17,17-Tetramethyl-4,12-dioxapentacyclo[11.7.1.01,16.05,21.06,11]henicosa-6,8,10-trien-7-ol
+58
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 20
+1 12
+1 15
+2 21
+2 54
+3 4
+3 5
+3 8
+3 10
+4 7
+4 9
+4 26
+5 6
+5 12
+5 27
+6 11
+6 16
+7 13
+7 17
+7 18
+8 14
+8 28
+8 29
+9 11
+9 30
+9 31
+10 15
+10 32
+10 33
+11 34
+11 35
+12 19
+12 36
+13 14
+13 37
+13 38
+14 39
+14 40
+15 41
+15 42
+16 43
+16 44
+16 45
+17 46
+17 47
+17 48
+18 49
+18 50
+18 51
+19 20
+19 21
+19 21
+20 22
+20 22
+21 23
+22 24
+22 52
+23 24
+23 24
+23 53
+24 25
+25 55
+25 56
+25 57

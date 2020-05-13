@@ -1,0 +1,80 @@
+n-(2,6-Diflouro-benzyl)-4-sulfamoyl-benzamide
+34
+"Sulfur"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 4
+0 5
+0 5
+0 7
+0 10
+1 17
+2 18
+3 12
+3 12
+6 8
+6 12
+6 24
+7 32
+7 33
+8 11
+8 22
+8 23
+9 12
+9 13
+9 13
+9 14
+10 15
+10 15
+10 16
+11 17
+11 17
+11 18
+13 15
+13 25
+14 16
+14 16
+14 26
+15 27
+16 28
+17 19
+18 20
+18 20
+19 21
+19 21
+19 29
+20 21
+20 30
+21 31

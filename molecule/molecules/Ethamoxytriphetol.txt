@@ -1,0 +1,141 @@
+Ethamoxytriphetol
+64
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 35
+1 14
+1 19
+2 27
+2 30
+3 13
+3 20
+3 21
+4 5
+4 6
+4 7
+5 8
+5 31
+5 32
+6 9
+6 9
+6 10
+7 11
+7 11
+7 12
+8 17
+8 17
+8 18
+9 15
+9 33
+10 16
+10 16
+10 34
+11 22
+11 36
+12 23
+12 23
+12 37
+13 19
+13 38
+13 39
+14 15
+14 15
+14 16
+15 40
+16 41
+17 24
+17 42
+18 25
+18 25
+18 43
+19 44
+19 45
+20 28
+20 46
+20 47
+21 29
+21 48
+21 49
+22 26
+22 26
+22 50
+23 26
+23 51
+24 27
+24 27
+24 52
+25 27
+25 53
+26 54
+28 55
+28 56
+28 57
+29 58
+29 59
+29 60
+30 61
+30 62
+30 63

@@ -1,0 +1,228 @@
+3-Butan-2-yl-6-[2-(3,5-dimethoxyphenyl)-1H-indol-3-yl]-9-(6-oxooctyl)-1,4,7,10-tetrazabicyclo[10.4.0]hexadecane-2,5,8,11-tetrone
+105
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+0 18
+1 20
+1 20
+2 26
+2 26
+3 27
+3 27
+4 45
+4 50
+5 46
+5 51
+6 44
+6 44
+7 12
+7 14
+7 18
+8 17
+8 26
+8 64
+9 20
+9 21
+9 67
+10 23
+10 27
+10 74
+11 33
+11 34
+11 82
+12 13
+12 20
+12 52
+13 15
+13 53
+13 54
+14 16
+14 55
+14 56
+15 16
+15 57
+15 58
+16 59
+16 60
+17 18
+17 19
+17 61
+19 22
+19 24
+19 62
+21 25
+21 27
+21 63
+22 30
+22 65
+22 66
+23 26
+23 28
+23 68
+24 69
+24 70
+24 71
+25 29
+25 72
+25 73
+28 32
+28 33
+28 33
+29 31
+29 75
+29 76
+30 77
+30 78
+30 79
+31 35
+31 80
+31 81
+32 34
+32 37
+32 37
+33 36
+34 39
+34 39
+35 38
+35 83
+35 84
+36 42
+36 42
+36 43
+37 40
+37 85
+38 44
+38 86
+38 87
+39 41
+39 88
+40 41
+40 41
+40 89
+41 90
+42 46
+42 91
+43 45
+43 45
+43 92
+44 47
+45 48
+46 48
+46 48
+47 49
+47 93
+47 94
+48 95
+49 96
+49 97
+49 98
+50 99
+50 100
+50 101
+51 102
+51 103
+51 104

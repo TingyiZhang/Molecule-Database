@@ -1,0 +1,30 @@
+Ethyl trifluoroacetate
+14
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 8
+2 8
+3 5
+3 7
+4 7
+4 7
+5 6
+5 9
+5 10
+6 11
+6 12
+6 13
+7 8

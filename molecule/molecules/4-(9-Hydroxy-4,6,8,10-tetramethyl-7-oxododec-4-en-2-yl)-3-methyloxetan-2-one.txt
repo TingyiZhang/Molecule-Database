@@ -1,0 +1,121 @@
+4-(9-Hydroxy-4,6,8,10-tetramethyl-7-oxododec-4-en-2-yl)-3-methyloxetan-2-one
+58
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 8
+1 10
+1 54
+2 8
+2 8
+3 16
+3 16
+4 5
+4 6
+4 24
+5 7
+5 11
+5 25
+6 8
+6 14
+6 26
+7 13
+7 27
+7 28
+9 10
+9 16
+9 19
+9 29
+10 12
+10 30
+11 31
+11 32
+11 33
+12 18
+12 20
+12 34
+13 17
+13 17
+13 21
+14 35
+14 36
+14 37
+15 16
+15 17
+15 22
+15 38
+17 39
+18 23
+18 40
+18 41
+19 42
+19 43
+19 44
+20 45
+20 46
+20 47
+21 48
+21 49
+21 50
+22 51
+22 52
+22 53
+23 55
+23 56
+23 57

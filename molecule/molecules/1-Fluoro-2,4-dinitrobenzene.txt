@@ -1,0 +1,39 @@
+1-Fluoro-2,4-dinitrobenzene
+16
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 5
+2 5
+2 5
+3 6
+4 6
+4 6
+5 7
+6 8
+7 9
+7 10
+7 10
+8 9
+8 9
+8 11
+9 13
+10 12
+11 12
+11 12
+11 14
+12 15

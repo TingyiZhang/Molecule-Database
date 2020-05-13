@@ -1,0 +1,163 @@
+Foroxymithine
+77
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 23
+0 23
+1 24
+1 24
+2 13
+2 68
+3 31
+3 31
+4 15
+4 71
+5 34
+5 70
+6 33
+6 33
+7 17
+7 76
+8 36
+8 36
+9 37
+9 37
+10 39
+10 39
+11 18
+11 24
+11 48
+12 19
+12 23
+12 49
+13 26
+13 31
+14 28
+14 33
+14 62
+15 27
+15 37
+16 29
+16 36
+16 67
+17 35
+17 39
+18 20
+18 23
+18 40
+19 21
+19 24
+19 41
+20 22
+20 42
+20 43
+21 25
+21 44
+21 45
+22 26
+22 46
+22 47
+25 27
+25 50
+25 51
+26 52
+26 53
+27 54
+27 55
+28 31
+28 34
+28 56
+29 30
+29 33
+29 57
+30 32
+30 58
+30 59
+32 35
+32 60
+32 61
+34 63
+34 64
+35 65
+35 66
+36 38
+37 69
+38 72
+38 73
+38 74
+39 75

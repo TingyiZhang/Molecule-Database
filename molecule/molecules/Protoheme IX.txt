@@ -1,0 +1,194 @@
+Protoheme IX
+75
+"Iron"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 5
+0 5
+0 5
+0 5
+0 5
+0 6
+0 6
+0 6
+0 6
+0 6
+0 6
+0 7
+0 7
+0 7
+0 7
+0 7
+0 7
+0 8
+0 8
+0 8
+0 8
+0 8
+0 8
+1 41
+1 73
+2 42
+2 74
+3 41
+3 41
+4 42
+4 42
+5 9
+5 9
+5 11
+6 10
+6 12
+7 13
+7 16
+8 14
+8 14
+8 15
+9 17
+9 18
+10 17
+10 17
+10 19
+11 20
+11 20
+11 22
+12 21
+12 21
+12 23
+13 20
+13 25
+13 25
+14 21
+14 27
+15 24
+15 24
+15 26
+16 24
+16 28
+16 28
+17 43
+18 22
+18 22
+18 29
+19 23
+19 23
+19 30
+20 44
+21 45
+22 31
+23 32
+24 46
+25 28
+25 33
+26 27
+26 27
+26 34
+27 35
+28 36
+29 37
+29 47
+29 48
+30 38
+30 49
+30 50
+31 51
+31 52
+31 53
+32 54
+32 55
+32 56
+33 57
+33 58
+33 59
+34 60
+34 61
+34 62
+35 39
+35 39
+35 63
+36 40
+36 40
+36 64
+37 41
+37 65
+37 66
+38 42
+38 67
+38 68
+39 69
+39 70
+40 71
+40 72

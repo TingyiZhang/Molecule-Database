@@ -1,0 +1,22 @@
+1,1,1-Trifluoroacetone
+10
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+1 4
+2 4
+3 5
+3 5
+4 5
+5 6
+6 7
+6 8
+6 9

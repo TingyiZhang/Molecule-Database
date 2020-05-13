@@ -1,0 +1,234 @@
+Manganese(3+);5,10,15,20-tetrakis(1-methylpyridin-1-ium-4-yl)porphyrin-22,24-diide
+89
+"Manganese"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 2
+0 2
+0 2
+0 2
+0 2
+0 2
+0 3
+0 3
+0 3
+0 3
+0 3
+0 3
+0 4
+0 4
+0 4
+0 4
+0 4
+0 4
+1 9
+1 10
+2 11
+2 11
+2 13
+3 12
+3 12
+3 14
+4 15
+4 16
+5 41
+5 41
+5 43
+5 49
+6 42
+6 42
+6 44
+6 50
+7 45
+7 45
+7 47
+7 51
+8 46
+8 46
+8 48
+8 52
+9 17
+9 17
+9 21
+10 18
+10 18
+10 22
+11 17
+11 23
+12 18
+12 24
+13 19
+13 19
+13 25
+14 20
+14 20
+14 26
+15 19
+15 27
+15 27
+16 20
+16 28
+16 28
+17 29
+18 30
+19 31
+20 32
+21 22
+21 22
+21 53
+22 54
+23 25
+23 25
+23 55
+24 26
+24 26
+24 56
+25 57
+26 58
+27 28
+27 59
+28 60
+29 33
+29 33
+29 35
+30 34
+30 34
+30 36
+31 37
+31 37
+31 39
+32 38
+32 38
+32 40
+33 41
+33 61
+34 42
+34 62
+35 43
+35 43
+35 63
+36 44
+36 44
+36 64
+37 45
+37 65
+38 46
+38 66
+39 47
+39 47
+39 67
+40 48
+40 48
+40 68
+41 69
+42 70
+43 71
+44 72
+45 73
+46 74
+47 75
+48 76
+49 77
+49 78
+49 79
+50 80
+50 81
+50 82
+51 83
+51 84
+51 85
+52 86
+52 87
+52 88

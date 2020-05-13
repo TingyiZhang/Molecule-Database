@@ -1,0 +1,88 @@
+Cytidine-5'-diphosphate
+40
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 7
+0 8
+0 9
+0 9
+1 7
+1 10
+1 11
+1 12
+1 12
+2 18
+2 19
+3 16
+3 31
+4 17
+4 32
+5 20
+6 22
+6 22
+8 35
+10 38
+11 39
+13 19
+13 21
+13 22
+14 22
+14 24
+14 24
+15 24
+15 36
+15 37
+16 17
+16 18
+16 25
+17 19
+17 26
+18 20
+18 27
+19 28
+20 29
+20 30
+21 23
+21 23
+21 33
+23 24
+23 34

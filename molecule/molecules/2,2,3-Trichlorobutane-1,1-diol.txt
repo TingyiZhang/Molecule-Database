@@ -1,0 +1,33 @@
+2,2,3-Trichlorobutane-1,1-diol
+16
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+1 5
+2 6
+3 7
+3 14
+4 7
+4 15
+5 6
+5 7
+6 8
+6 9
+7 10
+8 11
+8 12
+8 13

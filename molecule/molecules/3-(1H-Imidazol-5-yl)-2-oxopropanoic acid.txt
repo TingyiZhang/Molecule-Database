@@ -1,0 +1,40 @@
+3-(1H-Imidazol-5-yl)-2-oxopropanoic acid
+17
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 8
+1 10
+1 16
+2 10
+2 10
+3 6
+3 9
+3 13
+4 7
+4 9
+4 9
+5 6
+5 8
+5 11
+5 12
+6 7
+6 7
+7 14
+8 10
+9 15

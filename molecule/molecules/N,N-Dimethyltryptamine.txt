@@ -1,0 +1,67 @@
+N,N-Dimethyltryptamine
+30
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 10
+0 11
+1 6
+1 7
+1 19
+2 3
+2 4
+2 14
+2 15
+3 5
+3 7
+3 7
+4 16
+4 17
+5 6
+5 8
+5 8
+6 9
+6 9
+7 18
+8 12
+8 20
+9 13
+9 21
+10 22
+10 23
+10 24
+11 25
+11 26
+11 27
+12 13
+12 13
+12 28
+13 29

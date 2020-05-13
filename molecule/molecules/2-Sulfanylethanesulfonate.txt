@@ -1,0 +1,27 @@
+2-Sulfanylethanesulfonate
+12
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 3
+0 4
+0 4
+0 5
+1 6
+1 11
+5 6
+5 7
+5 8
+6 9
+6 10

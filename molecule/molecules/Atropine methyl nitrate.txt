@@ -1,0 +1,112 @@
+Atropine methyl nitrate
+52
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 17
+1 17
+1 17
+2 19
+2 48
+3 7
+4 7
+5 7
+5 7
+6 8
+6 9
+6 15
+6 16
+8 10
+8 12
+8 26
+9 11
+9 13
+9 27
+10 11
+10 28
+10 29
+11 30
+11 31
+12 14
+12 32
+12 33
+13 14
+13 34
+13 35
+14 36
+15 37
+15 38
+15 39
+16 40
+16 41
+16 42
+17 18
+18 19
+18 20
+18 43
+19 44
+19 45
+20 21
+20 21
+20 22
+21 23
+21 46
+22 24
+22 24
+22 47
+23 25
+23 25
+23 49
+24 25
+24 50
+25 51

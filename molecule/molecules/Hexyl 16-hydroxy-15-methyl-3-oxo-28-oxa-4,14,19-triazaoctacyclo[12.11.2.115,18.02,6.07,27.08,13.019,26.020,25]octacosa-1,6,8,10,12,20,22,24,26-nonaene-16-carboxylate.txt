@@ -1,0 +1,162 @@
+Hexyl 16-hydroxy-15-methyl-3-oxo-28-oxa-4,14,19-triazaoctacyclo[12.11.2.115,18.02,6.07,27.08,13.019,26.020,25]octacosa-1,6,8,10,12,20,22,24,26-nonaene-16-carboxylate
+71
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 10
+1 9
+1 46
+2 23
+2 34
+3 23
+3 23
+4 26
+4 26
+5 8
+5 12
+5 17
+6 10
+6 13
+6 18
+7 24
+7 26
+7 53
+8 9
+8 15
+9 11
+9 23
+10 11
+10 40
+11 41
+11 42
+12 13
+12 13
+12 14
+13 16
+14 19
+14 20
+14 20
+15 43
+15 44
+15 45
+16 21
+16 21
+16 22
+17 19
+17 25
+17 25
+18 22
+18 27
+18 27
+19 28
+19 28
+20 21
+20 24
+21 26
+22 29
+22 29
+24 47
+24 48
+25 30
+25 49
+27 32
+27 50
+28 31
+28 51
+29 33
+29 52
+30 31
+30 31
+30 54
+31 55
+32 33
+32 33
+32 56
+33 57
+34 35
+34 58
+34 59
+35 36
+35 60
+35 61
+36 37
+36 62
+36 63
+37 38
+37 64
+37 65
+38 39
+38 66
+38 67
+39 68
+39 69
+39 70

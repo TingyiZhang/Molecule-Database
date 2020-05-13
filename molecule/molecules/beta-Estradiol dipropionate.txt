@@ -1,0 +1,130 @@
+beta-Estradiol dipropionate
+60
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 20
+1 20
+1 20
+2 22
+2 25
+3 25
+3 25
+4 5
+4 8
+4 9
+4 14
+5 6
+5 10
+5 28
+6 7
+6 13
+6 29
+7 11
+7 15
+7 30
+8 12
+8 31
+9 11
+9 32
+9 33
+10 12
+10 34
+10 35
+11 36
+11 37
+12 38
+12 39
+13 16
+13 40
+13 41
+14 42
+14 43
+14 44
+15 17
+15 17
+15 18
+16 17
+16 45
+16 46
+17 19
+18 21
+18 21
+18 47
+19 22
+19 22
+19 48
+20 23
+21 22
+21 49
+23 24
+23 50
+23 51
+24 52
+24 53
+24 54
+25 26
+26 27
+26 55
+26 56
+27 57
+27 58
+27 59

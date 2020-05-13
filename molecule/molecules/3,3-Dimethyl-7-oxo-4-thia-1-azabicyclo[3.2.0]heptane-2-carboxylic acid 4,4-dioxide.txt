@@ -1,0 +1,59 @@
+3,3-Dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid 4,4-dioxide
+26
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 7
+0 8
+3 11
+3 11
+4 14
+4 25
+5 14
+5 14
+6 8
+6 9
+6 11
+7 9
+7 12
+7 13
+8 10
+8 15
+9 14
+9 16
+10 11
+10 17
+10 18
+12 19
+12 20
+12 21
+13 22
+13 23
+13 24

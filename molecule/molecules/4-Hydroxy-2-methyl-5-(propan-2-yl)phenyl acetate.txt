@@ -1,0 +1,68 @@
+4-Hydroxy-2-methyl-5-(propan-2-yl)phenyl acetate
+31
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 13
+1 5
+1 27
+2 13
+2 13
+3 4
+3 7
+3 8
+3 15
+4 5
+4 5
+4 6
+5 11
+6 10
+6 10
+6 16
+7 17
+7 18
+7 19
+8 20
+8 21
+8 22
+9 10
+9 11
+9 11
+9 12
+11 23
+12 24
+12 25
+12 26
+13 14
+14 28
+14 29
+14 30

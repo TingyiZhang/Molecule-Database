@@ -1,0 +1,91 @@
+Nisoxetine
+41
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 9
+1 12
+1 19
+2 6
+2 15
+2 27
+3 4
+3 5
+3 20
+4 6
+4 21
+4 22
+5 7
+5 7
+5 8
+6 23
+6 24
+7 10
+7 25
+8 11
+8 11
+8 26
+9 12
+9 14
+9 14
+10 13
+10 13
+10 28
+11 13
+11 29
+12 16
+12 16
+13 31
+14 17
+14 30
+15 32
+15 33
+15 34
+16 18
+16 35
+17 18
+17 18
+17 36
+18 37
+19 38
+19 39
+19 40

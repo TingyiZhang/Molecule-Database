@@ -1,0 +1,153 @@
+3-Epi-25-Hydroxyvitamin D3
+73
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+0 65
+1 25
+1 72
+2 3
+2 4
+2 7
+2 10
+3 5
+3 8
+3 29
+4 6
+4 9
+4 30
+5 6
+5 31
+5 32
+6 33
+6 34
+7 11
+7 35
+7 36
+8 13
+8 14
+8 37
+9 12
+9 15
+9 15
+10 38
+10 39
+10 40
+11 12
+11 41
+11 42
+12 43
+12 44
+13 16
+13 45
+13 46
+14 47
+14 48
+14 49
+15 18
+15 50
+16 17
+16 51
+16 52
+17 19
+17 53
+17 54
+18 20
+18 20
+18 55
+19 22
+19 23
+20 21
+20 24
+21 25
+21 56
+21 57
+22 58
+22 59
+22 60
+23 61
+23 62
+23 63
+24 26
+24 28
+24 28
+25 27
+25 64
+26 27
+26 66
+26 67
+27 68
+27 69
+28 70
+28 71

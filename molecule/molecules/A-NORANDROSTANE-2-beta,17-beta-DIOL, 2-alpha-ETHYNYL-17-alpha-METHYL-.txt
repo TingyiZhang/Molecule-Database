@@ -1,0 +1,117 @@
+A-NORANDROSTANE-2-beta,17-beta-DIOL, 2-alpha-ETHYNYL-17-alpha-METHYL-
+55
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 52
+1 17
+1 53
+2 3
+2 4
+2 8
+2 23
+3 5
+3 11
+3 24
+4 7
+4 13
+4 18
+5 6
+5 12
+5 25
+6 9
+6 10
+6 19
+7 14
+7 16
+7 26
+8 9
+8 27
+8 28
+9 29
+9 30
+10 15
+10 20
+11 14
+11 31
+11 32
+12 15
+12 33
+12 34
+13 17
+13 35
+13 36
+14 37
+14 38
+15 39
+15 40
+16 17
+16 41
+16 42
+17 21
+18 43
+18 44
+18 45
+19 46
+19 47
+19 48
+20 49
+20 50
+20 51
+21 22
+21 22
+21 22
+22 54

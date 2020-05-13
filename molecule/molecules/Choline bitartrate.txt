@@ -1,0 +1,74 @@
+Choline bitartrate
+36
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 30
+1 13
+1 33
+2 14
+2 34
+3 15
+3 35
+4 15
+4 15
+5 16
+6 16
+6 16
+7 8
+7 9
+7 10
+7 11
+8 12
+8 17
+8 18
+9 19
+9 20
+9 21
+10 22
+10 23
+10 24
+11 25
+11 26
+11 27
+12 28
+12 29
+13 14
+13 15
+13 31
+14 16
+14 32

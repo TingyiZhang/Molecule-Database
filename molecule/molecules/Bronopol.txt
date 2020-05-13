@@ -1,0 +1,32 @@
+Bronopol
+15
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+1 7
+1 13
+2 8
+2 14
+3 5
+4 5
+4 5
+5 6
+6 7
+6 8
+7 9
+7 10
+8 11
+8 12

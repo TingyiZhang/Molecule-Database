@@ -1,0 +1,61 @@
+Epibatidine
+27
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 3
+1 4
+1 23
+2 11
+2 13
+2 13
+3 5
+3 7
+3 14
+4 6
+4 8
+4 15
+5 6
+5 9
+5 16
+6 17
+6 18
+7 8
+7 19
+7 20
+8 21
+8 22
+9 10
+9 11
+9 11
+10 12
+10 12
+10 24
+11 25
+12 13
+12 26

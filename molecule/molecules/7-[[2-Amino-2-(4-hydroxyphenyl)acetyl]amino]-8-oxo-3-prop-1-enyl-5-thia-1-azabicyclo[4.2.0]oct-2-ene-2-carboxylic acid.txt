@@ -1,0 +1,104 @@
+7-[[2-Amino-2-(4-hydroxyphenyl)acetyl]amino]-8-oxo-3-prop-1-enyl-5-thia-1-azabicyclo[4.2.0]oct-2-ene-2-carboxylic acid
+46
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 13
+1 11
+1 11
+2 15
+2 15
+3 16
+3 37
+4 16
+4 16
+5 26
+5 45
+6 9
+6 11
+6 12
+7 10
+7 15
+7 29
+8 17
+8 35
+8 36
+9 10
+9 27
+10 11
+10 28
+12 14
+12 14
+12 16
+13 14
+13 30
+13 31
+14 18
+15 17
+17 19
+17 32
+18 20
+18 20
+18 33
+19 21
+19 21
+19 22
+20 23
+20 34
+21 24
+21 38
+22 25
+22 25
+22 39
+23 40
+23 41
+23 42
+24 26
+24 26
+24 43
+25 26
+25 44

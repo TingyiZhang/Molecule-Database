@@ -1,0 +1,61 @@
+Ifosfamide
+29
+"Chlorine"
+"Chlorine"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 13
+2 3
+2 4
+2 4
+2 5
+2 6
+3 9
+5 7
+5 10
+6 11
+6 22
+7 8
+7 14
+7 15
+8 9
+8 16
+8 17
+9 18
+9 19
+10 12
+10 20
+10 21
+11 13
+11 23
+11 24
+12 25
+12 26
+13 27
+13 28

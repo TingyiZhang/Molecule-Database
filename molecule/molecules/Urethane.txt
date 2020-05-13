@@ -1,0 +1,28 @@
+Urethane
+13
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 5
+1 5
+1 5
+2 5
+2 11
+2 12
+3 4
+3 6
+3 7
+4 8
+4 9
+4 10

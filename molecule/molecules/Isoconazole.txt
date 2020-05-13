@@ -1,0 +1,90 @@
+Isoconazole
+39
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+1 18
+2 20
+3 21
+4 7
+4 10
+5 8
+5 14
+5 15
+6 15
+6 15
+6 19
+7 8
+7 9
+7 25
+8 26
+8 27
+9 11
+9 11
+9 12
+10 13
+10 28
+10 29
+11 16
+12 17
+12 17
+12 30
+13 20
+13 20
+13 21
+14 19
+14 19
+14 31
+15 32
+16 18
+16 18
+16 33
+17 18
+17 34
+19 35
+20 22
+21 23
+21 23
+22 24
+22 24
+22 36
+23 24
+23 37
+24 38

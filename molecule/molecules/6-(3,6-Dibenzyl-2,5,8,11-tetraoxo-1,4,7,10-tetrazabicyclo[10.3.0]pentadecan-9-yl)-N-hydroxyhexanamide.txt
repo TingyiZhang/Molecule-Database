@@ -1,0 +1,178 @@
+6-(3,6-Dibenzyl-2,5,8,11-tetraoxo-1,4,7,10-tetrazabicyclo[10.3.0]pentadecan-9-yl)-N-hydroxyhexanamide
+81
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 15
+1 16
+1 16
+2 23
+2 23
+3 24
+3 24
+4 38
+4 38
+5 10
+5 80
+6 11
+6 14
+6 16
+7 15
+7 18
+7 51
+8 17
+8 24
+8 56
+9 21
+9 23
+9 60
+10 38
+10 79
+11 12
+11 15
+11 42
+12 13
+12 43
+12 44
+13 14
+13 45
+13 46
+14 47
+14 48
+16 17
+17 20
+17 49
+18 19
+18 23
+18 50
+19 22
+19 52
+19 53
+20 26
+20 54
+20 55
+21 24
+21 27
+21 57
+22 25
+22 58
+22 59
+25 28
+25 61
+25 62
+26 30
+26 30
+26 31
+27 29
+27 63
+27 64
+28 32
+28 65
+28 66
+29 35
+29 35
+29 36
+30 33
+30 67
+31 34
+31 34
+31 68
+32 38
+32 69
+32 70
+33 37
+33 37
+33 73
+34 37
+34 74
+35 39
+35 71
+36 40
+36 40
+36 72
+37 75
+39 41
+39 41
+39 76
+40 41
+40 77
+41 78

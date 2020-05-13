@@ -1,0 +1,113 @@
+Loratadine
+50
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 22
+1 18
+1 25
+2 18
+2 18
+3 9
+3 10
+3 18
+4 12
+4 24
+4 24
+5 6
+5 7
+5 8
+5 8
+6 9
+6 27
+6 28
+7 10
+7 29
+7 30
+8 11
+8 12
+9 31
+9 32
+10 33
+10 34
+11 13
+11 13
+11 17
+12 16
+12 16
+13 14
+13 19
+14 15
+14 35
+14 36
+15 16
+15 37
+15 38
+16 20
+17 21
+17 21
+17 39
+19 22
+19 22
+19 40
+20 23
+20 23
+20 41
+21 22
+21 42
+23 24
+23 43
+24 44
+25 26
+25 45
+25 46
+26 47
+26 48
+26 49

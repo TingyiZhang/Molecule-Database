@@ -1,0 +1,54 @@
+Dinitolmide
+23
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 15
+1 5
+2 5
+2 5
+3 6
+4 6
+4 6
+5 10
+6 12
+7 15
+7 21
+7 22
+8 9
+8 9
+8 10
+8 14
+9 11
+9 15
+10 13
+10 13
+11 12
+11 12
+11 16
+12 13
+13 17
+14 18
+14 19
+14 20

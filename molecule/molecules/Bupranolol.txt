@@ -1,0 +1,85 @@
+Bupranolol
+40
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 6
+1 33
+2 10
+2 11
+3 4
+3 5
+3 18
+4 7
+4 8
+4 9
+5 6
+5 19
+5 20
+6 10
+6 21
+7 22
+7 23
+7 24
+8 25
+8 26
+8 27
+9 28
+9 29
+9 30
+10 31
+10 32
+11 12
+11 13
+11 13
+12 14
+12 14
+12 34
+13 16
+14 15
+14 17
+15 16
+15 16
+15 35
+16 36
+17 37
+17 38
+17 39

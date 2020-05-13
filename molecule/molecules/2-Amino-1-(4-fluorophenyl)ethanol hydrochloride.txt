@@ -1,0 +1,50 @@
+2-Amino-1-(4-fluorophenyl)ethanol hydrochloride
+23
+"Chlorine"
+"Fluorine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 22
+1 11
+2 4
+2 19
+3 6
+3 20
+3 21
+4 5
+4 6
+4 12
+5 7
+5 7
+5 8
+6 13
+6 14
+7 9
+7 15
+8 10
+8 10
+8 16
+9 11
+9 11
+9 17
+10 11
+10 18

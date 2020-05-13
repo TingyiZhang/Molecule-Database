@@ -1,0 +1,130 @@
+Pregna-4,6-diene-3,20-dione, 17-(acetyloxy)-6-methyl-
+60
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 26
+1 18
+1 18
+2 24
+2 24
+3 26
+3 26
+4 5
+4 8
+4 9
+4 14
+5 6
+5 10
+5 28
+6 7
+6 15
+6 29
+7 11
+7 12
+7 30
+8 13
+8 18
+9 11
+9 31
+9 32
+10 13
+10 33
+10 34
+11 35
+11 36
+12 16
+12 17
+12 20
+13 37
+13 38
+14 39
+14 40
+14 41
+15 19
+15 19
+15 42
+16 19
+16 22
+16 22
+17 21
+17 43
+17 44
+18 23
+19 25
+20 45
+20 46
+20 47
+21 24
+21 48
+21 49
+22 24
+22 50
+23 51
+23 52
+23 53
+25 54
+25 55
+25 56
+26 27
+27 57
+27 58
+27 59

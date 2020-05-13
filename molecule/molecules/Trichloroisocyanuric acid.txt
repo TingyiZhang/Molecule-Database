@@ -1,0 +1,29 @@
+Trichloroisocyanuric acid
+12
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+0 6
+1 7
+2 8
+3 9
+3 9
+4 10
+4 10
+5 11
+5 11
+6 9
+6 10
+7 9
+7 11
+8 10
+8 11

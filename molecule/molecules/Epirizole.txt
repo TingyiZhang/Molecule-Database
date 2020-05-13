@@ -1,0 +1,70 @@
+Epirizole
+31
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 15
+1 12
+1 16
+2 3
+2 6
+2 7
+3 8
+3 8
+4 7
+4 7
+4 10
+5 7
+5 12
+5 12
+6 9
+6 9
+8 9
+8 11
+9 17
+10 13
+10 13
+10 14
+11 18
+11 19
+11 20
+12 13
+13 21
+14 22
+14 23
+14 24
+15 25
+15 26
+15 27
+16 28
+16 29
+16 30

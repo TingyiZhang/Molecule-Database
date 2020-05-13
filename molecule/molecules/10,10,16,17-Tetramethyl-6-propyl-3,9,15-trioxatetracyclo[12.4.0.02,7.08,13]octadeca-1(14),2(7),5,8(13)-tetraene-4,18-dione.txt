@@ -1,0 +1,117 @@
+10,10,16,17-Tetramethyl-6-propyl-3,9,15-trioxatetracyclo[12.4.0.02,7.08,13]octadeca-1(14),2(7),5,8(13)-tetraene-4,18-dione
+53
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 9
+1 10
+1 14
+2 15
+2 24
+3 16
+3 16
+4 24
+4 24
+5 6
+5 17
+5 18
+6 8
+6 27
+6 28
+7 8
+7 9
+7 9
+7 10
+8 29
+8 30
+9 13
+10 11
+10 11
+11 15
+11 16
+12 14
+12 16
+12 20
+12 31
+13 15
+13 15
+13 19
+14 21
+14 32
+17 33
+17 34
+17 35
+18 36
+18 37
+18 38
+19 22
+19 23
+19 23
+20 39
+20 40
+20 41
+21 42
+21 43
+21 44
+22 25
+22 45
+22 46
+23 24
+23 47
+25 26
+25 48
+25 49
+26 50
+26 51
+26 52

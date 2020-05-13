@@ -1,0 +1,174 @@
+7-(4-Carbamoyloxy-3-hydroxy-5-methoxy-6,6-dimethyloxan-2-yl)oxy-3-[[4-hydroxy-3-(3-methylbut-2-enyl)benzoyl]amino]-8-methyl-2-oxochromen-4-olate
+79
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 17
+1 14
+1 20
+2 15
+2 22
+3 17
+3 21
+4 16
+4 54
+5 22
+5 22
+6 25
+6 31
+7 29
+8 31
+8 31
+9 32
+9 32
+10 38
+10 72
+11 22
+11 60
+11 61
+12 30
+12 32
+12 65
+13 14
+13 18
+13 19
+14 15
+14 44
+15 16
+15 45
+16 17
+16 46
+17 47
+18 48
+18 49
+18 50
+19 51
+19 52
+19 53
+20 55
+20 56
+20 57
+21 23
+21 23
+21 24
+23 25
+23 28
+24 27
+24 27
+24 58
+25 26
+25 26
+26 27
+26 29
+27 59
+28 62
+28 63
+28 64
+29 30
+29 30
+30 31
+32 33
+33 35
+33 35
+33 37
+34 35
+34 36
+34 38
+34 38
+35 66
+36 40
+36 67
+36 68
+37 39
+37 39
+37 69
+38 39
+39 70
+40 41
+40 41
+40 71
+41 42
+41 43
+42 73
+42 74
+42 75
+43 76
+43 77
+43 78

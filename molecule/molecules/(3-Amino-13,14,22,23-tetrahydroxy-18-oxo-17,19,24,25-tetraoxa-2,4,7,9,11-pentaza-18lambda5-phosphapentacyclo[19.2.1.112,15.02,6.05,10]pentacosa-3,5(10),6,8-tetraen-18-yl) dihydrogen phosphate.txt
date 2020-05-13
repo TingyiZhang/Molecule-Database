@@ -1,0 +1,128 @@
+(3-Amino-13,14,22,23-tetrahydroxy-18-oxo-17,19,24,25-tetraoxa-2,4,7,9,11-pentaza-18lambda5-phosphapentacyclo[19.2.1.112,15.02,6.05,10]pentacosa-3,5(10),6,8-tetraen-18-yl) dihydrogen phosphate
+58
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 9
+0 10
+0 11
+0 11
+1 10
+1 12
+1 13
+1 14
+1 14
+2 21
+2 24
+3 26
+3 28
+4 22
+4 49
+5 23
+5 50
+6 29
+7 25
+7 51
+8 27
+8 52
+9 30
+12 56
+13 57
+15 21
+15 31
+15 33
+16 28
+16 34
+16 48
+17 32
+17 33
+17 33
+18 31
+18 31
+18 35
+19 34
+19 35
+19 35
+20 33
+20 53
+20 54
+21 22
+21 36
+22 23
+22 37
+23 24
+23 38
+24 29
+24 39
+25 26
+25 27
+25 40
+26 30
+26 41
+27 28
+27 42
+28 43
+29 44
+29 45
+30 46
+30 47
+31 32
+32 34
+32 34
+35 55

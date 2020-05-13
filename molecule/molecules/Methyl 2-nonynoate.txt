@@ -1,0 +1,60 @@
+Methyl 2-nonynoate
+28
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 11
+1 10
+1 10
+2 3
+2 4
+2 12
+2 13
+3 5
+3 14
+3 15
+4 6
+4 16
+4 17
+5 7
+5 18
+5 19
+6 8
+6 20
+6 21
+7 22
+7 23
+7 24
+8 9
+8 9
+8 9
+9 10
+11 25
+11 26
+11 27

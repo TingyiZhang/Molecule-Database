@@ -1,0 +1,78 @@
+4'-Phosphopantothenate
+37
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 4
+0 5
+0 6
+0 6
+1 12
+2 11
+2 28
+3 15
+3 15
+4 34
+5 35
+7 18
+7 36
+8 18
+8 18
+9 15
+9 16
+9 29
+10 11
+10 12
+10 13
+10 14
+11 15
+11 19
+12 20
+12 21
+13 22
+13 23
+13 24
+14 25
+14 26
+14 27
+16 17
+16 30
+16 31
+17 18
+17 32
+17 33

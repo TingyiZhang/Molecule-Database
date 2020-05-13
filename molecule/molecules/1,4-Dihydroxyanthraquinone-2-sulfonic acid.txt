@@ -1,0 +1,74 @@
+1,4-Dihydroxyanthraquinone-2-sulfonic acid
+30
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+0 6
+0 7
+0 7
+0 15
+1 12
+1 27
+2 16
+2 28
+3 13
+3 13
+4 14
+4 14
+5 29
+8 9
+8 9
+8 12
+8 13
+9 14
+9 16
+10 11
+10 13
+10 18
+10 18
+11 14
+11 19
+11 19
+12 15
+12 15
+15 17
+16 17
+16 17
+17 22
+18 20
+18 23
+19 21
+19 24
+20 21
+20 21
+20 25
+21 26

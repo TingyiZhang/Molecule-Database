@@ -1,0 +1,72 @@
+Phenethyl benzoate
+31
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 10
+1 10
+1 10
+2 3
+2 4
+2 17
+2 18
+3 5
+3 5
+3 6
+4 19
+4 20
+5 8
+5 21
+6 9
+6 9
+6 22
+7 10
+7 12
+7 12
+7 13
+8 11
+8 11
+8 23
+9 11
+9 24
+11 25
+12 14
+12 26
+13 15
+13 15
+13 27
+14 16
+14 16
+14 28
+15 16
+15 29
+16 30

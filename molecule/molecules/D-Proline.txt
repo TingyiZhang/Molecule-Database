@@ -1,0 +1,37 @@
+D-Proline
+17
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 16
+1 7
+1 7
+2 3
+2 6
+2 15
+3 4
+3 7
+3 8
+4 5
+4 9
+4 10
+5 6
+5 11
+5 12
+6 13
+6 14

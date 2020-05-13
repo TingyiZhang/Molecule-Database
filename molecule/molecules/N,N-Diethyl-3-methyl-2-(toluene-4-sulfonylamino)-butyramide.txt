@@ -1,0 +1,104 @@
+N,N-Diethyl-3-methyl-2-(toluene-4-sulfonylamino)-butyramide
+48
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+0 3
+0 3
+0 4
+0 13
+1 8
+1 8
+4 6
+4 24
+5 8
+5 11
+5 12
+6 7
+6 8
+6 22
+7 9
+7 10
+7 23
+9 25
+9 26
+9 27
+10 28
+10 29
+10 30
+11 14
+11 31
+11 32
+12 15
+12 33
+12 34
+13 16
+13 16
+13 17
+14 35
+14 36
+14 37
+15 38
+15 39
+15 40
+16 18
+16 41
+17 19
+17 19
+17 42
+18 20
+18 20
+18 43
+19 20
+19 44
+20 21
+21 45
+21 46
+21 47

@@ -1,0 +1,40 @@
+Benzamidine
+17
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 14
+0 15
+1 7
+1 7
+1 16
+2 3
+2 3
+2 4
+2 7
+3 5
+3 9
+4 6
+4 6
+4 10
+5 8
+5 8
+5 11
+6 8
+6 12
+8 13

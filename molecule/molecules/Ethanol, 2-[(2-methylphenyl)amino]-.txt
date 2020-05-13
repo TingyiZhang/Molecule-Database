@@ -1,0 +1,53 @@
+Ethanol, 2-[(2-methylphenyl)amino]-
+24
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 23
+1 2
+1 4
+1 13
+2 3
+2 5
+2 5
+3 6
+3 6
+3 8
+4 7
+4 11
+4 12
+5 9
+5 14
+6 10
+6 15
+7 16
+7 17
+8 18
+8 19
+8 20
+9 10
+9 10
+9 21
+10 22

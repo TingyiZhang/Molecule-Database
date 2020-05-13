@@ -1,0 +1,236 @@
+Phosphatidic acid, dipalmitoyl
+113
+"Phosphorus"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 7
+0 8
+0 9
+0 9
+1 7
+1 7
+1 7
+1 7
+1 7
+1 7
+1 7
+2 39
+2 42
+3 41
+3 43
+4 39
+4 39
+5 41
+5 41
+6 44
+8 112
+10 11
+10 14
+10 45
+10 46
+11 15
+11 47
+11 48
+12 13
+12 16
+12 49
+12 50
+13 17
+13 51
+13 52
+14 18
+14 53
+14 54
+15 19
+15 55
+15 56
+16 20
+16 57
+16 58
+17 21
+17 59
+17 60
+18 22
+18 61
+18 62
+19 23
+19 63
+19 64
+20 24
+20 65
+20 66
+21 25
+21 67
+21 68
+22 26
+22 69
+22 70
+23 27
+23 71
+23 72
+24 29
+24 73
+24 74
+25 28
+25 75
+25 76
+26 30
+26 77
+26 78
+27 31
+27 79
+27 80
+28 32
+28 83
+28 84
+29 33
+29 81
+29 82
+30 34
+30 85
+30 86
+31 35
+31 87
+31 88
+32 36
+32 89
+32 90
+33 37
+33 91
+33 92
+34 39
+34 93
+34 94
+35 38
+35 95
+35 96
+36 40
+36 97
+36 98
+37 41
+37 99
+37 100
+38 101
+38 102
+38 103
+40 104
+40 105
+40 106
+42 43
+42 44
+42 107
+43 108
+43 109
+44 110
+44 111

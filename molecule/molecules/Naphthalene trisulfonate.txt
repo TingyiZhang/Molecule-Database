@@ -1,0 +1,68 @@
+Naphthalene trisulfonate
+27
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+0 4
+0 5
+0 5
+0 14
+1 6
+1 7
+1 7
+1 8
+1 8
+1 15
+2 9
+2 10
+2 10
+2 11
+2 11
+2 20
+12 13
+12 14
+12 14
+12 19
+13 16
+13 16
+13 18
+14 17
+15 16
+15 17
+15 17
+16 22
+17 23
+18 20
+18 20
+18 24
+19 21
+19 21
+19 25
+20 21
+21 26

@@ -1,0 +1,121 @@
+13-Hydroxy-16,17-dimethoxy-6-prop-1-en-2-yl-2,7,20-trioxapentacyclo[11.8.0.03,11.04,8.014,19]henicosa-3(11),9,14,16,18-pentaen-12-one
+54
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 13
+1 10
+1 12
+2 18
+2 21
+3 11
+3 40
+4 15
+4 15
+5 25
+5 28
+6 27
+6 29
+7 8
+7 9
+7 10
+7 30
+8 16
+8 31
+9 13
+9 32
+9 33
+10 14
+10 14
+11 12
+11 15
+11 17
+12 18
+12 34
+13 20
+13 35
+14 15
+14 19
+16 19
+16 19
+16 36
+17 21
+17 22
+17 22
+18 37
+18 38
+19 39
+20 23
+20 26
+20 26
+21 24
+21 24
+22 25
+22 41
+23 42
+23 43
+23 44
+24 27
+24 45
+25 27
+25 27
+26 46
+26 47
+28 48
+28 49
+28 50
+29 51
+29 52
+29 53

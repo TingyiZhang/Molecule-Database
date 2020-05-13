@@ -1,0 +1,25 @@
+Methyl vinyl ketone
+11
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+1 2
+1 5
+1 6
+1 7
+2 3
+3 4
+3 4
+3 8
+4 9
+4 10

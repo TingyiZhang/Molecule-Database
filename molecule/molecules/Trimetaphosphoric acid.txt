@@ -1,0 +1,35 @@
+Trimetaphosphoric acid
+15
+"Phosphorus"
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+0 6
+0 9
+0 9
+1 3
+1 5
+1 7
+1 10
+1 10
+2 4
+2 5
+2 8
+2 11
+2 11
+6 12
+7 13
+8 14

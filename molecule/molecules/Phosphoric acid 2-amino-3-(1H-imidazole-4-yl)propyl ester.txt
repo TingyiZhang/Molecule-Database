@@ -1,0 +1,57 @@
+Phosphoric acid 2-amino-3-(1H-imidazole-4-yl)propyl ester
+26
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 4
+0 4
+1 10
+2 24
+3 25
+5 8
+5 19
+5 20
+6 11
+6 13
+6 21
+7 12
+7 13
+7 13
+8 9
+8 10
+8 14
+9 11
+9 15
+9 16
+10 17
+10 18
+11 12
+11 12
+12 22
+13 23

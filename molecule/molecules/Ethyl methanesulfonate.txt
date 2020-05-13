@@ -1,0 +1,33 @@
+Ethyl methanesulfonate
+15
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 2
+0 3
+0 3
+0 5
+1 4
+4 6
+4 7
+4 8
+5 9
+5 10
+5 11
+6 12
+6 13
+6 14

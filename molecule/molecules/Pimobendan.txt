@@ -1,0 +1,100 @@
+Pimobendan
+43
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 14
+1 23
+1 24
+2 4
+2 7
+2 7
+3 11
+3 17
+3 34
+4 14
+4 35
+5 13
+5 17
+5 17
+6 7
+6 8
+6 10
+6 25
+7 9
+8 14
+8 26
+8 27
+9 12
+9 12
+9 15
+10 28
+10 29
+10 30
+11 12
+11 13
+11 13
+12 31
+13 16
+15 16
+15 16
+15 32
+16 33
+17 18
+18 19
+18 19
+18 20
+19 21
+19 36
+20 22
+20 22
+20 37
+21 23
+21 23
+21 38
+22 23
+22 39
+24 40
+24 41
+24 42

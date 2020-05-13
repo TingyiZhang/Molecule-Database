@@ -1,0 +1,41 @@
+(2-Bromoethyl)benzene
+18
+"Bromine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+1 2
+1 5
+1 9
+1 10
+2 3
+2 3
+2 4
+3 6
+3 11
+4 7
+4 7
+4 12
+5 13
+5 14
+6 8
+6 8
+6 15
+7 8
+7 16
+8 17

@@ -1,0 +1,32 @@
+2,5-Piperazinedione
+14
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+1 7
+1 7
+2 4
+2 6
+2 12
+3 5
+3 7
+3 13
+4 7
+4 8
+4 9
+5 6
+5 10
+5 11

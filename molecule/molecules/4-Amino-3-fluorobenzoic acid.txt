@@ -1,0 +1,40 @@
+4-Amino-3-fluorobenzoic acid
+17
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 10
+1 16
+2 10
+2 10
+3 5
+3 14
+3 15
+4 6
+4 6
+4 7
+4 10
+5 8
+5 8
+5 9
+6 8
+6 11
+7 9
+7 9
+7 12
+9 13

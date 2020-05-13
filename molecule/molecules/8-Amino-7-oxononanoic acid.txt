@@ -1,0 +1,63 @@
+8-Amino-7-oxononanoic acid
+30
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 8
+1 12
+1 29
+2 12
+2 12
+3 9
+3 27
+3 28
+4 5
+4 6
+4 13
+4 14
+5 7
+5 15
+5 16
+6 8
+6 17
+6 18
+7 10
+7 19
+7 20
+8 9
+9 11
+9 21
+10 12
+10 22
+10 23
+11 24
+11 25
+11 26

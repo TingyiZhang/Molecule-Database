@@ -1,0 +1,61 @@
+Triglyme
+30
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 6
+1 5
+1 7
+2 8
+2 10
+3 9
+3 11
+4 5
+4 12
+4 13
+5 14
+5 15
+6 8
+6 16
+6 17
+7 9
+7 18
+7 19
+8 20
+8 21
+9 22
+9 23
+10 24
+10 25
+10 26
+11 27
+11 28
+11 29

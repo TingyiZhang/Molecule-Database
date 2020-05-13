@@ -1,0 +1,33 @@
+Diglycolic acid
+15
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+1 7
+1 13
+2 8
+2 14
+3 7
+3 7
+4 8
+4 8
+5 7
+5 9
+5 10
+6 8
+6 11
+6 12

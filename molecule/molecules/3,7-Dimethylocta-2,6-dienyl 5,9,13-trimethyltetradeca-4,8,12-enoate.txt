@@ -1,0 +1,153 @@
+3,7-Dimethylocta-2,6-dienyl 5,9,13-trimethyltetradeca-4,8,12-enoate
+73
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+0 21
+1 19
+1 19
+2 3
+2 6
+2 29
+2 30
+3 7
+3 31
+3 32
+4 5
+4 7
+4 7
+4 11
+5 8
+5 33
+5 34
+6 9
+6 9
+6 12
+7 35
+8 15
+8 36
+8 37
+9 10
+9 38
+10 13
+10 39
+10 40
+11 41
+11 42
+11 43
+12 44
+12 45
+12 46
+13 19
+13 47
+13 48
+14 16
+14 17
+14 49
+14 50
+15 18
+15 18
+15 51
+16 22
+16 52
+16 53
+17 20
+17 20
+17 23
+18 25
+18 26
+20 21
+20 54
+21 55
+21 56
+22 24
+22 24
+22 57
+23 58
+23 59
+23 60
+24 27
+24 28
+25 61
+25 62
+25 63
+26 64
+26 65
+26 66
+27 67
+27 68
+27 69
+28 70
+28 71
+28 72

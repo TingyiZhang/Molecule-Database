@@ -1,0 +1,247 @@
+Digimed
+118
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 83
+1 31
+1 35
+2 33
+2 36
+3 35
+3 39
+4 36
+4 36
+5 38
+5 96
+6 40
+6 42
+7 42
+7 45
+8 46
+8 48
+9 44
+9 106
+10 48
+10 51
+11 50
+11 116
+12 52
+12 117
+13 14
+13 16
+13 23
+14 15
+14 22
+14 54
+15 17
+15 19
+15 55
+16 20
+16 21
+16 28
+17 18
+17 26
+17 29
+18 24
+18 27
+18 56
+19 20
+19 57
+19 58
+20 59
+20 60
+21 25
+21 32
+21 61
+22 24
+22 62
+22 63
+23 25
+23 64
+23 65
+24 66
+24 67
+25 68
+25 69
+26 30
+26 70
+26 71
+27 31
+27 72
+27 73
+28 74
+28 75
+28 76
+29 77
+29 78
+29 79
+30 31
+30 80
+30 81
+31 82
+32 33
+32 34
+32 34
+33 84
+33 85
+34 36
+34 86
+35 37
+35 87
+37 38
+37 88
+37 89
+38 40
+38 90
+39 40
+39 41
+39 91
+40 92
+41 93
+41 94
+41 95
+42 43
+42 97
+43 44
+43 98
+43 99
+44 46
+44 100
+45 46
+45 47
+45 101
+46 102
+47 103
+47 104
+47 105
+48 49
+48 107
+49 50
+49 108
+49 109
+50 52
+50 110
+51 52
+51 53
+51 111
+52 112
+53 113
+53 114
+53 115

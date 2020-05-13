@@ -1,0 +1,167 @@
+[2-(Carboxymethyl)-4-oxohenicosyl]-trimethylazanium
+82
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 11
+1 22
+1 76
+2 22
+2 22
+3 4
+3 8
+3 9
+3 10
+4 5
+4 30
+4 31
+5 6
+5 7
+5 32
+6 11
+6 33
+6 34
+7 22
+7 35
+7 36
+8 37
+8 38
+8 39
+9 40
+9 41
+9 42
+10 43
+10 44
+10 45
+11 12
+12 13
+12 46
+12 47
+13 14
+13 48
+13 49
+14 15
+14 50
+14 51
+15 16
+15 52
+15 53
+16 17
+16 54
+16 55
+17 18
+17 56
+17 57
+18 19
+18 58
+18 59
+19 20
+19 60
+19 61
+20 21
+20 62
+20 63
+21 23
+21 64
+21 65
+23 24
+23 66
+23 67
+24 25
+24 68
+24 69
+25 26
+25 70
+25 71
+26 27
+26 72
+26 73
+27 28
+27 74
+27 75
+28 29
+28 77
+28 78
+29 79
+29 80
+29 81

@@ -1,0 +1,67 @@
+Dibenzyl ether
+29
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+1 3
+1 15
+1 16
+2 4
+2 17
+2 18
+3 5
+3 5
+3 7
+4 6
+4 6
+4 8
+5 9
+5 19
+6 10
+6 20
+7 11
+7 11
+7 21
+8 12
+8 12
+8 22
+9 13
+9 13
+9 23
+10 14
+10 14
+10 24
+11 13
+11 25
+12 14
+12 26
+13 27
+14 28

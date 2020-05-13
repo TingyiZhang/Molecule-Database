@@ -1,0 +1,156 @@
+Methyl 2-(6-methoxy-6-octadeca-14,16-dienyl-3H-1,2-dioxin-3-yl)acetate
+75
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 13
+1 13
+1 23
+2 19
+3 25
+3 28
+4 25
+4 25
+5 6
+5 7
+5 31
+5 32
+6 8
+6 33
+6 34
+7 9
+7 35
+7 36
+8 10
+8 37
+8 38
+9 11
+9 39
+9 40
+10 12
+10 41
+10 42
+11 13
+11 43
+11 44
+12 14
+12 45
+12 46
+13 17
+14 15
+14 47
+14 48
+15 16
+15 49
+15 50
+16 18
+16 51
+16 52
+17 20
+17 20
+17 53
+18 21
+18 54
+18 55
+19 20
+19 22
+19 56
+20 57
+21 24
+21 58
+21 59
+22 25
+22 60
+22 61
+23 62
+23 63
+23 64
+24 26
+24 26
+24 65
+26 27
+26 66
+27 29
+27 29
+27 67
+28 68
+28 69
+28 70
+29 30
+29 71
+30 72
+30 73
+30 74

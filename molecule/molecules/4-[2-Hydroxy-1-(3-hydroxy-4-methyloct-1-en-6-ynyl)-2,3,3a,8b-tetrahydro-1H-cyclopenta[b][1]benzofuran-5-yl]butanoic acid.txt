@@ -1,0 +1,129 @@
+4-[2-Hydroxy-1-(3-hydroxy-4-methyloct-1-en-6-ynyl)-2,3,3a,8b-tetrahydro-1H-cyclopenta[b][1]benzofuran-5-yl]butanoic acid
+59
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 11
+1 8
+1 37
+2 19
+2 54
+3 25
+3 55
+4 25
+4 25
+5 6
+5 7
+5 10
+5 29
+6 9
+6 30
+7 8
+7 12
+7 31
+8 9
+8 32
+9 33
+9 34
+10 11
+10 13
+10 13
+11 14
+11 14
+12 15
+12 15
+12 35
+13 16
+13 36
+14 17
+14 18
+15 19
+15 38
+16 17
+16 17
+16 39
+17 40
+18 21
+18 41
+18 42
+19 20
+19 43
+20 23
+20 24
+20 44
+21 22
+21 45
+21 46
+22 25
+22 49
+22 50
+23 26
+23 47
+23 48
+24 51
+24 52
+24 53
+26 27
+26 27
+26 27
+27 28
+28 56
+28 57
+28 58

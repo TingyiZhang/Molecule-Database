@@ -1,0 +1,37 @@
+Phthalonitrile
+14
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 8
+0 8
+1 9
+1 9
+1 9
+2 3
+2 4
+2 4
+2 8
+3 5
+3 5
+3 9
+4 6
+4 10
+5 7
+5 11
+6 7
+6 7
+6 12
+7 13

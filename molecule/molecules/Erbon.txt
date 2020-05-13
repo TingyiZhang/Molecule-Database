@@ -1,0 +1,62 @@
+Erbon
+28
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+1 11
+2 13
+3 16
+4 18
+5 8
+5 10
+6 9
+6 12
+7 12
+7 12
+8 9
+8 19
+8 20
+9 21
+9 22
+10 13
+10 14
+10 14
+11 12
+11 15
+13 17
+13 17
+14 16
+14 23
+15 24
+15 25
+15 26
+16 18
+16 18
+17 18
+17 27

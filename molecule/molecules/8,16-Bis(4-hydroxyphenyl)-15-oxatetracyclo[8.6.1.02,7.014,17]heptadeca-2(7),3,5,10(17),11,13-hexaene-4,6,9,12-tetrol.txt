@@ -1,0 +1,133 @@
+8,16-Bis(4-hydroxyphenyl)-15-oxatetracyclo[8.6.1.02,7.014,17]heptadeca-2(7),3,5,10(17),11,13-hexaene-4,6,9,12-tetrol
+57
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 15
+1 12
+1 42
+2 20
+2 48
+3 22
+3 53
+4 23
+4 54
+5 33
+5 55
+6 34
+6 56
+7 8
+7 9
+7 11
+7 35
+8 13
+8 13
+8 15
+9 16
+9 36
+10 12
+10 14
+10 17
+10 37
+11 14
+11 14
+11 19
+12 13
+12 38
+13 18
+14 20
+15 21
+15 21
+16 25
+16 25
+16 26
+17 27
+17 27
+17 28
+18 22
+18 22
+18 39
+19 23
+19 23
+19 40
+20 24
+20 24
+21 22
+21 41
+23 24
+24 43
+25 29
+25 44
+26 30
+26 30
+26 45
+27 31
+27 46
+28 32
+28 32
+28 47
+29 33
+29 33
+29 49
+30 33
+30 50
+31 34
+31 34
+31 51
+32 34
+32 52

@@ -1,0 +1,96 @@
+[Hydroxy-[[5-(5-methyl-2,4-dioxopyrimidin-1-yl)-2,5-dihydrofuran-2-yl]methoxy]phosphoryl] phosphono hydrogen phosphate
+43
+"Phosphorus"
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 5
+0 7
+0 9
+0 9
+1 5
+1 10
+1 11
+1 12
+1 12
+2 10
+2 13
+2 14
+2 15
+2 15
+3 18
+3 19
+4 22
+6 24
+6 24
+7 39
+8 26
+8 26
+11 40
+13 41
+14 42
+16 18
+16 23
+16 24
+17 24
+17 26
+17 35
+18 20
+18 28
+19 21
+19 22
+19 29
+20 21
+20 21
+20 30
+21 31
+22 32
+22 33
+23 25
+23 25
+23 34
+25 26
+25 27
+27 36
+27 37
+27 38

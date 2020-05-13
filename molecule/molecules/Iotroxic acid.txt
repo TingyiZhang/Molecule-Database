@@ -1,0 +1,127 @@
+Iotroxic acid
+57
+"Iodine"
+"Iodine"
+"Iodine"
+"Iodine"
+"Iodine"
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 27
+1 28
+2 31
+3 32
+4 33
+5 34
+6 17
+6 18
+7 19
+7 21
+8 20
+8 22
+9 25
+9 25
+10 26
+10 26
+11 37
+11 55
+12 38
+12 56
+13 37
+13 37
+14 38
+14 38
+15 23
+15 25
+15 51
+16 24
+16 26
+16 52
+17 19
+17 39
+17 40
+18 20
+18 41
+18 42
+19 43
+19 44
+20 45
+20 46
+21 25
+21 47
+21 48
+22 26
+22 49
+22 50
+23 27
+23 31
+23 31
+24 28
+24 32
+24 32
+27 29
+27 29
+28 30
+28 30
+29 33
+29 37
+30 34
+30 38
+31 35
+32 36
+33 35
+33 35
+34 36
+34 36
+35 53
+36 54

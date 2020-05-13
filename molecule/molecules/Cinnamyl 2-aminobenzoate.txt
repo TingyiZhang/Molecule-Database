@@ -1,0 +1,79 @@
+Cinnamyl 2-aminobenzoate
+34
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 8
+1 8
+1 8
+2 4
+2 32
+2 33
+3 4
+3 6
+3 6
+3 8
+4 9
+4 9
+5 10
+5 14
+5 14
+5 15
+6 12
+6 19
+7 11
+7 20
+7 21
+9 13
+9 22
+10 11
+10 11
+10 23
+11 24
+12 13
+12 13
+12 25
+13 26
+14 16
+14 27
+15 17
+15 17
+15 28
+16 18
+16 18
+16 29
+17 18
+17 30
+18 31

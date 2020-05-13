@@ -1,0 +1,217 @@
+N-[1-[(1-Amino-3-methyl-1-oxobutan-2-yl)amino]-3-methyl-1-oxopentan-2-yl]-1-[2-[8-(2-amino-2-oxoethyl)-6,9-dioxo-2-oxa-7,10-diazabicyclo[11.2.2]heptadeca-1(15),13,16-trien-11-yl]-2-hydroxyethyl]pyrrolidine-2-carboxamide
+102
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 66
+1 21
+1 21
+2 27
+2 27
+3 30
+3 30
+4 41
+4 48
+5 40
+5 40
+6 44
+6 44
+7 45
+7 45
+8 15
+8 17
+8 19
+9 21
+9 23
+9 61
+10 22
+10 30
+10 65
+11 27
+11 32
+11 72
+12 31
+12 44
+12 83
+13 40
+13 98
+13 99
+14 45
+14 100
+14 101
+15 16
+15 21
+15 49
+16 18
+16 50
+16 51
+17 18
+17 52
+17 53
+18 54
+18 55
+19 20
+19 56
+19 57
+20 22
+20 58
+22 24
+22 59
+23 25
+23 27
+23 60
+24 28
+24 62
+24 63
+25 26
+25 29
+25 64
+26 33
+26 67
+26 68
+28 34
+28 34
+28 35
+29 69
+29 70
+29 71
+30 31
+31 37
+31 73
+32 36
+32 40
+32 74
+33 75
+33 76
+33 77
+34 38
+34 78
+35 39
+35 39
+35 79
+36 42
+36 43
+36 80
+37 45
+37 81
+37 82
+38 41
+38 41
+38 84
+39 41
+39 85
+42 86
+42 87
+42 88
+43 89
+43 90
+43 91
+44 46
+46 47
+46 92
+46 93
+47 48
+47 94
+47 95
+48 96
+48 97

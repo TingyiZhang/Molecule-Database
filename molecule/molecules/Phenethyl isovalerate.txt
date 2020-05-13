@@ -1,0 +1,72 @@
+Phenethyl isovalerate
+33
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 8
+1 7
+1 7
+2 3
+2 4
+2 5
+2 15
+3 7
+3 16
+3 17
+4 18
+4 19
+4 20
+5 21
+5 22
+5 23
+6 8
+6 9
+6 24
+6 25
+8 26
+8 27
+9 10
+9 10
+9 11
+10 12
+10 28
+11 13
+11 13
+11 29
+12 14
+12 14
+12 30
+13 14
+13 31
+14 32

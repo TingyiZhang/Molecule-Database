@@ -1,0 +1,185 @@
+Squalane
+92
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 4
+0 16
+0 30
+1 3
+1 5
+1 17
+1 31
+2 6
+2 32
+2 33
+3 7
+3 34
+3 35
+4 8
+4 36
+4 37
+5 9
+5 38
+5 39
+6 7
+6 40
+6 41
+7 42
+7 43
+8 12
+8 44
+8 45
+9 13
+9 46
+9 47
+10 12
+10 14
+10 20
+10 48
+11 13
+11 15
+11 21
+11 49
+12 50
+12 51
+13 52
+13 53
+14 18
+14 54
+14 55
+15 19
+15 56
+15 57
+16 58
+16 59
+16 60
+17 61
+17 62
+17 63
+18 22
+18 64
+18 65
+19 23
+19 66
+19 67
+20 68
+20 69
+20 70
+21 71
+21 72
+21 73
+22 24
+22 74
+22 75
+23 25
+23 76
+23 77
+24 26
+24 27
+24 78
+25 28
+25 29
+25 79
+26 80
+26 81
+26 82
+27 83
+27 84
+27 85
+28 86
+28 87
+28 88
+29 89
+29 90
+29 91

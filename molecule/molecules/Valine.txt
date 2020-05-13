@@ -1,0 +1,40 @@
+Valine
+19
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 18
+1 7
+1 7
+2 4
+2 16
+2 17
+3 4
+3 5
+3 6
+3 8
+4 7
+4 9
+5 10
+5 11
+5 12
+6 13
+6 14
+6 15

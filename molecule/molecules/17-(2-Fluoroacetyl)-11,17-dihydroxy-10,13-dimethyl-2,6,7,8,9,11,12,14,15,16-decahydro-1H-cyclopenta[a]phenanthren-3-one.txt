@@ -1,0 +1,118 @@
+17-(2-Fluoroacetyl)-11,17-dihydroxy-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1H-cyclopenta[a]phenanthren-3-one
+55
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 25
+1 9
+1 48
+2 12
+2 51
+3 21
+3 21
+4 24
+4 24
+5 6
+5 9
+5 10
+5 16
+6 7
+6 13
+6 26
+7 8
+7 15
+7 27
+8 11
+8 12
+8 28
+9 14
+9 21
+10 12
+10 29
+10 30
+11 17
+11 19
+11 20
+12 31
+13 14
+13 32
+13 33
+14 34
+14 35
+15 18
+15 36
+15 37
+16 38
+16 39
+16 40
+17 18
+17 23
+17 23
+18 41
+18 42
+19 22
+19 43
+19 44
+20 45
+20 46
+20 47
+21 25
+22 24
+22 49
+22 50
+23 24
+23 52
+25 53
+25 54

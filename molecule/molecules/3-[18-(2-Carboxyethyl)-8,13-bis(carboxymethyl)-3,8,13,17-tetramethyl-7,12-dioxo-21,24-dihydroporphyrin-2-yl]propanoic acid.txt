@@ -1,0 +1,185 @@
+3-[18-(2-Carboxyethyl)-8,13-bis(carboxymethyl)-3,8,13,17-tetramethyl-7,12-dioxo-21,24-dihydroporphyrin-2-yl]propanoic acid
+82
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+0 18
+1 21
+1 21
+2 39
+2 78
+3 41
+3 79
+4 39
+4 39
+5 41
+5 41
+6 46
+6 80
+7 47
+7 81
+8 46
+8 46
+9 47
+9 47
+10 16
+10 20
+10 20
+11 17
+11 26
+11 26
+12 28
+12 31
+12 61
+13 32
+13 33
+13 63
+14 16
+14 18
+14 19
+14 23
+15 17
+15 21
+15 22
+15 25
+16 27
+16 27
+17 24
+17 24
+18 20
+19 39
+19 48
+19 49
+20 24
+21 26
+22 41
+22 50
+22 51
+23 52
+23 53
+23 54
+24 55
+25 56
+25 57
+25 58
+26 35
+27 28
+27 59
+28 30
+28 30
+29 30
+29 31
+29 31
+29 38
+30 42
+31 37
+32 35
+32 35
+32 36
+33 34
+33 37
+33 37
+34 36
+34 36
+34 40
+35 60
+36 43
+37 62
+38 44
+38 64
+38 65
+40 45
+40 66
+40 67
+42 68
+42 69
+42 70
+43 71
+43 72
+43 73
+44 46
+44 74
+44 75
+45 47
+45 76
+45 77

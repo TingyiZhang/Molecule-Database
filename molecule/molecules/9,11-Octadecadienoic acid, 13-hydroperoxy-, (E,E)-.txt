@@ -1,0 +1,112 @@
+9,11-Octadecadienoic acid, 13-hydroperoxy-, (E,E)-
+54
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 13
+1 21
+1 52
+2 53
+3 21
+3 21
+4 5
+4 6
+4 22
+4 23
+5 7
+5 24
+5 25
+6 9
+6 26
+6 27
+7 12
+7 28
+7 29
+8 10
+8 11
+8 30
+8 31
+9 15
+9 32
+9 33
+10 13
+10 34
+10 35
+11 14
+11 36
+11 37
+12 16
+12 38
+12 39
+13 17
+13 40
+14 18
+14 41
+14 42
+15 21
+15 43
+15 44
+16 19
+16 19
+16 45
+17 20
+17 20
+17 46
+18 47
+18 48
+18 49
+19 20
+19 50
+20 51

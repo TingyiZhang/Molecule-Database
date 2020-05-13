@@ -1,0 +1,103 @@
+Ofloxacin
+46
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+1 13
+1 16
+2 22
+2 22
+3 25
+3 45
+4 25
+4 25
+5 8
+5 9
+5 11
+6 10
+6 12
+6 19
+7 14
+7 15
+7 23
+8 14
+8 26
+8 27
+9 15
+9 28
+9 29
+10 16
+10 21
+10 30
+11 13
+11 18
+11 18
+12 13
+12 13
+12 17
+14 31
+14 32
+15 33
+15 34
+16 35
+16 36
+17 20
+17 20
+17 22
+18 20
+19 24
+19 24
+19 37
+20 38
+21 39
+21 40
+21 41
+22 24
+23 42
+23 43
+23 44
+24 25

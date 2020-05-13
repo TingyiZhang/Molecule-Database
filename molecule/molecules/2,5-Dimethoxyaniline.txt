@@ -1,0 +1,49 @@
+2,5-Dimethoxyaniline
+22
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 9
+1 5
+1 10
+2 3
+2 14
+2 15
+3 4
+3 4
+3 6
+4 7
+5 6
+5 6
+5 8
+6 11
+7 8
+7 8
+7 12
+8 13
+9 16
+9 17
+9 18
+10 19
+10 20
+10 21

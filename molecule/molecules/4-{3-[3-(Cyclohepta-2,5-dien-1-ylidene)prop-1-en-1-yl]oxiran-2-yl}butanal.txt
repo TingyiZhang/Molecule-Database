@@ -1,0 +1,84 @@
+4-{3-[3-(Cyclohepta-2,5-dien-1-ylidene)prop-1-en-1-yl]oxiran-2-yl}butanal
+38
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+1 10
+1 10
+2 3
+2 4
+2 18
+3 6
+3 19
+4 5
+4 20
+4 21
+5 7
+5 22
+5 23
+6 8
+6 8
+6 24
+7 10
+7 25
+7 26
+8 9
+8 27
+9 11
+9 11
+9 28
+10 29
+11 12
+11 13
+12 14
+12 30
+12 31
+13 16
+13 16
+13 32
+14 17
+14 17
+14 33
+15 16
+15 17
+15 34
+15 35
+16 36
+17 37

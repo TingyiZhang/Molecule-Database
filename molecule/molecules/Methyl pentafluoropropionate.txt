@@ -1,0 +1,30 @@
+Methyl pentafluoropropionate
+14
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 7
+2 8
+3 8
+4 8
+5 9
+5 10
+6 9
+6 9
+7 8
+7 9
+10 11
+10 12
+10 13

@@ -1,0 +1,174 @@
+1,3-Bis(3-aminobenzyl)-4,7-dibenzyl-1,3-diazepane-2,5,6-triol
+78
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 53
+1 10
+1 54
+2 11
+2 55
+3 7
+3 11
+3 14
+4 8
+4 11
+4 15
+5 32
+5 74
+5 75
+6 33
+6 76
+6 77
+7 9
+7 12
+7 40
+8 10
+8 13
+8 41
+9 10
+9 42
+10 43
+11 44
+12 16
+12 45
+12 46
+13 17
+13 47
+13 48
+14 18
+14 49
+14 50
+15 19
+15 51
+15 52
+16 20
+16 20
+16 22
+17 21
+17 21
+17 23
+18 24
+18 24
+18 26
+19 25
+19 25
+19 27
+20 28
+20 56
+21 29
+21 57
+22 30
+22 30
+22 58
+23 31
+23 31
+23 59
+24 32
+24 60
+25 33
+25 61
+26 34
+26 34
+26 62
+27 35
+27 35
+27 63
+28 36
+28 36
+28 64
+29 37
+29 37
+29 65
+30 36
+30 66
+31 37
+31 67
+32 38
+32 38
+33 39
+33 39
+34 38
+34 68
+35 39
+35 69
+36 70
+37 71
+38 72
+39 73

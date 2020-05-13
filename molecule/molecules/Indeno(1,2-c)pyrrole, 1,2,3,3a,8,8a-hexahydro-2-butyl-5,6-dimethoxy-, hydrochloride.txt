@@ -1,0 +1,100 @@
+Indeno(1,2-c)pyrrole, 1,2,3,3a,8,8a-hexahydro-2-butyl-5,6-dimethoxy-, hydrochloride
+47
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 46
+1 15
+1 19
+2 16
+2 20
+3 6
+3 7
+3 11
+4 5
+4 6
+4 8
+4 21
+5 7
+5 9
+5 22
+6 23
+6 24
+7 25
+7 26
+8 10
+8 27
+8 28
+9 10
+9 12
+9 12
+10 13
+10 13
+11 14
+11 29
+11 30
+12 15
+12 31
+13 16
+13 32
+14 17
+14 33
+14 34
+15 16
+15 16
+17 18
+17 35
+17 36
+18 37
+18 38
+18 39
+19 40
+19 41
+19 42
+20 43
+20 44
+20 45

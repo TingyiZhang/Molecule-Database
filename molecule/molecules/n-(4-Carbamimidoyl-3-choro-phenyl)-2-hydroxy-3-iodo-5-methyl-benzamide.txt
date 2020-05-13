@@ -1,0 +1,81 @@
+n-(4-Carbamimidoyl-3-choro-phenyl)-2-hydroxy-3-iodo-5-methyl-benzamide
+35
+"Iodine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+1 18
+2 12
+2 31
+3 11
+3 11
+4 9
+4 11
+4 23
+5 21
+5 32
+5 33
+6 21
+6 21
+6 34
+7 10
+7 11
+7 12
+7 12
+8 10
+8 10
+8 13
+8 20
+9 15
+9 15
+9 16
+10 22
+12 14
+13 14
+13 14
+13 24
+15 18
+15 25
+16 19
+16 19
+16 26
+17 18
+17 18
+17 19
+17 21
+19 27
+20 28
+20 29
+20 30

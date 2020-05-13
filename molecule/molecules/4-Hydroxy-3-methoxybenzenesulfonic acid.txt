@@ -1,0 +1,49 @@
+4-Hydroxy-3-methoxybenzenesulfonic acid
+21
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 4
+0 4
+0 5
+0 5
+0 6
+1 8
+1 12
+2 19
+3 10
+3 20
+6 7
+6 7
+6 9
+7 8
+7 13
+8 10
+8 10
+9 11
+9 11
+9 14
+10 11
+11 15
+12 16
+12 17
+12 18

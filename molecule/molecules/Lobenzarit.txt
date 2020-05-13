@@ -1,0 +1,71 @@
+Lobenzarit
+30
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+1 18
+1 28
+2 19
+2 29
+3 18
+3 18
+4 19
+4 19
+5 6
+5 7
+5 20
+6 8
+6 8
+6 10
+7 9
+7 11
+7 11
+8 12
+8 18
+9 13
+9 13
+9 19
+10 14
+10 14
+10 21
+11 15
+11 22
+12 16
+12 16
+12 23
+13 17
+13 24
+14 16
+15 17
+15 17
+15 26
+16 25
+17 27

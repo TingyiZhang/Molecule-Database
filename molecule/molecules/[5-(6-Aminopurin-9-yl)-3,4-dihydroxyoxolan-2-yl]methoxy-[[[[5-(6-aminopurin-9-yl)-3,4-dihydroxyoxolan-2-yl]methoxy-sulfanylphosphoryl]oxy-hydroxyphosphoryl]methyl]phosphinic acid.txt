@@ -1,0 +1,174 @@
+[5-(6-Aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-[[[[5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-sulfanylphosphoryl]oxy-hydroxyphosphoryl]methyl]phosphinic acid
+78
+"Sulfur"
+"Phosphorus"
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 72
+1 10
+1 13
+1 14
+1 14
+1 44
+2 11
+2 12
+2 16
+2 16
+3 12
+3 15
+3 17
+3 17
+3 44
+4 30
+4 31
+5 34
+5 35
+6 28
+6 61
+7 29
+7 62
+8 32
+8 63
+9 33
+9 64
+10 36
+11 37
+13 69
+15 73
+18 31
+18 38
+18 40
+19 35
+19 39
+19 41
+20 40
+20 40
+20 42
+21 41
+21 41
+21 43
+22 38
+22 38
+22 47
+23 39
+23 39
+23 48
+24 45
+24 47
+24 47
+25 46
+25 48
+25 48
+26 45
+26 74
+26 75
+27 46
+27 76
+27 77
+28 29
+28 30
+28 49
+29 31
+29 50
+30 36
+30 51
+31 52
+32 33
+32 34
+32 53
+33 35
+33 54
+34 37
+34 55
+35 56
+36 57
+36 58
+37 59
+37 60
+38 42
+39 43
+40 65
+41 66
+42 45
+42 45
+43 46
+43 46
+44 67
+44 68
+47 70
+48 71

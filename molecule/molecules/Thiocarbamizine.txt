@@ -1,0 +1,112 @@
+Thiocarbamizine
+48
+"Arsenic"
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 10
+1 14
+2 15
+3 28
+3 44
+4 29
+4 45
+5 28
+5 28
+6 29
+6 29
+7 30
+7 30
+8 13
+8 30
+8 39
+9 30
+9 46
+9 47
+10 11
+10 11
+10 12
+11 16
+11 31
+12 17
+12 17
+12 32
+13 16
+13 16
+13 17
+14 18
+14 20
+14 20
+15 19
+15 21
+15 21
+16 33
+17 34
+18 22
+18 22
+18 28
+19 23
+19 23
+19 29
+20 24
+20 35
+21 25
+21 36
+22 26
+22 37
+23 27
+23 38
+24 26
+24 26
+24 40
+25 27
+25 27
+25 41
+26 42
+27 43

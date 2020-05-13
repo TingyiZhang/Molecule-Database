@@ -1,0 +1,164 @@
+N-[4-Hydroxy-5-(hydroxymethyl)-2-[6-(1,2,3,4-tetrahydronaphthalen-1-ylamino)purin-9-yl]oxolan-3-yl]-3,5-dimethoxybenzamide
+73
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 15
+1 14
+1 49
+2 16
+2 58
+3 26
+3 26
+4 36
+4 39
+5 37
+5 40
+6 13
+6 17
+6 20
+7 12
+7 26
+7 45
+8 18
+8 27
+8 57
+9 20
+9 20
+9 21
+10 17
+10 17
+10 31
+11 27
+11 31
+11 31
+12 13
+12 14
+12 41
+13 42
+14 15
+14 43
+15 16
+15 44
+16 46
+16 47
+17 21
+18 19
+18 23
+18 48
+19 22
+19 50
+19 51
+20 52
+21 27
+21 27
+22 24
+22 53
+22 54
+23 25
+23 28
+23 28
+24 25
+24 55
+24 56
+25 29
+25 29
+26 30
+28 32
+28 59
+29 33
+29 60
+30 34
+30 34
+30 35
+31 61
+32 33
+32 33
+32 62
+33 63
+34 37
+34 64
+35 36
+35 36
+35 65
+36 38
+37 38
+37 38
+38 66
+39 67
+39 68
+39 69
+40 70
+40 71
+40 72

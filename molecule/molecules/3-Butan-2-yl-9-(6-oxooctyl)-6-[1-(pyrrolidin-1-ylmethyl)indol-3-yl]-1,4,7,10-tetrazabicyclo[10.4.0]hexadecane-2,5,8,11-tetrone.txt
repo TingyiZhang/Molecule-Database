@@ -1,0 +1,219 @@
+3-Butan-2-yl-9-(6-oxooctyl)-6-[1-(pyrrolidin-1-ylmethyl)indol-3-yl]-1,4,7,10-tetrazabicyclo[10.4.0]hexadecane-2,5,8,11-tetrone
+102
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 17
+1 19
+1 19
+2 29
+2 29
+3 35
+3 35
+4 45
+4 45
+5 11
+5 13
+5 17
+6 22
+6 23
+6 24
+7 16
+7 29
+7 61
+8 19
+8 21
+8 74
+9 24
+9 33
+9 34
+10 20
+10 35
+10 81
+11 12
+11 19
+11 48
+12 14
+12 49
+12 50
+13 15
+13 51
+13 52
+14 15
+14 53
+14 54
+15 55
+15 56
+16 17
+16 18
+16 57
+18 26
+18 31
+18 58
+20 25
+20 29
+20 59
+21 30
+21 35
+21 60
+22 27
+22 62
+22 63
+23 28
+23 64
+23 65
+24 66
+24 67
+25 32
+25 34
+25 34
+26 37
+26 68
+26 69
+27 28
+27 70
+27 71
+28 72
+28 73
+30 36
+30 75
+30 76
+31 77
+31 78
+31 79
+32 33
+32 39
+32 39
+33 40
+33 40
+34 80
+36 38
+36 82
+36 83
+37 84
+37 85
+37 86
+38 41
+38 87
+38 88
+39 42
+39 89
+40 43
+40 90
+41 44
+41 91
+41 92
+42 43
+42 43
+42 93
+43 94
+44 45
+44 95
+44 96
+45 46
+46 47
+46 97
+46 98
+47 99
+47 100
+47 101

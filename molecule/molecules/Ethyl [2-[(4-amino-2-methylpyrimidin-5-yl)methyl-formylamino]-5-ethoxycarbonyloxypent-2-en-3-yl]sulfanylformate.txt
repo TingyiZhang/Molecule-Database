@@ -1,0 +1,119 @@
+Ethyl [2-[(4-amino-2-methylpyrimidin-5-yl)methyl-formylamino]-5-ethoxycarbonyloxypent-2-en-3-yl]sulfanylformate
+55
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 22
+1 17
+1 24
+2 19
+2 19
+3 22
+3 25
+4 24
+4 26
+5 22
+5 22
+6 24
+6 24
+7 11
+7 12
+7 19
+8 18
+8 18
+8 21
+9 20
+9 21
+9 21
+10 18
+10 40
+10 41
+11 13
+11 13
+11 16
+12 15
+12 29
+12 30
+13 14
+14 17
+14 31
+14 32
+15 18
+15 20
+15 20
+16 33
+16 34
+16 35
+17 36
+17 37
+19 38
+20 39
+21 23
+23 42
+23 43
+23 44
+25 27
+25 45
+25 46
+26 28
+26 47
+26 48
+27 49
+27 50
+27 51
+28 52
+28 53
+28 54

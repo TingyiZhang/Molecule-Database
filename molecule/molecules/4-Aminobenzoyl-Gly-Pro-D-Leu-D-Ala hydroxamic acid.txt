@@ -1,0 +1,149 @@
+4-Aminobenzoyl-Gly-Pro-D-Leu-D-Ala hydroxamic acid
+69
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 16
+1 18
+1 18
+2 22
+2 22
+3 26
+3 26
+4 28
+4 28
+5 10
+5 66
+6 12
+6 15
+6 18
+7 16
+7 17
+7 43
+8 22
+8 25
+8 55
+9 21
+9 26
+9 56
+10 28
+10 61
+11 34
+11 67
+11 68
+12 13
+12 16
+12 35
+13 14
+13 36
+13 37
+14 15
+14 38
+14 39
+15 40
+15 41
+17 19
+17 22
+17 42
+18 21
+19 20
+19 44
+19 45
+20 23
+20 24
+20 46
+21 47
+21 48
+23 49
+23 50
+23 51
+24 52
+24 53
+24 54
+25 27
+25 28
+25 57
+26 29
+27 58
+27 59
+27 60
+29 30
+29 30
+29 31
+30 32
+30 62
+31 33
+31 33
+31 63
+32 34
+32 34
+32 64
+33 34
+33 65

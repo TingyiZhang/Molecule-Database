@@ -1,0 +1,74 @@
+Edetate trisodium
+36
+"Sodium"
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+3 19
+3 35
+4 19
+4 19
+5 20
+6 20
+6 20
+7 21
+8 22
+9 21
+9 21
+10 22
+10 22
+11 13
+11 15
+11 16
+12 14
+12 17
+12 18
+13 14
+13 23
+13 24
+14 25
+14 26
+15 19
+15 27
+15 28
+16 20
+16 29
+16 30
+17 21
+17 31
+17 32
+18 22
+18 33
+18 34

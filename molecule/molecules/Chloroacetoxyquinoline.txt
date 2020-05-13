@@ -1,0 +1,55 @@
+Chloroacetoxyquinoline
+23
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 6
+1 13
+2 13
+2 13
+3 5
+3 12
+3 12
+4 5
+4 7
+4 7
+4 9
+5 6
+5 6
+6 8
+7 10
+8 10
+8 10
+8 15
+9 11
+9 11
+9 16
+10 17
+11 12
+11 18
+12 19
+13 14
+14 20
+14 21
+14 22

@@ -1,0 +1,45 @@
+4-Nitrophthalimide
+18
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 9
+1 10
+1 10
+2 5
+3 5
+3 5
+4 9
+4 10
+4 16
+5 12
+6 7
+6 7
+6 8
+6 9
+7 10
+7 11
+8 12
+8 12
+8 14
+11 13
+11 13
+11 15
+12 13
+13 17

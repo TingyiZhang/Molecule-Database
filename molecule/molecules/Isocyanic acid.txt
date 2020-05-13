@@ -1,0 +1,11 @@
+Isocyanic acid
+4
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Hydrogen"
+0 2
+0 2
+1 2
+1 2
+1 3

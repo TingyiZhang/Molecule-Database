@@ -1,0 +1,58 @@
+6,7-Dihydroxy-2-aminotetralin
+26
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 24
+1 12
+1 25
+2 3
+2 22
+2 23
+3 4
+3 5
+3 13
+4 6
+4 14
+4 15
+5 7
+5 16
+5 17
+6 8
+6 18
+6 19
+7 8
+7 9
+7 9
+8 10
+8 10
+9 11
+9 20
+10 12
+10 21
+11 12
+11 12

@@ -1,0 +1,56 @@
+2-Amino-6-methylenepimelic acid
+26
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 24
+1 10
+1 10
+2 11
+2 25
+3 11
+3 11
+4 7
+4 20
+4 21
+5 6
+5 7
+5 13
+5 14
+6 8
+6 15
+6 16
+7 10
+7 17
+8 9
+8 18
+8 19
+9 11
+9 12
+9 12
+12 22
+12 23

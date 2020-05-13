@@ -1,0 +1,53 @@
+n-(2,6-Dichloro-4-iodophenyl)-4,5-dihydro-1h-imidazol-2-amine
+23
+"Iodine"
+"Chlorine"
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+1 10
+2 11
+3 6
+3 8
+3 19
+4 8
+4 9
+4 20
+5 7
+5 8
+5 8
+6 7
+6 15
+6 16
+7 17
+7 18
+9 10
+9 10
+9 11
+10 12
+11 13
+11 13
+12 14
+12 14
+12 21
+13 14
+13 22

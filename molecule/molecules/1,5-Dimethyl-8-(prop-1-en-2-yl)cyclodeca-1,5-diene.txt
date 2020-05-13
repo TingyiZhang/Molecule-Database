@@ -1,0 +1,83 @@
+1,5-Dimethyl-8-(prop-1-en-2-yl)cyclodeca-1,5-diene
+39
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 4
+0 15
+1 3
+1 16
+1 17
+2 6
+2 18
+2 19
+3 5
+3 20
+3 21
+4 11
+4 14
+4 14
+5 10
+5 10
+5 12
+6 8
+6 8
+6 22
+7 8
+7 9
+7 23
+7 24
+8 13
+9 10
+9 25
+9 26
+10 27
+11 28
+11 29
+11 30
+12 31
+12 32
+12 33
+13 34
+13 35
+13 36
+14 37
+14 38

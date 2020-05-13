@@ -1,0 +1,143 @@
+Terephthalanilide, 4',4''-bis(2-imidazolin-2-ylamino)-
+62
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 30
+0 30
+1 31
+1 31
+2 10
+2 14
+2 44
+3 11
+3 15
+3 45
+4 14
+4 16
+4 46
+5 15
+5 17
+5 47
+6 12
+6 14
+6 14
+7 13
+7 15
+7 15
+8 18
+8 30
+8 56
+9 19
+9 31
+9 57
+10 12
+10 36
+10 37
+11 13
+11 38
+11 39
+12 40
+12 41
+13 42
+13 43
+16 20
+16 20
+16 22
+17 21
+17 21
+17 23
+18 24
+18 24
+18 26
+19 25
+19 25
+19 27
+20 24
+20 48
+21 25
+21 49
+22 26
+22 26
+22 50
+23 27
+23 27
+23 51
+24 52
+25 53
+26 54
+27 55
+28 30
+28 32
+28 32
+28 34
+29 31
+29 33
+29 33
+29 35
+32 33
+32 58
+33 59
+34 35
+34 35
+34 60
+35 61

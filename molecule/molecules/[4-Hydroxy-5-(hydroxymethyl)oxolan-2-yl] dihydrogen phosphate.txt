@@ -1,0 +1,51 @@
+[4-Hydroxy-5-(hydroxymethyl)oxolan-2-yl] dihydrogen phosphate
+24
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 5
+0 6
+0 7
+0 7
+1 9
+1 11
+2 11
+3 8
+3 20
+4 12
+4 21
+5 22
+6 23
+8 9
+8 10
+8 13
+9 12
+9 14
+10 11
+10 15
+10 16
+11 17
+12 18
+12 19

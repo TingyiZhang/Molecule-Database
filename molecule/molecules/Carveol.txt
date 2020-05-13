@@ -1,0 +1,58 @@
+Carveol
+27
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 24
+1 2
+1 4
+1 7
+1 11
+2 3
+2 12
+2 13
+3 5
+3 14
+4 6
+4 15
+4 16
+5 6
+5 6
+5 8
+6 17
+7 9
+7 10
+7 10
+8 18
+8 19
+8 20
+9 21
+9 22
+9 23
+10 25
+10 26

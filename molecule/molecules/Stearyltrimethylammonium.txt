@@ -1,0 +1,137 @@
+Stearyltrimethylammonium
+68
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 10
+0 11
+0 12
+1 2
+1 22
+1 23
+2 3
+2 24
+2 25
+3 4
+3 26
+3 27
+4 5
+4 28
+4 29
+5 6
+5 30
+5 31
+6 7
+6 32
+6 33
+7 8
+7 34
+7 35
+8 9
+8 36
+8 37
+9 13
+9 38
+9 39
+10 40
+10 41
+10 42
+11 43
+11 44
+11 45
+12 46
+12 47
+12 48
+13 14
+13 49
+13 50
+14 15
+14 51
+14 52
+15 16
+15 53
+15 54
+16 17
+16 55
+16 56
+17 18
+17 57
+17 58
+18 19
+18 59
+18 60
+19 20
+19 61
+19 62
+20 21
+20 63
+20 64
+21 65
+21 66
+21 67

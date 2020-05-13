@@ -1,0 +1,17 @@
+Sodium oxalate
+8
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+2 6
+3 7
+4 6
+4 6
+5 7
+5 7
+6 7

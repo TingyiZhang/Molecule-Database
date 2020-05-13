@@ -1,0 +1,95 @@
+1-(Tert-butylamino)-3-{[4-(morpholin-4-yl)-1,2,5-thiadiazol-3-yl]oxy}propan-2-ol
+45
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 7
+1 16
+1 17
+2 18
+2 20
+3 10
+3 44
+4 8
+4 9
+4 21
+5 11
+5 12
+5 19
+6 19
+6 19
+7 20
+7 20
+8 13
+8 14
+8 15
+9 10
+9 22
+9 23
+10 18
+10 24
+11 16
+11 25
+11 26
+12 17
+12 27
+12 28
+13 29
+13 30
+13 31
+14 32
+14 33
+14 34
+15 35
+15 36
+15 37
+16 38
+16 39
+17 40
+17 41
+18 42
+18 43
+19 20

@@ -1,0 +1,30 @@
+Chloranil
+12
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+0 6
+1 7
+2 8
+3 9
+4 10
+4 10
+5 11
+5 11
+6 7
+6 7
+6 10
+7 11
+8 9
+8 9
+8 10
+9 11

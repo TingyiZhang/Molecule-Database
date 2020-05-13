@@ -1,0 +1,96 @@
+N-Hydroxy-2-[(4-methoxyphenyl)sulfonyl-pentan-2-ylamino]acetamide
+44
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 6
+0 13
+3 15
+3 15
+4 20
+4 21
+5 7
+5 40
+6 8
+6 12
+7 15
+7 39
+8 9
+8 10
+8 22
+9 11
+9 23
+9 24
+10 25
+10 26
+10 27
+11 14
+11 28
+11 29
+12 15
+12 30
+12 31
+13 16
+13 16
+13 17
+14 32
+14 33
+14 34
+16 18
+16 35
+17 19
+17 19
+17 36
+18 20
+18 20
+18 37
+19 20
+19 38
+21 41
+21 42
+21 43

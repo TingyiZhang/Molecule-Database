@@ -1,0 +1,125 @@
+[1,6-Dihydroxy-8-(hydroxymethyl)-4,12,12,15-tetramethyl-5-oxo-13-tetracyclo[8.5.0.02,6.011,13]pentadeca-3,8-dienyl] acetate
+58
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 23
+1 10
+1 44
+2 17
+2 48
+3 22
+3 22
+4 23
+4 23
+5 25
+5 57
+6 7
+6 8
+6 9
+6 28
+7 8
+7 11
+8 13
+8 14
+9 10
+9 16
+9 29
+10 12
+10 15
+11 12
+11 30
+11 31
+12 18
+12 32
+13 33
+13 34
+13 35
+14 36
+14 37
+14 38
+15 17
+15 21
+15 39
+16 20
+16 20
+16 40
+17 19
+17 22
+18 41
+18 42
+18 43
+19 20
+19 45
+19 46
+20 25
+21 24
+21 24
+21 47
+22 24
+23 26
+24 27
+25 49
+25 50
+26 51
+26 52
+26 53
+27 54
+27 55
+27 56

@@ -1,0 +1,71 @@
+Dyphylline
+32
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 30
+1 12
+1 12
+2 15
+2 31
+3 14
+3 14
+4 8
+4 9
+4 13
+5 10
+5 14
+5 16
+6 12
+6 14
+6 17
+7 10
+7 13
+7 13
+8 10
+8 10
+8 12
+9 11
+9 18
+9 19
+11 15
+11 20
+13 21
+15 22
+15 23
+16 24
+16 25
+16 26
+17 27
+17 28
+17 29

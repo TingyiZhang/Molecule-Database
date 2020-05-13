@@ -1,0 +1,262 @@
+3-[1-Acetyl-8,13,17-tris(2-carboxyethyl)-2,7,12,18-tetrakis(carboxymethyl)-2,7,11,17-tetramethyl-3,10,15,21-tetrahydrocorrin-3-yl]propanoic acid
+120
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 31
+0 31
+1 38
+1 104
+2 38
+2 38
+3 53
+3 113
+4 54
+4 114
+5 53
+5 53
+6 54
+6 54
+7 59
+7 115
+8 59
+8 59
+9 61
+9 116
+10 61
+10 61
+11 63
+11 117
+12 63
+12 63
+13 64
+13 118
+14 64
+14 64
+15 65
+15 119
+16 65
+16 65
+17 22
+17 24
+17 67
+18 25
+18 32
+18 32
+19 37
+19 37
+19 46
+20 44
+20 45
+20 45
+21 22
+21 23
+21 26
+21 27
+22 25
+22 31
+23 24
+23 28
+23 66
+24 33
+24 33
+25 30
+25 30
+26 38
+26 68
+26 69
+27 70
+27 71
+27 72
+28 35
+28 73
+28 74
+29 30
+29 32
+29 34
+29 39
+30 36
+31 42
+32 41
+33 37
+33 75
+34 47
+34 76
+34 77
+35 53
+35 78
+35 79
+36 54
+36 80
+36 81
+37 40
+39 82
+39 83
+39 84
+40 43
+40 49
+40 52
+41 45
+41 85
+41 86
+42 87
+42 88
+42 89
+43 46
+43 46
+43 55
+44 48
+44 50
+44 56
+45 51
+46 48
+47 59
+47 90
+47 91
+48 92
+48 93
+49 61
+49 94
+49 95
+50 51
+50 51
+50 58
+51 57
+52 96
+52 97
+52 98
+55 60
+55 99
+55 100
+56 101
+56 102
+56 103
+57 62
+57 105
+57 106
+58 63
+58 107
+58 108
+60 64
+60 109
+60 110
+62 65
+62 111
+62 112

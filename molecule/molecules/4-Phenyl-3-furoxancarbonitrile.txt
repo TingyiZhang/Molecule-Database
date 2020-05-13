@@ -1,0 +1,48 @@
+4-Phenyl-3-furoxancarbonitrile
+19
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+1 2
+2 9
+2 9
+3 6
+3 6
+4 13
+4 13
+4 13
+5 6
+5 7
+5 7
+5 8
+6 9
+7 10
+7 14
+8 11
+8 11
+8 15
+9 13
+10 12
+10 12
+10 16
+11 12
+11 17
+12 18

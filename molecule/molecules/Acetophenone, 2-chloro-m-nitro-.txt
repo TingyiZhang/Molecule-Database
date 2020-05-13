@@ -1,0 +1,45 @@
+Acetophenone, 2-chloro-m-nitro-
+19
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 9
+1 9
+2 4
+3 4
+3 4
+4 7
+5 6
+5 6
+5 8
+5 9
+6 7
+6 13
+7 10
+7 10
+8 11
+8 11
+8 14
+9 12
+10 11
+10 15
+11 16
+12 17
+12 18

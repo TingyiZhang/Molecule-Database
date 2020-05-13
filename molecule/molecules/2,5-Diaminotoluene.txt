@@ -1,0 +1,43 @@
+2,5-Diaminotoluene
+19
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 15
+0 16
+1 5
+1 17
+1 18
+2 3
+2 3
+2 4
+2 8
+3 6
+4 5
+4 5
+4 9
+5 7
+6 7
+6 7
+6 10
+7 11
+8 12
+8 13
+8 14

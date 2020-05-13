@@ -1,0 +1,131 @@
+Pyrrobutamine phosphate
+60
+"Chlorine"
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 31
+1 3
+1 4
+1 5
+1 9
+1 9
+2 6
+2 7
+2 8
+2 10
+2 10
+3 54
+4 55
+5 56
+6 57
+7 58
+8 59
+11 12
+11 13
+11 16
+12 14
+12 32
+12 33
+13 15
+13 34
+13 35
+14 15
+14 36
+14 37
+15 38
+15 39
+16 17
+16 40
+16 41
+17 18
+17 18
+17 42
+18 19
+18 20
+19 21
+19 43
+19 44
+20 22
+20 22
+20 23
+21 24
+21 24
+21 25
+22 26
+22 45
+23 27
+23 27
+23 46
+24 29
+24 47
+25 30
+25 30
+25 48
+26 28
+26 28
+26 49
+27 28
+27 50
+28 51
+29 31
+29 31
+29 52
+30 31
+30 53

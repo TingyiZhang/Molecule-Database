@@ -1,0 +1,93 @@
+9-(2-Hydroxy-3-nonyl)adenine
+43
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 36
+1 6
+1 12
+1 14
+2 14
+2 14
+2 16
+3 12
+3 12
+3 19
+4 18
+4 19
+4 19
+5 18
+5 41
+5 42
+6 7
+6 9
+6 20
+7 8
+7 21
+7 22
+8 10
+8 23
+8 24
+9 13
+9 25
+10 11
+10 26
+10 27
+11 15
+11 28
+11 29
+12 16
+13 30
+13 31
+13 32
+14 33
+15 17
+15 34
+15 35
+16 18
+16 18
+17 37
+17 38
+17 39
+19 40

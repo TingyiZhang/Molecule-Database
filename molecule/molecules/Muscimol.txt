@@ -1,0 +1,32 @@
+Muscimol
+14
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 4
+1 7
+1 7
+2 7
+2 11
+3 5
+3 12
+3 13
+4 5
+4 6
+4 6
+5 8
+5 9
+6 7
+6 10

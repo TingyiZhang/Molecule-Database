@@ -1,0 +1,76 @@
+N4-(3-Bromophenyl)-N6-methylpyrido[3,4-d]pyrimidine-4,6-diamine
+32
+"Bromine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+1 7
+1 10
+1 21
+2 7
+2 7
+2 15
+3 11
+3 11
+3 12
+4 8
+4 15
+4 15
+5 11
+5 19
+5 25
+6 7
+6 8
+6 9
+6 9
+8 12
+8 12
+9 11
+9 20
+10 13
+10 13
+10 14
+12 22
+13 16
+13 23
+14 17
+14 17
+14 24
+15 26
+16 18
+16 18
+17 18
+17 27
+18 28
+19 29
+19 30
+19 31

@@ -1,0 +1,47 @@
+1,1-Difluoroheptane
+23
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 7
+2 3
+2 4
+2 9
+2 10
+3 5
+3 11
+3 12
+4 6
+4 13
+4 14
+5 7
+5 15
+5 16
+6 8
+6 17
+6 18
+7 19
+8 20
+8 21
+8 22

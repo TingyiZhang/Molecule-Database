@@ -1,0 +1,32 @@
+5-Iodo-5,6-dihydrouracil
+14
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+1 7
+1 7
+2 8
+2 8
+3 6
+3 8
+3 12
+4 7
+4 8
+4 13
+5 6
+5 7
+5 9
+6 10
+6 11

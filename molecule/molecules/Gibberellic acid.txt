@@ -1,0 +1,104 @@
+Gibberellic acid
+47
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 20
+1 13
+1 42
+2 19
+2 45
+3 20
+3 20
+4 21
+4 46
+5 21
+5 21
+6 7
+6 10
+6 11
+6 14
+7 9
+7 15
+7 25
+8 9
+8 10
+8 12
+8 26
+9 18
+10 21
+10 27
+11 13
+11 28
+11 29
+12 19
+12 20
+12 22
+13 16
+13 17
+14 17
+14 30
+14 31
+15 16
+15 32
+15 33
+16 34
+16 35
+17 24
+17 24
+18 23
+18 23
+18 36
+19 23
+19 37
+22 38
+22 39
+22 40
+23 41
+24 43
+24 44

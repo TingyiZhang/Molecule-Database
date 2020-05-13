@@ -1,0 +1,197 @@
+Demecarium bromide
+94
+"Bromine"
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+2 32
+2 34
+3 33
+3 35
+4 34
+4 34
+5 35
+5 35
+6 20
+6 22
+6 23
+6 24
+7 21
+7 25
+7 26
+7 27
+8 18
+8 34
+8 36
+9 19
+9 35
+9 37
+10 11
+10 12
+10 42
+10 43
+11 13
+11 44
+11 45
+12 14
+12 46
+12 47
+13 15
+13 48
+13 49
+14 16
+14 50
+14 51
+15 17
+15 52
+15 53
+16 18
+16 54
+16 55
+17 19
+17 56
+17 57
+18 58
+18 59
+19 60
+19 61
+20 28
+20 28
+20 30
+21 29
+21 29
+21 31
+22 62
+22 63
+22 64
+23 65
+23 66
+23 67
+24 68
+24 69
+24 70
+25 71
+25 72
+25 73
+26 74
+26 75
+26 76
+27 77
+27 78
+27 79
+28 32
+28 80
+29 33
+29 81
+30 38
+30 38
+30 82
+31 39
+31 39
+31 83
+32 40
+32 40
+33 41
+33 41
+36 84
+36 85
+36 86
+37 87
+37 88
+37 89
+38 40
+38 90
+39 41
+39 91
+40 92
+41 93

@@ -1,0 +1,70 @@
+3-Bromobenzanthrone
+28
+"Bromine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+1 8
+1 8
+2 3
+2 3
+2 4
+2 6
+3 5
+3 9
+4 8
+4 10
+4 10
+5 7
+5 13
+5 13
+6 11
+6 11
+6 12
+7 8
+7 15
+7 15
+9 14
+9 14
+9 19
+10 16
+10 20
+11 14
+12 16
+12 16
+12 21
+13 17
+13 22
+14 23
+15 18
+15 24
+16 25
+17 18
+17 18
+17 26
+18 27

@@ -1,0 +1,104 @@
+(4-(2-((2-(3-Chlorophenyl)-2-hydroxyethyl)amino)propyl)phenoxy)acetic acid
+47
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+1 9
+1 41
+2 19
+2 23
+3 24
+3 46
+4 24
+4 24
+5 6
+5 8
+5 30
+6 7
+6 10
+6 25
+7 11
+7 26
+7 27
+8 9
+8 28
+8 29
+9 12
+9 31
+10 32
+10 33
+10 34
+11 13
+11 13
+11 14
+12 15
+12 15
+12 16
+13 17
+13 35
+14 18
+14 18
+14 36
+15 20
+15 37
+16 21
+16 21
+16 38
+17 19
+17 19
+17 39
+18 19
+18 40
+20 22
+20 22
+21 22
+21 42
+22 43
+23 24
+23 44
+23 45

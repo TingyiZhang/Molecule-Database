@@ -1,0 +1,64 @@
+Visnagin
+27
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 12
+1 8
+1 14
+2 6
+2 16
+3 10
+3 10
+4 6
+4 7
+4 7
+4 10
+5 6
+5 6
+5 8
+5 11
+7 9
+8 9
+8 9
+9 17
+10 13
+11 14
+11 14
+11 18
+12 13
+12 13
+12 15
+13 19
+14 20
+15 21
+15 22
+15 23
+16 24
+16 25
+16 26

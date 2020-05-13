@@ -1,0 +1,30 @@
+Ethyl chloroacetate
+14
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+1 3
+1 5
+2 5
+2 5
+3 4
+3 7
+3 8
+4 9
+4 10
+4 11
+5 6
+6 12
+6 13

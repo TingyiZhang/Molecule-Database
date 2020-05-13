@@ -1,0 +1,83 @@
+Hydridotriphenyltin
+35
+"Tin"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 19
+1 4
+1 4
+1 7
+2 5
+2 5
+2 8
+3 6
+3 6
+3 9
+4 10
+4 20
+5 11
+5 21
+6 12
+6 22
+7 13
+7 13
+7 23
+8 14
+8 14
+8 24
+9 15
+9 15
+9 25
+10 16
+10 16
+10 26
+11 17
+11 17
+11 27
+12 18
+12 18
+12 28
+13 16
+13 29
+14 17
+14 30
+15 18
+15 31
+16 32
+17 33
+18 34

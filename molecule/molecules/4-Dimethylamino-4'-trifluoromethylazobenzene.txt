@@ -1,0 +1,80 @@
+4-Dimethylamino-4'-trifluoromethylazobenzene
+35
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+1 20
+2 20
+3 6
+3 13
+3 14
+4 5
+4 5
+4 9
+5 15
+6 7
+6 7
+6 8
+7 10
+7 21
+8 11
+8 11
+8 22
+9 10
+9 10
+9 11
+10 23
+11 24
+12 16
+12 16
+12 17
+12 20
+13 25
+13 26
+13 27
+14 28
+14 29
+14 30
+15 18
+15 18
+15 19
+16 18
+16 31
+17 19
+17 19
+17 32
+18 33
+19 34

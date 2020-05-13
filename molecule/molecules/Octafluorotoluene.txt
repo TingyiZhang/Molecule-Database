@@ -1,0 +1,35 @@
+Octafluorotoluene
+15
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+0 9
+1 10
+2 11
+3 11
+4 11
+5 12
+6 13
+7 14
+8 9
+8 9
+8 10
+8 11
+9 13
+10 12
+10 12
+12 14
+13 14
+13 14

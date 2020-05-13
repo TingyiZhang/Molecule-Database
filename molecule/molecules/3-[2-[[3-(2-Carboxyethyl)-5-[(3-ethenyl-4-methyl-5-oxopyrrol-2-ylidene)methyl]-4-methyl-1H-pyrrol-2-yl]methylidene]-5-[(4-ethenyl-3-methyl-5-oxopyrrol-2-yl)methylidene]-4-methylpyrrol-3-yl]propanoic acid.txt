@@ -1,0 +1,174 @@
+3-[2-[[3-(2-Carboxyethyl)-5-[(3-ethenyl-4-methyl-5-oxopyrrol-2-ylidene)methyl]-4-methyl-1H-pyrrol-2-yl]methylidene]-5-[(4-ethenyl-3-methyl-5-oxopyrrol-2-yl)methylidene]-4-methylpyrrol-3-yl]propanoic acid
+77
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 32
+0 71
+1 33
+1 72
+2 32
+2 32
+3 33
+3 33
+4 34
+4 34
+5 38
+5 38
+6 11
+6 16
+6 48
+7 13
+7 19
+7 49
+8 27
+8 34
+8 62
+9 28
+9 28
+9 38
+10 11
+10 11
+10 14
+10 18
+11 17
+12 13
+12 15
+12 15
+12 20
+13 17
+13 17
+14 16
+14 16
+14 22
+15 19
+15 25
+16 23
+17 43
+18 21
+18 44
+18 45
+19 26
+19 26
+20 24
+20 46
+20 47
+21 32
+21 50
+21 51
+22 52
+22 53
+22 54
+23 27
+23 27
+23 55
+24 33
+24 56
+24 57
+25 58
+25 59
+25 60
+26 28
+26 61
+27 29
+28 31
+29 30
+29 30
+29 36
+30 34
+30 37
+31 35
+31 35
+31 39
+35 38
+35 40
+36 41
+36 41
+36 63
+37 64
+37 65
+37 66
+39 67
+39 68
+39 69
+40 42
+40 42
+40 70
+41 73
+41 74
+42 75
+42 76

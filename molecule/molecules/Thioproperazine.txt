@@ -1,0 +1,133 @@
+Thioproperazine
+60
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+0 19
+1 2
+1 2
+1 3
+1 3
+1 7
+1 21
+4 8
+4 9
+4 10
+5 11
+5 12
+5 15
+6 14
+6 16
+6 17
+7 28
+7 29
+8 11
+8 30
+8 31
+9 12
+9 32
+9 33
+10 13
+10 34
+10 35
+11 36
+11 37
+12 38
+12 39
+13 14
+13 40
+13 41
+14 42
+14 43
+15 44
+15 45
+15 46
+16 18
+16 18
+16 20
+17 19
+17 22
+17 22
+18 23
+19 25
+19 25
+20 21
+20 21
+20 47
+21 24
+22 26
+22 48
+23 24
+23 24
+23 49
+24 50
+25 27
+25 51
+26 27
+26 27
+26 52
+27 53
+28 54
+28 55
+28 56
+29 57
+29 58
+29 59

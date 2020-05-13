@@ -1,0 +1,45 @@
+Dichlone
+18
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 11
+2 6
+2 6
+3 7
+3 7
+4 5
+4 6
+4 8
+4 8
+5 7
+5 9
+5 9
+6 10
+7 11
+8 12
+8 14
+9 13
+9 15
+10 11
+10 11
+12 13
+12 13
+12 16
+13 17

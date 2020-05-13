@@ -1,0 +1,80 @@
+2-(2-Heptynylthio)phenol Acetate
+36
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 10
+1 9
+1 16
+2 16
+2 16
+3 4
+3 5
+3 18
+3 19
+4 6
+4 20
+4 21
+5 8
+5 22
+5 23
+6 24
+6 25
+6 26
+7 9
+7 11
+7 11
+8 15
+8 15
+8 15
+9 12
+9 12
+10 15
+10 28
+10 29
+11 13
+11 27
+12 14
+12 30
+13 14
+13 14
+13 31
+14 32
+16 17
+17 33
+17 34
+17 35

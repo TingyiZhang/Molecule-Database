@@ -1,0 +1,44 @@
+6,7-Dichloroquinoxaline-2,3(1H,4H)-dione
+18
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 13
+2 10
+2 10
+3 11
+3 11
+4 6
+4 10
+4 14
+5 7
+5 11
+5 15
+6 7
+6 8
+6 8
+7 9
+7 9
+8 12
+8 16
+9 13
+9 17
+10 11
+12 13
+12 13

@@ -1,0 +1,107 @@
+3-Amino-N-ethyl-4-phenoxy-N-phenylbenzenesulphonamide
+46
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 4
+0 6
+3 13
+3 20
+4 7
+4 8
+5 12
+5 39
+5 40
+6 9
+6 9
+6 10
+7 11
+7 26
+7 27
+8 14
+8 14
+8 15
+9 12
+9 28
+10 16
+10 16
+10 29
+11 30
+11 31
+11 32
+12 13
+12 13
+13 16
+14 17
+14 33
+15 18
+15 18
+15 34
+16 35
+17 19
+17 19
+17 36
+18 19
+18 37
+19 38
+20 21
+20 21
+20 22
+21 23
+21 41
+22 24
+22 24
+22 42
+23 25
+23 25
+23 43
+24 25
+24 44
+25 45

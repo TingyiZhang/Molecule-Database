@@ -1,0 +1,23 @@
+2-Chloro-1,1,1,3,3,3-hexafluoropropane
+11
+"Chlorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+0 7
+1 8
+2 8
+3 8
+4 9
+5 9
+6 9
+7 8
+7 9
+7 10

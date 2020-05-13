@@ -1,0 +1,51 @@
+Tiron
+22
+"Sulfur"
+"Sulfur"
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 7
+0 7
+0 8
+0 8
+0 12
+1 9
+1 10
+1 10
+1 11
+1 11
+1 13
+4 15
+4 20
+5 17
+5 21
+12 14
+12 14
+12 15
+13 14
+13 16
+13 16
+14 18
+15 17
+15 17
+16 17
+16 19

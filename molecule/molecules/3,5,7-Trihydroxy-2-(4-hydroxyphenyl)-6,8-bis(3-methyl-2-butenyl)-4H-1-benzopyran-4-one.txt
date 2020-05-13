@@ -1,0 +1,128 @@
+3,5,7-Trihydroxy-2-(4-hydroxyphenyl)-6,8-bis(3-methyl-2-butenyl)-4H-1-benzopyran-4-one
+57
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 15
+1 10
+1 37
+2 11
+2 38
+3 16
+3 47
+4 14
+4 14
+5 30
+5 56
+6 7
+6 7
+6 10
+6 12
+7 9
+8 10
+8 10
+8 11
+8 13
+9 11
+9 11
+9 14
+12 17
+12 31
+12 32
+13 18
+13 33
+13 34
+14 16
+15 16
+15 16
+15 19
+17 20
+17 20
+17 35
+18 21
+18 21
+18 36
+19 22
+19 22
+19 23
+20 24
+20 25
+21 26
+21 27
+22 28
+22 39
+23 29
+23 29
+23 40
+24 41
+24 42
+24 43
+25 44
+25 45
+25 46
+26 48
+26 49
+26 50
+27 51
+27 52
+27 53
+28 30
+28 30
+28 54
+29 30
+29 55

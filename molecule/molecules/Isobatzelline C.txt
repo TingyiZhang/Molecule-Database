@@ -1,0 +1,61 @@
+Isobatzelline C
+26
+"Chlorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 12
+1 12
+2 7
+2 10
+2 15
+3 9
+3 9
+3 11
+4 14
+4 24
+4 25
+5 6
+5 7
+5 7
+5 9
+6 8
+6 10
+6 10
+7 12
+8 11
+8 16
+8 17
+9 13
+10 18
+11 19
+11 20
+12 14
+13 14
+13 14
+15 21
+15 22
+15 23

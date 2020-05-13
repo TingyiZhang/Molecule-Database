@@ -1,0 +1,42 @@
+Chlorfenac
+18
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 8
+2 9
+3 12
+3 17
+4 12
+4 12
+5 6
+5 7
+5 8
+5 8
+6 12
+6 13
+6 14
+7 9
+7 9
+8 10
+9 11
+10 11
+10 11
+10 15
+11 16

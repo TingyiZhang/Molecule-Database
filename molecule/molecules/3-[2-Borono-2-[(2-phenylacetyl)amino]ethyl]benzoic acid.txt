@@ -1,0 +1,95 @@
+3-[2-Borono-2-[(2-phenylacetyl)amino]ethyl]benzoic acid
+42
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Boron"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 23
+0 36
+1 23
+1 37
+2 9
+2 9
+3 19
+3 41
+4 19
+4 19
+5 6
+5 9
+5 27
+6 7
+6 23
+6 24
+7 8
+7 25
+7 26
+8 11
+8 11
+8 12
+9 10
+10 13
+10 28
+10 29
+11 14
+11 30
+12 15
+12 15
+12 31
+13 17
+13 17
+13 18
+14 16
+14 16
+14 19
+15 16
+15 32
+16 33
+17 20
+17 34
+18 21
+18 21
+18 35
+20 22
+20 22
+20 38
+21 22
+21 39
+22 40

@@ -1,0 +1,29 @@
+Chlorotrimethylsilane
+14
+"Chlorine"
+"Silicon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+1 2
+1 3
+1 4
+2 5
+2 6
+2 7
+3 8
+3 9
+3 10
+4 11
+4 12
+4 13

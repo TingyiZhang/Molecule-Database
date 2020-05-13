@@ -1,0 +1,92 @@
+2-[3-[(4-Ethoxycarbonylphenyl)hydrazinylidene]-6-oxo-1-cyclohexa-1,4-dienyl]acetic Acid
+40
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 33
+1 21
+1 22
+2 20
+2 39
+3 20
+3 20
+4 21
+4 21
+5 6
+5 6
+5 11
+6 15
+7 8
+7 9
+7 10
+7 10
+8 20
+8 24
+8 25
+9 11
+9 11
+9 26
+10 12
+11 13
+12 13
+12 13
+12 27
+13 28
+14 16
+14 16
+14 17
+14 21
+15 18
+15 18
+15 19
+16 18
+16 29
+17 19
+17 19
+17 30
+18 31
+19 32
+22 23
+22 34
+22 35
+23 36
+23 37
+23 38

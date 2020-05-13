@@ -1,0 +1,43 @@
+1-Methylpyrrolidine-2-carboxylic acid
+20
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 19
+1 8
+1 8
+2 3
+2 6
+2 7
+3 4
+3 8
+3 9
+4 5
+4 10
+4 11
+5 6
+5 12
+5 13
+6 14
+6 15
+7 16
+7 17
+7 18

@@ -1,0 +1,99 @@
+3-Acetyl-5-hydroxy-4,5-dimethyl-1-octyl-2-pyrrolone
+47
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 38
+1 10
+1 10
+2 16
+2 16
+3 4
+3 5
+3 10
+4 6
+4 12
+5 7
+5 20
+5 21
+6 9
+6 9
+6 14
+7 8
+7 22
+7 23
+8 11
+8 24
+8 25
+9 10
+9 16
+11 13
+11 26
+11 27
+12 28
+12 29
+12 30
+13 15
+13 31
+13 32
+14 33
+14 34
+14 35
+15 17
+15 36
+15 37
+16 18
+17 19
+17 39
+17 40
+18 41
+18 42
+18 43
+19 44
+19 45
+19 46

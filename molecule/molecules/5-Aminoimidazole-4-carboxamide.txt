@@ -1,0 +1,35 @@
+5-Aminoimidazole-4-carboxamide
+15
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 8
+1 5
+1 7
+1 9
+2 6
+2 7
+2 7
+3 6
+3 11
+3 12
+4 8
+4 13
+4 14
+5 6
+5 6
+5 8
+7 10

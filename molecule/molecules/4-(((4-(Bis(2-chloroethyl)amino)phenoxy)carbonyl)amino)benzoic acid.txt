@@ -1,0 +1,99 @@
+4-(((4-(Bis(2-chloroethyl)amino)phenoxy)carbonyl)amino)benzoic acid
+44
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 14
+2 17
+2 19
+3 19
+3 19
+4 25
+4 43
+5 25
+5 25
+6 8
+6 9
+6 10
+7 18
+7 19
+7 38
+8 13
+8 26
+8 27
+9 14
+9 28
+9 29
+10 11
+10 11
+10 12
+11 15
+11 30
+12 16
+12 16
+12 31
+13 32
+13 33
+14 34
+14 35
+15 17
+15 17
+15 36
+16 17
+16 37
+18 20
+18 20
+18 21
+20 23
+20 39
+21 24
+21 24
+21 40
+22 23
+22 23
+22 24
+22 25
+23 41
+24 42

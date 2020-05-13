@@ -1,0 +1,75 @@
+2H-Pyran-2-one, 6-(bromomethylene)tetrahydro-3-(1-naphthalenyl)-
+32
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+1 8
+1 9
+2 8
+2 8
+3 4
+3 5
+3 8
+3 19
+4 6
+4 20
+4 21
+5 7
+5 10
+5 10
+6 9
+6 22
+6 23
+7 11
+7 12
+7 12
+9 18
+9 18
+10 13
+10 24
+11 14
+11 15
+11 15
+12 16
+12 25
+13 14
+13 14
+13 26
+14 27
+15 17
+15 28
+16 17
+16 17
+16 29
+17 30
+18 31

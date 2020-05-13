@@ -1,0 +1,162 @@
+Isoemetine, tetradehydro-
+75
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 25
+0 31
+1 26
+1 32
+2 29
+2 33
+3 30
+3 34
+4 8
+4 10
+4 12
+5 15
+5 21
+5 51
+6 7
+6 9
+6 11
+6 35
+7 10
+7 13
+7 36
+8 9
+8 14
+8 37
+9 38
+9 39
+10 40
+10 41
+11 15
+11 42
+11 43
+12 16
+12 44
+12 45
+13 19
+13 46
+13 47
+14 17
+14 20
+14 20
+15 18
+15 48
+16 17
+16 49
+16 50
+17 22
+17 22
+18 23
+18 27
+18 27
+19 52
+19 53
+19 54
+20 25
+20 55
+21 24
+21 56
+21 57
+22 26
+22 58
+23 24
+23 28
+23 28
+24 59
+24 60
+25 26
+25 26
+27 29
+27 61
+28 30
+28 62
+29 30
+29 30
+31 63
+31 64
+31 65
+32 66
+32 67
+32 68
+33 69
+33 70
+33 71
+34 72
+34 73
+34 74

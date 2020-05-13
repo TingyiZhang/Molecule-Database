@@ -1,0 +1,116 @@
+12-Hydroxyicosa-5,8,10,14-tetraenoic acid
+55
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 51
+1 22
+1 54
+2 22
+2 22
+3 4
+3 5
+3 23
+3 24
+4 6
+4 25
+4 26
+5 7
+5 27
+5 28
+6 9
+6 29
+6 30
+7 10
+7 10
+7 31
+8 10
+8 11
+8 32
+8 33
+9 35
+9 36
+9 37
+10 34
+11 14
+11 38
+12 13
+12 15
+12 39
+12 40
+13 16
+13 41
+13 42
+14 19
+14 19
+14 43
+15 22
+15 44
+15 45
+16 18
+16 18
+16 46
+17 18
+17 20
+17 47
+17 48
+18 49
+19 21
+19 50
+20 21
+20 21
+20 52
+21 53

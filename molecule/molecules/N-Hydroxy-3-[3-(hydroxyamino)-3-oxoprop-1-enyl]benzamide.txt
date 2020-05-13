@@ -1,0 +1,60 @@
+N-Hydroxy-3-[3-(hydroxyamino)-3-oxoprop-1-enyl]benzamide
+26
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 13
+1 4
+1 24
+2 15
+2 15
+3 5
+3 25
+4 13
+4 22
+5 15
+5 23
+6 8
+6 8
+6 9
+6 12
+7 8
+7 10
+7 10
+7 13
+8 16
+9 11
+9 11
+9 17
+10 11
+10 18
+11 19
+12 14
+12 14
+12 20
+14 15
+14 21

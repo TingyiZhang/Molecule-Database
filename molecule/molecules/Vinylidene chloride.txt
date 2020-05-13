@@ -1,0 +1,14 @@
+Vinylidene chloride
+6
+"Chlorine"
+"Chlorine"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+0 2
+1 2
+2 3
+2 3
+3 4
+3 5

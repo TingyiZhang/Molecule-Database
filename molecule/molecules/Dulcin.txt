@@ -1,0 +1,56 @@
+Dulcin
+25
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 10
+1 12
+1 12
+2 5
+2 12
+2 19
+3 12
+3 23
+3 24
+4 6
+4 6
+4 7
+5 8
+5 8
+5 9
+6 8
+6 13
+7 9
+7 9
+7 14
+8 15
+9 16
+10 11
+10 17
+10 18
+11 20
+11 21
+11 22

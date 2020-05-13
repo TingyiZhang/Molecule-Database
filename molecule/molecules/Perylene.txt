@@ -1,0 +1,80 @@
+Perylene
+32
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 5
+0 6
+0 6
+1 2
+1 4
+1 7
+1 7
+2 3
+2 8
+2 8
+3 10
+3 10
+4 5
+4 9
+4 9
+5 11
+5 11
+6 12
+6 13
+7 14
+7 15
+8 16
+8 20
+9 17
+9 21
+10 18
+10 22
+11 19
+11 23
+12 19
+12 19
+12 24
+13 18
+13 18
+13 25
+14 17
+14 17
+14 26
+15 16
+15 16
+15 27
+16 28
+17 29
+18 30
+19 31

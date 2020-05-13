@@ -1,0 +1,139 @@
+2-Hydroxyethyl-[2-[4-[4-[2-[2-hydroxyethyl(dimethyl)azaniumyl]-2-oxoethyl]phenyl]phenyl]acetyl]-dimethylazanium
+64
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 8
+1 9
+1 9
+2 16
+2 62
+3 17
+3 63
+4 6
+4 8
+4 10
+4 11
+5 7
+5 9
+5 12
+5 13
+6 16
+6 30
+6 31
+7 17
+7 32
+7 33
+8 14
+9 15
+10 34
+10 35
+10 36
+11 37
+11 38
+11 39
+12 40
+12 41
+12 42
+13 43
+13 44
+13 45
+14 18
+14 46
+14 47
+15 19
+15 48
+15 49
+16 50
+16 51
+17 52
+17 53
+18 22
+18 22
+18 24
+19 23
+19 23
+19 25
+20 21
+20 26
+20 26
+20 28
+21 27
+21 27
+21 29
+22 26
+22 54
+23 27
+23 55
+24 28
+24 28
+24 56
+25 29
+25 29
+25 57
+26 58
+27 59
+28 60
+29 61

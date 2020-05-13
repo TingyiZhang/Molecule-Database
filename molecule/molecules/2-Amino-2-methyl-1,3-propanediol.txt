@@ -1,0 +1,37 @@
+2-Amino-2-methyl-1,3-propanediol
+18
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 16
+1 5
+1 17
+2 3
+2 14
+2 15
+3 4
+3 5
+3 6
+4 7
+4 8
+5 9
+5 10
+6 11
+6 12
+6 13

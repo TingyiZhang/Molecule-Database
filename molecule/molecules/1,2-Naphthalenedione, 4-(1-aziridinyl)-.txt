@@ -1,0 +1,58 @@
+1,2-Naphthalenedione, 4-(1-aziridinyl)-
+24
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 10
+1 11
+1 11
+2 3
+2 4
+2 5
+3 4
+3 15
+3 16
+4 17
+4 18
+5 6
+5 7
+5 7
+6 8
+6 9
+6 9
+7 10
+7 19
+8 11
+8 12
+8 12
+9 13
+9 20
+10 11
+12 14
+12 21
+13 14
+13 14
+13 22
+14 23

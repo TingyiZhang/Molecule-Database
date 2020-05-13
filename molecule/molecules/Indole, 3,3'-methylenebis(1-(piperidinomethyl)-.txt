@@ -1,0 +1,153 @@
+Indole, 3,3'-methylenebis(1-(piperidinomethyl)-
+69
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 5
+0 12
+1 6
+1 7
+1 13
+2 12
+2 19
+2 23
+3 13
+3 20
+3 24
+4 8
+4 33
+4 34
+5 9
+5 35
+5 36
+6 10
+6 37
+6 38
+7 11
+7 39
+7 40
+8 14
+8 41
+8 42
+9 14
+9 43
+9 44
+10 15
+10 45
+10 46
+11 15
+11 47
+11 48
+12 49
+12 50
+13 51
+13 52
+14 53
+14 54
+15 55
+15 56
+16 18
+16 21
+16 23
+16 23
+17 18
+17 22
+17 24
+17 24
+18 57
+18 58
+19 21
+19 25
+19 25
+20 22
+20 26
+20 26
+21 27
+21 27
+22 28
+22 28
+23 59
+24 60
+25 29
+25 61
+26 30
+26 62
+27 31
+27 63
+28 32
+28 64
+29 31
+29 31
+29 65
+30 32
+30 32
+30 66
+31 67
+32 68

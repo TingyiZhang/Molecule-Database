@@ -1,0 +1,53 @@
+N-Benzylethanolamine
+24
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 23
+1 2
+1 4
+1 15
+2 3
+2 11
+2 12
+3 6
+3 6
+3 7
+4 5
+4 13
+4 14
+5 16
+5 17
+6 8
+6 18
+7 9
+7 9
+7 19
+8 10
+8 10
+8 20
+9 10
+9 21
+10 22

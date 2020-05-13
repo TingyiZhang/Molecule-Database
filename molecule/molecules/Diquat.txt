@@ -1,0 +1,62 @@
+Diquat
+26
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 4
+0 6
+0 6
+1 3
+1 5
+1 7
+1 7
+2 3
+2 14
+2 15
+3 16
+3 17
+4 5
+4 8
+4 8
+5 9
+5 9
+6 10
+6 18
+7 11
+7 19
+8 12
+8 20
+9 13
+9 21
+10 12
+10 12
+10 22
+11 13
+11 13
+11 23
+12 24
+13 25

@@ -1,0 +1,9 @@
+Carbide(1-)
+4
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3

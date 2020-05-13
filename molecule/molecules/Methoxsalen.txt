@@ -1,0 +1,58 @@
+Methoxsalen
+24
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 12
+1 7
+1 14
+2 8
+2 15
+3 14
+3 14
+4 5
+4 5
+4 9
+4 10
+5 8
+6 7
+6 9
+6 9
+6 11
+7 8
+7 8
+9 16
+10 12
+10 12
+10 17
+11 13
+11 13
+11 18
+12 19
+13 14
+13 20
+15 21
+15 22
+15 23

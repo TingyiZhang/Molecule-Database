@@ -1,0 +1,74 @@
+2-Fluoro-4-dimethylaminoazobenzene
+32
+"Fluorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+1 4
+1 10
+1 11
+2 3
+2 3
+2 7
+3 12
+4 5
+4 5
+4 6
+5 8
+6 9
+6 9
+6 18
+7 8
+7 8
+7 9
+8 19
+9 20
+10 21
+10 22
+10 23
+11 24
+11 25
+11 26
+12 13
+12 13
+12 14
+13 15
+13 27
+14 16
+14 16
+14 28
+15 17
+15 17
+15 29
+16 17
+16 30
+17 31

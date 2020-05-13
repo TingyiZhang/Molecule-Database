@@ -1,0 +1,95 @@
+16-Chloro-17,19-dihydroxy-4-methyl-3,7-dioxatricyclo[13.4.0.06,8]nonadeca-1(15),9,11,16,18-pentaene-2,13-dione
+42
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 22
+1 7
+1 8
+2 10
+2 14
+3 14
+3 14
+4 19
+4 40
+5 21
+5 21
+6 24
+6 41
+7 8
+7 9
+7 25
+8 11
+8 26
+9 10
+9 27
+9 28
+10 12
+10 29
+11 13
+11 13
+11 30
+12 31
+12 32
+12 33
+13 17
+13 34
+14 15
+15 16
+15 16
+15 19
+16 18
+16 22
+17 20
+17 20
+17 35
+18 21
+18 36
+18 37
+19 23
+19 23
+20 21
+20 38
+22 24
+22 24
+23 24
+23 39

@@ -1,0 +1,78 @@
+4-Sulfonamide-[1-(4-aminobutane)]benzamide
+35
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+0 3
+0 3
+0 6
+0 13
+1 12
+1 12
+4 9
+4 12
+4 26
+5 10
+5 31
+5 32
+6 33
+6 34
+7 8
+7 9
+7 18
+7 19
+8 10
+8 20
+8 21
+9 22
+9 23
+10 24
+10 25
+11 12
+11 14
+11 14
+11 15
+13 16
+13 16
+13 17
+14 16
+14 27
+15 17
+15 17
+15 28
+16 29
+17 30

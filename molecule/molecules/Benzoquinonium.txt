@@ -1,0 +1,194 @@
+Benzoquinonium
+90
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 36
+0 36
+1 37
+1 37
+2 6
+2 8
+2 10
+2 11
+3 7
+3 9
+3 12
+3 13
+4 22
+4 28
+4 80
+5 23
+5 29
+5 81
+6 14
+6 40
+6 41
+7 15
+7 42
+7 43
+8 16
+8 44
+8 45
+9 17
+9 46
+9 47
+10 18
+10 48
+10 49
+11 19
+11 50
+11 51
+12 20
+12 52
+12 53
+13 21
+13 54
+13 55
+14 22
+14 56
+14 57
+15 23
+15 58
+15 59
+16 24
+16 24
+16 26
+17 25
+17 25
+17 27
+18 60
+18 61
+18 62
+19 63
+19 64
+19 65
+20 66
+20 67
+20 68
+21 69
+21 70
+21 71
+22 72
+22 73
+23 74
+23 75
+24 30
+24 76
+25 31
+25 77
+26 32
+26 32
+26 78
+27 33
+27 33
+27 79
+28 36
+28 39
+28 39
+29 37
+29 38
+29 38
+30 34
+30 34
+30 82
+31 35
+31 35
+31 83
+32 34
+32 84
+33 35
+33 85
+34 86
+35 87
+36 38
+37 39
+38 88
+39 89

@@ -1,0 +1,75 @@
+1-Cyclohexene-1-carboxylic acid, 5-((1-carboxyethenyl)oxy)-4-hydroxy-3-(phosphonooxy)-
+34
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 6
+0 7
+0 8
+0 8
+1 12
+1 18
+2 13
+3 11
+3 27
+4 17
+4 28
+5 17
+5 17
+6 31
+7 32
+9 19
+9 33
+10 19
+10 19
+11 12
+11 13
+11 21
+12 14
+12 22
+13 16
+13 23
+14 15
+14 24
+14 25
+15 16
+15 16
+15 17
+16 26
+18 19
+18 20
+18 20
+20 29
+20 30

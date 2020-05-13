@@ -1,0 +1,36 @@
+Valeric acid
+17
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 16
+1 6
+1 6
+2 3
+2 4
+2 7
+2 8
+3 5
+3 9
+3 10
+4 6
+4 11
+4 12
+5 13
+5 14
+5 15

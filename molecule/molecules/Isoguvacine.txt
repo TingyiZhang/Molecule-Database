@@ -1,0 +1,40 @@
+Isoguvacine
+18
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 17
+1 8
+1 8
+2 4
+2 6
+2 15
+3 4
+3 5
+3 9
+3 10
+4 11
+4 12
+5 7
+5 7
+5 8
+6 7
+6 13
+6 14
+7 16

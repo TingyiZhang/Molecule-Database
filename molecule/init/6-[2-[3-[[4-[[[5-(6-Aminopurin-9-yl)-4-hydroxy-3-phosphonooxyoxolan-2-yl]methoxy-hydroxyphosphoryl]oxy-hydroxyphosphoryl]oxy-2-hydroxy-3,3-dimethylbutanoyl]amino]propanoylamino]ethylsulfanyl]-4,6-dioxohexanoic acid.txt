@@ -1,0 +1,216 @@
+6-[2-[3-[[4-[[[5-(6-Aminopurin-9-yl)-4-hydroxy-3-phosphonooxyoxolan-2-yl]methoxy-hydroxyphosphoryl]oxy-hydroxyphosphoryl]oxy-2-hydroxy-3,3-dimethylbutanoyl]amino]propanoylamino]ethylsulfanyl]-4,6-dioxohexanoic acid
+100
+"Sulfur"
+"Phosphorus"
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 51
+0 52
+1 5
+1 8
+1 9
+1 11
+1 11
+2 7
+2 10
+2 13
+2 15
+2 15
+3 10
+3 12
+3 16
+3 17
+3 17
+4 33
+4 34
+5 31
+6 32
+6 64
+7 35
+8 75
+9 76
+12 41
+13 78
+14 40
+14 81
+16 85
+18 46
+18 46
+19 49
+19 49
+20 52
+20 52
+21 54
+21 54
+22 57
+22 99
+23 57
+23 57
+24 34
+24 36
+24 37
+25 37
+25 37
+25 38
+26 36
+26 36
+26 45
+27 42
+27 45
+27 45
+28 42
+28 79
+28 80
+29 46
+29 47
+29 82
+30 49
+30 50
+30 88
+31 32
+31 33
+31 58
+32 34
+32 59
+33 35
+33 60
+34 61
+35 62
+35 63
+36 38
+37 65
+38 42
+38 42
+39 40
+39 41
+39 43
+39 44
+40 46
+40 66
+41 67
+41 68
+43 69
+43 70
+43 71
+44 72
+44 73
+44 74
+45 77
+47 48
+47 83
+47 84
+48 49
+48 86
+48 87
+50 51
+50 89
+50 90
+51 91
+51 92
+52 53
+53 54
+53 93
+53 94
+54 55
+55 56
+55 95
+55 96
+56 57
+56 97
+56 98

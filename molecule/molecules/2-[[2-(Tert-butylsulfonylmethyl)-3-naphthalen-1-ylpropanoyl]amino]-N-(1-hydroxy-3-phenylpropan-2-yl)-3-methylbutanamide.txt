@@ -1,0 +1,180 @@
+2-[[2-(Tert-butylsulfonylmethyl)-3-naphthalen-1-ylpropanoyl]amino]-N-(1-hydroxy-3-phenylpropan-2-yl)-3-methylbutanamide
+82
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 8
+0 9
+3 15
+3 15
+4 20
+4 20
+5 30
+5 78
+6 15
+6 16
+6 55
+7 20
+7 24
+7 65
+8 12
+8 13
+8 14
+9 10
+9 40
+9 41
+10 11
+10 15
+10 42
+11 17
+11 43
+11 44
+12 45
+12 46
+12 47
+13 48
+13 49
+13 50
+14 51
+14 52
+14 53
+16 18
+16 20
+16 54
+17 19
+17 23
+17 23
+18 21
+18 22
+18 56
+19 25
+19 28
+19 28
+21 57
+21 58
+21 59
+22 60
+22 61
+22 62
+23 27
+23 63
+24 26
+24 30
+24 64
+25 29
+25 31
+25 31
+26 33
+26 66
+26 67
+27 29
+27 29
+27 68
+28 32
+28 69
+29 70
+30 71
+30 72
+31 34
+31 73
+32 34
+32 34
+32 74
+33 35
+33 35
+33 36
+34 75
+35 37
+35 76
+36 38
+36 38
+36 77
+37 39
+37 39
+37 79
+38 39
+38 80
+39 81

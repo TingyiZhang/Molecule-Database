@@ -1,0 +1,106 @@
+Ethyl N-[2,5-dicyclopropyl-4-(ethoxycarbonylamino)-3,6-dioxocyclohexa-1,4-dien-1-yl]carbamate
+48
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+0 18
+1 19
+1 19
+2 20
+2 22
+3 21
+3 23
+4 20
+4 20
+5 21
+5 21
+6 16
+6 20
+6 36
+7 17
+7 21
+7 37
+8 10
+8 11
+8 14
+8 26
+9 12
+9 13
+9 15
+9 27
+10 11
+10 28
+10 29
+11 30
+11 31
+12 13
+12 32
+12 33
+13 34
+13 35
+14 17
+14 17
+14 18
+15 16
+15 16
+15 19
+16 18
+17 19
+22 24
+22 38
+22 39
+23 25
+23 40
+23 41
+24 42
+24 43
+24 44
+25 45
+25 46
+25 47

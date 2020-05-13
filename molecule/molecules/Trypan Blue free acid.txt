@@ -1,0 +1,205 @@
+Trypan Blue free acid
+86
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 10
+0 10
+0 11
+0 11
+0 28
+1 7
+1 12
+1 12
+1 13
+1 13
+1 29
+2 8
+2 14
+2 14
+2 15
+2 15
+2 40
+3 9
+3 16
+3 16
+3 17
+3 17
+3 41
+4 30
+4 72
+5 31
+5 73
+6 82
+7 83
+8 84
+9 85
+18 32
+18 64
+18 65
+19 33
+19 66
+19 67
+20 22
+20 22
+20 36
+21 23
+21 23
+21 37
+22 48
+23 49
+24 26
+24 30
+24 32
+24 32
+25 27
+25 31
+25 33
+25 33
+26 34
+26 38
+26 38
+27 35
+27 39
+27 39
+28 34
+28 34
+28 36
+29 35
+29 35
+29 37
+30 36
+30 36
+31 37
+31 37
+32 42
+33 43
+34 58
+35 59
+38 40
+38 60
+39 41
+39 61
+40 42
+40 42
+41 43
+41 43
+42 62
+43 63
+44 45
+44 50
+44 50
+44 52
+45 51
+45 51
+45 53
+46 48
+46 48
+46 50
+46 56
+47 49
+47 49
+47 51
+47 57
+48 54
+49 55
+50 68
+51 69
+52 54
+52 54
+52 70
+53 55
+53 55
+53 71
+54 74
+55 75
+56 76
+56 77
+56 78
+57 79
+57 80
+57 81

@@ -1,0 +1,92 @@
+4-Guanidino-5-(acetylamino)-6-(1,2,3-trihydroxypropyl)-5,6-dihydro-4H-pyran-2-carboxylic acid
+43
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 17
+1 13
+1 32
+2 15
+2 33
+3 18
+3 37
+4 19
+4 19
+5 20
+5 42
+6 20
+6 20
+7 12
+7 19
+7 28
+8 14
+8 21
+8 21
+9 21
+9 38
+9 39
+10 21
+10 40
+10 41
+11 12
+11 13
+11 23
+12 14
+12 24
+13 15
+13 25
+14 16
+14 26
+15 18
+15 27
+16 17
+16 17
+16 29
+17 20
+18 30
+18 31
+19 22
+22 34
+22 35
+22 36

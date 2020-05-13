@@ -1,0 +1,85 @@
+N,N,N',N'-Tetramethylbenzidine
+38
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 14
+0 15
+1 5
+1 16
+1 17
+2 3
+2 6
+2 6
+2 8
+3 7
+3 7
+3 9
+4 10
+4 10
+4 12
+5 11
+5 11
+5 13
+6 10
+6 18
+7 11
+7 19
+8 12
+8 12
+8 20
+9 13
+9 13
+9 21
+10 22
+11 23
+12 24
+13 25
+14 26
+14 27
+14 28
+15 29
+15 30
+15 31
+16 32
+16 33
+16 34
+17 35
+17 36
+17 37

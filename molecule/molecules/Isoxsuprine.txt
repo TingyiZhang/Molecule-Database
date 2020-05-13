@@ -1,0 +1,99 @@
+Isoxsuprine
+45
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 36
+1 9
+1 16
+2 15
+2 43
+3 4
+3 6
+3 25
+4 5
+4 7
+4 22
+5 8
+5 23
+6 9
+6 10
+6 24
+7 26
+7 27
+7 28
+8 11
+8 11
+8 12
+9 29
+9 30
+10 31
+10 32
+10 33
+11 13
+11 34
+12 14
+12 14
+12 35
+13 15
+13 15
+13 37
+14 15
+14 38
+16 17
+16 17
+16 18
+17 19
+17 39
+18 20
+18 20
+18 40
+19 21
+19 21
+19 41
+20 21
+20 42
+21 44

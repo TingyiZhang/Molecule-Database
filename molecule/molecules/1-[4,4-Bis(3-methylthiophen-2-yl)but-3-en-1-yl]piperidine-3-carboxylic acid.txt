@@ -1,0 +1,110 @@
+1-[4,4-Bis(3-methylthiophen-2-yl)but-3-en-1-yl]piperidine-3-carboxylic acid
+50
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 23
+1 16
+1 24
+2 12
+2 39
+3 12
+3 12
+4 6
+4 9
+4 10
+5 6
+5 7
+5 12
+5 25
+6 26
+6 27
+7 8
+7 28
+7 29
+8 9
+8 30
+8 31
+9 32
+9 33
+10 11
+10 34
+10 35
+11 13
+11 36
+11 37
+13 14
+13 14
+13 38
+14 15
+14 16
+15 17
+15 17
+16 18
+16 18
+17 19
+17 21
+18 20
+18 22
+19 23
+19 23
+19 40
+20 24
+20 24
+20 41
+21 42
+21 43
+21 44
+22 45
+22 46
+22 47
+23 48
+24 49

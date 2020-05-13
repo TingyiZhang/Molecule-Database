@@ -1,0 +1,144 @@
+Becanamycin
+70
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 21
+1 16
+1 22
+2 17
+2 54
+3 21
+3 28
+4 22
+4 30
+5 24
+5 63
+6 25
+6 64
+7 27
+7 65
+8 29
+8 66
+9 32
+9 69
+10 18
+10 50
+10 51
+11 19
+11 52
+11 53
+12 23
+12 57
+12 58
+13 26
+13 61
+13 62
+14 31
+14 67
+14 68
+15 17
+15 18
+15 33
+16 17
+16 19
+16 34
+17 35
+18 20
+18 36
+19 20
+19 37
+20 38
+20 39
+21 23
+21 40
+22 24
+22 41
+23 25
+23 42
+24 26
+24 43
+25 27
+25 44
+26 29
+26 45
+27 28
+27 46
+28 31
+28 47
+29 30
+29 48
+30 32
+30 49
+31 55
+31 56
+32 59
+32 60

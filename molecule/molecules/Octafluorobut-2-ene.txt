@@ -1,0 +1,26 @@
+Octafluorobut-2-ene
+12
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+0 8
+1 9
+2 10
+3 10
+4 10
+5 11
+6 11
+7 11
+8 9
+8 9
+8 10
+9 11

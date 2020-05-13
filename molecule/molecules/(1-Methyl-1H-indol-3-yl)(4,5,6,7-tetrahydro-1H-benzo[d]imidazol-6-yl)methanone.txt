@@ -1,0 +1,88 @@
+(1-Methyl-1H-indol-3-yl)(4,5,6,7-tetrahydro-1H-benzo[d]imidazol-6-yl)methanone
+38
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 10
+1 8
+1 15
+1 28
+2 13
+2 14
+2 18
+3 9
+3 15
+3 15
+4 5
+4 6
+4 10
+4 21
+5 7
+5 22
+5 23
+6 8
+6 24
+6 25
+7 9
+7 26
+7 27
+8 9
+8 9
+10 11
+11 12
+11 14
+11 14
+12 13
+12 16
+12 16
+13 17
+13 17
+14 29
+15 30
+16 19
+16 31
+17 20
+17 32
+18 33
+18 34
+18 35
+19 20
+19 20
+19 36
+20 37

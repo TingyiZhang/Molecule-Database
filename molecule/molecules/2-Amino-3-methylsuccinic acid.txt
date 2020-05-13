@@ -1,0 +1,41 @@
+2-Amino-3-methylsuccinic acid
+19
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 17
+1 9
+1 18
+2 8
+2 8
+3 9
+3 9
+4 6
+4 15
+4 16
+5 6
+5 7
+5 8
+5 10
+6 9
+6 11
+7 12
+7 13
+7 14

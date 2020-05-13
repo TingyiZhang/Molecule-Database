@@ -1,0 +1,87 @@
+2-Amino-5-[[1-(carboxymethylamino)-3-(hydroxymethylsulfanyl)-1-oxopropan-2-yl]amino]-5-oxopentanoic acid
+41
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 20
+1 15
+1 15
+2 17
+2 17
+3 18
+3 38
+4 18
+4 18
+5 20
+5 39
+6 21
+6 40
+7 21
+7 21
+8 11
+8 15
+8 28
+9 17
+9 19
+9 31
+10 14
+10 32
+10 33
+11 16
+11 17
+11 22
+12 13
+12 14
+12 23
+12 24
+13 15
+13 25
+13 26
+14 18
+14 27
+16 29
+16 30
+19 21
+19 34
+19 35
+20 36
+20 37

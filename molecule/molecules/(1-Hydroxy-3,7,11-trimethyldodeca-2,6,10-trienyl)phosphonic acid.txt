@@ -1,0 +1,99 @@
+(1-Hydroxy-3,7,11-trimethyldodeca-2,6,10-trienyl)phosphonic acid
+47
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 4
+0 4
+0 13
+1 13
+1 38
+2 45
+3 46
+5 6
+5 9
+5 20
+5 21
+6 10
+6 22
+6 23
+7 8
+7 11
+7 24
+7 25
+8 10
+8 10
+8 14
+9 12
+9 12
+9 15
+10 26
+11 16
+11 27
+11 28
+12 13
+12 29
+13 30
+14 31
+14 32
+14 33
+15 34
+15 35
+15 36
+16 17
+16 17
+16 37
+17 18
+17 19
+18 39
+18 40
+18 41
+19 42
+19 43
+19 44

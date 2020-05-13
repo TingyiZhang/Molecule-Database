@@ -1,0 +1,60 @@
+Propyl gallate
+27
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 10
+1 11
+1 24
+2 12
+2 25
+3 14
+3 26
+4 10
+4 10
+5 6
+5 13
+5 15
+5 16
+6 17
+6 18
+7 8
+7 8
+7 9
+7 10
+8 12
+8 19
+9 11
+9 11
+9 20
+11 14
+12 14
+12 14
+13 21
+13 22
+13 23

@@ -1,0 +1,169 @@
+4-Amino-5-[[2-amino-6-[1,2-bis[(2-amino-4-carboxybutanoyl)oxy]propyl]-5,8-dihydropteridin-4-yl]oxy]-5-oxopentanoic acid
+78
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 28
+1 21
+1 31
+2 33
+2 39
+3 28
+3 28
+4 31
+4 31
+5 39
+5 39
+6 41
+6 75
+7 42
+7 76
+8 41
+8 41
+9 42
+9 42
+10 43
+10 77
+11 43
+11 43
+12 22
+12 25
+12 49
+13 24
+13 29
+13 55
+14 26
+14 62
+14 63
+15 27
+15 65
+15 66
+16 29
+16 38
+16 38
+17 33
+17 33
+17 38
+18 36
+18 71
+18 72
+19 38
+19 73
+19 74
+20 21
+20 22
+20 44
+21 23
+21 45
+22 24
+22 24
+23 46
+23 47
+23 48
+24 50
+25 29
+25 29
+25 33
+26 28
+26 30
+26 51
+27 31
+27 32
+27 52
+30 34
+30 53
+30 54
+32 35
+32 56
+32 57
+34 41
+34 58
+34 59
+35 42
+35 60
+35 61
+36 37
+36 39
+36 64
+37 40
+37 67
+37 68
+40 43
+40 69
+40 70

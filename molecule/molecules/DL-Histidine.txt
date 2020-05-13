@@ -1,0 +1,45 @@
+DL-Histidine
+20
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 19
+1 8
+1 8
+2 7
+2 10
+2 14
+3 6
+3 16
+3 17
+4 9
+4 10
+4 10
+5 6
+5 7
+5 11
+5 12
+6 8
+6 13
+7 9
+7 9
+9 15
+10 18

@@ -1,0 +1,36 @@
+Methyl 3,3,3-trifluoro-2-(trifluoromethyl)propanoate
+17
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+1 9
+2 9
+3 10
+4 10
+5 10
+6 11
+6 12
+7 11
+7 11
+8 9
+8 10
+8 11
+8 13
+12 14
+12 15
+12 16

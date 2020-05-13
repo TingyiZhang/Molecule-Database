@@ -1,0 +1,126 @@
+Tert-butyl 2-(2-(2-(3,5-difluorophenyl)acetamido)propanamido)-2-phenylacetate
+57
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 28
+1 29
+2 8
+2 12
+3 12
+3 12
+4 16
+4 16
+5 20
+5 20
+6 9
+6 16
+6 33
+7 10
+7 20
+7 43
+8 13
+8 14
+8 15
+9 11
+9 12
+9 31
+10 16
+10 17
+10 32
+11 18
+11 18
+11 19
+13 34
+13 35
+13 36
+14 37
+14 38
+14 39
+15 40
+15 41
+15 42
+17 44
+17 45
+17 46
+18 22
+18 47
+19 23
+19 23
+19 48
+20 21
+21 24
+21 49
+21 50
+22 25
+22 25
+22 51
+23 25
+23 52
+24 26
+24 26
+24 27
+25 53
+26 29
+26 54
+27 28
+27 28
+27 55
+28 30
+29 30
+29 30
+30 56

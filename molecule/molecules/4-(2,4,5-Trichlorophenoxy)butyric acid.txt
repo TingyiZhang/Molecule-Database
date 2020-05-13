@@ -1,0 +1,56 @@
+4-(2,4,5-Trichlorophenoxy)butyric acid
+25
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 13
+2 15
+3 7
+3 9
+4 12
+4 24
+5 12
+5 12
+6 7
+6 8
+6 16
+6 17
+7 18
+7 19
+8 12
+8 20
+8 21
+9 10
+9 11
+9 11
+10 14
+10 14
+11 13
+11 22
+13 15
+13 15
+14 15
+14 23

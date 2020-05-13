@@ -1,0 +1,73 @@
+Tetraethylenepentamine
+36
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+0 21
+1 7
+1 9
+1 22
+2 8
+2 10
+2 23
+3 11
+3 32
+3 33
+4 12
+4 34
+4 35
+5 7
+5 13
+5 14
+6 8
+6 15
+6 16
+7 17
+7 18
+8 19
+8 20
+9 11
+9 24
+9 25
+10 12
+10 26
+10 27
+11 28
+11 29
+12 30
+12 31

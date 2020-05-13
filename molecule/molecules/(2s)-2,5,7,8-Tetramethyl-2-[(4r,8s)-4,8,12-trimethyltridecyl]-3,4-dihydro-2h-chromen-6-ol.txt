@@ -1,0 +1,168 @@
+(2s)-2,5,7,8-Tetramethyl-2-[(4r,8s)-4,8,12-trimethyltridecyl]-3,4-dihydro-2h-chromen-6-ol
+81
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 13
+1 23
+1 80
+2 3
+2 4
+2 10
+3 5
+3 31
+3 32
+4 8
+4 33
+4 34
+5 7
+5 35
+5 36
+6 7
+6 9
+6 16
+6 37
+7 38
+7 39
+8 11
+8 40
+8 41
+9 12
+9 42
+9 43
+10 44
+10 45
+10 46
+11 13
+11 13
+11 18
+12 14
+12 47
+12 48
+13 19
+14 15
+14 49
+14 50
+15 17
+15 22
+15 51
+16 52
+16 53
+16 54
+17 20
+17 55
+17 56
+18 23
+18 23
+18 26
+19 21
+19 21
+19 27
+20 24
+20 57
+20 58
+21 23
+21 28
+22 59
+22 60
+22 61
+24 25
+24 62
+24 63
+25 29
+25 30
+25 64
+26 65
+26 66
+26 67
+27 68
+27 69
+27 70
+28 71
+28 72
+28 73
+29 74
+29 75
+29 76
+30 77
+30 78
+30 79

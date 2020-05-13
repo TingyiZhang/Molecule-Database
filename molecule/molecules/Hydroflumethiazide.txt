@@ -1,0 +1,66 @@
+Hydroflumethiazide
+28
+"Sulfur"
+"Sulfur"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 5
+0 6
+0 6
+0 10
+0 12
+1 7
+1 7
+1 8
+1 8
+1 11
+1 14
+2 19
+3 19
+4 19
+9 13
+9 17
+9 24
+10 17
+10 25
+11 26
+11 27
+12 13
+12 13
+12 16
+13 18
+14 15
+14 16
+14 16
+15 18
+15 18
+15 19
+16 20
+17 21
+17 22
+18 23

@@ -1,0 +1,212 @@
+16-[4-(2,4-Dihydroxy-5-methyl-6-propan-2-yloxan-2-yl)-3-hydroxypentan-2-yl]-8-hydroxy-3,15-dimethoxy-5,7,9,11-tetramethyl-1-oxacyclohexadeca-3,5,11,13-tetraen-2-one
+102
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 11
+1 9
+1 60
+2 14
+2 67
+3 15
+3 71
+4 20
+4 26
+5 24
+5 28
+6 26
+6 26
+7 30
+7 43
+8 31
+8 95
+9 12
+9 13
+10 11
+10 14
+10 18
+10 44
+11 16
+11 45
+12 15
+12 19
+12 46
+13 14
+13 47
+13 48
+14 49
+15 17
+15 50
+16 21
+16 22
+16 51
+17 20
+17 23
+17 52
+18 53
+18 54
+18 55
+19 56
+19 57
+19 58
+20 24
+20 59
+21 61
+21 62
+21 63
+22 64
+22 65
+22 66
+23 68
+23 69
+23 70
+24 25
+24 72
+25 27
+25 27
+25 73
+26 30
+27 32
+27 74
+28 75
+28 76
+28 77
+29 31
+29 33
+29 37
+29 78
+30 36
+30 36
+31 34
+31 79
+32 35
+32 35
+32 80
+33 35
+33 81
+33 82
+34 38
+34 40
+34 83
+35 41
+36 39
+36 84
+37 85
+37 86
+37 87
+38 39
+38 39
+38 88
+39 42
+40 89
+40 90
+40 91
+41 92
+41 93
+41 94
+42 96
+42 97
+42 98
+43 99
+43 100
+43 101

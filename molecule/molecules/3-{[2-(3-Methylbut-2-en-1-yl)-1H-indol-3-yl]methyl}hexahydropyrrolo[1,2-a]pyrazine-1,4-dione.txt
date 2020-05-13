@@ -1,0 +1,114 @@
+3-{[2-(3-Methylbut-2-en-1-yl)-1H-indol-3-yl]methyl}hexahydropyrrolo[1,2-a]pyrazine-1,4-dione
+51
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 10
+1 11
+1 11
+2 5
+2 7
+2 10
+3 9
+3 11
+3 36
+4 14
+4 16
+4 37
+5 6
+5 11
+5 26
+6 8
+6 27
+6 28
+7 8
+7 29
+7 30
+8 31
+8 32
+9 10
+9 12
+9 33
+12 13
+12 34
+12 35
+13 14
+13 14
+13 15
+14 17
+15 16
+15 18
+15 18
+16 19
+16 19
+17 20
+17 38
+17 39
+18 21
+18 40
+19 22
+19 41
+20 23
+20 23
+20 42
+21 22
+21 22
+21 43
+22 44
+23 24
+23 25
+24 45
+24 46
+24 47
+25 48
+25 49
+25 50

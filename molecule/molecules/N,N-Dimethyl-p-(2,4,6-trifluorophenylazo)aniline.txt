@@ -1,0 +1,74 @@
+N,N-Dimethyl-p-(2,4,6-trifluorophenylazo)aniline
+32
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+1 16
+2 19
+3 6
+3 12
+3 13
+4 5
+4 5
+4 9
+5 14
+6 7
+6 7
+6 8
+7 10
+7 20
+8 11
+8 11
+8 21
+9 10
+9 10
+9 11
+10 22
+11 23
+12 24
+12 25
+12 26
+13 27
+13 28
+13 29
+14 15
+14 15
+14 16
+15 17
+16 18
+16 18
+17 19
+17 19
+17 30
+18 19
+18 31

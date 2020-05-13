@@ -1,0 +1,65 @@
+Suosan
+29
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+1 12
+1 12
+2 18
+3 18
+3 18
+4 8
+5 8
+5 8
+6 9
+6 12
+6 23
+7 10
+7 12
+7 24
+8 15
+9 11
+9 19
+9 20
+10 13
+10 13
+10 14
+11 18
+11 21
+11 22
+13 16
+13 25
+14 17
+14 17
+14 26
+15 16
+15 16
+15 17
+16 27
+17 28

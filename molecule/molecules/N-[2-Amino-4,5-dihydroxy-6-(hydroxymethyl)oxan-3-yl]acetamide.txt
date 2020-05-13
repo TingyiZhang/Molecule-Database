@@ -1,0 +1,65 @@
+N-[2-Amino-4,5-dihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide
+31
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 11
+1 8
+1 25
+2 9
+2 26
+3 12
+3 27
+4 13
+4 13
+5 7
+5 13
+5 22
+6 11
+6 23
+6 24
+7 8
+7 11
+7 15
+8 9
+8 16
+9 10
+9 17
+10 12
+10 18
+11 19
+12 20
+12 21
+13 14
+14 28
+14 29
+14 30

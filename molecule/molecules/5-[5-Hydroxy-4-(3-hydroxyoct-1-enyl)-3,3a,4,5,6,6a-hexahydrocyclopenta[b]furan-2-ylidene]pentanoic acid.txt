@@ -1,0 +1,120 @@
+5-[5-Hydroxy-4-(3-hydroxyoct-1-enyl)-3,3a,4,5,6,6a-hexahydrocyclopenta[b]furan-2-ylidene]pentanoic acid
+57
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 11
+1 8
+1 34
+2 15
+2 46
+3 23
+3 56
+4 23
+4 23
+5 6
+5 7
+5 10
+5 25
+6 9
+6 26
+7 8
+7 12
+7 27
+8 9
+8 28
+9 29
+9 30
+10 11
+10 31
+10 32
+11 13
+11 13
+12 14
+12 14
+12 33
+13 16
+13 35
+14 15
+14 36
+15 17
+15 37
+16 18
+16 38
+16 39
+17 19
+17 40
+17 41
+18 20
+18 42
+18 43
+19 21
+19 44
+19 45
+20 23
+20 49
+20 50
+21 22
+21 47
+21 48
+22 24
+22 51
+22 52
+24 53
+24 54
+24 55

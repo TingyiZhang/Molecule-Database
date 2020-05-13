@@ -1,0 +1,108 @@
+(Biphenyl-2-YL-(toluene-4-sulfonyl)-amino)-acetic acid
+46
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 5
+0 8
+3 20
+3 45
+4 20
+4 20
+5 6
+5 9
+6 7
+6 10
+6 10
+7 11
+7 12
+7 12
+8 13
+8 13
+8 14
+9 20
+9 27
+9 28
+10 15
+10 29
+11 21
+11 21
+11 22
+12 16
+12 30
+13 18
+13 31
+14 19
+14 19
+14 32
+15 16
+15 16
+15 33
+16 34
+17 18
+17 18
+17 19
+17 23
+18 35
+19 36
+21 24
+21 37
+22 25
+22 25
+22 38
+23 39
+23 40
+23 41
+24 26
+24 26
+24 42
+25 26
+25 43
+26 44

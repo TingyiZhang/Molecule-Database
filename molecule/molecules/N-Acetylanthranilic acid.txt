@@ -1,0 +1,51 @@
+N-Acetylanthranilic acid
+22
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 21
+1 10
+1 10
+2 11
+2 11
+3 4
+3 10
+3 15
+4 5
+4 6
+4 6
+5 7
+5 7
+5 11
+6 8
+6 13
+7 9
+7 14
+8 9
+8 9
+8 16
+9 17
+10 12
+12 18
+12 19
+12 20

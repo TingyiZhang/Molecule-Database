@@ -1,0 +1,66 @@
+Methyl 2-amino-5-[[amino(nitramido)methylidene]amino]pentanoate
+31
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 15
+1 13
+1 13
+2 8
+3 8
+3 8
+4 11
+4 23
+4 24
+5 12
+5 14
+5 14
+6 8
+6 14
+6 28
+7 14
+7 29
+7 30
+9 10
+9 11
+9 16
+9 17
+10 12
+10 18
+10 19
+11 13
+11 20
+12 21
+12 22
+15 25
+15 26
+15 27

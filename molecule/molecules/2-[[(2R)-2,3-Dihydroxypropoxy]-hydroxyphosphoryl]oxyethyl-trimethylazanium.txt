@@ -1,0 +1,76 @@
+2-[[(2R)-2,3-Dihydroxypropoxy]-hydroxyphosphoryl]oxyethyl-trimethylazanium
+37
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 5
+0 5
+1 12
+2 14
+3 34
+4 13
+4 35
+6 15
+6 36
+7 8
+7 9
+7 10
+7 11
+8 12
+8 16
+8 17
+9 18
+9 19
+9 20
+10 21
+10 22
+10 23
+11 24
+11 25
+11 26
+12 27
+12 28
+13 14
+13 15
+13 29
+14 30
+14 31
+15 32
+15 33

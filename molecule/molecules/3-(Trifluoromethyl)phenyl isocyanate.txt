@@ -1,0 +1,41 @@
+3-(Trifluoromethyl)phenyl isocyanate
+17
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+1 9
+2 9
+3 12
+3 12
+4 8
+4 12
+4 12
+5 6
+5 6
+5 7
+5 9
+6 8
+6 13
+7 10
+7 10
+7 14
+8 11
+8 11
+10 11
+10 15
+11 16

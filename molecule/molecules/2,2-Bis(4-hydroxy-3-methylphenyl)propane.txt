@@ -1,0 +1,87 @@
+2,2-Bis(4-hydroxy-3-methylphenyl)propane
+39
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 37
+1 16
+1 38
+2 3
+2 4
+2 5
+2 6
+3 7
+3 7
+3 9
+4 8
+4 8
+4 10
+5 19
+5 20
+5 21
+6 22
+6 23
+6 24
+7 11
+7 25
+8 12
+8 26
+9 13
+9 13
+9 27
+10 14
+10 14
+10 28
+11 15
+11 15
+11 17
+12 16
+12 16
+12 18
+13 15
+13 29
+14 16
+14 30
+17 31
+17 32
+17 33
+18 34
+18 35
+18 36

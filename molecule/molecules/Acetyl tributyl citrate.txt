@@ -1,0 +1,129 @@
+Acetyl tributyl citrate
+62
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 21
+1 11
+1 14
+2 12
+2 16
+3 13
+3 17
+4 11
+4 11
+5 12
+5 12
+6 13
+6 13
+7 21
+7 21
+8 9
+8 10
+8 11
+9 12
+9 28
+9 29
+10 13
+10 30
+10 31
+14 15
+14 32
+14 33
+15 20
+15 34
+15 35
+16 18
+16 36
+16 37
+17 19
+17 38
+17 39
+18 22
+18 40
+18 41
+19 23
+19 42
+19 43
+20 24
+20 44
+20 45
+21 25
+22 26
+22 46
+22 47
+23 27
+23 48
+23 49
+24 50
+24 51
+24 52
+25 53
+25 54
+25 55
+26 56
+26 57
+26 58
+27 59
+27 60
+27 61

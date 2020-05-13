@@ -1,0 +1,176 @@
+Ergocornin
+80
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 14
+1 11
+1 52
+2 17
+2 17
+3 18
+3 18
+4 26
+4 26
+5 11
+5 12
+5 18
+6 10
+6 15
+6 17
+7 14
+7 26
+7 51
+8 27
+8 28
+8 35
+9 36
+9 37
+9 77
+10 11
+10 13
+10 41
+12 17
+12 19
+12 42
+13 16
+13 43
+13 44
+14 18
+14 20
+15 16
+15 45
+15 46
+16 47
+16 48
+19 21
+19 22
+19 49
+20 23
+20 24
+20 50
+21 53
+21 54
+21 55
+22 56
+22 57
+22 58
+23 59
+23 60
+23 61
+24 62
+24 63
+24 64
+25 26
+25 28
+25 30
+25 65
+27 29
+27 31
+27 66
+28 67
+28 68
+29 30
+29 30
+29 32
+30 69
+31 33
+31 70
+31 71
+32 34
+32 34
+32 38
+33 34
+33 37
+33 37
+34 36
+35 72
+35 73
+35 74
+36 39
+36 39
+37 75
+38 40
+38 40
+38 76
+39 40
+39 78
+40 79

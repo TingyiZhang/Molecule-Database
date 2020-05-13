@@ -1,0 +1,147 @@
+N,N'-Bis(4-(1,4,5,6-tetrahydro-2-pyrimidinyl)phenyl)-1,4-benzenedicarboxamide
+64
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 30
+0 30
+1 31
+1 31
+2 10
+2 14
+2 48
+3 11
+3 15
+3 49
+4 12
+4 14
+4 14
+5 13
+5 15
+5 15
+6 22
+6 30
+6 58
+7 23
+7 31
+7 59
+8 10
+8 12
+8 36
+8 37
+9 11
+9 13
+9 38
+9 39
+10 40
+10 41
+11 42
+11 43
+12 44
+12 45
+13 46
+13 47
+14 16
+15 17
+16 18
+16 18
+16 20
+17 19
+17 19
+17 21
+18 24
+18 50
+19 25
+19 51
+20 26
+20 26
+20 52
+21 27
+21 27
+21 53
+22 24
+22 24
+22 26
+23 25
+23 25
+23 27
+24 54
+25 55
+26 56
+27 57
+28 30
+28 32
+28 32
+28 34
+29 31
+29 33
+29 33
+29 35
+32 33
+32 60
+33 61
+34 35
+34 35
+34 62
+35 63

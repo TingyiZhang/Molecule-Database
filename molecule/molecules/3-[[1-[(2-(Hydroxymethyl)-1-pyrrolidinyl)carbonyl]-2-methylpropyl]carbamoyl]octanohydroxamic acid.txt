@@ -1,0 +1,129 @@
+3-[[1-[(2-(Hydroxymethyl)-1-pyrrolidinyl)carbonyl]-2-methylpropyl]carbamoyl]octanohydroxamic acid
+62
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 52
+1 13
+1 13
+2 17
+2 17
+3 25
+3 25
+4 7
+4 61
+5 8
+5 10
+5 13
+6 12
+6 17
+6 38
+7 25
+7 60
+8 9
+8 14
+8 27
+9 11
+9 28
+9 29
+10 11
+10 30
+10 31
+11 32
+11 33
+12 13
+12 15
+12 34
+14 35
+14 36
+15 19
+15 20
+15 37
+16 17
+16 18
+16 22
+16 39
+18 21
+18 40
+18 41
+19 42
+19 43
+19 44
+20 45
+20 46
+20 47
+21 23
+21 48
+21 49
+22 25
+22 50
+22 51
+23 24
+23 53
+23 54
+24 26
+24 55
+24 56
+26 57
+26 58
+26 59

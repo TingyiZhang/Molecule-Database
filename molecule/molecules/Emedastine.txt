@@ -1,0 +1,104 @@
+Emedastine
+48
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 20
+1 5
+1 6
+1 10
+2 8
+2 9
+2 14
+3 10
+3 11
+3 12
+4 10
+4 10
+4 13
+5 7
+5 22
+5 23
+6 8
+6 24
+6 25
+7 9
+7 26
+7 27
+8 28
+8 29
+9 30
+9 31
+11 13
+11 16
+11 16
+12 15
+12 32
+12 33
+13 17
+13 17
+14 34
+14 35
+14 36
+15 37
+15 38
+16 18
+16 39
+17 19
+17 40
+18 19
+18 19
+18 41
+19 42
+20 21
+20 43
+20 44
+21 45
+21 46
+21 47

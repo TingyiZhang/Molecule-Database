@@ -1,0 +1,70 @@
+Methocarbamol
+32
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 9
+1 6
+1 23
+2 8
+2 15
+3 10
+3 16
+4 15
+4 15
+5 15
+5 30
+5 31
+6 7
+6 8
+6 17
+7 18
+7 19
+8 20
+8 21
+9 10
+9 11
+9 11
+10 12
+10 12
+11 13
+11 22
+12 14
+12 24
+13 14
+13 14
+13 25
+14 26
+16 27
+16 28
+16 29

@@ -1,0 +1,58 @@
+N-(4-Carboxy-3-hydroxyphenyl)maleimide
+24
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 22
+1 11
+1 11
+2 12
+2 12
+3 16
+3 23
+4 16
+4 16
+5 6
+5 11
+5 12
+6 7
+6 7
+6 8
+7 10
+7 17
+8 13
+8 13
+8 18
+9 10
+9 10
+9 13
+9 16
+11 14
+12 15
+13 19
+14 15
+14 15
+14 20
+15 21

@@ -1,0 +1,115 @@
+21-Hydroxypregn-4-ene-3,11-20-trione
+53
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 14
+1 20
+1 20
+2 23
+2 23
+3 24
+3 52
+4 5
+4 6
+4 10
+4 25
+5 8
+5 11
+5 15
+6 7
+6 13
+6 26
+7 9
+7 14
+7 27
+8 12
+8 20
+8 28
+9 16
+9 18
+9 19
+10 12
+10 29
+10 30
+11 14
+11 31
+11 32
+12 33
+12 34
+13 17
+13 35
+13 36
+15 37
+15 38
+15 39
+16 17
+16 22
+16 22
+17 40
+17 41
+18 21
+18 42
+18 43
+19 44
+19 45
+19 46
+20 24
+21 23
+21 47
+21 48
+22 23
+22 49
+24 50
+24 51

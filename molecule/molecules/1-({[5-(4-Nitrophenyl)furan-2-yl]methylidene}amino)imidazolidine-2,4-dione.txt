@@ -1,0 +1,79 @@
+1-({[5-(4-Nitrophenyl)furan-2-yl]methylidene}amino)imidazolidine-2,4-dione
+33
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 12
+1 13
+1 13
+2 14
+2 14
+3 8
+4 8
+4 8
+5 7
+5 9
+5 14
+6 13
+6 14
+6 26
+7 19
+7 19
+8 20
+9 13
+9 23
+9 24
+10 11
+10 15
+10 15
+11 17
+11 17
+11 18
+12 16
+12 16
+12 19
+15 16
+15 25
+16 27
+17 21
+17 28
+18 22
+18 22
+18 29
+19 30
+20 21
+20 21
+20 22
+21 31
+22 32

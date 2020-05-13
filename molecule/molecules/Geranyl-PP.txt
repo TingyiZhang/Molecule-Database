@@ -1,0 +1,83 @@
+Geranyl-PP
+39
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 4
+0 5
+0 5
+1 3
+1 6
+1 7
+1 8
+1 8
+2 16
+4 36
+6 37
+7 38
+9 10
+9 11
+9 19
+9 20
+10 12
+10 21
+10 22
+11 13
+11 13
+11 14
+12 15
+12 15
+12 23
+13 16
+13 24
+14 25
+14 26
+14 27
+15 17
+15 18
+16 28
+16 29
+17 30
+17 31
+17 32
+18 33
+18 34
+18 35

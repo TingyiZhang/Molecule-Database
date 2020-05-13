@@ -1,0 +1,75 @@
+Tetrabromobisphenol A
+33
+"Bromine"
+"Bromine"
+"Bromine"
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+1 16
+2 17
+3 18
+4 19
+4 31
+5 20
+5 32
+6 7
+6 8
+6 9
+6 10
+7 11
+7 11
+7 13
+8 12
+8 12
+8 14
+9 21
+9 22
+9 23
+10 24
+10 25
+10 26
+11 17
+11 27
+12 18
+12 28
+13 15
+13 15
+13 29
+14 16
+14 16
+14 30
+15 19
+16 20
+17 19
+17 19
+18 20
+18 20

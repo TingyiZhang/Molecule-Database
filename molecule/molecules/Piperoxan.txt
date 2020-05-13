@@ -1,0 +1,79 @@
+Piperoxan
+36
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 11
+1 10
+1 12
+2 3
+2 4
+2 7
+3 5
+3 17
+3 18
+4 6
+4 19
+4 20
+5 8
+5 23
+5 24
+6 8
+6 25
+6 26
+7 9
+7 21
+7 22
+8 27
+8 28
+9 10
+9 29
+10 30
+10 31
+11 12
+11 13
+11 13
+12 14
+12 14
+13 15
+13 32
+14 16
+14 33
+15 16
+15 16
+15 34
+16 35

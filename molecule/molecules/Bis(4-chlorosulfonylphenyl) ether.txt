@@ -1,0 +1,71 @@
+Bis(4-chlorosulfonylphenyl) ether
+29
+"Chlorine"
+"Chlorine"
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+1 3
+2 5
+2 5
+2 6
+2 6
+2 11
+3 7
+3 7
+3 8
+3 8
+3 12
+4 9
+4 10
+9 13
+9 13
+9 15
+10 14
+10 14
+10 16
+11 17
+11 17
+11 19
+12 18
+12 18
+12 20
+13 17
+13 21
+14 18
+14 22
+15 19
+15 19
+15 23
+16 20
+16 20
+16 24
+17 25
+18 26
+19 27
+20 28

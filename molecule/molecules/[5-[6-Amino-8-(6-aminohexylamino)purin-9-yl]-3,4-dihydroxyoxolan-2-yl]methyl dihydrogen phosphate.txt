@@ -1,0 +1,127 @@
+[5-[6-Amino-8-(6-aminohexylamino)purin-9-yl]-3,4-dihydroxyoxolan-2-yl]methyl dihydrogen phosphate
+59
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 5
+0 6
+0 7
+0 7
+1 15
+1 18
+2 16
+2 37
+3 17
+3 38
+4 19
+5 55
+6 56
+8 15
+8 20
+8 21
+9 20
+9 23
+9 39
+10 20
+10 20
+10 22
+11 21
+11 21
+11 28
+12 26
+12 28
+12 28
+13 26
+13 51
+13 52
+14 30
+14 57
+14 58
+15 16
+15 31
+16 17
+16 32
+17 18
+17 33
+18 19
+18 34
+19 35
+19 36
+21 22
+22 26
+22 26
+23 24
+23 40
+23 41
+24 25
+24 42
+24 43
+25 27
+25 44
+25 45
+27 29
+27 46
+27 47
+28 48
+29 30
+29 49
+29 50
+30 53
+30 54

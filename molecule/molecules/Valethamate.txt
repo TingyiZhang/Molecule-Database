@@ -1,0 +1,114 @@
+Valethamate
+54
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 13
+1 13
+1 13
+2 3
+2 4
+2 5
+2 6
+3 7
+3 22
+3 23
+4 10
+4 24
+4 25
+5 11
+5 26
+5 27
+6 28
+6 29
+6 30
+7 31
+7 32
+8 9
+8 12
+8 15
+8 33
+9 13
+9 14
+9 34
+10 35
+10 36
+10 37
+11 38
+11 39
+11 40
+12 16
+12 41
+12 42
+14 17
+14 17
+14 18
+15 43
+15 44
+15 45
+16 46
+16 47
+16 48
+17 19
+17 49
+18 20
+18 20
+18 50
+19 21
+19 21
+19 51
+20 21
+20 52
+21 53

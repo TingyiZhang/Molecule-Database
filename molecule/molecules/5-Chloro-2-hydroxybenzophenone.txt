@@ -1,0 +1,60 @@
+5-Chloro-2-hydroxybenzophenone
+25
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+1 6
+1 24
+2 5
+2 5
+3 5
+3 6
+3 6
+3 7
+4 5
+4 8
+4 8
+4 9
+6 10
+7 11
+7 11
+7 16
+8 13
+8 17
+9 14
+9 14
+9 18
+10 12
+10 12
+10 19
+11 12
+12 20
+13 15
+13 15
+13 21
+14 15
+14 22
+15 23

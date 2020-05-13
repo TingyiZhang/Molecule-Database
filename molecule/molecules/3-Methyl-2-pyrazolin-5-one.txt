@@ -1,0 +1,30 @@
+3-Methyl-2-pyrazolin-5-one
+13
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 5
+1 2
+1 5
+1 12
+2 4
+2 4
+3 4
+3 5
+3 7
+3 8
+4 6
+6 9
+6 10
+6 11

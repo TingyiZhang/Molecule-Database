@@ -1,0 +1,74 @@
+Oxazepam
+31
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 9
+1 30
+2 12
+2 12
+3 7
+3 12
+3 21
+4 6
+4 6
+4 9
+5 6
+5 7
+5 7
+5 10
+6 8
+7 11
+8 15
+8 15
+8 16
+9 12
+9 20
+10 13
+10 13
+10 22
+11 14
+11 14
+11 23
+13 14
+14 24
+15 17
+15 25
+16 18
+16 18
+16 26
+17 19
+17 19
+17 27
+18 19
+18 28
+19 29

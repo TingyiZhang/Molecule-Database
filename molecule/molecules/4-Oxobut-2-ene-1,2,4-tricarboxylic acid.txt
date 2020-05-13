@@ -1,0 +1,46 @@
+4-Oxobut-2-ene-1,2,4-tricarboxylic acid
+20
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 17
+1 11
+1 18
+2 10
+2 10
+3 11
+3 11
+4 12
+4 12
+5 13
+5 19
+6 13
+6 13
+7 8
+7 10
+7 14
+7 15
+8 9
+8 9
+8 11
+9 12
+9 16
+12 13

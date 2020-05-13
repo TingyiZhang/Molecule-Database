@@ -1,0 +1,85 @@
+Dihydroxymaleic anhydride dibenzoate
+35
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 13
+1 8
+1 14
+2 11
+2 12
+3 11
+3 11
+4 12
+4 12
+5 13
+5 13
+6 14
+6 14
+7 8
+7 8
+7 11
+8 12
+9 13
+9 15
+9 15
+9 17
+10 14
+10 16
+10 16
+10 18
+15 19
+15 25
+16 20
+16 26
+17 21
+17 21
+17 27
+18 22
+18 22
+18 28
+19 23
+19 23
+19 29
+20 24
+20 24
+20 30
+21 23
+21 31
+22 24
+22 32
+23 33
+24 34

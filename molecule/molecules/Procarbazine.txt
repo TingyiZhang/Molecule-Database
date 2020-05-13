@@ -1,0 +1,76 @@
+Procarbazine
+35
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 4
+1 7
+1 17
+2 3
+2 8
+2 30
+3 15
+3 31
+4 9
+4 10
+4 16
+5 8
+5 11
+5 11
+5 12
+6 7
+6 13
+6 13
+6 14
+8 18
+8 19
+9 20
+9 21
+9 22
+10 23
+10 24
+10 25
+11 13
+11 26
+12 14
+12 14
+12 27
+13 28
+14 29
+15 32
+15 33
+15 34

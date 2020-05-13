@@ -1,0 +1,28 @@
+Cyacetacide
+12
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 5
+1 2
+1 5
+1 9
+2 10
+2 11
+3 6
+3 6
+3 6
+4 5
+4 6
+4 7
+4 8

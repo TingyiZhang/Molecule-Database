@@ -1,0 +1,31 @@
+2,4,6-Trichlorophenol
+13
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+1 6
+2 9
+3 4
+3 12
+4 5
+4 5
+4 6
+5 7
+6 8
+6 8
+7 9
+7 9
+7 10
+8 9
+8 11

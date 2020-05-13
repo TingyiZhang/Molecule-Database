@@ -1,0 +1,126 @@
+2-[[2-[[2-Amino-4-(methylthio)-1-oxobutyl]amino]-4-methyl-1-oxopentyl]amino]-3-phenylpropanoic acid
+59
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 27
+1 11
+1 11
+2 16
+2 16
+3 21
+3 54
+4 21
+4 21
+5 8
+5 16
+5 32
+6 11
+6 14
+6 41
+7 15
+7 48
+7 49
+8 9
+8 11
+8 28
+9 10
+9 29
+9 30
+10 12
+10 13
+10 31
+12 33
+12 34
+12 35
+13 36
+13 37
+13 38
+14 17
+14 21
+14 39
+15 16
+15 18
+15 40
+17 19
+17 42
+17 43
+18 20
+18 44
+18 45
+19 22
+19 22
+19 23
+20 46
+20 47
+22 24
+22 50
+23 25
+23 25
+23 51
+24 26
+24 26
+24 52
+25 26
+25 53
+26 55
+27 56
+27 57
+27 58

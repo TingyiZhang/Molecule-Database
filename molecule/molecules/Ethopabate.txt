@@ -1,0 +1,71 @@
+Ethopabate
+32
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 11
+1 12
+1 16
+2 12
+2 12
+3 14
+3 14
+4 7
+4 14
+4 22
+5 6
+5 6
+5 8
+6 9
+6 12
+7 8
+7 8
+7 10
+8 17
+9 10
+9 10
+9 18
+10 19
+11 13
+11 20
+11 21
+13 23
+13 24
+13 25
+14 15
+15 26
+15 27
+15 28
+16 29
+16 30
+16 31

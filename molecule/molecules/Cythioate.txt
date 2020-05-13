@@ -1,0 +1,66 @@
+Cythioate
+29
+"Sulfur"
+"Sulfur"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+0 7
+0 7
+0 8
+0 9
+1 2
+1 2
+2 3
+2 4
+2 5
+3 10
+4 15
+5 16
+8 21
+8 22
+9 11
+9 11
+9 12
+10 13
+10 13
+10 14
+11 13
+11 17
+12 14
+12 14
+12 18
+13 19
+14 20
+15 23
+15 24
+15 25
+16 26
+16 27
+16 28

@@ -1,0 +1,113 @@
+1,1-Diethyl-3-(7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinolin-9-yl)urea
+51
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 20
+1 5
+1 9
+1 15
+2 8
+2 20
+2 36
+3 14
+3 16
+3 38
+4 20
+4 21
+4 22
+5 6
+5 7
+5 25
+6 11
+6 13
+6 13
+7 10
+7 26
+7 27
+8 9
+8 13
+8 28
+9 29
+9 30
+10 12
+10 16
+10 16
+11 12
+11 12
+11 17
+12 14
+13 31
+14 18
+14 18
+15 32
+15 33
+15 34
+16 35
+17 19
+17 19
+17 37
+18 19
+18 39
+19 40
+21 23
+21 41
+21 42
+22 24
+22 43
+22 44
+23 45
+23 46
+23 47
+24 48
+24 49
+24 50

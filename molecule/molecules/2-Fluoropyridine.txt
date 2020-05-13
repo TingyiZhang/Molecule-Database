@@ -1,0 +1,27 @@
+2-Fluoropyridine
+11
+"Fluorine"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+1 5
+1 6
+1 6
+2 3
+2 4
+2 4
+2 7
+3 5
+3 5
+3 8
+4 6
+4 9
+6 10

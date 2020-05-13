@@ -1,0 +1,100 @@
+Protokylol
+45
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 39
+1 15
+1 20
+2 16
+2 20
+3 21
+3 43
+4 23
+4 44
+5 6
+5 8
+5 27
+6 7
+6 11
+6 24
+7 9
+7 25
+7 26
+8 10
+8 28
+8 29
+9 13
+9 13
+9 14
+10 12
+10 30
+11 31
+11 32
+11 33
+12 18
+12 18
+12 19
+13 15
+13 34
+14 17
+14 17
+14 35
+15 16
+15 16
+16 17
+17 36
+18 21
+18 37
+19 22
+19 22
+19 38
+20 40
+20 41
+21 23
+21 23
+22 23
+22 42

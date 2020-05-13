@@ -1,0 +1,73 @@
+Edetate sodium
+36
+"Sodium"
+"Sodium"
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+4 20
+5 21
+6 22
+7 23
+8 20
+8 20
+9 21
+9 21
+10 22
+10 22
+11 23
+11 23
+12 14
+12 16
+12 17
+13 15
+13 18
+13 19
+14 15
+14 24
+14 25
+15 26
+15 27
+16 20
+16 28
+16 29
+17 21
+17 30
+17 31
+18 22
+18 32
+18 33
+19 23
+19 34
+19 35

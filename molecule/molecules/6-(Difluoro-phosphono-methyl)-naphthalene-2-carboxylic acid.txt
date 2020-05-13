@@ -1,0 +1,68 @@
+6-(Difluoro-phosphono-methyl)-naphthalene-2-carboxylic acid
+29
+"Phosphorus"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+0 5
+0 5
+0 9
+1 9
+2 9
+3 26
+4 27
+6 19
+6 28
+7 19
+7 19
+8 9
+8 12
+8 12
+8 13
+10 11
+10 11
+10 12
+10 16
+11 14
+11 15
+12 20
+13 14
+13 14
+13 21
+14 22
+15 17
+15 17
+15 23
+16 18
+16 18
+16 24
+17 18
+17 19
+18 25

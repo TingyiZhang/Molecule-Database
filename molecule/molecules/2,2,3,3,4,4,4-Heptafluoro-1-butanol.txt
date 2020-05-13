@@ -1,0 +1,31 @@
+2,2,3,3,4,4,4-Heptafluoro-1-butanol
+15
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 8
+2 9
+3 9
+4 10
+5 10
+6 10
+7 11
+7 14
+8 9
+8 10
+9 11
+11 12
+11 13

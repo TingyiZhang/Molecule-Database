@@ -1,0 +1,39 @@
+Terephthaloyl chloride
+16
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 11
+2 10
+2 10
+3 11
+3 11
+4 6
+4 6
+4 8
+4 10
+5 7
+5 7
+5 9
+5 11
+6 7
+6 12
+7 13
+8 9
+8 9
+8 14
+9 15

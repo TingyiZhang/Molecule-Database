@@ -1,0 +1,20 @@
+n-Bromoacetamide
+9
+"Bromine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+1 4
+1 4
+2 4
+2 8
+3 4
+3 5
+3 6
+3 7

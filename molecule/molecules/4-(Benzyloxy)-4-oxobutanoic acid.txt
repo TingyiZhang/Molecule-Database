@@ -1,0 +1,61 @@
+4-(Benzyloxy)-4-oxobutanoic acid
+27
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 8
+1 8
+1 8
+2 14
+2 26
+3 14
+3 14
+4 7
+4 8
+4 15
+4 16
+5 6
+5 9
+5 9
+5 10
+6 17
+6 18
+7 14
+7 19
+7 20
+9 11
+9 21
+10 12
+10 12
+10 22
+11 13
+11 13
+11 23
+12 13
+12 24
+13 25

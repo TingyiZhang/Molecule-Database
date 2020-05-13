@@ -1,0 +1,56 @@
+alpha-D-Glucopyranoside, methyl
+27
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 10
+1 6
+1 20
+2 7
+2 21
+3 9
+3 22
+4 10
+4 12
+5 11
+5 23
+6 7
+6 8
+6 13
+7 9
+7 14
+8 11
+8 15
+9 10
+9 16
+10 17
+11 18
+11 19
+12 24
+12 25
+12 26

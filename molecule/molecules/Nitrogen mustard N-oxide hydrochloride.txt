@@ -1,0 +1,44 @@
+Nitrogen mustard N-oxide hydrochloride
+22
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 9
+2 21
+3 4
+4 5
+4 6
+4 7
+5 8
+5 10
+5 11
+6 9
+6 12
+6 13
+7 14
+7 15
+7 16
+8 17
+8 18
+9 19
+9 20

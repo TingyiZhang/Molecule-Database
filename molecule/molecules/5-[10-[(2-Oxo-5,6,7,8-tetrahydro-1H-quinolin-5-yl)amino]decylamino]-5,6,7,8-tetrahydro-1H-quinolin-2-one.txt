@@ -1,0 +1,163 @@
+5-[10-[(2-Oxo-5,6,7,8-tetrahydro-1H-quinolin-5-yl)amino]decylamino]-5,6,7,8-tetrahydro-1H-quinolin-2-one
+76
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 32
+0 32
+1 33
+1 33
+2 6
+2 18
+2 48
+3 7
+3 19
+3 49
+4 16
+4 32
+4 72
+5 17
+5 33
+5 73
+6 8
+6 12
+6 34
+7 9
+7 13
+7 35
+8 10
+8 36
+8 37
+9 11
+9 38
+9 39
+10 14
+10 40
+10 41
+11 15
+11 42
+11 43
+12 16
+12 16
+12 28
+13 17
+13 17
+13 29
+14 16
+14 44
+14 45
+15 17
+15 46
+15 47
+18 20
+18 50
+18 51
+19 21
+19 52
+19 53
+20 22
+20 54
+20 55
+21 23
+21 56
+21 57
+22 24
+22 58
+22 59
+23 25
+23 60
+23 61
+24 26
+24 62
+24 63
+25 27
+25 64
+25 65
+26 27
+26 66
+26 67
+27 68
+27 69
+28 30
+28 30
+28 70
+29 31
+29 31
+29 71
+30 32
+30 74
+31 33
+31 75

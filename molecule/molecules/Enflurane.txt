@@ -1,0 +1,25 @@
+Enflurane
+12
+"Chlorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 7
+2 7
+3 8
+4 9
+5 9
+6 7
+6 9
+7 8
+8 10
+9 11

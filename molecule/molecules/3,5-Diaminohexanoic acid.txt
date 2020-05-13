@@ -1,0 +1,50 @@
+3,5-Diaminohexanoic acid
+24
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 23
+1 9
+1 9
+2 5
+2 19
+2 20
+3 6
+3 21
+3 22
+4 5
+4 6
+4 10
+4 11
+5 7
+5 12
+6 8
+6 13
+7 9
+7 14
+7 15
+8 16
+8 17
+8 18

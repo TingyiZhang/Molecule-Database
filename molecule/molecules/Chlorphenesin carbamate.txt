@@ -1,0 +1,62 @@
+Chlorphenesin carbamate
+28
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+1 7
+1 9
+2 6
+2 21
+3 8
+3 15
+4 15
+4 15
+5 15
+5 26
+5 27
+6 7
+6 8
+6 16
+7 17
+7 18
+8 19
+8 20
+9 10
+9 10
+9 11
+10 12
+10 22
+11 13
+11 13
+11 23
+12 14
+12 14
+12 24
+13 14
+13 25

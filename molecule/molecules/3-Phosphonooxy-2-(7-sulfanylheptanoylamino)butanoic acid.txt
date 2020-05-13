@@ -1,0 +1,90 @@
+3-Phosphonooxy-2-(7-sulfanylheptanoylamino)butanoic acid
+43
+"Sulfur"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 40
+1 2
+1 6
+1 7
+1 8
+1 8
+2 15
+3 17
+3 17
+4 19
+4 39
+5 19
+5 19
+6 41
+7 42
+9 12
+9 17
+9 31
+10 11
+10 13
+10 21
+10 22
+11 14
+11 23
+11 24
+12 15
+12 19
+12 25
+13 16
+13 26
+13 27
+14 17
+14 29
+14 30
+15 18
+15 28
+16 20
+16 32
+16 33
+18 34
+18 35
+18 36
+20 37
+20 38

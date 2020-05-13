@@ -1,0 +1,94 @@
+Ethyl 2,4-dimethyl-5-[(2-oxo-1H-indol-3-ylidene)methyl]-1H-pyrrole-3-carboxylate
+41
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 21
+1 13
+1 13
+2 17
+2 17
+3 5
+3 8
+3 23
+4 12
+4 13
+4 28
+5 6
+5 6
+5 10
+6 7
+6 14
+7 8
+7 8
+7 17
+8 15
+9 10
+9 10
+9 11
+9 13
+10 24
+11 12
+11 16
+11 16
+12 18
+12 18
+14 25
+14 26
+14 27
+15 29
+15 30
+15 31
+16 19
+16 32
+18 20
+18 33
+19 20
+19 20
+19 34
+20 35
+21 22
+21 36
+21 37
+22 38
+22 39
+22 40

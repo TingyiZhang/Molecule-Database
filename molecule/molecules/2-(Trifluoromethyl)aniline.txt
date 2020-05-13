@@ -1,0 +1,39 @@
+2-(Trifluoromethyl)aniline
+17
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 7
+2 7
+3 5
+3 15
+3 16
+4 5
+4 6
+4 6
+4 7
+5 8
+5 8
+6 9
+6 11
+8 10
+8 12
+9 10
+9 10
+9 13
+10 14

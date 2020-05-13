@@ -1,0 +1,151 @@
+Dinonyl phthalate
+72
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+0 24
+1 19
+1 25
+2 24
+2 24
+3 25
+3 25
+4 6
+4 8
+4 30
+4 31
+5 7
+5 9
+5 32
+5 33
+6 10
+6 34
+6 35
+7 11
+7 36
+7 37
+8 12
+8 38
+8 39
+9 13
+9 40
+9 41
+10 14
+10 42
+10 43
+11 15
+11 44
+11 45
+12 16
+12 46
+12 47
+13 17
+13 48
+13 49
+14 18
+14 50
+14 51
+15 19
+15 52
+15 53
+16 20
+16 54
+16 55
+17 21
+17 56
+17 57
+18 58
+18 59
+19 60
+19 61
+20 62
+20 63
+20 64
+21 65
+21 66
+21 67
+22 23
+22 24
+22 26
+22 26
+23 25
+23 27
+23 27
+26 28
+26 68
+27 29
+27 69
+28 29
+28 29
+28 70
+29 71

@@ -1,0 +1,221 @@
+Prop-1-en-2-yloxymethyl 2-[N-[2-(acetyloxymethoxy)-2-oxoethyl]-2-[2-[2-[bis[2-(acetyloxymethoxy)-2-oxoethyl]amino]-5-methylphenoxy]ethoxy]-4-methylanilino]acetate
+102
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 21
+0 29
+1 22
+1 30
+2 39
+2 43
+3 40
+3 44
+4 41
+4 45
+5 42
+5 46
+6 39
+6 39
+7 40
+7 40
+8 41
+8 41
+9 42
+9 42
+10 43
+10 47
+11 44
+11 48
+12 45
+12 49
+13 46
+13 50
+14 48
+14 48
+15 49
+15 49
+16 50
+16 50
+17 19
+17 23
+17 24
+18 20
+18 25
+18 26
+19 21
+19 21
+19 27
+20 22
+20 22
+20 28
+21 31
+22 32
+23 39
+23 56
+23 57
+24 40
+24 58
+24 59
+25 41
+25 60
+25 61
+26 42
+26 62
+26 63
+27 35
+27 35
+27 64
+28 36
+28 36
+28 65
+29 30
+29 66
+29 67
+30 68
+30 69
+31 33
+31 33
+31 70
+32 34
+32 34
+32 71
+33 35
+33 37
+34 36
+34 38
+35 72
+36 73
+37 74
+37 75
+37 76
+38 77
+38 78
+38 79
+43 80
+43 81
+44 82
+44 83
+45 84
+45 85
+46 86
+46 87
+47 51
+47 55
+47 55
+48 52
+49 53
+50 54
+51 88
+51 89
+51 90
+52 91
+52 92
+52 93
+53 94
+53 95
+53 96
+54 97
+54 98
+54 99
+55 100
+55 101

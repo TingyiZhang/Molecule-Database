@@ -1,0 +1,48 @@
+Benzyl chloroacetate
+21
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+1 4
+1 10
+2 10
+2 10
+3 4
+3 5
+3 5
+3 6
+4 12
+4 13
+5 7
+5 14
+6 8
+6 8
+6 15
+7 9
+7 9
+7 16
+8 9
+8 17
+9 18
+10 11
+11 19
+11 20

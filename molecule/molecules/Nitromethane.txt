@@ -1,0 +1,16 @@
+Nitromethane
+7
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+1 2
+1 2
+2 3
+3 4
+3 5
+3 6

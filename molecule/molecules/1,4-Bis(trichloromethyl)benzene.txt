@@ -1,0 +1,41 @@
+1,4-Bis(trichloromethyl)benzene
+18
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 12
+2 12
+3 13
+4 13
+5 13
+6 8
+6 8
+6 10
+6 12
+7 9
+7 9
+7 11
+7 13
+8 9
+8 14
+9 15
+10 11
+10 11
+10 16
+11 17

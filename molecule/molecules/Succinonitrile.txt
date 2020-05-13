@@ -1,0 +1,25 @@
+Succinonitrile
+10
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 4
+0 4
+1 5
+1 5
+1 5
+2 3
+2 4
+2 6
+2 7
+3 5
+3 8
+3 9

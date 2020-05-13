@@ -1,0 +1,97 @@
+2-[1-(4-Methylphenyl)-3-(1-pyrrolidinyl)prop-1-enyl]pyridine
+43
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 6
+1 10
+1 19
+1 19
+2 4
+2 21
+2 22
+3 5
+3 23
+3 24
+4 5
+4 25
+4 26
+5 27
+5 28
+6 7
+6 29
+6 30
+7 8
+7 8
+7 31
+8 9
+8 10
+9 11
+9 11
+9 12
+10 13
+10 13
+11 15
+11 32
+12 16
+12 16
+12 33
+13 17
+13 34
+14 15
+14 15
+14 16
+14 18
+15 35
+16 36
+17 20
+17 20
+17 37
+18 38
+18 39
+18 40
+19 20
+19 41
+20 42

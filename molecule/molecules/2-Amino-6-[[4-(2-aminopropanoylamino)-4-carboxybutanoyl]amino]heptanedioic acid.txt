@@ -1,0 +1,112 @@
+2-Amino-6-[[4-(2-aminopropanoylamino)-4-carboxybutanoyl]amino]heptanedioic acid
+53
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 20
+1 21
+1 48
+2 21
+2 21
+3 22
+3 52
+4 23
+4 51
+5 22
+5 22
+6 23
+6 23
+7 24
+7 24
+8 14
+8 20
+8 40
+9 19
+9 24
+9 41
+10 17
+10 42
+10 43
+11 25
+11 49
+11 50
+12 13
+12 14
+12 27
+12 28
+13 15
+13 29
+13 30
+14 21
+14 31
+15 17
+15 32
+15 33
+16 18
+16 19
+16 34
+16 35
+17 22
+17 36
+18 20
+18 37
+18 38
+19 23
+19 39
+24 25
+25 26
+25 44
+26 45
+26 46
+26 47

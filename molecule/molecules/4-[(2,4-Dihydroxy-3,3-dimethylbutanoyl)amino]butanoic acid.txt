@@ -1,0 +1,73 @@
+4-[(2,4-Dihydroxy-3,3-dimethylbutanoyl)amino]butanoic acid
+35
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 28
+1 8
+1 31
+2 11
+2 11
+3 15
+3 34
+4 15
+4 15
+5 11
+5 12
+5 25
+6 7
+6 8
+6 9
+6 10
+7 11
+7 16
+8 17
+8 18
+9 19
+9 20
+9 21
+10 22
+10 23
+10 24
+12 13
+12 26
+12 27
+13 14
+13 29
+13 30
+14 15
+14 32
+14 33

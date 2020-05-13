@@ -1,0 +1,52 @@
+5-Oxo-5-(phosphonooxy)norvaline
+24
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 5
+0 6
+0 7
+0 7
+1 12
+2 13
+2 21
+3 12
+3 12
+4 13
+4 13
+5 22
+6 23
+8 10
+8 19
+8 20
+9 10
+9 11
+9 14
+9 15
+10 13
+10 16
+11 12
+11 17
+11 18

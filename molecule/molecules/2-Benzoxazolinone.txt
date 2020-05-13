@@ -1,0 +1,37 @@
+2-Benzoxazolinone
+15
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 7
+1 7
+1 7
+2 3
+2 7
+2 10
+3 4
+3 5
+3 5
+4 6
+4 6
+5 8
+5 11
+6 9
+6 12
+8 9
+8 9
+8 13
+9 14

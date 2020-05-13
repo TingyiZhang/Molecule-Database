@@ -1,0 +1,117 @@
+3,4,5-Trihydroxy-N-(6-hydroxy-2-oxoazepan-3-yl)-2-methoxy-8-methylnon-6-enamide
+56
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 40
+1 14
+1 23
+2 13
+2 42
+3 16
+3 43
+4 17
+4 17
+5 19
+5 46
+6 18
+6 18
+7 9
+7 18
+7 37
+8 15
+8 17
+8 38
+9 10
+9 17
+9 26
+10 11
+10 27
+10 28
+11 12
+11 29
+11 30
+12 15
+12 31
+13 14
+13 16
+13 32
+14 18
+14 33
+15 34
+15 35
+16 19
+16 36
+19 20
+19 39
+20 21
+20 21
+20 41
+21 22
+21 44
+22 24
+22 25
+22 45
+23 47
+23 48
+23 49
+24 50
+24 51
+24 52
+25 53
+25 54
+25 55

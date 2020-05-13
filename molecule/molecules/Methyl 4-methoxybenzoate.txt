@@ -1,0 +1,50 @@
+Methyl 4-methoxybenzoate
+22
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 10
+1 9
+1 11
+2 9
+2 9
+3 5
+3 5
+3 6
+3 9
+4 7
+4 7
+4 8
+5 7
+5 12
+6 8
+6 8
+6 13
+7 14
+8 15
+10 16
+10 17
+10 18
+11 19
+11 20
+11 21

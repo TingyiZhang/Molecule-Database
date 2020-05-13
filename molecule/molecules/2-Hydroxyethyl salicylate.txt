@@ -1,0 +1,52 @@
+2-Hydroxyethyl salicylate
+23
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 8
+1 6
+1 21
+2 9
+2 22
+3 8
+3 8
+4 6
+4 7
+4 7
+4 8
+5 9
+5 13
+5 14
+6 10
+6 10
+7 11
+7 15
+9 16
+9 17
+10 12
+10 18
+11 12
+11 12
+11 19
+12 20

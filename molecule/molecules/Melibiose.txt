@@ -1,0 +1,93 @@
+Melibiose
+45
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 18
+1 11
+1 21
+2 15
+2 20
+3 12
+3 37
+4 13
+4 38
+5 14
+5 39
+6 16
+6 40
+7 17
+7 41
+8 19
+8 42
+9 21
+9 43
+10 22
+10 44
+11 12
+11 20
+11 23
+12 17
+12 24
+13 14
+13 15
+13 25
+14 16
+14 26
+15 27
+16 18
+16 28
+17 19
+17 29
+18 22
+18 30
+19 21
+19 31
+20 32
+20 33
+21 34
+22 35
+22 36

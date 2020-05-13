@@ -1,0 +1,116 @@
+7-[3-(Undeca-2,5-dien-1-yl)oxiran-2-yl]hept-5-enoic acid
+55
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+1 22
+1 54
+2 22
+2 22
+3 4
+3 5
+3 23
+4 6
+4 24
+5 7
+5 25
+5 26
+6 8
+6 27
+6 28
+7 9
+7 9
+7 29
+8 10
+8 10
+8 30
+9 11
+9 31
+10 12
+10 32
+11 13
+11 33
+11 34
+12 15
+12 35
+12 36
+13 18
+13 37
+13 38
+14 16
+14 17
+14 39
+14 40
+15 19
+15 19
+15 41
+16 19
+16 42
+16 43
+17 20
+17 44
+17 45
+18 22
+18 46
+18 47
+19 48
+20 21
+20 49
+20 50
+21 51
+21 52
+21 53

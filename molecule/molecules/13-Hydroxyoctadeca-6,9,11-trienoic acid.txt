@@ -1,0 +1,107 @@
+13-Hydroxyoctadeca-6,9,11-trienoic acid
+51
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 43
+1 20
+1 50
+2 20
+2 20
+3 4
+3 5
+3 21
+3 22
+4 6
+4 23
+4 24
+5 7
+5 25
+5 26
+6 11
+6 27
+7 10
+7 28
+7 29
+8 9
+8 12
+8 30
+8 31
+9 13
+9 32
+9 33
+10 34
+10 35
+10 36
+11 15
+11 15
+11 37
+12 14
+12 38
+12 39
+13 20
+13 40
+13 41
+14 17
+14 17
+14 42
+15 18
+15 44
+16 17
+16 19
+16 46
+16 47
+17 45
+18 19
+18 19
+18 48
+19 49

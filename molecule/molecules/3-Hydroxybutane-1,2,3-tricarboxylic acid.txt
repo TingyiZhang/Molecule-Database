@@ -1,0 +1,52 @@
+3-Hydroxybutane-1,2,3-tricarboxylic acid
+24
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 20
+1 11
+1 21
+2 12
+2 22
+3 11
+3 11
+4 12
+4 12
+5 13
+5 23
+6 13
+6 13
+7 8
+7 9
+7 11
+7 14
+8 10
+8 12
+9 13
+9 15
+9 16
+10 17
+10 18
+10 19

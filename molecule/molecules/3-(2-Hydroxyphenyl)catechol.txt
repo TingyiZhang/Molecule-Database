@@ -1,0 +1,59 @@
+3-(2-Hydroxyphenyl)catechol
+25
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 22
+1 6
+1 23
+2 9
+2 24
+3 4
+3 5
+3 5
+3 7
+4 6
+4 8
+4 8
+5 9
+6 12
+6 12
+7 10
+7 10
+7 15
+8 13
+8 16
+9 11
+9 11
+10 11
+10 17
+11 18
+12 14
+12 19
+13 14
+13 14
+13 20
+14 21

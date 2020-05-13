@@ -1,0 +1,36 @@
+5-Fluoro-2-nitrophenol
+15
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 6
+1 14
+2 4
+3 4
+3 4
+4 5
+5 6
+5 6
+5 7
+6 8
+7 9
+7 9
+7 11
+8 10
+8 10
+8 12
+9 10
+9 13

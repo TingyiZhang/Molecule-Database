@@ -1,0 +1,85 @@
+Benfluralin
+39
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 22
+1 22
+2 22
+3 8
+4 9
+5 8
+5 8
+6 9
+6 9
+7 10
+7 12
+7 13
+8 15
+9 16
+10 11
+10 23
+10 24
+11 14
+11 25
+11 26
+12 15
+12 15
+12 16
+13 17
+13 27
+13 28
+14 21
+14 29
+14 30
+15 19
+16 20
+16 20
+17 31
+17 32
+17 33
+18 19
+18 19
+18 20
+18 22
+19 34
+20 35
+21 36
+21 37
+21 38

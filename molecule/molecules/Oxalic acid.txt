@@ -1,0 +1,19 @@
+Oxalic acid
+8
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 6
+1 5
+1 7
+2 4
+2 4
+3 5
+3 5
+4 5

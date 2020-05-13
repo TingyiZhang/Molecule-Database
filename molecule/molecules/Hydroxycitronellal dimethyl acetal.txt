@@ -1,0 +1,83 @@
+Hydroxycitronellal dimethyl acetal
+41
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 34
+1 10
+1 13
+2 10
+2 14
+3 4
+3 8
+3 9
+3 15
+4 5
+4 16
+4 17
+5 6
+5 18
+5 19
+6 7
+6 20
+6 21
+7 11
+7 12
+8 10
+8 22
+8 23
+9 24
+9 25
+9 26
+10 27
+11 28
+11 29
+11 30
+12 31
+12 32
+12 33
+13 35
+13 36
+13 37
+14 38
+14 39
+14 40

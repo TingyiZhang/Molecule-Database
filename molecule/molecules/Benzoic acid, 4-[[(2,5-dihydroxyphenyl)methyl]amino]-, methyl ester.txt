@@ -1,0 +1,80 @@
+Benzoic acid, 4-[[(2,5-dihydroxyphenyl)methyl]amino]-, methyl ester
+35
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 30
+1 13
+1 31
+2 18
+2 19
+3 18
+3 18
+4 5
+4 7
+4 22
+5 6
+5 20
+5 21
+6 8
+6 8
+6 9
+7 10
+7 10
+7 11
+8 14
+9 13
+9 13
+9 23
+10 15
+10 24
+11 16
+11 16
+11 25
+12 15
+12 15
+12 16
+12 18
+13 17
+14 17
+14 17
+14 26
+15 27
+16 28
+17 29
+19 32
+19 33
+19 34

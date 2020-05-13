@@ -1,0 +1,68 @@
+1,1-Bis(2-methylpropyl)guanidine
+33
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+0 11
+1 11
+1 30
+1 31
+2 11
+2 11
+2 32
+3 5
+3 12
+3 13
+4 6
+4 14
+4 15
+5 7
+5 8
+5 16
+6 9
+6 10
+6 17
+7 18
+7 19
+7 20
+8 21
+8 22
+8 23
+9 24
+9 25
+9 26
+10 27
+10 28
+10 29

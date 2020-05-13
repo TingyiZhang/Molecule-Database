@@ -1,0 +1,42 @@
+3,4-Dichloroisocoumarin
+17
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 12
+2 9
+2 12
+3 9
+3 9
+4 5
+4 6
+4 6
+4 7
+5 8
+5 8
+5 9
+6 10
+6 13
+7 12
+7 12
+8 11
+8 14
+10 11
+10 11
+10 15
+11 16

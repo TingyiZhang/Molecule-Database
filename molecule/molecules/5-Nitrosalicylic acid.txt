@@ -1,0 +1,43 @@
+5-Nitrosalicylic acid
+18
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 16
+1 12
+1 17
+2 12
+2 12
+3 5
+4 5
+4 5
+5 7
+6 8
+6 9
+6 9
+6 12
+7 8
+7 8
+7 10
+8 13
+9 11
+10 11
+10 11
+10 14
+11 15

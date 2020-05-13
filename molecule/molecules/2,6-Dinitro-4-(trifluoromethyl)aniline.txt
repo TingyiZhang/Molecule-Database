@@ -1,0 +1,49 @@
+2,6-Dinitro-4-(trifluoromethyl)aniline
+21
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+1 16
+2 16
+3 8
+4 9
+5 8
+5 8
+6 9
+6 9
+7 11
+7 19
+7 20
+8 12
+9 13
+10 14
+10 14
+10 15
+10 16
+11 12
+11 12
+11 13
+12 14
+13 15
+13 15
+14 17
+15 18

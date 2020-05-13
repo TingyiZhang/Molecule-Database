@@ -1,0 +1,72 @@
+Benserazide
+33
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 29
+1 14
+1 30
+2 15
+2 31
+3 12
+3 12
+4 17
+4 32
+5 6
+5 8
+5 21
+6 12
+6 23
+7 10
+7 27
+7 28
+8 9
+8 18
+8 19
+9 11
+9 11
+9 13
+10 12
+10 14
+10 20
+11 15
+13 16
+13 16
+13 22
+14 24
+14 25
+15 17
+15 17
+16 17
+16 26

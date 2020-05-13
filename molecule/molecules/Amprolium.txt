@@ -1,0 +1,87 @@
+Amprolium
+40
+"Chlorine"
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 39
+2 6
+2 8
+2 13
+2 13
+3 10
+3 10
+3 11
+4 11
+4 11
+4 14
+5 10
+5 37
+5 38
+6 7
+6 20
+6 21
+7 10
+7 14
+7 14
+8 15
+8 15
+8 16
+9 11
+9 12
+9 22
+9 23
+12 19
+12 24
+12 25
+13 17
+13 26
+14 27
+15 18
+15 28
+16 29
+16 30
+16 31
+17 18
+17 18
+17 32
+18 33
+19 34
+19 35
+19 36

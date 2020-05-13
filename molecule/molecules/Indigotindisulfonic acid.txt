@@ -1,0 +1,94 @@
+Indigotindisulfonic acid
+38
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 6
+0 6
+0 7
+0 7
+0 22
+1 5
+1 8
+1 8
+1 9
+1 9
+1 25
+2 16
+2 35
+3 19
+3 19
+4 36
+5 37
+10 12
+10 14
+10 28
+11 15
+11 15
+11 18
+12 15
+12 16
+12 16
+13 14
+13 14
+13 16
+13 20
+14 21
+15 19
+17 18
+17 18
+17 19
+17 23
+18 26
+20 22
+20 22
+20 29
+21 24
+21 24
+21 30
+22 24
+23 25
+23 25
+23 31
+24 32
+25 27
+26 27
+26 27
+26 33
+27 34

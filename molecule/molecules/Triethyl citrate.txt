@@ -1,0 +1,82 @@
+Triethyl citrate
+39
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 23
+1 10
+1 13
+2 11
+2 14
+3 12
+3 15
+4 10
+4 10
+5 11
+5 11
+6 12
+6 12
+7 8
+7 9
+7 10
+8 11
+8 19
+8 20
+9 12
+9 21
+9 22
+13 16
+13 24
+13 25
+14 17
+14 26
+14 27
+15 18
+15 28
+15 29
+16 30
+16 31
+16 32
+17 33
+17 34
+17 35
+18 36
+18 37
+18 38

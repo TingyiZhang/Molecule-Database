@@ -1,0 +1,114 @@
+Roxatidine acetate
+53
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 18
+1 22
+1 23
+2 21
+2 21
+3 23
+3 23
+4 6
+4 7
+4 11
+5 20
+5 21
+5 47
+6 8
+6 25
+6 26
+7 9
+7 27
+7 28
+8 10
+8 29
+8 30
+9 10
+9 31
+9 32
+10 33
+10 34
+11 12
+11 35
+11 36
+12 13
+12 13
+12 14
+13 15
+13 37
+14 16
+14 16
+14 38
+15 17
+15 17
+16 17
+16 39
+17 40
+18 19
+18 41
+18 42
+19 20
+19 43
+19 44
+20 45
+20 46
+21 22
+22 48
+22 49
+23 24
+24 50
+24 51
+24 52

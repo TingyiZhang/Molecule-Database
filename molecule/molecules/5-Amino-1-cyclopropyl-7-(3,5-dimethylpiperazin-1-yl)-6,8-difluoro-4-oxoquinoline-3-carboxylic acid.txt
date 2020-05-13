@@ -1,0 +1,111 @@
+5-Amino-1-cyclopropyl-7-(3,5-dimethylpiperazin-1-yl)-6,8-difluoro-4-oxoquinoline-3-carboxylic acid
+50
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+1 23
+2 24
+2 24
+3 27
+3 49
+4 27
+4 27
+5 9
+5 12
+5 18
+6 15
+6 16
+6 17
+7 13
+7 14
+7 40
+8 21
+8 47
+8 48
+9 10
+9 11
+9 28
+10 11
+10 29
+10 30
+11 31
+11 32
+12 19
+12 20
+12 20
+13 15
+13 25
+13 33
+14 16
+14 26
+14 34
+15 35
+15 36
+16 37
+16 38
+17 20
+17 23
+17 23
+18 22
+18 22
+18 39
+19 21
+19 21
+19 24
+21 23
+22 24
+22 27
+25 41
+25 42
+25 43
+26 44
+26 45
+26 46

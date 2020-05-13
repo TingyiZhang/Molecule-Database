@@ -1,0 +1,98 @@
+Felodipine
+44
+"Chlorine"
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+1 19
+2 13
+2 22
+3 16
+3 23
+4 13
+4 13
+5 16
+5 16
+6 11
+6 12
+6 26
+7 8
+7 9
+7 10
+7 25
+8 11
+8 11
+8 13
+9 12
+9 12
+9 16
+10 17
+10 17
+10 18
+11 14
+12 15
+14 27
+14 28
+14 29
+15 30
+15 31
+15 32
+17 19
+18 20
+18 20
+18 33
+19 21
+19 21
+20 21
+20 34
+21 35
+22 24
+22 36
+22 37
+23 38
+23 39
+23 40
+24 41
+24 42
+24 43

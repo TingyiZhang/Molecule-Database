@@ -1,0 +1,26 @@
+Cyclobutane
+12
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 4
+0 5
+1 3
+1 6
+1 7
+2 3
+2 8
+2 9
+3 10
+3 11

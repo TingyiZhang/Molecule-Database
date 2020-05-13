@@ -1,0 +1,42 @@
+3-Aminopropyl(methyl)phosphinic Acid
+20
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 2
+0 4
+0 7
+1 17
+3 6
+3 18
+3 19
+4 5
+4 8
+4 9
+5 6
+5 10
+5 11
+6 12
+6 13
+7 14
+7 15
+7 16

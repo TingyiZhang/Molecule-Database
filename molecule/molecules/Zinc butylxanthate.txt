@@ -1,0 +1,71 @@
+Zinc butylxanthate
+35
+"Zinc"
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+1 15
+2 16
+3 15
+3 15
+4 16
+4 16
+5 11
+5 15
+6 12
+6 16
+7 9
+7 11
+7 17
+7 18
+8 10
+8 12
+8 19
+8 20
+9 13
+9 21
+9 22
+10 14
+10 23
+10 24
+11 25
+11 26
+12 27
+12 28
+13 29
+13 30
+13 31
+14 32
+14 33
+14 34

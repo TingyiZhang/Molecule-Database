@@ -1,0 +1,65 @@
+2-Methoxy-4-[(1E)-1-propenyl]phenyl acetate
+29
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 12
+1 5
+1 11
+2 11
+2 11
+3 6
+3 6
+3 7
+3 9
+4 5
+4 5
+4 6
+5 8
+6 15
+7 8
+7 8
+7 16
+8 17
+9 10
+9 10
+9 18
+10 13
+10 19
+11 14
+12 20
+12 21
+12 22
+13 23
+13 24
+13 25
+14 26
+14 27
+14 28

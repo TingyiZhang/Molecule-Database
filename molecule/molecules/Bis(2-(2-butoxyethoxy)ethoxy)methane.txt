@@ -1,0 +1,119 @@
+Bis(2-(2-butoxyethoxy)ethoxy)methane
+59
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 12
+1 9
+1 13
+2 14
+2 18
+3 15
+3 19
+4 20
+4 22
+5 21
+5 22
+6 8
+6 10
+6 23
+6 24
+7 9
+7 11
+7 25
+7 26
+8 27
+8 28
+9 29
+9 30
+10 16
+10 31
+10 32
+11 17
+11 33
+11 34
+12 14
+12 35
+12 36
+13 15
+13 37
+13 38
+14 39
+14 40
+15 41
+15 42
+16 43
+16 44
+16 45
+17 46
+17 47
+17 48
+18 20
+18 49
+18 50
+19 21
+19 51
+19 52
+20 53
+20 54
+21 55
+21 56
+22 57
+22 58

@@ -1,0 +1,98 @@
+Percodan
+44
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 17
+1 6
+1 35
+2 16
+2 16
+3 20
+3 22
+4 7
+4 13
+4 18
+5 6
+5 8
+5 9
+5 10
+6 7
+6 11
+7 12
+7 23
+8 16
+8 24
+9 13
+9 25
+9 26
+10 14
+10 14
+10 17
+11 15
+11 27
+11 28
+12 14
+12 29
+12 30
+13 31
+13 32
+14 19
+15 16
+15 33
+15 34
+17 20
+17 20
+18 36
+18 37
+18 38
+19 21
+19 21
+19 39
+20 21
+21 40
+22 41
+22 42
+22 43

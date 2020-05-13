@@ -1,0 +1,11 @@
+Sodium fluoride
+2
+"Sodium"
+"Fluorine"
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1

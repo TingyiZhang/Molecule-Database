@@ -1,0 +1,55 @@
+3-(4-Hydroxy-3-methoxyphenyl)-2-propenoic acid
+24
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 12
+1 8
+1 22
+2 13
+2 23
+3 13
+3 13
+4 6
+4 6
+4 7
+4 10
+5 6
+5 8
+5 8
+6 14
+7 9
+7 9
+7 15
+8 9
+9 16
+10 11
+10 11
+10 17
+11 13
+11 18
+12 19
+12 20
+12 21

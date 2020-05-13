@@ -1,0 +1,99 @@
+Isopropyl (2S)-5-amino-2-{[(4-methylphenyl)sulfonyl]amino}-5-oxopentanoate
+45
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+0 3
+0 3
+0 6
+0 12
+1 11
+1 13
+4 11
+4 11
+5 14
+5 14
+6 8
+6 26
+7 14
+7 43
+7 44
+8 9
+8 11
+8 23
+9 10
+9 24
+9 25
+10 14
+10 27
+10 28
+12 15
+12 15
+12 16
+13 20
+13 21
+13 29
+15 18
+15 30
+16 19
+16 19
+16 31
+17 18
+17 18
+17 19
+17 22
+18 32
+19 33
+20 34
+20 35
+20 36
+21 37
+21 38
+21 39
+22 40
+22 41
+22 42

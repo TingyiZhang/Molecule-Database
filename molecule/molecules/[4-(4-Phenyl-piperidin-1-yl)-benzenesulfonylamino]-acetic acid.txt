@@ -1,0 +1,109 @@
+[4-(4-Phenyl-piperidin-1-yl)-benzenesulfonylamino]-acetic acid
+48
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 6
+0 18
+3 25
+3 47
+4 25
+4 25
+5 10
+5 11
+5 13
+6 24
+6 44
+7 8
+7 9
+7 12
+7 26
+8 10
+8 27
+8 28
+9 11
+9 29
+9 30
+10 31
+10 32
+11 33
+11 34
+12 14
+12 14
+12 15
+13 16
+13 16
+13 17
+14 21
+14 35
+15 22
+15 22
+15 36
+16 19
+16 37
+17 20
+17 20
+17 38
+18 19
+18 19
+18 20
+19 39
+20 40
+21 23
+21 23
+21 41
+22 23
+22 42
+23 43
+24 25
+24 45
+24 46

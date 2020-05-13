@@ -1,0 +1,29 @@
+1-Bromo-4-fluorobenzene
+12
+"Bromine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+1 7
+2 3
+2 3
+2 4
+3 5
+3 8
+4 6
+4 6
+4 9
+5 7
+5 7
+5 10
+6 7
+6 11

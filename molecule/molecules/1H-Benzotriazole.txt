@@ -1,0 +1,35 @@
+1H-Benzotriazole
+14
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 3
+1 2
+1 4
+1 4
+2 13
+3 4
+3 5
+4 6
+5 7
+5 7
+5 9
+6 8
+6 8
+6 10
+7 8
+7 11
+8 12

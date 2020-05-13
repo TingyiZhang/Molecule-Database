@@ -1,0 +1,63 @@
+4,4'-Thiodianiline
+27
+"Sulfur"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+1 9
+1 23
+1 24
+2 10
+2 25
+2 26
+3 5
+3 5
+3 7
+4 6
+4 6
+4 8
+5 11
+5 15
+6 12
+6 16
+7 13
+7 13
+7 17
+8 14
+8 14
+8 18
+9 11
+9 11
+9 13
+10 12
+10 12
+10 14
+11 19
+12 20
+13 21
+14 22

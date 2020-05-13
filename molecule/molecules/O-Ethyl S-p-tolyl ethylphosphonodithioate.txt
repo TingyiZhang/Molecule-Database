@@ -1,0 +1,70 @@
+O-Ethyl S-p-tolyl ethylphosphonodithioate
+32
+"Sulfur"
+"Sulfur"
+"Phosphorus"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 23
+1 2
+1 2
+2 4
+2 5
+3 6
+3 12
+4 6
+4 15
+4 16
+5 7
+5 7
+5 8
+6 17
+6 18
+7 10
+7 19
+8 11
+8 11
+8 20
+9 10
+9 10
+9 11
+9 13
+10 21
+11 22
+12 14
+12 24
+12 25
+13 26
+13 27
+13 28
+14 29
+14 30
+14 31

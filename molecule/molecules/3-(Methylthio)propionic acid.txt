@@ -1,0 +1,32 @@
+3-(Methylthio)propionic acid
+15
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 6
+1 5
+1 14
+2 5
+2 5
+3 4
+3 5
+3 7
+3 8
+4 9
+4 10
+6 11
+6 12
+6 13

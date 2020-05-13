@@ -1,0 +1,73 @@
+n-Propyl-l-arginine
+35
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 34
+1 10
+1 10
+2 9
+2 11
+2 22
+3 8
+3 23
+3 24
+4 11
+4 11
+4 12
+5 11
+5 32
+5 33
+6 7
+6 8
+6 15
+6 16
+7 9
+7 17
+7 18
+8 10
+8 19
+9 20
+9 21
+12 13
+12 25
+12 26
+13 14
+13 27
+13 28
+14 29
+14 30
+14 31

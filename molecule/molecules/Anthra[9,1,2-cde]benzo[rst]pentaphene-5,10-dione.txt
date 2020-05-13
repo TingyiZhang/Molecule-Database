@@ -1,0 +1,132 @@
+Anthra[9,1,2-cde]benzo[rst]pentaphene-5,10-dione
+52
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 24
+0 24
+1 25
+1 25
+2 4
+2 4
+2 6
+2 8
+3 5
+3 5
+3 7
+3 9
+4 5
+4 14
+5 15
+6 7
+6 16
+6 16
+7 17
+7 17
+8 10
+8 10
+8 12
+9 11
+9 11
+9 13
+10 18
+10 20
+11 19
+11 21
+12 22
+12 22
+12 24
+13 23
+13 23
+13 25
+14 20
+14 20
+14 36
+15 21
+15 21
+15 37
+16 22
+16 38
+17 23
+17 39
+18 26
+18 28
+18 28
+19 27
+19 29
+19 29
+20 40
+21 41
+22 42
+23 43
+24 26
+25 27
+26 30
+26 30
+27 31
+27 31
+28 32
+28 44
+29 33
+29 45
+30 34
+30 46
+31 35
+31 47
+32 34
+32 34
+32 48
+33 35
+33 35
+33 49
+34 50
+35 51

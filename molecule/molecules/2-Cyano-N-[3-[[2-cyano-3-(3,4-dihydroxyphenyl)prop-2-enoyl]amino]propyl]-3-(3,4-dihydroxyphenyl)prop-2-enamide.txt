@@ -1,0 +1,123 @@
+2-Cyano-N-[3-[[2-cyano-3-(3,4-dihydroxyphenyl)prop-2-enoyl]amino]propyl]-3-(3,4-dihydroxyphenyl)prop-2-enamide
+53
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 13
+1 14
+1 14
+2 25
+2 49
+3 26
+3 50
+4 29
+4 51
+5 30
+5 52
+6 11
+6 13
+6 39
+7 12
+7 14
+7 40
+8 31
+8 31
+8 31
+9 32
+9 32
+9 32
+10 11
+10 12
+10 33
+10 34
+11 35
+11 36
+12 37
+12 38
+13 15
+14 16
+15 19
+15 19
+15 31
+16 20
+16 20
+16 32
+17 19
+17 21
+17 21
+17 23
+18 20
+18 22
+18 22
+18 24
+19 41
+20 42
+21 25
+21 43
+22 26
+22 44
+23 27
+23 27
+23 45
+24 28
+24 28
+24 46
+25 29
+25 29
+26 30
+26 30
+27 29
+27 47
+28 30
+28 48

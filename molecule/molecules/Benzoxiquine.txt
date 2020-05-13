@@ -1,0 +1,73 @@
+Benzoxiquine
+30
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 12
+1 12
+1 12
+2 4
+2 13
+2 13
+3 4
+3 4
+3 6
+3 8
+4 5
+5 7
+5 7
+6 9
+6 9
+6 19
+7 9
+7 20
+8 11
+8 11
+8 21
+9 22
+10 12
+10 14
+10 14
+10 15
+11 13
+11 23
+13 24
+14 16
+14 25
+15 17
+15 17
+15 26
+16 18
+16 18
+16 27
+17 18
+17 28
+18 29

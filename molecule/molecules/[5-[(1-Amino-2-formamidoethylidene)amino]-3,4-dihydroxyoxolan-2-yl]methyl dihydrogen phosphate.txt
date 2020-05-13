@@ -1,0 +1,77 @@
+[5-[(1-Amino-2-formamidoethylidene)amino]-3,4-dihydroxyoxolan-2-yl]methyl dihydrogen phosphate
+36
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 5
+0 6
+0 7
+0 7
+1 13
+1 15
+2 12
+2 26
+3 14
+3 27
+4 16
+5 33
+6 34
+8 19
+8 19
+9 15
+9 17
+9 17
+10 17
+10 30
+10 31
+11 18
+11 19
+11 32
+12 13
+12 14
+12 20
+13 16
+13 21
+14 15
+14 22
+15 23
+16 24
+16 25
+17 18
+18 28
+18 29
+19 35

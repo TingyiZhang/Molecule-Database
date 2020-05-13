@@ -1,0 +1,153 @@
+1-[2-(Methylamino)-3-phenylpropanoyl]-N-[4,4,5,5,5-pentafluoro-1-(1H-indol-3-yl)-3-oxopentan-2-yl]pyrrolidine-2-carboxamide
+69
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 26
+1 26
+2 33
+3 33
+4 33
+5 16
+5 16
+6 17
+6 17
+7 23
+7 23
+8 12
+8 15
+8 17
+9 16
+9 19
+9 49
+10 18
+10 28
+10 54
+11 27
+11 29
+11 59
+12 13
+12 16
+12 40
+13 14
+13 41
+13 42
+14 15
+14 43
+14 44
+15 45
+15 46
+17 18
+18 20
+18 47
+19 21
+19 23
+19 48
+20 24
+20 50
+20 51
+21 22
+21 52
+21 53
+22 25
+22 27
+22 27
+23 26
+24 30
+24 30
+24 31
+25 29
+25 32
+25 32
+26 33
+27 55
+28 56
+28 57
+28 58
+29 34
+29 34
+30 36
+30 60
+31 37
+31 37
+31 61
+32 35
+32 62
+34 38
+34 63
+35 38
+35 38
+35 64
+36 39
+36 39
+36 66
+37 39
+37 67
+38 65
+39 68

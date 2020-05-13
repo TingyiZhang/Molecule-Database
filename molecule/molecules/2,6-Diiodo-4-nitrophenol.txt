@@ -1,0 +1,36 @@
+2,6-Diiodo-4-nitrophenol
+15
+"Iodine"
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 11
+2 9
+2 14
+3 5
+4 5
+4 5
+5 6
+6 7
+6 7
+6 8
+7 11
+7 12
+8 10
+8 10
+8 13
+9 10
+9 11
+9 11

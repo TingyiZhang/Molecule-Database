@@ -1,0 +1,85 @@
+2-[(3,4-Dihydroxyphenyl)-oxomethyl]-3-(4-hydroxy-3-iodo-5-methoxyphenyl)-2-propenenitrile
+36
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+1 11
+1 23
+2 15
+2 30
+3 19
+3 34
+4 14
+4 14
+5 21
+5 35
+6 22
+6 22
+6 22
+7 9
+7 9
+7 10
+7 12
+8 14
+8 17
+8 17
+8 18
+9 11
+9 24
+10 13
+10 13
+10 25
+11 15
+11 15
+12 16
+12 16
+12 26
+13 14
+13 22
+15 16
+17 19
+17 27
+18 20
+18 20
+18 28
+19 21
+19 21
+20 21
+20 29
+23 31
+23 32
+23 33

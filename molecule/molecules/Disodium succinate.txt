@@ -1,0 +1,29 @@
+Disodium succinate
+14
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+2 8
+3 9
+4 8
+4 8
+5 9
+5 9
+6 7
+6 8
+6 10
+6 11
+7 9
+7 12
+7 13

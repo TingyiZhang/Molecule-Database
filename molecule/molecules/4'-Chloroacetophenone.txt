@@ -1,0 +1,40 @@
+4'-Chloroacetophenone
+17
+"Chlorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 5
+1 5
+2 3
+2 3
+2 4
+2 5
+3 6
+3 10
+4 7
+4 7
+4 11
+5 9
+6 8
+6 8
+6 12
+7 8
+7 13
+9 14
+9 15
+9 16

@@ -1,0 +1,35 @@
+3-Methyl-2-oxobutanoic acid
+16
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+1 7
+1 15
+2 7
+2 7
+3 4
+3 5
+3 6
+3 8
+4 9
+4 10
+4 11
+5 12
+5 13
+5 14
+6 7

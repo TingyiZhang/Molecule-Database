@@ -1,0 +1,42 @@
+n-(3-Oxotetrahydrothiophen-2-yl)acetamide
+19
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 6
+1 7
+1 7
+2 8
+2 8
+3 4
+3 8
+3 15
+4 7
+4 10
+5 6
+5 7
+5 11
+5 12
+6 13
+6 14
+8 9
+9 16
+9 17
+9 18

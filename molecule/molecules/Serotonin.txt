@@ -1,0 +1,57 @@
+Serotonin
+25
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 24
+1 6
+1 7
+1 16
+2 8
+2 22
+2 23
+3 4
+3 5
+3 7
+3 7
+4 6
+4 6
+4 9
+5 8
+5 13
+5 14
+6 10
+7 15
+8 17
+8 18
+9 11
+9 11
+9 19
+10 12
+10 12
+10 20
+11 12
+12 21

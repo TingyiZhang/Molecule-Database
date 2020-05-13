@@ -1,0 +1,85 @@
+4-Imidazol-1-ylmethyl-1-nitro-xanthen-9-one
+35
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 15
+1 12
+1 12
+2 5
+3 5
+3 5
+4 10
+4 19
+4 20
+5 11
+6 20
+6 20
+6 23
+7 8
+7 8
+7 10
+7 14
+8 9
+9 11
+9 11
+9 12
+10 24
+10 25
+11 16
+12 13
+13 15
+13 17
+13 17
+14 16
+14 16
+14 26
+15 18
+15 18
+16 27
+17 21
+17 28
+18 22
+18 29
+19 23
+19 23
+19 30
+20 31
+21 22
+21 22
+21 32
+22 33
+23 34

@@ -1,0 +1,116 @@
+Ethyl eburnamenine-14-carboxylate
+52
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+0 24
+1 19
+1 19
+2 5
+2 8
+2 11
+3 7
+3 15
+3 17
+4 5
+4 6
+4 10
+4 13
+5 7
+5 26
+6 9
+6 27
+6 28
+7 12
+7 12
+8 9
+8 29
+8 30
+9 31
+9 32
+10 18
+10 33
+10 34
+11 14
+11 35
+11 36
+12 14
+12 16
+13 15
+13 15
+13 37
+14 38
+14 39
+15 19
+16 17
+16 20
+16 20
+17 21
+17 21
+18 40
+18 41
+18 42
+20 22
+20 43
+21 23
+21 44
+22 23
+22 23
+22 45
+23 46
+24 25
+24 47
+24 48
+25 49
+25 50
+25 51

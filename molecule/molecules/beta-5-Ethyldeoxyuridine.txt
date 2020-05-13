@@ -1,0 +1,74 @@
+beta-5-Ethyldeoxyuridine
+34
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 10
+1 8
+1 26
+2 11
+2 30
+3 13
+3 13
+4 15
+4 15
+5 7
+5 12
+5 13
+6 13
+6 15
+6 27
+7 9
+7 18
+8 9
+8 10
+8 19
+9 20
+9 21
+10 11
+10 22
+11 23
+11 24
+12 14
+12 14
+12 25
+14 15
+14 16
+16 17
+16 28
+16 29
+17 31
+17 32
+17 33

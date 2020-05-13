@@ -1,0 +1,133 @@
+Hexoprenaline
+62
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 54
+1 17
+1 55
+2 24
+2 58
+3 25
+3 59
+4 28
+4 60
+5 29
+5 61
+6 12
+6 14
+6 42
+7 13
+7 15
+7 43
+8 9
+8 10
+8 30
+8 31
+9 11
+9 32
+9 33
+10 12
+10 34
+10 35
+11 13
+11 36
+11 37
+12 38
+12 39
+13 40
+13 41
+14 16
+14 44
+14 45
+15 17
+15 46
+15 47
+16 18
+16 48
+17 19
+17 49
+18 20
+18 20
+18 22
+19 21
+19 21
+19 23
+20 24
+20 50
+21 25
+21 51
+22 26
+22 26
+22 52
+23 27
+23 27
+23 53
+24 28
+24 28
+25 29
+25 29
+26 28
+26 56
+27 29
+27 57

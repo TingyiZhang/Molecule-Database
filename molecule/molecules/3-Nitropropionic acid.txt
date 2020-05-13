@@ -1,0 +1,29 @@
+3-Nitropropionic acid
+13
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 12
+1 7
+1 7
+2 4
+3 4
+3 4
+4 6
+5 6
+5 7
+5 8
+5 9
+6 10
+6 11

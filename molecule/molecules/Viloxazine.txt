@@ -1,0 +1,78 @@
+Viloxazine
+36
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 8
+1 7
+1 9
+2 10
+2 15
+3 5
+3 6
+3 26
+4 5
+4 7
+4 17
+5 18
+5 19
+6 8
+6 20
+6 21
+7 22
+7 23
+8 24
+8 25
+9 10
+9 11
+9 11
+10 12
+10 12
+11 13
+11 27
+12 14
+12 28
+13 14
+13 14
+13 29
+14 30
+15 16
+15 31
+15 32
+16 33
+16 34
+16 35

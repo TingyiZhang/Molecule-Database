@@ -1,0 +1,99 @@
+Monocrotalin
+46
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 18
+1 17
+1 20
+2 14
+2 44
+3 16
+3 45
+4 18
+4 18
+5 20
+5 20
+6 7
+6 10
+6 12
+7 8
+7 11
+7 23
+8 9
+8 24
+9 10
+9 25
+9 26
+10 27
+10 28
+11 13
+11 13
+11 17
+12 13
+12 29
+12 30
+13 31
+14 15
+14 16
+14 19
+15 18
+15 21
+15 32
+16 20
+16 22
+17 33
+17 34
+19 35
+19 36
+19 37
+21 38
+21 39
+21 40
+22 41
+22 42
+22 43

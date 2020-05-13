@@ -1,0 +1,84 @@
+4-(1-Hydroxy-4,4,5,5-tetramethyl-3-oxido-4,5-dihydro-1h-imidazol-2-yl)benzoic acid
+38
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 32
+1 5
+2 19
+2 37
+3 19
+3 19
+4 6
+4 8
+5 7
+5 8
+5 8
+6 7
+6 9
+6 10
+7 11
+7 12
+8 13
+9 20
+9 21
+9 22
+10 23
+10 24
+10 25
+11 26
+11 27
+11 28
+12 29
+12 30
+12 31
+13 14
+13 14
+13 15
+14 16
+14 33
+15 17
+15 17
+15 34
+16 18
+16 18
+16 35
+17 18
+17 36
+18 19

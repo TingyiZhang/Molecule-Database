@@ -1,0 +1,135 @@
+(2S,3S,5S,8R,9S,10S,13S,14S)-3-Hydroxy-10,13-dimethyl-2-morpholin-4-yl-1,2,3,4,5,6,7,8,9,11,12,14,15,16-tetradecahydrocyclopenta[a]phenanthren-17-one
+64
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+0 55
+1 20
+1 20
+2 25
+2 26
+3 17
+3 23
+3 24
+4 5
+4 8
+4 12
+4 18
+5 6
+5 10
+5 27
+6 7
+6 11
+6 28
+7 9
+7 16
+7 29
+8 13
+8 15
+8 30
+9 14
+9 20
+9 22
+10 14
+10 31
+10 32
+11 13
+11 33
+11 34
+12 17
+12 35
+12 36
+13 37
+13 38
+14 39
+14 40
+15 19
+15 41
+15 42
+16 21
+16 43
+16 44
+17 19
+17 45
+18 46
+18 47
+18 48
+19 49
+20 21
+21 50
+21 51
+22 52
+22 53
+22 54
+23 25
+23 56
+23 57
+24 26
+24 58
+24 59
+25 60
+25 61
+26 62
+26 63

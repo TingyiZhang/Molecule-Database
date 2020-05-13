@@ -1,0 +1,123 @@
+2-[3-[5-(2,4-Diaminopyrimidin-5-ylmethyl)-2-bromo-3-methoxyphenoxy]propyl]glutaric acid
+56
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 23
+1 15
+1 18
+2 17
+2 46
+3 17
+3 17
+4 19
+4 47
+5 19
+5 19
+6 25
+6 30
+7 27
+7 27
+7 29
+8 28
+8 29
+8 29
+9 27
+9 49
+9 50
+10 29
+10 54
+10 55
+11 12
+11 13
+11 17
+11 31
+12 14
+12 32
+12 33
+13 16
+13 34
+13 35
+14 15
+14 36
+14 37
+15 38
+15 39
+16 19
+16 40
+16 41
+18 21
+18 21
+18 23
+20 21
+20 22
+20 24
+20 24
+21 42
+22 26
+22 43
+22 44
+23 25
+23 25
+24 25
+24 45
+26 27
+26 28
+26 28
+28 48
+30 51
+30 52
+30 53

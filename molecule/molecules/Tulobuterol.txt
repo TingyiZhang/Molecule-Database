@@ -1,0 +1,71 @@
+Tulobuterol
+33
+"Chlorine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 5
+1 29
+2 3
+2 4
+2 15
+3 6
+3 7
+3 8
+4 5
+4 16
+4 17
+5 9
+5 18
+6 19
+6 20
+6 21
+7 22
+7 23
+7 24
+8 25
+8 26
+8 27
+9 10
+9 11
+9 11
+10 12
+10 12
+11 13
+11 28
+12 14
+12 30
+13 14
+13 14
+13 31
+14 32

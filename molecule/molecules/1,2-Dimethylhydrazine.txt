@@ -1,0 +1,25 @@
+1,2-Dimethylhydrazine
+12
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 4
+1 3
+1 5
+2 6
+2 7
+2 8
+3 9
+3 10
+3 11

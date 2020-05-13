@@ -1,0 +1,150 @@
+1,2-Dioxin-3-acetic acid, 6-hexadecyl-3,6-dihydro-6-methoxy-, methyl ester
+73
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 15
+1 15
+1 25
+2 21
+3 27
+3 28
+4 27
+4 27
+5 6
+5 7
+5 29
+5 30
+6 8
+6 33
+6 34
+7 9
+7 31
+7 32
+8 10
+8 35
+8 36
+9 11
+9 37
+9 38
+10 12
+10 39
+10 40
+11 13
+11 41
+11 42
+12 14
+12 43
+12 44
+13 15
+13 45
+13 46
+14 16
+14 47
+14 48
+15 19
+16 17
+16 49
+16 50
+17 18
+17 51
+17 52
+18 20
+18 53
+18 54
+19 22
+19 22
+19 55
+20 23
+20 56
+20 57
+21 22
+21 24
+21 58
+22 59
+23 26
+23 60
+23 61
+24 27
+24 62
+24 63
+25 64
+25 65
+25 66
+26 67
+26 68
+26 69
+28 70
+28 71
+28 72

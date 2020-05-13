@@ -1,0 +1,49 @@
+8-Bromo-4h-[1,2,4]oxadiazolo[3,4-c][1,4]benzoxazin-1-one
+20
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+1 8
+1 9
+2 5
+2 11
+3 11
+3 11
+4 6
+4 7
+4 11
+5 7
+5 7
+6 8
+6 8
+6 10
+7 9
+8 12
+9 15
+9 16
+10 13
+10 13
+10 17
+12 14
+12 14
+12 18
+13 14
+14 19

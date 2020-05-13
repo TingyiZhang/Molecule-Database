@@ -1,0 +1,66 @@
+2-(Pyrido[1,2-e]purin-4-yl)amino-ethanol
+28
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 27
+1 7
+1 8
+1 10
+2 6
+2 8
+2 8
+3 9
+3 11
+3 17
+4 7
+4 7
+4 16
+5 9
+5 16
+5 16
+6 7
+6 9
+6 9
+8 12
+10 13
+10 13
+10 18
+11 15
+11 19
+11 20
+12 14
+12 14
+12 21
+13 14
+13 22
+14 23
+15 24
+15 25
+16 26

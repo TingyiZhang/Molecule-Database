@@ -1,0 +1,47 @@
+Disodium hydroxyethyliminodiacetate
+23
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+2 11
+2 22
+3 12
+4 13
+5 12
+5 12
+6 13
+6 13
+7 8
+7 9
+7 10
+8 11
+8 14
+8 15
+9 12
+9 16
+9 17
+10 13
+10 18
+10 19
+11 20
+11 21

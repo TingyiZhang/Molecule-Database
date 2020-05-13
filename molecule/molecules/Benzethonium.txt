@@ -1,0 +1,153 @@
+Benzethonium
+72
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+0 25
+1 22
+1 26
+2 12
+2 13
+2 16
+2 17
+3 5
+3 6
+3 7
+3 8
+4 5
+4 9
+4 10
+4 11
+5 30
+5 31
+6 14
+6 14
+6 15
+7 32
+7 33
+7 34
+8 35
+8 36
+8 37
+9 38
+9 39
+9 40
+10 41
+10 42
+10 43
+11 44
+11 45
+11 46
+12 18
+12 47
+12 48
+13 19
+13 49
+13 50
+14 20
+14 51
+15 21
+15 21
+15 52
+16 53
+16 54
+16 55
+17 56
+17 57
+17 58
+18 59
+18 60
+19 23
+19 23
+19 24
+20 22
+20 22
+20 61
+21 22
+21 62
+23 27
+23 63
+24 28
+24 28
+24 64
+25 26
+25 65
+25 66
+26 67
+26 68
+27 29
+27 29
+27 69
+28 29
+28 70
+29 71

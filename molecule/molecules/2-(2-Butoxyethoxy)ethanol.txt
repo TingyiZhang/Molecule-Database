@@ -1,0 +1,59 @@
+2-(2-Butoxyethoxy)ethanol
+29
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 6
+1 7
+1 9
+2 10
+2 28
+3 4
+3 5
+3 11
+3 12
+4 13
+4 14
+5 8
+5 15
+5 16
+6 7
+6 17
+6 18
+7 19
+7 20
+8 21
+8 22
+8 23
+9 10
+9 24
+9 25
+10 26
+10 27

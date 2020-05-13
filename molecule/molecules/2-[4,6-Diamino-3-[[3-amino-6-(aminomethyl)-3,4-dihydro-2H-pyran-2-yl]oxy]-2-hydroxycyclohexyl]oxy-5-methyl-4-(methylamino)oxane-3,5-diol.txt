@@ -1,0 +1,141 @@
+2-[4,6-Diamino-3-[[3-amino-6-(aminomethyl)-3,4-dihydro-2H-pyran-2-yl]oxy]-2-hydroxycyclohexyl]oxy-5-methyl-4-(methylamino)oxane-3,5-diol
+68
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+0 18
+1 13
+1 23
+2 18
+2 22
+3 14
+3 48
+4 20
+4 54
+5 21
+5 55
+6 23
+6 28
+7 15
+7 43
+7 44
+8 16
+8 45
+8 46
+9 19
+9 27
+9 52
+10 25
+10 62
+10 63
+11 30
+11 66
+11 67
+12 14
+12 15
+12 31
+13 14
+13 16
+13 32
+14 33
+15 17
+15 34
+16 17
+16 35
+17 36
+17 37
+18 20
+18 38
+19 20
+19 21
+19 39
+20 40
+21 22
+21 24
+22 41
+22 42
+23 25
+23 47
+24 49
+24 50
+24 51
+25 26
+25 53
+26 29
+26 56
+26 57
+27 58
+27 59
+27 60
+28 29
+28 29
+28 30
+29 61
+30 64
+30 65

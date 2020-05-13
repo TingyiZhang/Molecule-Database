@@ -1,0 +1,114 @@
+Bracco 15000
+53
+"Iodine"
+"Iodine"
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+1 20
+2 21
+3 24
+3 45
+4 25
+4 46
+5 26
+5 47
+6 27
+6 48
+7 22
+7 22
+8 23
+8 23
+9 29
+9 52
+10 28
+10 28
+11 14
+11 22
+11 33
+12 15
+12 23
+12 34
+13 19
+13 28
+13 43
+14 24
+14 25
+14 31
+15 26
+15 27
+15 32
+16 18
+16 18
+16 21
+16 22
+17 18
+17 20
+17 20
+17 23
+19 20
+19 21
+19 21
+24 35
+24 36
+25 37
+25 38
+26 39
+26 40
+27 41
+27 42
+28 29
+29 30
+29 44
+30 49
+30 50
+30 51

@@ -1,0 +1,117 @@
+N-Hydroxy-2-[(methylphenylphosphinyl)benzylamino]-4-methylpentanamide
+53
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 4
+0 10
+0 12
+2 11
+2 11
+3 5
+3 52
+4 6
+4 9
+5 11
+5 43
+6 7
+6 11
+6 26
+7 8
+7 27
+7 28
+8 13
+8 14
+8 29
+9 15
+9 30
+9 31
+10 16
+10 16
+10 17
+12 32
+12 33
+12 34
+13 35
+13 36
+13 37
+14 38
+14 39
+14 40
+15 18
+15 18
+15 19
+16 20
+16 41
+17 21
+17 21
+17 42
+18 23
+18 44
+19 24
+19 24
+19 45
+20 22
+20 22
+20 46
+21 22
+21 47
+22 48
+23 25
+23 25
+23 49
+24 25
+24 50
+25 51

@@ -1,0 +1,87 @@
+N-Benzyl-N,alpha-dimethylphenethylamine
+39
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 3
+0 6
+1 2
+1 4
+1 18
+2 5
+2 19
+2 20
+3 7
+3 21
+3 22
+4 23
+4 24
+4 25
+5 8
+5 8
+5 9
+6 26
+6 27
+6 28
+7 10
+7 10
+7 11
+8 12
+8 29
+9 13
+9 13
+9 30
+10 14
+10 31
+11 15
+11 15
+11 32
+12 16
+12 16
+12 33
+13 16
+13 34
+14 17
+14 17
+14 35
+15 17
+15 36
+16 37
+17 38

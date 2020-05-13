@@ -1,0 +1,37 @@
+3-Hydroxyprop-1-ene-1,2,3-tricarboxylate
+16
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 15
+1 10
+2 10
+2 10
+3 11
+4 11
+4 11
+5 12
+6 12
+6 12
+7 8
+7 10
+7 13
+8 9
+8 9
+8 11
+9 12
+9 14

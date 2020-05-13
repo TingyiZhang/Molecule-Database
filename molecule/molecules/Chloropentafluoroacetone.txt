@@ -1,0 +1,22 @@
+Chloropentafluoroacetone
+10
+"Chlorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+0 8
+1 8
+2 8
+3 9
+4 9
+5 9
+6 7
+6 7
+7 8
+7 9

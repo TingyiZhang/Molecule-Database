@@ -1,0 +1,100 @@
+5-(5-(6-Chloro-4-(4,5-dihydro-2-oxazolyl)phenoxy)pentyl)-3-methylisoxazole
+45
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+1 10
+1 13
+2 5
+2 11
+3 15
+3 21
+4 15
+4 15
+4 22
+5 16
+5 16
+6 7
+6 8
+6 24
+6 25
+7 9
+7 26
+7 27
+8 10
+8 28
+8 29
+9 11
+9 30
+9 31
+10 32
+10 33
+11 12
+11 12
+12 16
+12 34
+13 17
+13 17
+13 18
+14 15
+14 19
+14 19
+14 20
+16 23
+17 19
+18 20
+18 20
+18 35
+19 40
+20 41
+21 22
+21 36
+21 37
+22 38
+22 39
+23 42
+23 43
+23 44

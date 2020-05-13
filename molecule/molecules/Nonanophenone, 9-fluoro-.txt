@@ -1,0 +1,82 @@
+Nonanophenone, 9-fluoro-
+38
+"Fluorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 9
+1 9
+2 3
+2 4
+2 17
+2 18
+3 5
+3 19
+3 20
+4 6
+4 21
+4 22
+5 7
+5 23
+5 24
+6 8
+6 25
+6 26
+7 9
+7 27
+7 28
+8 10
+8 29
+8 30
+9 11
+10 31
+10 32
+11 12
+11 12
+11 13
+12 14
+12 33
+13 15
+13 15
+13 34
+14 16
+14 16
+14 35
+15 16
+15 36
+16 37

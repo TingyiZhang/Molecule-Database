@@ -1,0 +1,101 @@
+5-(4-Methoxyphenyl)pyrrolo[2,1-d][1,5]benzothiazepin-4-ol acetate
+43
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 9
+1 7
+1 23
+2 22
+2 25
+3 23
+3 23
+4 5
+4 6
+4 10
+5 7
+5 11
+5 11
+6 9
+6 14
+6 14
+7 8
+7 8
+8 12
+9 15
+9 15
+10 13
+10 13
+10 26
+11 13
+11 27
+12 18
+12 18
+12 19
+13 28
+14 16
+14 29
+15 17
+15 30
+16 17
+16 17
+16 31
+17 32
+18 20
+18 33
+19 21
+19 21
+19 34
+20 22
+20 22
+20 35
+21 22
+21 36
+23 24
+24 37
+24 38
+24 39
+25 40
+25 41
+25 42

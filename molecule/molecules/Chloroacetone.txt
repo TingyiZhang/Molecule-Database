@@ -1,0 +1,22 @@
+Chloroacetone
+10
+"Chlorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+1 2
+1 2
+2 3
+2 4
+3 5
+3 6
+4 7
+4 8
+4 9

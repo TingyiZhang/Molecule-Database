@@ -1,0 +1,201 @@
+Jasplakinolide
+92
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 30
+1 18
+1 35
+2 17
+2 17
+3 22
+3 22
+4 27
+4 27
+5 35
+5 35
+6 46
+6 91
+7 11
+7 22
+7 29
+8 16
+8 17
+8 60
+9 21
+9 27
+9 66
+10 30
+10 32
+10 76
+11 12
+11 17
+11 47
+12 15
+12 48
+12 49
+13 14
+13 24
+13 28
+13 50
+14 18
+14 51
+14 52
+15 26
+15 30
+15 30
+16 25
+16 31
+16 53
+18 33
+18 54
+19 20
+19 27
+19 34
+19 55
+20 23
+20 56
+20 57
+21 22
+21 36
+21 58
+23 24
+23 24
+23 37
+24 59
+25 35
+25 61
+25 62
+26 32
+26 38
+26 38
+28 63
+28 64
+28 65
+29 67
+29 68
+29 69
+31 40
+31 40
+31 41
+32 39
+32 39
+33 70
+33 71
+33 72
+34 73
+34 74
+34 75
+36 77
+36 78
+36 79
+37 80
+37 81
+37 82
+38 42
+38 83
+39 43
+39 84
+40 44
+40 85
+41 45
+41 45
+41 86
+42 43
+42 43
+42 87
+43 88
+44 46
+44 46
+44 89
+45 46
+45 90

@@ -1,0 +1,45 @@
+6-Nitroso-1,2-benzopyrone
+18
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 12
+1 12
+1 12
+2 3
+2 3
+3 9
+4 5
+4 5
+4 6
+4 8
+5 7
+6 9
+6 9
+6 13
+7 10
+7 10
+7 14
+8 11
+8 11
+8 15
+9 10
+10 16
+11 12
+11 17

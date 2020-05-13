@@ -1,0 +1,83 @@
+Bis(2-methoxyethyl) phthalate
+38
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 12
+1 11
+1 13
+2 16
+2 18
+3 17
+3 19
+4 10
+4 10
+5 11
+5 11
+6 7
+6 8
+6 8
+6 10
+7 9
+7 9
+7 11
+8 14
+8 20
+9 15
+9 21
+12 16
+12 22
+12 23
+13 17
+13 24
+13 25
+14 15
+14 15
+14 26
+15 27
+16 28
+16 29
+17 30
+17 31
+18 32
+18 33
+18 34
+19 35
+19 36
+19 37

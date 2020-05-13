@@ -1,0 +1,44 @@
+Nitroglycerin
+20
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 12
+1 10
+1 13
+2 11
+2 14
+3 9
+4 9
+4 9
+5 10
+6 11
+7 10
+7 10
+8 11
+8 11
+12 13
+12 14
+12 15
+13 16
+13 17
+14 18
+14 19

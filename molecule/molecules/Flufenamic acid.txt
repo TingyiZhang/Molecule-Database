@@ -1,0 +1,70 @@
+Flufenamic acid
+30
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+1 16
+2 16
+3 19
+3 29
+4 19
+4 19
+5 6
+5 7
+5 20
+6 9
+6 11
+6 11
+7 10
+7 13
+7 13
+8 9
+8 9
+8 12
+8 16
+9 21
+10 15
+10 15
+10 19
+11 14
+11 22
+12 14
+12 14
+12 23
+13 17
+13 24
+14 25
+15 18
+15 26
+17 18
+17 18
+17 27
+18 28

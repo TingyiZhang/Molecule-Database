@@ -1,0 +1,37 @@
+4-Bromobenzenesulfonyl chloride
+15
+"Bromine"
+"Chlorine"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+1 2
+2 3
+2 3
+2 4
+2 4
+2 5
+5 6
+5 6
+5 7
+6 8
+6 11
+7 9
+7 9
+7 12
+8 10
+8 10
+8 13
+9 10
+9 14

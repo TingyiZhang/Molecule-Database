@@ -1,0 +1,116 @@
+Morphinan-3,6,14-triol, 17-(cyclobutylmethyl)-4,5-epoxy-, (5alpha,6alpha)-
+53
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 17
+1 6
+1 41
+2 12
+2 50
+3 23
+3 52
+4 7
+4 14
+4 18
+5 6
+5 8
+5 9
+5 10
+6 7
+6 11
+7 13
+7 26
+8 12
+8 27
+9 14
+9 28
+9 29
+10 16
+10 16
+10 17
+11 15
+11 30
+11 31
+12 15
+12 32
+13 16
+13 33
+13 34
+14 35
+14 36
+15 37
+15 38
+16 20
+17 23
+17 23
+18 19
+18 39
+18 40
+19 21
+19 22
+19 42
+20 25
+20 25
+20 43
+21 24
+21 44
+21 45
+22 24
+22 46
+22 47
+23 25
+24 48
+24 49
+25 51

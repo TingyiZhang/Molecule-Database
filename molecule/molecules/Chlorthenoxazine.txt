@@ -1,0 +1,55 @@
+Chlorthenoxazine
+24
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+1 4
+1 6
+2 8
+2 8
+3 4
+3 8
+3 17
+4 5
+4 14
+5 9
+5 15
+5 16
+6 7
+6 10
+6 10
+7 8
+7 11
+7 11
+9 18
+9 19
+10 12
+10 20
+11 13
+11 21
+12 13
+12 13
+12 22
+13 23

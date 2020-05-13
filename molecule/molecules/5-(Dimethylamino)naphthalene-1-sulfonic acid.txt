@@ -1,0 +1,70 @@
+5-(Dimethylamino)naphthalene-1-sulfonic acid
+30
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 2
+0 3
+0 3
+0 8
+1 29
+4 7
+4 15
+4 16
+5 6
+5 6
+5 7
+5 9
+6 8
+6 10
+7 11
+7 11
+8 12
+8 12
+9 14
+9 14
+9 17
+10 13
+10 13
+10 18
+11 13
+11 19
+12 14
+12 20
+13 21
+14 22
+15 23
+15 24
+15 25
+16 26
+16 27
+16 28

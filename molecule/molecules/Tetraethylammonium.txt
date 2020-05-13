@@ -1,0 +1,59 @@
+Tetraethylammonium
+29
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 4
+1 5
+1 9
+1 10
+2 6
+2 11
+2 12
+3 7
+3 13
+3 14
+4 8
+4 15
+4 16
+5 17
+5 18
+5 19
+6 20
+6 21
+6 22
+7 23
+7 24
+7 25
+8 26
+8 27
+8 28

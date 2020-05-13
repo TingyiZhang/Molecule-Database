@@ -1,0 +1,101 @@
+(2-Benzylphenyl)(2,4,5-trimethyl-1h-pyrrol-3-yl)methanone
+44
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 4
+1 5
+1 23
+2 3
+2 4
+2 4
+2 7
+3 5
+3 5
+3 10
+4 11
+5 12
+6 7
+6 8
+6 13
+6 13
+8 9
+8 15
+8 15
+9 14
+9 24
+9 25
+10 26
+10 27
+10 28
+11 29
+11 30
+11 31
+12 32
+12 33
+12 34
+13 16
+13 35
+14 18
+14 18
+14 19
+15 17
+15 36
+16 17
+16 17
+16 37
+17 38
+18 20
+18 39
+19 21
+19 21
+19 40
+20 22
+20 22
+20 41
+21 22
+21 42
+22 43

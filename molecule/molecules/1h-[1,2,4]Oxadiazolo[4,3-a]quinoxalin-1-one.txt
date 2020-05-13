@@ -1,0 +1,48 @@
+1h-[1,2,4]Oxadiazolo[4,3-a]quinoxalin-1-one
+19
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 9
+1 9
+1 9
+2 5
+2 7
+2 9
+3 6
+3 10
+3 10
+4 7
+4 7
+5 6
+5 8
+5 8
+6 11
+6 11
+7 10
+8 12
+8 14
+10 15
+11 13
+11 16
+12 13
+12 13
+12 17
+13 18

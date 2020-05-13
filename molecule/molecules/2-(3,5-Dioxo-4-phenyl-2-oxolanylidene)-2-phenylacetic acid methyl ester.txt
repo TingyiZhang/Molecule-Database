@@ -1,0 +1,90 @@
+2-(3,5-Dioxo-4-phenyl-2-oxolanylidene)-2-phenylacetic acid methyl ester
+38
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 9
+1 6
+1 6
+2 9
+2 9
+3 16
+3 23
+4 16
+4 16
+5 6
+5 7
+5 9
+5 24
+6 8
+7 11
+7 11
+7 12
+8 10
+8 10
+10 13
+10 16
+11 14
+11 25
+12 15
+12 15
+12 26
+13 17
+13 17
+13 18
+14 19
+14 19
+14 27
+15 19
+15 28
+17 20
+17 29
+18 21
+18 21
+18 30
+19 31
+20 22
+20 22
+20 32
+21 22
+21 33
+22 34
+23 35
+23 36
+23 37

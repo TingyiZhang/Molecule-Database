@@ -1,0 +1,56 @@
+4-Amino-2-methyl-1-naphthol
+24
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 23
+1 6
+1 21
+1 22
+2 3
+2 5
+2 8
+2 8
+3 6
+3 9
+3 9
+4 5
+4 5
+4 7
+4 10
+6 7
+6 7
+7 13
+8 11
+8 14
+9 12
+9 15
+10 16
+10 17
+10 18
+11 12
+11 12
+11 19
+12 20

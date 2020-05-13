@@ -1,0 +1,151 @@
+Antihelmycin
+73
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 18
+1 17
+1 18
+2 18
+2 25
+3 19
+3 22
+4 19
+4 23
+5 20
+5 55
+6 21
+6 56
+7 24
+7 58
+8 26
+8 63
+9 27
+9 64
+10 28
+10 65
+11 33
+11 71
+12 34
+12 72
+13 29
+13 35
+13 57
+14 30
+14 61
+14 62
+15 32
+15 66
+15 67
+16 17
+16 19
+16 36
+17 20
+17 37
+18 21
+19 38
+20 23
+20 39
+21 24
+21 40
+22 27
+22 28
+22 41
+23 33
+23 42
+24 26
+24 43
+25 26
+25 32
+25 44
+26 45
+27 29
+27 46
+28 30
+28 47
+29 31
+29 48
+30 31
+30 49
+31 50
+31 51
+32 34
+32 52
+33 53
+33 54
+34 59
+34 60
+35 68
+35 69
+35 70

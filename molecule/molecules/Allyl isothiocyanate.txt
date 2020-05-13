@@ -1,0 +1,26 @@
+Allyl isothiocyanate
+11
+"Sulfur"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 5
+1 2
+1 5
+1 5
+2 3
+2 6
+2 7
+3 4
+3 4
+3 8
+4 9
+4 10

@@ -1,0 +1,51 @@
+1,4-Dioxaspiro[4.5]decane
+24
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 8
+1 2
+1 9
+2 3
+2 4
+3 5
+3 10
+3 11
+4 6
+4 12
+4 13
+5 7
+5 14
+5 15
+6 7
+6 16
+6 17
+7 18
+7 19
+8 9
+8 20
+8 21
+9 22
+9 23

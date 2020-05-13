@@ -1,0 +1,91 @@
+3-Deoxyestrone
+41
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 9
+1 2
+1 3
+1 6
+1 19
+2 5
+2 9
+2 11
+3 4
+3 8
+3 20
+4 7
+4 12
+4 21
+5 7
+5 22
+5 23
+6 10
+6 24
+6 25
+7 26
+7 27
+8 13
+8 28
+8 29
+9 10
+10 30
+10 31
+11 32
+11 33
+11 34
+12 14
+12 15
+12 15
+13 14
+13 35
+13 36
+14 16
+14 16
+15 17
+15 37
+16 18
+16 38
+17 18
+17 18
+17 39
+18 40

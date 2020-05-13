@@ -1,0 +1,72 @@
+Benhepazone
+30
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 3
+1 4
+1 7
+2 6
+2 6
+2 7
+3 5
+3 18
+3 19
+4 6
+4 8
+4 8
+5 9
+5 9
+5 10
+6 11
+8 12
+8 20
+9 14
+9 21
+10 15
+10 15
+10 22
+11 13
+11 13
+11 23
+12 16
+12 16
+12 24
+13 16
+13 25
+14 17
+14 17
+14 26
+15 17
+15 27
+16 28
+17 29

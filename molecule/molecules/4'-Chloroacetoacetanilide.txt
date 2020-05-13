@@ -1,0 +1,55 @@
+4'-Chloroacetoacetanilide
+24
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 12
+1 6
+1 6
+2 9
+2 9
+3 4
+3 6
+3 16
+4 7
+4 7
+4 8
+5 6
+5 9
+5 14
+5 15
+7 10
+7 17
+8 11
+8 11
+8 18
+9 13
+10 12
+10 12
+10 19
+11 12
+11 20
+13 21
+13 22
+13 23

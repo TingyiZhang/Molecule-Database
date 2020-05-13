@@ -1,0 +1,137 @@
+13-Docosenamide, (13Z)-
+67
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 23
+0 23
+1 23
+1 65
+1 66
+2 3
+2 4
+2 24
+2 25
+3 5
+3 26
+3 27
+4 6
+4 28
+4 29
+5 7
+5 30
+5 31
+6 8
+6 32
+6 33
+7 9
+7 34
+7 35
+8 13
+8 36
+8 37
+9 12
+9 38
+9 39
+10 11
+10 14
+10 40
+10 41
+11 15
+11 42
+11 43
+12 18
+12 44
+12 45
+13 19
+13 46
+13 47
+14 17
+14 48
+14 49
+15 16
+15 50
+15 51
+16 20
+16 52
+16 53
+17 21
+17 54
+17 55
+18 20
+18 20
+18 56
+19 23
+19 57
+19 58
+20 59
+21 22
+21 60
+21 61
+22 62
+22 63
+22 64

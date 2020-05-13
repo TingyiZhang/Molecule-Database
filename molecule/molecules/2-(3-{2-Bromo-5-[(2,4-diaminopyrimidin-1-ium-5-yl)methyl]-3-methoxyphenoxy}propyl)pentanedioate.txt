@@ -1,0 +1,121 @@
+2-(3-{2-Bromo-5-[(2,4-diaminopyrimidin-1-ium-5-yl)methyl]-3-methoxyphenoxy}propyl)pentanedioate
+55
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 23
+1 15
+1 18
+2 17
+3 17
+3 17
+4 26
+4 30
+5 22
+6 22
+6 22
+7 28
+7 29
+7 29
+7 47
+8 27
+8 27
+8 29
+9 27
+9 48
+9 49
+10 29
+10 53
+10 54
+11 12
+11 13
+11 17
+11 31
+12 14
+12 32
+12 33
+13 16
+13 34
+13 35
+14 15
+14 36
+14 37
+15 38
+15 39
+16 22
+16 40
+16 41
+18 21
+18 21
+18 23
+19 20
+19 21
+19 24
+19 24
+20 25
+20 42
+20 43
+21 44
+23 26
+23 26
+24 26
+24 45
+25 27
+25 28
+25 28
+28 46
+30 50
+30 51
+30 52

@@ -1,0 +1,129 @@
+Falone
+58
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 22
+1 23
+2 24
+3 34
+4 35
+5 36
+6 7
+6 8
+6 9
+7 13
+8 14
+9 15
+10 16
+10 19
+11 17
+11 20
+12 18
+12 21
+13 16
+13 37
+13 38
+14 17
+14 39
+14 40
+15 18
+15 41
+15 42
+16 43
+16 44
+17 45
+17 46
+18 47
+18 48
+19 22
+19 22
+19 25
+20 23
+20 23
+20 26
+21 24
+21 24
+21 27
+22 28
+23 29
+24 30
+25 31
+25 31
+25 49
+26 32
+26 32
+26 50
+27 33
+27 33
+27 51
+28 34
+28 34
+28 52
+29 35
+29 35
+29 53
+30 36
+30 36
+30 54
+31 34
+31 55
+32 35
+32 56
+33 36
+33 57

@@ -1,0 +1,9 @@
+Aluminum fluoride
+4
+"Aluminum"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+0 1
+0 2
+0 3

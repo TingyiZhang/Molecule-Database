@@ -1,0 +1,38 @@
+Citrazinic acid
+16
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 14
+1 9
+1 9
+2 10
+2 15
+3 10
+3 10
+4 8
+4 9
+4 13
+5 6
+5 7
+5 7
+5 10
+6 8
+6 8
+6 11
+7 9
+7 12

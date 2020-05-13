@@ -1,0 +1,45 @@
+Sulfanilamide
+19
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 3
+0 5
+3 15
+3 16
+4 8
+4 17
+4 18
+5 6
+5 6
+5 7
+6 9
+6 11
+7 10
+7 10
+7 12
+8 9
+8 9
+8 10
+9 13
+10 14

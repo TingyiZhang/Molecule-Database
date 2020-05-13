@@ -1,0 +1,137 @@
+Tenathan
+63
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 2
+0 3
+0 3
+0 4
+0 4
+5 11
+5 15
+5 35
+6 12
+6 16
+6 36
+7 15
+7 21
+7 37
+7 38
+8 16
+8 22
+8 39
+8 40
+9 15
+9 15
+9 29
+10 16
+10 16
+10 30
+11 13
+11 31
+11 32
+12 14
+12 33
+12 34
+13 17
+13 17
+13 19
+14 18
+14 18
+14 20
+17 23
+17 41
+18 24
+18 42
+19 25
+19 25
+19 43
+20 26
+20 26
+20 44
+21 45
+21 46
+21 47
+22 48
+22 49
+22 50
+23 27
+23 27
+23 51
+24 28
+24 28
+24 52
+25 27
+25 53
+26 28
+26 54
+27 55
+28 56
+29 57
+29 58
+29 59
+30 60
+30 61
+30 62

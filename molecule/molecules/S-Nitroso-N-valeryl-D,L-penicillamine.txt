@@ -1,0 +1,74 @@
+S-Nitroso-N-valeryl-D,L-penicillamine
+35
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 7
+1 14
+1 34
+2 12
+2 12
+3 14
+3 14
+4 6
+4 6
+5 8
+5 12
+5 24
+7 8
+7 9
+7 10
+8 14
+8 17
+9 18
+9 19
+9 20
+10 21
+10 22
+10 23
+11 12
+11 13
+11 25
+11 26
+13 15
+13 27
+13 28
+15 16
+15 29
+15 30
+16 31
+16 32
+16 33

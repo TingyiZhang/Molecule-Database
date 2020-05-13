@@ -1,0 +1,78 @@
+Diprotrizoic acid
+35
+"Iodine"
+"Iodine"
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+1 13
+2 14
+3 15
+3 15
+4 16
+4 16
+5 19
+5 34
+6 19
+6 19
+7 9
+7 15
+7 22
+8 10
+8 16
+8 23
+9 11
+9 11
+9 14
+10 11
+10 13
+10 13
+12 13
+12 14
+12 14
+12 19
+15 17
+16 18
+17 20
+17 24
+17 25
+18 21
+18 26
+18 27
+20 28
+20 29
+20 30
+21 31
+21 32
+21 33

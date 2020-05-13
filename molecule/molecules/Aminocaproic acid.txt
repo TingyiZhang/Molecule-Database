@@ -1,0 +1,46 @@
+Aminocaproic acid
+22
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 21
+1 8
+1 8
+2 7
+2 19
+2 20
+3 4
+3 5
+3 9
+3 10
+4 6
+4 11
+4 12
+5 7
+5 13
+5 14
+6 8
+6 15
+6 16
+7 17
+7 18

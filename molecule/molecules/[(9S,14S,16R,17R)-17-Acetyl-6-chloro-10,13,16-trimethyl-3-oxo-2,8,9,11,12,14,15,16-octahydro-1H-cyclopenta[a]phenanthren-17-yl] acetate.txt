@@ -1,0 +1,130 @@
+[(9S,14S,16R,17R)-17-Acetyl-6-chloro-10,13,16-trimethyl-3-oxo-2,8,9,11,12,14,15,16-octahydro-1H-cyclopenta[a]phenanthren-17-yl] acetate
+60
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 22
+1 8
+1 27
+2 18
+2 18
+3 26
+3 26
+4 27
+4 27
+5 6
+5 8
+5 12
+5 15
+6 7
+6 10
+6 29
+7 9
+7 16
+7 30
+8 11
+8 18
+9 13
+9 14
+9 31
+10 11
+10 32
+10 33
+11 20
+11 34
+12 13
+12 35
+12 36
+13 37
+13 38
+14 17
+14 19
+14 21
+15 39
+15 40
+15 41
+16 22
+16 22
+16 42
+17 22
+17 24
+17 24
+18 25
+19 23
+19 43
+19 44
+20 45
+20 46
+20 47
+21 48
+21 49
+21 50
+23 26
+23 51
+23 52
+24 26
+24 53
+25 54
+25 55
+25 56
+27 28
+28 57
+28 58
+28 59

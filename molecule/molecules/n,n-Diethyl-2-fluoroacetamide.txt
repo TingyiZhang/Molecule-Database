@@ -1,0 +1,44 @@
+n,n-Diethyl-2-fluoroacetamide
+21
+"Fluorine"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+1 5
+1 5
+2 3
+2 4
+2 5
+3 6
+3 9
+3 10
+4 7
+4 11
+4 12
+5 8
+6 13
+6 14
+6 15
+7 16
+7 17
+7 18
+8 19
+8 20

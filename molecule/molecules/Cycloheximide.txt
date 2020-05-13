@@ -1,0 +1,92 @@
+Cycloheximide
+43
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 41
+1 11
+1 11
+2 18
+2 18
+3 19
+3 19
+4 18
+4 19
+4 42
+5 7
+5 8
+5 11
+5 20
+6 7
+6 10
+6 14
+6 23
+7 21
+7 22
+8 12
+8 24
+9 10
+9 11
+9 15
+9 25
+10 26
+10 27
+12 13
+12 28
+12 29
+13 16
+13 17
+13 30
+14 31
+14 32
+14 33
+15 34
+15 35
+15 36
+16 18
+16 37
+16 38
+17 19
+17 39
+17 40

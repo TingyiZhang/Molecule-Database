@@ -1,0 +1,61 @@
+Urea, 1-amidino-3-(p-nitrophenyl)-, monohydrochloride
+27
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 26
+1 15
+1 15
+2 5
+3 5
+3 5
+4 9
+4 15
+4 21
+5 12
+6 15
+6 16
+6 16
+7 16
+7 22
+7 23
+8 16
+8 24
+8 25
+9 10
+9 10
+9 11
+10 13
+10 17
+11 14
+11 14
+11 18
+12 13
+12 13
+12 14
+13 19
+14 20

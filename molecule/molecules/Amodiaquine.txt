@@ -1,0 +1,106 @@
+Amodiaquine
+47
+"Chlorine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 24
+1 11
+1 44
+2 5
+2 7
+2 8
+3 10
+3 15
+3 38
+4 18
+4 18
+4 22
+5 6
+5 25
+5 26
+6 9
+6 11
+6 11
+7 12
+7 27
+7 28
+8 13
+8 29
+8 30
+9 10
+9 10
+9 31
+10 14
+11 16
+12 32
+12 33
+12 34
+13 35
+13 36
+13 37
+14 16
+14 16
+14 39
+15 17
+15 17
+15 19
+16 40
+17 18
+17 20
+18 21
+19 22
+19 22
+19 41
+20 23
+20 23
+20 42
+21 24
+21 24
+21 43
+22 45
+23 24
+23 46

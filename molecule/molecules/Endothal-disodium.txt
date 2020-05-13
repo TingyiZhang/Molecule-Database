@@ -1,0 +1,49 @@
+Endothal-disodium
+23
+"Sodium"
+"Sodium"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+2 7
+2 8
+3 13
+4 14
+5 13
+5 13
+6 14
+6 14
+7 9
+7 11
+7 15
+8 10
+8 12
+8 16
+9 10
+9 13
+9 17
+10 14
+10 18
+11 12
+11 19
+11 20
+12 21
+12 22

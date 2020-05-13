@@ -1,0 +1,67 @@
+N-Benzyldiethanolamine
+31
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 29
+1 8
+1 30
+2 3
+2 4
+2 5
+3 6
+3 14
+3 15
+4 7
+4 16
+4 17
+5 8
+5 18
+5 19
+6 9
+6 9
+6 10
+7 20
+7 21
+8 22
+8 23
+9 11
+9 24
+10 12
+10 12
+10 25
+11 13
+11 13
+11 26
+12 13
+12 27
+13 28

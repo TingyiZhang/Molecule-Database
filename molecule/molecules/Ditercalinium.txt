@@ -1,0 +1,235 @@
+Ditercalinium
+104
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 48
+0 52
+1 49
+1 53
+2 14
+2 15
+2 18
+3 16
+3 17
+3 19
+4 20
+4 22
+4 22
+4 24
+5 21
+5 23
+5 23
+5 25
+6 34
+6 42
+6 90
+7 35
+7 43
+7 91
+8 9
+8 10
+8 11
+8 54
+9 12
+9 13
+9 55
+10 14
+10 56
+10 57
+11 15
+11 58
+11 59
+12 16
+12 60
+12 61
+13 17
+13 62
+13 63
+14 64
+14 65
+15 66
+15 67
+16 68
+16 69
+17 70
+17 71
+18 20
+18 72
+18 73
+19 21
+19 74
+19 75
+20 76
+20 77
+21 78
+21 79
+22 26
+22 80
+23 27
+23 81
+24 28
+24 28
+24 82
+25 29
+25 29
+25 83
+26 30
+26 30
+26 32
+27 31
+27 31
+27 33
+28 30
+28 84
+29 31
+29 85
+30 36
+31 37
+32 34
+32 34
+32 38
+33 35
+33 35
+33 39
+34 40
+35 41
+36 40
+36 40
+36 86
+37 41
+37 41
+37 87
+38 42
+38 42
+38 44
+39 43
+39 43
+39 45
+40 88
+41 89
+42 46
+43 47
+44 48
+44 48
+44 92
+45 49
+45 49
+45 93
+46 50
+46 50
+46 94
+47 51
+47 51
+47 95
+48 50
+49 51
+50 96
+51 97
+52 98
+52 99
+52 100
+53 101
+53 102
+53 103

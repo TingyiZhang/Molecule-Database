@@ -1,0 +1,23 @@
+2,3-Dichloro-1,1,1-trifluoropropane
+11
+"Chlorine"
+"Chlorine"
+"Fluorine"
+"Fluorine"
+"Fluorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+1 7
+2 6
+3 6
+4 6
+5 6
+5 7
+5 8
+7 9
+7 10

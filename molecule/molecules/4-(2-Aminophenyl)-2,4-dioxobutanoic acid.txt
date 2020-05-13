@@ -1,0 +1,56 @@
+4-(2-Aminophenyl)-2,4-dioxobutanoic acid
+24
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+1 13
+1 13
+2 14
+2 23
+3 14
+3 14
+4 8
+4 21
+4 22
+5 6
+5 8
+5 9
+5 9
+6 7
+7 13
+7 15
+7 16
+8 10
+8 10
+9 11
+9 17
+10 12
+10 18
+11 12
+11 12
+11 19
+12 20
+13 14

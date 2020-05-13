@@ -1,0 +1,10 @@
+Nitrate
+4
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+0 3
+1 3
+2 3
+2 3

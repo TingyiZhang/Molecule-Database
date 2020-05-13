@@ -1,0 +1,107 @@
+17-(Cyclopropylmethyl)-4,5alpha-epoxy-3,14-dihydroxymorphinan-6-one
+48
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 19
+1 6
+1 44
+2 18
+2 18
+3 23
+3 47
+4 7
+4 12
+4 15
+5 6
+5 8
+5 9
+5 10
+6 7
+6 11
+7 13
+7 25
+8 18
+8 26
+9 12
+9 27
+9 28
+10 14
+10 14
+10 19
+11 16
+11 29
+11 30
+12 31
+12 32
+13 14
+13 33
+13 34
+14 22
+15 17
+15 35
+15 36
+16 18
+16 38
+16 39
+17 20
+17 21
+17 37
+19 23
+19 23
+20 21
+20 40
+20 41
+21 42
+21 43
+22 24
+22 24
+22 45
+23 24
+24 46

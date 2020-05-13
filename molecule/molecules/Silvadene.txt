@@ -1,0 +1,82 @@
+Silvadene
+30
+"Silver"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+0 2
+0 2
+0 2
+0 2
+0 5
+0 5
+0 5
+0 5
+0 5
+0 5
+1 2
+1 2
+1 3
+1 3
+1 4
+1 8
+2 20
+4 9
+4 18
+4 19
+5 9
+5 9
+5 12
+6 9
+6 17
+6 17
+7 15
+7 28
+7 29
+8 10
+8 10
+8 11
+10 13
+10 21
+11 14
+11 14
+11 22
+12 16
+12 16
+12 23
+13 15
+13 15
+13 24
+14 15
+14 25
+16 17
+16 26
+17 27

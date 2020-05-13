@@ -1,0 +1,63 @@
+1,9-Pyrazoloanthrone
+25
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 9
+1 2
+1 7
+1 18
+2 4
+2 4
+3 4
+3 5
+3 5
+3 7
+4 6
+5 9
+5 10
+6 8
+6 12
+6 12
+7 11
+7 11
+8 9
+8 13
+8 13
+10 14
+10 14
+10 17
+11 14
+11 19
+12 15
+12 20
+13 16
+13 21
+14 22
+15 16
+15 16
+15 23
+16 24

@@ -1,0 +1,46 @@
+3,5-Dinitrobenzoic acid
+19
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 14
+0 18
+1 14
+1 14
+2 6
+3 7
+4 6
+4 6
+5 7
+5 7
+6 9
+7 10
+8 11
+8 11
+8 12
+8 14
+9 12
+9 12
+9 13
+10 11
+10 13
+10 13
+11 15
+12 16
+13 17

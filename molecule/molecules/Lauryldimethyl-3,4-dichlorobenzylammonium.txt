@@ -1,0 +1,125 @@
+Lauryldimethyl-3,4-dichlorobenzylammonium
+60
+"Chlorine"
+"Chlorine"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+1 22
+2 3
+2 5
+2 7
+2 8
+3 4
+3 24
+3 25
+4 6
+4 26
+4 27
+5 12
+5 28
+5 29
+6 9
+6 30
+6 31
+7 32
+7 33
+7 34
+8 35
+8 36
+8 37
+9 10
+9 38
+9 39
+10 11
+10 40
+10 41
+11 13
+11 42
+11 43
+12 16
+12 16
+12 17
+13 14
+13 44
+13 45
+14 15
+14 46
+14 47
+15 18
+15 48
+15 49
+16 20
+16 50
+17 21
+17 21
+17 51
+18 19
+18 52
+18 53
+19 23
+19 54
+19 55
+20 22
+20 22
+21 22
+21 56
+23 57
+23 58
+23 59

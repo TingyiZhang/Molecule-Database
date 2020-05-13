@@ -1,0 +1,106 @@
+3-(2-Methylbut-3-en-2-yl)-3-(4-methylpent-3-en-1-yl)quinoline-2,4(1H,3H)-dione
+48
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 6
+1 7
+1 7
+2 7
+2 13
+2 34
+3 4
+3 5
+3 6
+3 7
+4 8
+4 9
+4 11
+5 10
+5 23
+5 24
+6 12
+8 25
+8 26
+8 27
+9 28
+9 29
+9 30
+10 14
+10 31
+10 32
+11 16
+11 16
+11 33
+12 13
+12 15
+12 15
+13 17
+13 17
+14 19
+14 19
+14 35
+15 18
+15 36
+16 37
+16 38
+17 20
+17 39
+18 20
+18 20
+18 40
+19 21
+19 22
+20 41
+21 42
+21 43
+21 44
+22 45
+22 46
+22 47

@@ -1,0 +1,108 @@
+9,12-Octadecadienoic acid
+52
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 51
+1 17
+1 17
+2 3
+2 4
+2 20
+2 21
+3 5
+3 22
+3 23
+4 6
+4 24
+4 25
+5 7
+5 26
+5 27
+6 8
+6 28
+6 29
+7 11
+7 30
+7 31
+8 17
+8 32
+8 33
+9 10
+9 12
+9 34
+9 35
+10 13
+10 36
+10 37
+11 14
+11 14
+11 38
+12 16
+12 39
+12 40
+13 19
+13 41
+13 42
+14 15
+14 43
+15 18
+15 44
+15 45
+16 18
+16 18
+16 46
+18 47
+19 48
+19 49
+19 50

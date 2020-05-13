@@ -1,0 +1,29 @@
+2-(Methylamino)ethanol
+14
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 13
+1 2
+1 4
+1 9
+2 3
+2 5
+2 6
+3 7
+3 8
+4 10
+4 11
+4 12

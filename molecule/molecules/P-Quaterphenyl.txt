@@ -1,0 +1,101 @@
+P-Quaterphenyl
+42
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 4
+0 4
+0 6
+1 5
+1 5
+1 7
+2 8
+2 8
+2 10
+2 12
+3 9
+3 9
+3 11
+3 13
+4 8
+4 24
+5 9
+5 25
+6 10
+6 10
+6 26
+7 11
+7 11
+7 27
+8 28
+9 29
+10 30
+11 31
+12 14
+12 14
+12 16
+13 15
+13 15
+13 17
+14 18
+14 32
+15 19
+15 33
+16 20
+16 20
+16 34
+17 21
+17 21
+17 35
+18 22
+18 22
+18 36
+19 23
+19 23
+19 37
+20 22
+20 38
+21 23
+21 39
+22 40
+23 41

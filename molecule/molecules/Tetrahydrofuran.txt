@@ -1,0 +1,28 @@
+Tetrahydrofuran
+13
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 4
+1 2
+1 3
+1 5
+1 6
+2 4
+2 7
+2 8
+3 9
+3 10
+4 11
+4 12

@@ -1,0 +1,122 @@
+1-Propanaminium, N,N,N-triethyl-3-oxo-3-(2-(triethylammonio)ethoxy)-, dibromide (9CI)
+61
+"Bromine"
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+2 15
+2 22
+3 22
+3 22
+4 6
+4 8
+4 9
+4 10
+5 7
+5 11
+5 12
+5 13
+6 14
+6 23
+6 24
+7 15
+7 25
+7 26
+8 16
+8 27
+8 28
+9 17
+9 29
+9 30
+10 18
+10 31
+10 32
+11 19
+11 33
+11 34
+12 20
+12 35
+12 36
+13 21
+13 37
+13 38
+14 22
+14 39
+14 40
+15 41
+15 42
+16 43
+16 44
+16 45
+17 46
+17 47
+17 48
+18 49
+18 50
+18 51
+19 52
+19 53
+19 54
+20 55
+20 56
+20 57
+21 58
+21 59
+21 60

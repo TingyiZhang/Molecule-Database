@@ -1,0 +1,70 @@
+2-Hydroxy-1,2-diphenylethanone oxime
+30
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 24
+1 2
+1 29
+2 5
+2 5
+3 4
+3 5
+3 17
+4 7
+4 7
+4 8
+5 6
+6 9
+6 9
+6 10
+7 11
+7 18
+8 12
+8 12
+8 19
+9 14
+9 20
+10 15
+10 15
+10 21
+11 13
+11 13
+11 22
+12 13
+12 23
+13 25
+14 16
+14 16
+14 26
+15 16
+15 27
+16 28

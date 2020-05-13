@@ -1,0 +1,11 @@
+Sodium chloride
+2
+"Chlorine"
+"Sodium"
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1

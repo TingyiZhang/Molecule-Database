@@ -1,0 +1,245 @@
+Iotrolan
+115
+"Iodine"
+"Iodine"
+"Iodine"
+"Iodine"
+"Iodine"
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 56
+1 57
+2 58
+3 59
+4 60
+5 61
+6 34
+6 97
+7 35
+7 98
+8 36
+8 99
+9 37
+9 100
+10 38
+10 107
+11 39
+11 108
+12 40
+12 109
+13 41
+13 110
+14 52
+14 111
+15 53
+15 112
+16 54
+16 113
+17 55
+17 114
+18 48
+18 48
+19 49
+19 49
+20 50
+20 50
+21 51
+21 51
+22 63
+22 63
+23 64
+23 64
+24 30
+24 48
+24 75
+25 31
+25 49
+25 76
+26 32
+26 50
+26 77
+27 33
+27 51
+27 78
+28 46
+28 63
+28 65
+29 47
+29 64
+29 66
+30 34
+30 38
+30 67
+31 35
+31 39
+31 68
+32 36
+32 40
+32 69
+33 37
+33 41
+33 70
+34 52
+34 71
+35 53
+35 72
+36 54
+36 73
+37 55
+37 74
+38 79
+38 80
+39 81
+39 82
+40 83
+40 84
+41 85
+41 86
+42 48
+42 56
+42 56
+42 60
+43 49
+43 57
+43 57
+43 61
+44 50
+44 56
+44 58
+44 58
+45 51
+45 57
+45 59
+45 59
+46 58
+46 60
+46 60
+47 59
+47 61
+47 61
+52 87
+52 88
+53 89
+53 90
+54 91
+54 92
+55 93
+55 94
+62 63
+62 64
+62 95
+62 96
+65 101
+65 102
+65 103
+66 104
+66 105
+66 106

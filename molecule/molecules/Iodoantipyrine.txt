@@ -1,0 +1,60 @@
+Iodoantipyrine
+26
+"Iodine"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 6
+1 6
+2 3
+2 4
+2 8
+3 5
+3 6
+4 7
+4 7
+4 9
+5 10
+5 10
+5 11
+6 7
+8 15
+8 16
+8 17
+9 18
+9 19
+9 20
+10 12
+10 21
+11 13
+11 13
+11 22
+12 14
+12 14
+12 23
+13 14
+13 24
+14 25

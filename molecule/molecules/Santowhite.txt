@@ -1,0 +1,141 @@
+Santowhite
+66
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 64
+1 16
+1 65
+2 3
+2 4
+2 5
+2 28
+3 10
+3 10
+3 12
+4 11
+4 11
+4 13
+5 14
+5 29
+5 30
+6 8
+6 19
+6 20
+6 21
+7 9
+7 22
+7 23
+7 24
+8 10
+8 15
+8 15
+9 11
+9 16
+9 16
+10 31
+11 32
+12 17
+12 17
+12 25
+13 18
+13 18
+13 26
+14 27
+14 33
+14 34
+15 17
+16 18
+17 35
+18 36
+19 37
+19 38
+19 39
+20 40
+20 41
+20 42
+21 43
+21 44
+21 45
+22 46
+22 47
+22 48
+23 49
+23 50
+23 51
+24 52
+24 53
+24 54
+25 55
+25 56
+25 57
+26 58
+26 59
+26 60
+27 61
+27 62
+27 63

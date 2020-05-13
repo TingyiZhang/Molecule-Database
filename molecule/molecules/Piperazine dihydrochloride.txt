@@ -1,0 +1,40 @@
+Piperazine dihydrochloride
+20
+"Chlorine"
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+1 19
+2 5
+2 7
+2 16
+3 4
+3 6
+3 17
+4 5
+4 8
+4 9
+5 12
+5 13
+6 7
+6 10
+6 11
+7 14
+7 15

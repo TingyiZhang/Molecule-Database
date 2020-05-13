@@ -1,0 +1,172 @@
+9,30-Dioxa-11,25-diazapentacyclo[20.6.2.28,11.010,15.025,29]dotriacontan-1-ol
+83
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 13
+1 8
+1 17
+2 5
+2 76
+3 6
+3 11
+3 15
+4 8
+4 18
+4 21
+5 6
+5 9
+5 10
+6 33
+7 8
+7 14
+7 19
+7 34
+8 35
+9 12
+9 36
+9 37
+10 23
+10 38
+10 39
+11 12
+11 40
+11 41
+12 42
+12 43
+13 16
+13 24
+13 44
+14 20
+14 45
+14 46
+15 16
+15 47
+15 48
+16 50
+16 51
+17 22
+17 25
+17 49
+18 20
+18 52
+18 53
+19 26
+19 54
+19 55
+20 56
+20 57
+21 22
+21 58
+21 59
+22 60
+22 61
+23 27
+23 62
+23 63
+24 28
+24 64
+24 65
+25 29
+25 66
+25 67
+26 30
+26 68
+26 69
+27 31
+27 70
+27 71
+28 32
+28 72
+28 73
+29 31
+29 74
+29 75
+30 32
+30 77
+30 78
+31 79
+31 80
+32 81
+32 82

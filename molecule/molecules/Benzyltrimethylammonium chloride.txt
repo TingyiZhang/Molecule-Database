@@ -1,0 +1,60 @@
+Benzyltrimethylammonium chloride
+28
+"Chlorine"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+1 2
+1 3
+1 4
+1 5
+2 6
+2 12
+2 13
+3 14
+3 15
+3 16
+4 17
+4 18
+4 19
+5 20
+5 21
+5 22
+6 7
+6 7
+6 8
+7 9
+7 23
+8 10
+8 10
+8 24
+9 11
+9 11
+9 25
+10 11
+10 26
+11 27

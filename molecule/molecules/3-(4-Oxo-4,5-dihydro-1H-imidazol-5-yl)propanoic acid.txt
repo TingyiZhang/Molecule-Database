@@ -1,0 +1,43 @@
+3-(4-Oxo-4,5-dihydro-1H-imidazol-5-yl)propanoic acid
+19
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 8
+0 8
+1 10
+1 18
+2 10
+2 10
+3 5
+3 9
+3 9
+4 8
+4 9
+4 16
+5 6
+5 8
+5 11
+6 7
+6 12
+6 13
+7 10
+7 14
+7 15
+9 17

@@ -1,0 +1,71 @@
+Hexamethylene bisacetamide
+34
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 10
+1 11
+1 11
+2 8
+2 10
+2 26
+3 9
+3 11
+3 27
+4 5
+4 6
+4 14
+4 15
+5 7
+5 16
+5 17
+6 8
+6 18
+6 19
+7 9
+7 20
+7 21
+8 22
+8 23
+9 24
+9 25
+10 12
+11 13
+12 28
+12 29
+12 30
+13 31
+13 32
+13 33

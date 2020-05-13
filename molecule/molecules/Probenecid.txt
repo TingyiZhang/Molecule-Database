@@ -1,0 +1,84 @@
+Probenecid
+38
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 5
+0 10
+3 18
+3 37
+4 18
+4 18
+5 6
+5 7
+6 8
+6 19
+6 20
+7 9
+7 21
+7 22
+8 11
+8 23
+8 24
+9 12
+9 25
+9 26
+10 13
+10 13
+10 14
+11 27
+11 28
+11 29
+12 30
+12 31
+12 32
+13 15
+13 33
+14 16
+14 16
+14 34
+15 17
+15 17
+15 35
+16 17
+16 36
+17 18

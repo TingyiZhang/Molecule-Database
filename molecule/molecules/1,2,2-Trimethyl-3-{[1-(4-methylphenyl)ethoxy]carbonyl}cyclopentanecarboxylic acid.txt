@@ -1,0 +1,106 @@
+1,2,2-Trimethyl-3-{[1-(4-methylphenyl)ethoxy]carbonyl}cyclopentanecarboxylic acid
+49
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 14
+1 12
+1 37
+2 12
+2 12
+3 13
+3 13
+4 5
+4 6
+4 9
+4 10
+5 7
+5 11
+5 12
+6 8
+6 13
+6 23
+7 8
+7 24
+7 25
+8 26
+8 27
+9 28
+9 29
+9 30
+10 31
+10 32
+10 33
+11 34
+11 35
+11 36
+14 15
+14 16
+14 38
+15 17
+15 17
+15 18
+16 39
+16 40
+16 41
+17 19
+17 42
+18 20
+18 20
+18 43
+19 21
+19 21
+19 44
+20 21
+20 45
+21 22
+22 46
+22 47
+22 48

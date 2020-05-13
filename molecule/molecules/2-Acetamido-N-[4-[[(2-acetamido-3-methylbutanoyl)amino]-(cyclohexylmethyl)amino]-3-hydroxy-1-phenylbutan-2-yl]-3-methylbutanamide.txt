@@ -1,0 +1,194 @@
+2-Acetamido-N-[4-[[(2-acetamido-3-methylbutanoyl)amino]-(cyclohexylmethyl)amino]-3-hydroxy-1-phenylbutan-2-yl]-3-methylbutanamide
+92
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+0 63
+1 21
+1 21
+2 26
+2 26
+3 34
+3 34
+4 37
+4 37
+5 6
+5 15
+5 17
+6 21
+6 58
+7 19
+7 26
+7 61
+8 22
+8 34
+8 67
+9 25
+9 37
+9 76
+10 11
+10 12
+10 15
+10 41
+11 13
+11 42
+11 43
+12 14
+12 44
+12 45
+13 16
+13 46
+13 47
+14 16
+14 48
+14 49
+15 50
+15 51
+16 52
+16 53
+17 18
+17 54
+17 55
+18 19
+18 56
+19 20
+19 57
+20 24
+20 59
+20 60
+21 22
+22 23
+22 62
+23 28
+23 29
+23 64
+24 30
+24 30
+24 31
+25 26
+25 27
+25 65
+27 32
+27 33
+27 66
+28 68
+28 69
+28 70
+29 71
+29 72
+29 73
+30 35
+30 74
+31 36
+31 36
+31 75
+32 77
+32 78
+32 79
+33 80
+33 81
+33 82
+34 39
+35 38
+35 38
+35 83
+36 38
+36 84
+37 40
+38 85
+39 86
+39 87
+39 88
+40 89
+40 90
+40 91

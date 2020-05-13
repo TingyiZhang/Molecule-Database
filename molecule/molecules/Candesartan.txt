@@ -1,0 +1,125 @@
+Candesartan
+53
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 13
+0 26
+1 25
+1 51
+2 25
+2 25
+3 9
+3 10
+3 13
+4 12
+4 13
+4 13
+5 7
+5 30
+5 30
+6 8
+6 8
+6 30
+7 8
+7 52
+9 11
+9 33
+9 34
+10 12
+10 14
+10 14
+11 15
+11 15
+11 16
+12 18
+12 18
+14 21
+14 25
+15 19
+15 35
+16 20
+16 20
+16 36
+17 19
+17 19
+17 20
+17 22
+18 23
+18 37
+19 38
+20 39
+21 23
+21 23
+21 40
+22 24
+22 27
+22 27
+23 41
+24 28
+24 28
+24 30
+26 32
+26 42
+26 43
+27 29
+27 44
+28 31
+28 45
+29 31
+29 31
+29 46
+31 47
+32 48
+32 49
+32 50

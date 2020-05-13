@@ -1,0 +1,104 @@
+Praziquantel
+47
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 9
+0 9
+1 17
+1 17
+2 4
+2 13
+2 17
+3 6
+3 9
+3 14
+4 6
+4 12
+4 23
+5 7
+5 8
+5 9
+5 24
+6 25
+6 26
+7 10
+7 27
+7 28
+8 11
+8 29
+8 30
+10 15
+10 31
+10 32
+11 15
+11 33
+11 34
+12 18
+12 19
+12 19
+13 16
+13 35
+13 36
+14 17
+14 37
+14 38
+15 39
+15 40
+16 18
+16 41
+16 42
+18 20
+18 20
+19 21
+19 43
+20 22
+20 44
+21 22
+21 22
+21 45
+22 46

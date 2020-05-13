@@ -1,0 +1,109 @@
+10,10'-Oxybisphenoxarsine
+45
+"Arsenic"
+"Arsenic"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 5
+0 6
+1 2
+1 7
+1 8
+3 9
+3 10
+4 11
+4 12
+5 9
+5 13
+5 13
+6 10
+6 14
+6 14
+7 11
+7 15
+7 15
+8 12
+8 16
+8 16
+9 17
+9 17
+10 18
+10 18
+11 19
+11 19
+12 20
+12 20
+13 21
+13 29
+14 22
+14 30
+15 23
+15 31
+16 24
+16 32
+17 25
+17 33
+18 26
+18 34
+19 27
+19 35
+20 28
+20 36
+21 25
+21 25
+21 37
+22 26
+22 26
+22 38
+23 27
+23 27
+23 39
+24 28
+24 28
+24 40
+25 41
+26 42
+27 43
+28 44

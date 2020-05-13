@@ -1,0 +1,87 @@
+Tyropanic acid
+40
+"Iodine"
+"Iodine"
+"Iodine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+1 14
+2 17
+3 12
+3 36
+4 12
+4 12
+5 19
+5 19
+6 15
+6 19
+6 31
+7 8
+7 9
+7 12
+7 22
+8 10
+8 23
+8 24
+9 13
+9 25
+9 26
+10 11
+10 11
+10 14
+11 15
+13 27
+13 28
+13 29
+14 16
+14 16
+15 17
+15 17
+16 17
+16 30
+18 19
+18 20
+18 32
+18 33
+20 21
+20 34
+20 35
+21 37
+21 38
+21 39

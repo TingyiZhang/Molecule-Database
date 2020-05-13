@@ -1,0 +1,65 @@
+Mimosamycin
+28
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 16
+1 8
+1 8
+2 9
+2 9
+3 13
+3 13
+4 11
+4 13
+4 15
+5 6
+5 9
+5 11
+5 11
+6 8
+6 12
+6 12
+7 8
+7 10
+7 10
+7 14
+9 10
+11 17
+12 13
+12 18
+14 19
+14 20
+14 21
+15 22
+15 23
+15 24
+16 25
+16 26
+16 27

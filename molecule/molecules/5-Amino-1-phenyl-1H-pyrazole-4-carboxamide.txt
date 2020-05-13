@@ -1,0 +1,59 @@
+5-Amino-1-phenyl-1H-pyrazole-4-carboxamide
+25
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 11
+1 2
+1 5
+1 6
+2 8
+2 8
+3 5
+3 20
+3 21
+4 11
+4 23
+4 24
+5 7
+5 7
+6 9
+6 9
+6 10
+7 8
+7 11
+8 15
+9 12
+9 16
+10 13
+10 13
+10 17
+12 14
+12 14
+12 18
+13 14
+13 19
+14 22

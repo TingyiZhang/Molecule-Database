@@ -1,0 +1,105 @@
+S-(4-Nitrobenzyl)-6-thioinosine
+46
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+0 22
+1 13
+1 15
+2 12
+2 35
+3 14
+3 36
+4 16
+4 38
+5 11
+6 11
+6 11
+7 13
+7 17
+7 18
+8 18
+8 18
+8 19
+9 17
+9 21
+9 21
+10 20
+10 20
+10 21
+11 28
+12 13
+12 14
+12 29
+13 30
+14 15
+14 31
+15 16
+15 32
+16 33
+16 34
+17 19
+17 19
+18 37
+19 20
+21 39
+22 23
+22 40
+22 41
+23 24
+23 24
+23 25
+24 26
+24 42
+25 27
+25 27
+25 43
+26 28
+26 28
+26 44
+27 28
+27 45

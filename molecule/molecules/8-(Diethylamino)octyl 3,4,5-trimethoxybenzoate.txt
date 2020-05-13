@@ -1,0 +1,136 @@
+8-(Diethylamino)octyl 3,4,5-trimethoxybenzoate
+65
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+0 18
+1 18
+1 18
+2 22
+2 25
+3 23
+3 26
+4 24
+4 27
+5 10
+5 13
+5 14
+6 7
+6 8
+6 28
+6 29
+7 9
+7 30
+7 31
+8 10
+8 32
+8 33
+9 11
+9 34
+9 35
+10 36
+10 37
+11 12
+11 38
+11 39
+12 15
+12 40
+12 41
+13 16
+13 42
+13 43
+14 17
+14 44
+14 45
+15 46
+15 47
+16 48
+16 49
+16 50
+17 51
+17 52
+17 53
+18 19
+19 20
+19 20
+19 21
+20 23
+20 54
+21 22
+21 22
+21 55
+22 24
+23 24
+23 24
+25 56
+25 57
+25 58
+26 59
+26 60
+26 61
+27 62
+27 63
+27 64

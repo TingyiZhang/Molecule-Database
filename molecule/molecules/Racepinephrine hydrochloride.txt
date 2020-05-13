@@ -1,0 +1,60 @@
+Racepinephrine hydrochloride
+28
+"Chlorine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 27
+1 5
+1 21
+2 10
+2 25
+3 12
+3 26
+4 7
+4 13
+4 19
+5 6
+5 7
+5 14
+6 8
+6 8
+6 9
+7 15
+7 16
+8 10
+8 17
+9 11
+9 11
+9 18
+10 12
+10 12
+11 12
+11 20
+13 22
+13 23
+13 24

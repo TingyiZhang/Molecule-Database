@@ -1,0 +1,19 @@
+Ethanethiol
+9
+"Sulfur"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 8
+1 2
+1 3
+1 4
+2 5
+2 6
+2 7

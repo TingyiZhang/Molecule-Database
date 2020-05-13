@@ -1,0 +1,90 @@
+(2',7'-Dibromo-3',6'-dihydroxy-3-oxospiro[2-benzofuran-1,9'-xanthene]-4'-yl)mercury
+37
+"Mercury"
+"Bromine"
+"Bromine"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 20
+1 22
+2 23
+3 8
+3 15
+4 13
+4 14
+5 15
+5 15
+6 25
+6 35
+7 26
+7 36
+8 9
+8 10
+8 11
+9 12
+9 16
+9 16
+10 13
+10 17
+10 17
+11 14
+11 18
+11 18
+12 15
+12 19
+12 19
+13 20
+13 20
+14 21
+14 21
+16 24
+16 28
+17 22
+17 29
+18 23
+18 30
+19 27
+19 31
+20 25
+21 26
+21 32
+22 25
+22 25
+23 26
+23 26
+24 27
+24 27
+24 33
+27 34

@@ -1,0 +1,84 @@
+N-(4-Aminobutyl)-2-Naphthalenesulfonamide
+37
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 1
+0 1
+0 2
+0 2
+0 3
+0 8
+3 6
+3 25
+4 11
+4 35
+4 36
+5 6
+5 7
+5 19
+5 20
+6 21
+6 22
+7 11
+7 23
+7 24
+8 10
+8 10
+8 13
+9 10
+9 12
+9 15
+9 15
+10 26
+11 27
+11 28
+12 14
+12 16
+12 16
+13 14
+13 14
+13 29
+14 30
+15 17
+15 31
+16 18
+16 32
+17 18
+17 18
+17 33
+18 34

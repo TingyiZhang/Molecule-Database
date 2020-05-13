@@ -1,0 +1,9 @@
+Sulfur dioxide
+3
+"Sulfur"
+"Oxygen"
+"Oxygen"
+0 1
+0 1
+0 2
+0 2

@@ -1,0 +1,59 @@
+3-(Bromomethyl)-2,3,6-trichloro-7-methylocta-1,6-diene
+28
+"Bromine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+1 4
+2 8
+3 9
+4 5
+4 7
+4 9
+5 6
+5 14
+5 15
+6 8
+6 16
+6 17
+7 18
+7 19
+8 10
+8 10
+9 13
+9 13
+10 11
+10 12
+11 20
+11 21
+11 22
+12 23
+12 24
+12 25
+13 26
+13 27

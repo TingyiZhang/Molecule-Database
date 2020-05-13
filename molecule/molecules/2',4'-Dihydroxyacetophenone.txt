@@ -1,0 +1,44 @@
+2',4'-Dihydroxyacetophenone
+19
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 4
+0 17
+1 7
+1 18
+2 8
+2 8
+3 4
+3 4
+3 5
+3 8
+4 6
+5 9
+5 9
+5 11
+6 7
+6 7
+6 12
+7 9
+8 10
+9 13
+10 14
+10 15
+10 16

@@ -1,0 +1,61 @@
+4,4'-Dichlorodiphenyl sulfone
+25
+"Chlorine"
+"Chlorine"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 15
+1 16
+2 3
+2 3
+2 4
+2 4
+2 5
+2 6
+5 7
+5 7
+5 9
+6 8
+6 8
+6 10
+7 11
+7 17
+8 12
+8 18
+9 13
+9 13
+9 19
+10 14
+10 14
+10 20
+11 15
+11 15
+11 21
+12 16
+12 16
+12 22
+13 15
+13 23
+14 16
+14 24

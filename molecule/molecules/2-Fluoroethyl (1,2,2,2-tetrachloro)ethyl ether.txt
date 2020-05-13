@@ -1,0 +1,31 @@
+2-Fluoroethyl (1,2,2,2-tetrachloro)ethyl ether
+15
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Fluorine"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+1 8
+2 8
+3 8
+4 9
+5 6
+5 7
+6 8
+6 10
+7 9
+7 11
+7 12
+9 13
+9 14

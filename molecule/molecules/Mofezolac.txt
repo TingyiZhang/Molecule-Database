@@ -1,0 +1,97 @@
+Mofezolac
+42
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 8
+1 18
+1 23
+2 21
+2 24
+3 22
+3 35
+4 22
+4 22
+5 7
+5 7
+6 7
+6 8
+6 8
+6 9
+7 10
+8 11
+9 12
+9 12
+9 13
+10 14
+10 14
+10 15
+11 22
+11 25
+11 26
+12 16
+12 27
+13 17
+13 17
+13 28
+14 19
+14 29
+15 20
+15 20
+15 30
+16 18
+16 18
+16 31
+17 18
+17 32
+19 21
+19 21
+19 33
+20 21
+20 34
+23 36
+23 37
+23 38
+24 39
+24 40
+24 41

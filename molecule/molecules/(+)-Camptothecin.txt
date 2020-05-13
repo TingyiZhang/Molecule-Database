@@ -1,0 +1,99 @@
+(+)-Camptothecin
+42
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 16
+0 17
+1 6
+1 37
+2 14
+2 14
+3 17
+3 17
+4 8
+4 10
+4 14
+5 13
+5 13
+5 21
+6 7
+6 15
+6 17
+7 9
+7 9
+7 11
+8 11
+8 11
+8 13
+9 14
+9 16
+10 12
+10 26
+10 27
+11 28
+12 13
+12 18
+12 18
+15 19
+15 29
+15 30
+16 31
+16 32
+18 20
+18 33
+19 34
+19 35
+19 36
+20 21
+20 22
+20 22
+21 23
+21 23
+22 24
+22 38
+23 25
+23 39
+24 25
+24 25
+24 40
+25 41

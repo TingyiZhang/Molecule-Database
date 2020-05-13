@@ -1,0 +1,45 @@
+Phthalamic acid
+19
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 11
+0 18
+1 10
+1 10
+2 11
+2 11
+3 10
+3 16
+3 17
+4 5
+4 6
+4 6
+4 10
+5 7
+5 7
+5 11
+6 8
+6 12
+7 9
+7 13
+8 9
+8 9
+8 14
+9 15

@@ -1,0 +1,124 @@
+trans-1,4-Bis(2-chlorobenzaminomethyl)cyclohexane dihydrochloride
+58
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Chlorine"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 18
+1 19
+2 56
+3 57
+4 12
+4 14
+4 42
+5 13
+5 15
+5 43
+6 9
+6 11
+6 12
+6 28
+7 8
+7 10
+7 13
+7 29
+8 9
+8 30
+8 31
+9 34
+9 35
+10 11
+10 32
+10 33
+11 36
+11 37
+12 38
+12 39
+13 40
+13 41
+14 16
+14 44
+14 45
+15 17
+15 46
+15 47
+16 18
+16 20
+16 20
+17 19
+17 21
+17 21
+18 22
+18 22
+19 23
+19 23
+20 24
+20 48
+21 25
+21 49
+22 26
+22 50
+23 27
+23 51
+24 26
+24 26
+24 52
+25 27
+25 27
+25 53
+26 54
+27 55

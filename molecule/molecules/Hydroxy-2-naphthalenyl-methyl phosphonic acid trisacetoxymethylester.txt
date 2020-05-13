@@ -1,0 +1,120 @@
+Hydroxy-2-naphthalenyl-methyl phosphonic acid trisacetoxymethylester
+54
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 3
+0 4
+0 4
+0 11
+1 11
+1 20
+2 23
+3 24
+5 20
+5 25
+6 23
+6 26
+7 24
+7 27
+8 25
+8 25
+9 26
+9 26
+10 27
+10 27
+11 12
+11 31
+12 13
+12 13
+12 15
+13 14
+13 32
+14 16
+14 18
+14 18
+15 17
+15 17
+15 33
+16 17
+16 19
+16 19
+17 34
+18 21
+18 35
+19 22
+19 36
+20 37
+20 38
+21 22
+21 22
+21 39
+22 40
+23 41
+23 42
+24 43
+24 44
+25 28
+26 29
+27 30
+28 45
+28 46
+28 47
+29 48
+29 49
+29 50
+30 51
+30 52
+30 53

@@ -1,0 +1,105 @@
+N-(1-Hydroxypropan-2-yl)-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide
+47
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 17
+0 17
+1 22
+1 46
+2 5
+2 9
+2 15
+3 14
+3 16
+3 36
+4 17
+4 21
+4 39
+5 6
+5 7
+5 24
+6 11
+6 13
+6 13
+7 10
+7 25
+7 26
+8 9
+8 13
+8 17
+8 27
+9 28
+9 29
+10 12
+10 16
+10 16
+11 12
+11 12
+11 18
+12 14
+13 30
+14 19
+14 19
+15 31
+15 32
+15 33
+16 34
+18 20
+18 20
+18 35
+19 20
+19 37
+20 38
+21 22
+21 23
+21 40
+22 41
+22 42
+23 43
+23 44
+23 45

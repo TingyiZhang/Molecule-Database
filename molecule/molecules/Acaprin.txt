@@ -1,0 +1,146 @@
+Acaprin
+64
+"Sulfur"
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 3
+0 5
+0 7
+0 7
+0 8
+0 8
+1 4
+1 6
+1 9
+1 9
+1 10
+1 10
+2 35
+2 35
+3 36
+4 37
+11 15
+11 29
+11 29
+11 33
+12 16
+12 30
+12 30
+12 34
+13 19
+13 35
+13 50
+14 20
+14 35
+14 51
+15 17
+15 17
+15 23
+16 18
+16 18
+16 24
+17 21
+17 27
+18 22
+18 28
+19 21
+19 21
+19 25
+20 22
+20 22
+20 26
+21 38
+22 39
+23 25
+23 25
+23 40
+24 26
+24 26
+24 41
+25 42
+26 43
+27 31
+27 31
+27 44
+28 32
+28 32
+28 45
+29 31
+29 46
+30 32
+30 47
+31 48
+32 49
+33 52
+33 53
+33 54
+34 55
+34 56
+34 57
+36 58
+36 59
+36 60
+37 61
+37 62
+37 63

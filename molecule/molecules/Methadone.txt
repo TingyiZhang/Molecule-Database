@@ -1,0 +1,110 @@
+Methadone
+50
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 7
+0 7
+1 4
+1 14
+1 15
+2 3
+2 5
+2 6
+2 7
+3 4
+3 23
+3 24
+4 8
+4 25
+5 10
+5 10
+5 12
+6 11
+6 11
+6 13
+7 9
+8 26
+8 27
+8 28
+9 16
+9 29
+9 30
+10 17
+10 31
+11 18
+11 32
+12 19
+12 19
+12 33
+13 20
+13 20
+13 34
+14 35
+14 36
+14 37
+15 38
+15 39
+15 40
+16 41
+16 42
+16 43
+17 21
+17 21
+17 44
+18 22
+18 22
+18 45
+19 21
+19 46
+20 22
+20 47
+21 48
+22 49

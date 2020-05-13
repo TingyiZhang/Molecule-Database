@@ -1,0 +1,140 @@
+3-[3-(Dimethylamino)-2-hydroxypropyl]-7-methoxy-23-methyl-3,13,23-triazahexacyclo[14.7.0.02,10.04,9.011,15.017,22]tricosa-1,4(9),5,7,10,15,17,19,21-nonaene-12,14-dione
+61
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 19
+0 51
+1 20
+1 20
+2 21
+2 21
+3 28
+3 34
+4 8
+4 15
+4 16
+5 9
+5 18
+5 24
+6 20
+6 21
+6 43
+7 25
+7 32
+7 33
+8 9
+8 9
+8 10
+9 11
+10 12
+10 12
+10 13
+11 14
+11 14
+11 17
+12 14
+12 20
+13 15
+13 15
+13 22
+14 21
+15 23
+16 19
+16 35
+16 36
+17 18
+17 26
+17 26
+18 27
+18 27
+19 25
+19 37
+22 28
+22 28
+22 38
+23 29
+23 29
+23 39
+24 40
+24 41
+24 42
+25 44
+25 45
+26 30
+26 46
+27 31
+27 47
+28 29
+29 48
+30 31
+30 31
+30 49
+31 50
+32 52
+32 53
+32 54
+33 55
+33 56
+33 57
+34 58
+34 59
+34 60

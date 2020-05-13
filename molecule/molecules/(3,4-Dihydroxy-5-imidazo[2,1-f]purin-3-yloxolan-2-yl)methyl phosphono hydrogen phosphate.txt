@@ -1,0 +1,100 @@
+(3,4-Dihydroxy-5-imidazo[2,1-f]purin-3-yloxolan-2-yl)methyl phosphono hydrogen phosphate
+44
+"Phosphorus"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 6
+0 7
+0 8
+0 8
+1 6
+1 9
+1 10
+1 11
+1 11
+2 18
+2 20
+3 17
+3 35
+4 19
+4 36
+5 21
+7 41
+9 42
+10 43
+12 18
+12 22
+12 23
+13 23
+13 23
+13 24
+14 22
+14 26
+14 26
+15 25
+15 26
+15 27
+16 25
+16 25
+16 28
+17 18
+17 19
+17 29
+18 30
+19 20
+19 31
+20 21
+20 32
+21 33
+21 34
+22 24
+22 24
+23 37
+24 25
+26 38
+27 28
+27 28
+27 39
+28 40

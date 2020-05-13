@@ -1,0 +1,170 @@
+N-[7,11-Bis[(2,3-dihydroxybenzoyl)amino]-2,6,10-trioxo-1,5,9-trioxacyclododec-3-yl]-2,3-dihydroxybenzamide
+75
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 21
+0 24
+1 23
+1 25
+2 22
+2 26
+3 24
+3 24
+4 25
+4 25
+5 26
+5 26
+6 27
+6 27
+7 28
+7 28
+8 29
+8 29
+9 33
+9 69
+10 34
+10 70
+11 35
+11 71
+12 39
+12 72
+13 40
+13 73
+14 41
+14 74
+15 18
+15 27
+15 57
+16 19
+16 28
+16 58
+17 20
+17 29
+17 59
+18 21
+18 25
+18 48
+19 22
+19 24
+19 49
+20 23
+20 26
+20 50
+21 51
+21 52
+22 53
+22 54
+23 55
+23 56
+27 30
+28 31
+29 32
+30 33
+30 33
+30 36
+31 34
+31 34
+31 37
+32 35
+32 35
+32 38
+33 39
+34 40
+35 41
+36 42
+36 42
+36 60
+37 43
+37 43
+37 61
+38 44
+38 44
+38 62
+39 45
+39 45
+40 46
+40 46
+41 47
+41 47
+42 45
+42 63
+43 46
+43 64
+44 47
+44 65
+45 66
+46 67
+47 68

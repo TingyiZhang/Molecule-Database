@@ -1,0 +1,11 @@
+Potassium chloride
+2
+"Potassium"
+"Chlorine"
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1
+0 1

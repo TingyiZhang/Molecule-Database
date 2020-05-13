@@ -1,0 +1,81 @@
+Tris(1-aminopropan-2-yl) borate
+40
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Boron"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 15
+1 7
+1 15
+2 8
+2 15
+3 9
+3 34
+3 35
+4 10
+4 36
+4 37
+5 11
+5 38
+5 39
+6 9
+6 12
+6 16
+7 10
+7 13
+7 17
+8 11
+8 14
+8 18
+9 19
+9 20
+10 21
+10 22
+11 23
+11 24
+12 25
+12 26
+12 27
+13 28
+13 29
+13 30
+14 31
+14 32
+14 33

@@ -1,0 +1,42 @@
+O,O-Diethyl dithiophosphate
+20
+"Sulfur"
+"Sulfur"
+"Phosphorus"
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 19
+1 2
+1 2
+2 3
+2 4
+3 5
+4 6
+5 7
+5 9
+5 10
+6 8
+6 11
+6 12
+7 13
+7 14
+7 15
+8 16
+8 17
+8 18

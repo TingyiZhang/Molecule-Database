@@ -1,0 +1,93 @@
+Heptadeca-9,16-diene-4,6-diyne-3,8-diol
+43
+"Oxygen"
+"Oxygen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 10
+0 41
+1 13
+1 42
+2 3
+2 4
+2 19
+2 20
+3 5
+3 21
+3 22
+4 6
+4 23
+4 24
+5 7
+5 25
+5 26
+6 8
+6 27
+6 28
+7 9
+7 9
+7 29
+8 11
+8 11
+8 30
+9 10
+9 31
+10 15
+10 32
+11 35
+11 36
+12 13
+12 14
+12 33
+12 34
+13 16
+13 37
+14 38
+14 39
+14 40
+15 17
+15 17
+15 17
+16 18
+16 18
+16 18
+17 18

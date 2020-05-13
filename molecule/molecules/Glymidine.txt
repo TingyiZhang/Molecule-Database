@@ -1,0 +1,83 @@
+Glymidine
+36
+"Sulfur"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Nitrogen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 2
+0 2
+0 3
+0 3
+0 5
+0 8
+1 12
+1 15
+4 17
+4 20
+5 11
+5 21
+6 11
+6 18
+6 18
+7 11
+7 11
+7 19
+8 9
+8 9
+8 10
+9 13
+9 22
+10 14
+10 14
+10 23
+12 17
+12 24
+12 25
+13 16
+13 16
+13 26
+14 16
+14 27
+15 18
+15 19
+15 19
+16 30
+17 28
+17 29
+18 31
+19 32
+20 33
+20 34
+20 35

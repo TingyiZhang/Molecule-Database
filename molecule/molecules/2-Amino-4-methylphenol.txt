@@ -1,0 +1,41 @@
+2-Amino-4-methylphenol
+18
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 6
+0 17
+1 3
+1 15
+1 16
+2 4
+2 4
+2 5
+2 8
+3 4
+3 6
+3 6
+4 9
+5 7
+5 7
+5 10
+6 7
+7 11
+8 12
+8 13
+8 14

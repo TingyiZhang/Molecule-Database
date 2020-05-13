@@ -1,0 +1,42 @@
+2-(Hydroxymethyl)pyrrolidine-3,4-diol
+20
+"Oxygen"
+"Oxygen"
+"Oxygen"
+"Nitrogen"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Carbon"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+"Hydrogen"
+0 5
+0 17
+1 6
+1 18
+2 8
+2 19
+3 4
+3 7
+3 14
+4 5
+4 8
+4 9
+5 6
+5 10
+6 7
+6 11
+7 12
+7 13
+8 15
+8 16
