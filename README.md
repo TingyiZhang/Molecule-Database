@@ -1,7 +1,7 @@
 # Molecule-Database
 This is the final project of Boston University EC504 Advanced Data Structure.
 
- - Please check out 'INSTALL.txt' for running this project.
+ - Instructions regarding running this project is in 'INSTALL.txt' for your perusal.
 
 ## Description
 The goal of our group is to build a molecule database that can be used to add molecules and find molecules with at least a command-line user interface. Moreover, the database should be able to efficiently handle at least 10,000 molecules and be able to efficiently search for a given molecule up to graph isomorphism.
@@ -64,6 +64,8 @@ Here is the explaination of our searching algorithm:
 - 4. Using the optimized backtracking algorithm to match molecules graph.
 
 Here is the pseudocode of the graph isomorphism algorithm we used: You can find more details about it in the reference [4].
+
+If you want more details about this algorithm, please click here [Fu, L., & Chandra, S. (2012). Optimized backtracking for subgraph isomorphism. International Journal of Database Management Systems, 4(6), 1.](http://airccse.org/journal/ijdms/papers/4612ijdms01.pdf) to see their beautiful works.
 
 ```
 checkSGI(SG, G) {
